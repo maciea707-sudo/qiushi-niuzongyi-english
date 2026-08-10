@@ -71,7 +71,7 @@ function renderUnitNav() {
     button.className = `unit-link${unit.frontMatter ? " front-matter" : ""}`;
     button.dataset.unit = String(unit.id);
     button.innerHTML = unit.frontMatter
-      ? `<span>教材前页 · 封面—目录</span>${unit.title}`
+      ? `封面与目录`
       : `<span>UNIT ${unit.id} · ${unit.start}—${unit.end} 页</span>${unit.title}`;
     button.addEventListener("click", () => openUnit(unit.id, unit.start));
     return button;
