@@ -2,6 +2,15 @@
   "book": "译林英语七年级上册（2024版）",
   "units": [
     {
+      "id": 0,
+      "title": "封面、版权、致同学与目录",
+      "start": 0,
+      "end": 5,
+      "pages": 6,
+      "sentences": 89,
+      "frontMatter": true
+    },
+    {
       "id": 1,
       "title": "This is me!",
       "start": 6,
