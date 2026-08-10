@@ -71,7 +71,7 @@ function renderUnitNav() {
     button.className = `unit-link${unit.frontMatter ? " front-matter" : ""}`;
     button.dataset.unit = String(unit.id);
     button.innerHTML = unit.frontMatter
-      ? `<span>教材前页 · 封面—目录</span>${unit.title}`
+      ? `<span>1—5 页</span>封面与目录`
       : `<span>UNIT ${unit.id} · ${unit.start}—${unit.end} 页</span>${unit.title}`;
     button.addEventListener("click", () => openUnit(unit.id, unit.start));
     return button;
@@ -134,7 +134,18 @@ function createHotspots(sentence, index) {
     button.className = "hotspot";
     button.dataset.sentenceIndex = String(index);
     button.dataset.fragmentIndex = String(fragmentIndex);
-    Object.assign(button.style, { left: `${rect.x}%`, top: `${rect.y}%`, width: `${rect.w}%`, height: `${rect.h}%` });
+    const horizontalPadding = 0.58;
+    const verticalPadding = 0.2;
+    const left = Math.max(0, rect.x - horizontalPadding);
+    const top = Math.max(0, rect.y - verticalPadding);
+    const right = Math.min(100, rect.x + rect.w + horizontalPadding);
+    const bottom = Math.min(100, rect.y + rect.h + verticalPadding);
+    Object.assign(button.style, {
+      left: `${left}%`,
+      top: `${top}%`,
+      width: `${right - left}%`,
+      height: `${bottom - top}%`,
+    });
     button.setAttribute("aria-label", `学习句子：${sentence.text}`);
     button.addEventListener("mouseenter", () => showPreview(index));
     button.addEventListener("mouseleave", schedulePreviewHide);

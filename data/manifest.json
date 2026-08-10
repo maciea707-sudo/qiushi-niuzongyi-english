@@ -7,7 +7,7 @@
       "start": 0,
       "end": 5,
       "pages": 6,
-      "sentences": 89,
+      "sentences": 192,
       "frontMatter": true
     },
     {
@@ -16,7 +16,7 @@
       "start": 6,
       "end": 17,
       "pages": 12,
-      "sentences": 296
+      "sentences": 483
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
       "start": 18,
       "end": 29,
       "pages": 12,
-      "sentences": 244
+      "sentences": 451
     },
     {
       "id": 3,
@@ -32,7 +32,7 @@
       "start": 30,
       "end": 41,
       "pages": 12,
-      "sentences": 243
+      "sentences": 436
     },
     {
       "id": 4,
@@ -40,7 +40,7 @@
       "start": 42,
       "end": 53,
       "pages": 12,
-      "sentences": 262
+      "sentences": 476
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "start": 56,
       "end": 67,
       "pages": 12,
-      "sentences": 270
+      "sentences": 487
     },
     {
       "id": 6,
@@ -56,7 +56,7 @@
       "start": 68,
       "end": 79,
       "pages": 12,
-      "sentences": 246
+      "sentences": 455
     },
     {
       "id": 7,
@@ -64,7 +64,7 @@
       "start": 80,
       "end": 91,
       "pages": 12,
-      "sentences": 215
+      "sentences": 390
     },
     {
       "id": 8,
@@ -72,7 +72,7 @@
       "start": 92,
       "end": 103,
       "pages": 12,
-      "sentences": 217
+      "sentences": 457
     }
   ]
 }
