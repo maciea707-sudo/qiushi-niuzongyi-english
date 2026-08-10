@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>秋实中学牛琮一初中一年级英语发音教材</title>
+  <meta name="description" content="秋实中学牛琮一初中一年级英语发音教材：悬浮聚焦句子，点击查看英式音标、汉语意思并听 AI 发音。">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <button class="catalog-toggle" id="catalogToggle" type="button" aria-label="打开单元目录">☰</button>
+    <div class="brand">
+      <strong id="unitTitle">秋实中学牛琮一初中一年级英语发音教材</strong>
+      <span id="pageTitle">互动点读教材</span>
+    </div>
+    <div class="top-hint"><span class="pulse-dot"></span>悬浮聚焦整句，点击立即发音</div>
+  </header>
+
+  <aside class="catalog" id="catalog" aria-label="教材目录">
+    <div class="catalog-head">
+      <p>七年级上册</p>
+      <h1>互动学习目录</h1>
+    </div>
+    <nav id="unitNav" class="unit-nav"></nav>
+    <p class="ai-note">本网页使用 AI 合成英式发音，仅供家庭英语学习使用。</p>
+  </aside>
+
+  <main class="workspace">
+    <div class="page-toolbar">
+      <button type="button" id="prevPage">← 上一页</button>
+      <label>教材页 <select id="pageSelect" aria-label="选择教材页"></select></label>
+      <button type="button" id="nextPage">下一页 →</button>
+      <span class="toolbar-separator" aria-hidden="true"></span>
+      <label class="page-jump">跳到第 <input id="pageNumber" type="number" min="6" max="103" step="1" inputmode="numeric" aria-label="输入教材页码"> 页</label>
+      <button type="button" id="goToPage">跳转</button>
+    </div>
+    <section class="page-wrap" id="page" aria-label="教材页面">
+      <div class="page-loading" id="pageLoading">正在打开教材页面…</div>
+    </section>
+  </main>
+
+  <aside class="study-popover hidden" id="studyPopover" aria-live="polite" aria-label="句子学习卡片">
+    <div class="role-row">
+      <span class="role-badge"><span class="role-avatar" id="roleAvatar">旁</span><span id="roleName">旁白</span></span>
+      <span class="playing-state" id="playingState">正在发音…</span>
+    </div>
+    <p class="field-label">原句</p>
+    <p class="sentence-text" id="sentenceText"></p>
+    <p class="field-label">英式音标</p>
+    <p class="ipa-text warm" id="ipaText"></p>
+    <p class="field-label">汉语意思</p>
+    <p class="meaning-text" id="meaningText"></p>
+    <p class="voice-status"><span class="voice-meter" aria-hidden="true"><i></i><i></i><i></i></span><span id="voiceStatusText"></span></p>
+  </aside>
+
+  <div class="toast" id="toast" role="status"></div>
+  <script src="app.js"></script>
+</body>
+</html>
