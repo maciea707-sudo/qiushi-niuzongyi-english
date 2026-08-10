@@ -48,7 +48,8 @@ audioPlayer.preload = "auto";
 
 function params() {
   const search = new URLSearchParams(location.search);
-  return { page: Number(search.get("page")) || 7 };
+  const requested = Number(search.get("page"));
+  return { page: Number.isInteger(requested) ? requested : 0 };
 }
 
 function unitForPage(pageValue) {
@@ -67,9 +68,11 @@ function renderUnitNav() {
   unitNav.replaceChildren(...manifest.units.map(unit => {
     const button = document.createElement("button");
     button.type = "button";
-    button.className = "unit-link";
+    button.className = `unit-link${unit.frontMatter ? " front-matter" : ""}`;
     button.dataset.unit = String(unit.id);
-    button.innerHTML = `<span>UNIT ${unit.id} · ${unit.start}—${unit.end} 页</span>${unit.title}`;
+    button.innerHTML = unit.frontMatter
+      ? `<span>教材前页 · 封面—目录</span>${unit.title}`
+      : `<span>UNIT ${unit.id} · ${unit.start}—${unit.end} 页</span>${unit.title}`;
     button.addEventListener("click", () => openUnit(unit.id, unit.start));
     return button;
   }));
@@ -77,15 +80,18 @@ function renderUnitNav() {
 
 async function openUnit(unitId, requestedPage, push = true) {
   hideSentence();
-  currentUnit = Math.min(8, Math.max(1, unitId));
+  const target = manifest.units.find(unit => unit.id === Number(unitId)) || manifest.units[0];
+  currentUnit = target.id;
   unitData = await fetch(`data/unit-${currentUnit}.json`).then(response => response.json());
   currentPage = Math.min(unitData.pages.at(-1).page, Math.max(unitData.pages[0].page, requestedPage));
   unitNav.querySelectorAll(".unit-link").forEach(button => button.classList.toggle("active", Number(button.dataset.unit) === currentUnit));
-  unitTitle.textContent = `秋实中学牛琮一 · Unit ${unitData.id} · ${unitData.title}`;
+  unitTitle.textContent = unitData.frontMatter
+    ? `秋实中学牛琮一 · ${unitData.displayTitle}`
+    : `秋实中学牛琮一 · Unit ${unitData.id} · ${unitData.title}`;
   pageSelect.replaceChildren(...unitData.pages.map(item => {
     const option = document.createElement("option");
     option.value = String(item.page);
-    option.textContent = `第 ${item.page} 页`;
+    option.textContent = item.label || `第 ${item.page} 页`;
     return option;
   }));
   pageSelect.value = String(currentPage);
@@ -96,15 +102,22 @@ async function openUnit(unitId, requestedPage, push = true) {
 async function renderPage(push = false) {
   hideSentence();
   const pageData = unitData.pages.find(item => item.page === currentPage);
-  pageTitle.textContent = `教材第 ${currentPage} 页 · ${pageData.sentences.length} 个句子学习单位`;
+  const pageLabel = pageData.label || `教材第 ${currentPage} 页`;
+  pageTitle.textContent = `${pageLabel} · ${pageData.sentences.length} 个英语学习单位`;
   pageSelect.value = String(currentPage);
   pageNumber.value = String(currentPage);
-  prevPage.disabled = currentPage === unitData.pages[0].page;
-  nextPage.disabled = currentPage === unitData.pages.at(-1).page;
-  page.innerHTML = `<div class="page-loading">正在打开教材第 ${currentPage} 页…</div>`;
+  const availablePages = manifest.units.flatMap(unit =>
+    Array.from({ length: unit.end - unit.start + 1 }, (_, index) => unit.start + index)
+  );
+  const globalIndex = availablePages.indexOf(currentPage);
+  prevPage.disabled = globalIndex <= 0;
+  nextPage.disabled = globalIndex < 0 || globalIndex >= availablePages.length - 1;
+  page.innerHTML = `<div class="page-loading">正在打开${pageLabel}…</div>`;
   const image = new Image();
   image.className = "page-image";
-  image.alt = `译林英语七年级上册 Unit ${currentUnit} 第 ${currentPage} 页`;
+  image.alt = unitData.frontMatter
+    ? `译林英语七年级上册${pageLabel}`
+    : `译林英语七年级上册 Unit ${currentUnit} 第 ${currentPage} 页`;
   image.src = pageData.image;
   await image.decode();
   page.replaceChildren(image);
@@ -245,7 +258,7 @@ async function jumpToPage() {
   const targetUnit = Number.isInteger(requested) ? unitForPage(requested) : null;
   if (!targetUnit) {
     pageNumber.value = String(currentPage);
-    showToast("请输入教材学习范围内的页码：6—53页或56—103页。");
+    showToast("请输入教材范围内的页码：0—53页或56—103页；0—5为封面至目录。");
     return;
   }
   if (targetUnit.id === currentUnit) {
@@ -256,9 +269,25 @@ async function jumpToPage() {
   }
 }
 
+async function goRelativePage(offset) {
+  const availablePages = manifest.units.flatMap(unit =>
+    Array.from({ length: unit.end - unit.start + 1 }, (_, index) => unit.start + index)
+  );
+  const currentIndex = availablePages.indexOf(currentPage);
+  const targetPage = availablePages[currentIndex + offset];
+  if (targetPage === undefined) return;
+  const targetUnit = unitForPage(targetPage);
+  if (targetUnit.id === currentUnit) {
+    currentPage = targetPage;
+    await renderPage(true);
+  } else {
+    await openUnit(targetUnit.id, targetPage, true);
+  }
+}
+
 pageSelect.addEventListener("change", async () => { currentPage = Number(pageSelect.value); await renderPage(true); });
-prevPage.addEventListener("click", async () => { if (!prevPage.disabled) { currentPage -= 1; await renderPage(true); } });
-nextPage.addEventListener("click", async () => { if (!nextPage.disabled) { currentPage += 1; await renderPage(true); } });
+prevPage.addEventListener("click", async () => { if (!prevPage.disabled) await goRelativePage(-1); });
+nextPage.addEventListener("click", async () => { if (!nextPage.disabled) await goRelativePage(1); });
 goToPage.addEventListener("click", jumpToPage);
 pageNumber.addEventListener("keydown", event => { if (event.key === "Enter") { event.preventDefault(); void jumpToPage(); } });
 document.getElementById("catalogToggle").addEventListener("click", () => document.getElementById("catalog").classList.toggle("closed"));
