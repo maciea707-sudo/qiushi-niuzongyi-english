@@ -43,6 +43,16 @@
       "sentences": 476
     },
     {
+      "id": 9,
+      "kind": "project",
+      "title": "A video about my new school life",
+      "displayTitle": "Project 1 · 我的新校园生活视频",
+      "start": 54,
+      "end": 55,
+      "pages": 2,
+      "sentences": 60
+    },
+    {
       "id": 5,
       "title": "A healthy lifestyle",
       "start": 56,
@@ -73,6 +83,16 @@
       "end": 103,
       "pages": 12,
       "sentences": 457
+    },
+    {
+      "id": 10,
+      "kind": "project",
+      "title": "A party plan to celebrate New Year",
+      "displayTitle": "Project 2 · 新年庆祝派对计划",
+      "start": 104,
+      "end": 105,
+      "pages": 2,
+      "sentences": 42
     }
   ]
 }

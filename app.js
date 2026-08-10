@@ -72,7 +72,9 @@ function renderUnitNav() {
     button.dataset.unit = String(unit.id);
     button.innerHTML = unit.frontMatter
       ? `<span>1—5 页</span>封面与目录`
-      : `<span>UNIT ${unit.id} · ${unit.start}—${unit.end} 页</span>${unit.title}`;
+      : unit.kind === "project"
+        ? `<span>PROJECT ${unit.id === 9 ? 1 : 2} · ${unit.start}—${unit.end} 页</span>${unit.title}`
+        : `<span>UNIT ${unit.id} · ${unit.start}—${unit.end} 页</span>${unit.title}`;
     button.addEventListener("click", () => openUnit(unit.id, unit.start));
     return button;
   }));
@@ -87,7 +89,9 @@ async function openUnit(unitId, requestedPage, push = true) {
   unitNav.querySelectorAll(".unit-link").forEach(button => button.classList.toggle("active", Number(button.dataset.unit) === currentUnit));
   unitTitle.textContent = unitData.frontMatter
     ? `秋实中学牛琮一 · ${unitData.displayTitle}`
-    : `秋实中学牛琮一 · Unit ${unitData.id} · ${unitData.title}`;
+    : unitData.kind === "project"
+      ? `秋实中学牛琮一 · ${unitData.displayTitle}`
+      : `秋实中学牛琮一 · Unit ${unitData.id} · ${unitData.title}`;
   pageSelect.replaceChildren(...unitData.pages.map(item => {
     const option = document.createElement("option");
     option.value = String(item.page);
@@ -269,7 +273,7 @@ async function jumpToPage() {
   const targetUnit = Number.isInteger(requested) ? unitForPage(requested) : null;
   if (!targetUnit) {
     pageNumber.value = String(currentPage);
-    showToast("请输入教材范围内的页码：0—53页或56—103页；0—5为封面至目录。");
+    showToast("请输入教材范围内的页码：0—105页；0—5为封面至目录。");
     return;
   }
   if (targetUnit.id === currentUnit) {
