@@ -8,7 +8,8 @@
       "end": 5,
       "pages": 6,
       "sentences": 192,
-      "frontMatter": true
+      "frontMatter": true,
+      "sentenceCount": 192
     },
     {
       "id": 1,
@@ -16,7 +17,8 @@
       "start": 6,
       "end": 17,
       "pages": 12,
-      "sentences": 483
+      "sentences": 483,
+      "sentenceCount": 480
     },
     {
       "id": 2,
@@ -24,7 +26,8 @@
       "start": 18,
       "end": 29,
       "pages": 12,
-      "sentences": 451
+      "sentences": 451,
+      "sentenceCount": 449
     },
     {
       "id": 3,
@@ -32,7 +35,8 @@
       "start": 30,
       "end": 41,
       "pages": 12,
-      "sentences": 436
+      "sentences": 436,
+      "sentenceCount": 430
     },
     {
       "id": 4,
@@ -40,7 +44,8 @@
       "start": 42,
       "end": 53,
       "pages": 12,
-      "sentences": 476
+      "sentences": 476,
+      "sentenceCount": 473
     },
     {
       "id": 9,
@@ -50,7 +55,8 @@
       "start": 54,
       "end": 55,
       "pages": 2,
-      "sentences": 60
+      "sentences": 60,
+      "sentenceCount": 60
     },
     {
       "id": 5,
@@ -58,7 +64,8 @@
       "start": 56,
       "end": 67,
       "pages": 12,
-      "sentences": 487
+      "sentences": 487,
+      "sentenceCount": 481
     },
     {
       "id": 6,
@@ -66,7 +73,8 @@
       "start": 68,
       "end": 79,
       "pages": 12,
-      "sentences": 455
+      "sentences": 455,
+      "sentenceCount": 447
     },
     {
       "id": 7,
@@ -74,7 +82,8 @@
       "start": 80,
       "end": 91,
       "pages": 12,
-      "sentences": 390
+      "sentences": 390,
+      "sentenceCount": 390
     },
     {
       "id": 8,
@@ -82,7 +91,8 @@
       "start": 92,
       "end": 103,
       "pages": 12,
-      "sentences": 457
+      "sentences": 457,
+      "sentenceCount": 446
     },
     {
       "id": 10,
@@ -92,7 +102,8 @@
       "start": 104,
       "end": 105,
       "pages": 2,
-      "sentences": 42
+      "sentences": 42,
+      "sentenceCount": 42
     }
   ]
 }
