@@ -1,0 +1,69 @@
+{
+  "book": "译林英语七年级上册（2024版）",
+  "units": [
+    {
+      "id": 1,
+      "title": "This is me!",
+      "start": 6,
+      "end": 17,
+      "pages": 12,
+      "sentences": 226
+    },
+    {
+      "id": 2,
+      "title": "Hobbies",
+      "start": 18,
+      "end": 29,
+      "pages": 12,
+      "sentences": 178
+    },
+    {
+      "id": 3,
+      "title": "Welcome to our school!",
+      "start": 30,
+      "end": 41,
+      "pages": 12,
+      "sentences": 193
+    },
+    {
+      "id": 4,
+      "title": "School days",
+      "start": 42,
+      "end": 53,
+      "pages": 12,
+      "sentences": 184
+    },
+    {
+      "id": 5,
+      "title": "A healthy lifestyle",
+      "start": 56,
+      "end": 67,
+      "pages": 12,
+      "sentences": 199
+    },
+    {
+      "id": 6,
+      "title": "My clothes, my style",
+      "start": 68,
+      "end": 79,
+      "pages": 12,
+      "sentences": 193
+    },
+    {
+      "id": 7,
+      "title": "Be wise with money",
+      "start": 80,
+      "end": 91,
+      "pages": 12,
+      "sentences": 181
+    },
+    {
+      "id": 8,
+      "title": "Let's celebrate!",
+      "start": 92,
+      "end": 103,
+      "pages": 12,
+      "sentences": 199
+    }
+  ]
+}
