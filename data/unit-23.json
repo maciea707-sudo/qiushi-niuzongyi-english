@@ -507,23 +507,6 @@
           "audio": "assets/audio/u01/u01-p010-s020.wav"
         },
         {
-          "id": "u23-p149-s022",
-          "speaker": "narrator",
-          "text": "vi.",
-          "rects": [
-            {
-              "x": 64.8865,
-              "y": 48.1057,
-              "w": 2.233,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː aɪ/",
-          "meaning": "六．",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p149-s022.wav"
-        },
-        {
           "id": "u23-p149-s023",
           "speaker": "narrator",
           "text": "slim",
@@ -932,23 +915,6 @@
           "audio": "assets/audio/u12/u12-p109-s017.wav"
         },
         {
-          "id": "u23-p149-s051",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 65.776,
-              "y": 74.8293,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p149-s051.wav"
-        },
-        {
           "id": "u23-p149-s052",
           "speaker": "narrator",
           "text": "only",
@@ -1245,40 +1211,6 @@
           "meaning": "支出（及物动词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u13/u13-p112-s022.wav"
-        },
-        {
-          "id": "u23-p150-s004",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 19.7487,
-              "y": 6.3445,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p150-s004.wav"
-        },
-        {
-          "id": "u23-p150-s005",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 64.6322,
-              "y": 6.3447,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p150-s005.wav"
         },
         {
           "id": "u23-p150-s007",
@@ -1602,23 +1534,6 @@
           "meaning": "艺术家（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p150-s026.wav"
-        },
-        {
-          "id": "u23-p150-s027",
-          "speaker": "narrator",
-          "text": "adv.",
-          "rects": [
-            {
-              "x": 64.2175,
-              "y": 28.9569,
-              "w": 3.6422,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈædv./",
-          "meaning": "adv。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p150-s027.wav"
         },
         {
           "id": "u23-p150-s028",
@@ -1961,23 +1876,6 @@
           "audio": "assets/audio/u23/u23-p150-s092.wav"
         },
         {
-          "id": "u23-p150-s043",
-          "speaker": "narrator",
-          "text": "n.",
-          "rects": [
-            {
-              "x": 61.7669,
-              "y": 47.4579,
-              "w": 1.9628,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈen/",
-          "meaning": "n。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p150-s043.wav"
-        },
-        {
           "id": "u23-p150-s044",
           "speaker": "narrator",
           "text": "hope",
@@ -2112,23 +2010,6 @@
           "meaning": "借阅",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u13/u13-p112-s014.wav"
-        },
-        {
-          "id": "u23-p150-s109",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 65.9852,
-              "y": 57.7362,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p150-s109.wav"
         },
         {
           "id": "u23-p150-s051",
@@ -2990,23 +2871,6 @@
           "audio": "assets/audio/u04/u04-p049-s039.wav"
         },
         {
-          "id": "u23-p151-s015",
-          "speaker": "narrator",
-          "text": "num.",
-          "rects": [
-            {
-              "x": 24.4822,
-              "y": 24.8455,
-              "w": 4.5561,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈnʌm./",
-          "meaning": "num。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p151-s015.wav"
-        },
-        {
           "id": "u23-p151-s018",
           "speaker": "narrator",
           "text": "term",
@@ -3075,23 +2939,6 @@
           "audio": "assets/audio/u23/u23-p151-s106.wav"
         },
         {
-          "id": "u23-p151-s022",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 17.7983,
-              "y": 31.0124,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p151-s022.wav"
-        },
-        {
           "id": "u23-p151-s107",
           "speaker": "narrator",
           "text": "something",
@@ -3107,23 +2954,6 @@
           "meaning": "有些东西",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p151-s107.wav"
-        },
-        {
-          "id": "u23-p151-s112",
-          "speaker": "narrator",
-          "text": "pron.",
-          "rects": [
-            {
-              "x": 68.4464,
-              "y": 31.0138,
-              "w": 4.5598,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈprɒn./",
-          "meaning": "普隆。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p151-s112.wav"
         },
         {
           "id": "u23-p151-s024",
@@ -3532,23 +3362,6 @@
           "meaning": "甜蜜的（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p151-s046.wav"
-        },
-        {
-          "id": "u23-p151-s047",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 21.3881,
-              "y": 55.6803,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p151-s047.wav"
         },
         {
           "id": "u23-p151-s048",
@@ -4206,23 +4019,6 @@
           "audio": "assets/audio/u06/u06-p072-s021.wav"
         },
         {
-          "id": "u23-p152-s009",
-          "speaker": "narrator",
-          "text": "adv.",
-          "rects": [
-            {
-              "x": 22.19,
-              "y": 12.5115,
-              "w": 3.6422,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈædv./",
-          "meaning": "adv。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p152-s009.wav"
-        },
-        {
           "id": "u23-p152-s010",
           "speaker": "narrator",
           "text": "less",
@@ -4272,23 +4068,6 @@
           "meaning": "能/k〇d/模态v。",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p152-s014.wav"
-        },
-        {
-          "id": "u23-p152-s015",
-          "speaker": "narrator",
-          "text": "adv.",
-          "rects": [
-            {
-              "x": 17.5889,
-              "y": 16.6228,
-              "w": 3.6422,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈædv./",
-          "meaning": "adv。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p152-s015.wav"
         },
         {
           "id": "u23-p152-s016",
@@ -4510,23 +4289,6 @@
           "meaning": "紫色（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p152-s025.wav"
-        },
-        {
-          "id": "u23-p152-s026",
-          "speaker": "narrator",
-          "text": "adj.",
-          "rects": [
-            {
-              "x": 64.8011,
-              "y": 33.0696,
-              "w": 3.3946,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/eɪ diː dʒeɪ/",
-          "meaning": "adj．",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p152-s026.wav"
         },
         {
           "id": "u23-p152-s027",
@@ -5158,23 +4920,6 @@
           "audio": "assets/audio/u23/u23-p152-s065.wav"
         },
         {
-          "id": "u23-p152-s066",
-          "speaker": "narrator",
-          "text": "adv.",
-          "rects": [
-            {
-              "x": 20.854,
-              "y": 74.1813,
-              "w": 3.6422,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈædv./",
-          "meaning": "adv。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p152-s066.wav"
-        },
-        {
           "id": "u23-p152-s067",
           "speaker": "narrator",
           "text": "design",
@@ -5539,23 +5284,6 @@
           "meaning": "由",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u21/u21-p137-s041.wav"
-        },
-        {
-          "id": "u23-p153-s005",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 66.675,
-              "y": 8.4003,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p153-s005.wav"
         },
         {
           "id": "u23-p153-s007",
@@ -7029,23 +6757,6 @@
           "audio": "assets/audio/u08/u08-p099-s043.wav"
         },
         {
-          "id": "u23-p154-s015",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 30.5404,
-              "y": 22.8138,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p154-s015.wav"
-        },
-        {
           "id": "u23-p154-s016",
           "speaker": "narrator",
           "text": "lively",
@@ -7624,23 +7335,6 @@
           "audio": "assets/audio/u23/u23-p154-s047.wav"
         },
         {
-          "id": "u23-p154-s048",
-          "speaker": "narrator",
-          "text": "vi.",
-          "rects": [
-            {
-              "x": 22.0906,
-              "y": 59.8157,
-              "w": 2.233,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː aɪ/",
-          "meaning": "六．",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p154-s048.wav"
-        },
-        {
           "id": "u23-p154-s050",
           "speaker": "narrator",
           "text": "beforehand",
@@ -7724,23 +7418,6 @@
           "meaning": "洋葱（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u08/u08-p096-s019.wav"
-        },
-        {
-          "id": "u23-p154-s056",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 68.753,
-              "y": 63.9031,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p154-s056.wav"
         },
         {
           "id": "u23-p154-s058",
@@ -8602,23 +8279,6 @@
           "audio": "assets/audio/u23/u23-p155-s078.wav"
         },
         {
-          "id": "u23-p155-s039",
-          "speaker": "narrator",
-          "text": "conj.",
-          "rects": [
-            {
-              "x": 14.567,
-              "y": 60.4276,
-              "w": 4.102,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈkɒndʒ./",
-          "meaning": "conj。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p155-s039.wav"
-        },
-        {
           "id": "u23-p155-s080",
           "speaker": "narrator",
           "text": "care",
@@ -8806,23 +8466,6 @@
           "audio": "assets/audio/u07/u07-p084-s023.wav"
         },
         {
-          "id": "u23-p155-s048",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 71.7657,
-              "y": 72.7749,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p155-s048.wav"
-        },
-        {
           "id": "u23-p155-s049",
           "speaker": "narrator",
           "text": "change",
@@ -8857,23 +8500,6 @@
           "audio": "assets/audio/u23/u23-p155-s050.wav"
         },
         {
-          "id": "u23-p155-s051",
-          "speaker": "narrator",
-          "text": "vi.",
-          "rects": [
-            {
-              "x": 64.8846,
-              "y": 78.9419,
-              "w": 2.233,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː aɪ/",
-          "meaning": "六．",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p155-s051.wav"
-        },
-        {
           "id": "u23-p155-s090",
           "speaker": "narrator",
           "text": "be good at",
@@ -8889,23 +8515,6 @@
           "meaning": "擅长",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u01/u01-p010-s020.wav"
-        },
-        {
-          "id": "u23-p155-s053",
-          "speaker": "narrator",
-          "text": "n.",
-          "rects": [
-            {
-              "x": 64.8359,
-              "y": 80.9976,
-              "w": 1.9628,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈen/",
-          "meaning": "n。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p155-s053.wav"
         },
         {
           "id": "u23-p155-s091",
@@ -9733,23 +9342,6 @@
           "audio": "assets/audio/u23/u23-p156-s075.wav"
         },
         {
-          "id": "u23-p156-s040",
-          "speaker": "narrator",
-          "text": "adv.",
-          "rects": [
-            {
-              "x": 65.0149,
-              "y": 47.4817,
-              "w": 3.6422,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈædv./",
-          "meaning": "adv。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p156-s040.wav"
-        },
-        {
           "id": "u23-p156-s041",
           "speaker": "narrator",
           "text": "eraser",
@@ -10054,23 +9646,6 @@
           "meaning": "设计",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p156-s083.wav"
-        },
-        {
-          "id": "u23-p156-s056",
-          "speaker": "narrator",
-          "text": "n.",
-          "rects": [
-            {
-              "x": 22.8187,
-              "y": 72.1496,
-              "w": 1.9628,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈen/",
-          "meaning": "n。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p156-s056.wav"
         },
         {
           "id": "u23-p156-s057",
@@ -10405,23 +9980,6 @@
           "audio": "assets/audio/u04/u04-p049-s039.wav"
         },
         {
-          "id": "u23-p157-s004",
-          "speaker": "narrator",
-          "text": "num.",
-          "rects": [
-            {
-              "x": 24.4803,
-              "y": 8.4002,
-              "w": 4.5561,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈnʌm./",
-          "meaning": "num。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p157-s004.wav"
-        },
-        {
           "id": "u23-p157-s006",
           "speaker": "narrator",
           "text": "dining hall",
@@ -10677,23 +10235,6 @@
           "audio": "assets/audio/u23/u23-p157-s024.wav"
         },
         {
-          "id": "u23-p157-s025",
-          "speaker": "narrator",
-          "text": "n.",
-          "rects": [
-            {
-              "x": 61.3496,
-              "y": 26.9014,
-              "w": 1.9628,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈen/",
-          "meaning": "n。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p157-s025.wav"
-        },
-        {
           "id": "u23-p157-s079",
           "speaker": "narrator",
           "text": "be full of",
@@ -10743,23 +10284,6 @@
           "meaning": "家务劳动（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p157-s027.wav"
-        },
-        {
-          "id": "u23-p157-s028",
-          "speaker": "narrator",
-          "text": "n.",
-          "rects": [
-            {
-              "x": 16.1752,
-              "y": 33.0681,
-              "w": 1.9628,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈen/",
-          "meaning": "n。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p157-s028.wav"
         },
         {
           "id": "u23-p157-s029",
@@ -10964,23 +10488,6 @@
           "meaning": "进入",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p157-s095.wav"
-        },
-        {
-          "id": "u23-p157-s097",
-          "speaker": "narrator",
-          "text": "prep.",
-          "rects": [
-            {
-              "x": 60.6738,
-              "y": 49.5374,
-              "w": 4.314,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈprep./",
-          "meaning": "准备。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p157-s097.wav"
         },
         {
           "id": "u23-p157-s038",
@@ -11238,23 +10745,6 @@
           "audio": "assets/audio/u23/u23-p157-s110.wav"
         },
         {
-          "id": "u23-p157-s051",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 60.9741,
-              "y": 68.0623,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p157-s051.wav"
-        },
-        {
           "id": "u23-p157-s052",
           "speaker": "narrator",
           "text": "just",
@@ -11270,23 +10760,6 @@
           "meaning": "只是（副词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u02/u02-p025-s047.wav"
-        },
-        {
-          "id": "u23-p157-s053",
-          "speaker": "narrator",
-          "text": "n.",
-          "rects": [
-            {
-              "x": 17.3386,
-              "y": 72.1496,
-              "w": 1.9628,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈen/",
-          "meaning": "n。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p157-s053.wav"
         },
         {
           "id": "u23-p157-s054",
@@ -11723,23 +11196,6 @@
           "audio": "assets/audio/u23/u23-p158-s100.wav"
         },
         {
-          "id": "u23-p158-s021",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 22.9763,
-              "y": 24.8575,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p158-s021.wav"
-        },
-        {
           "id": "u23-p158-s022",
           "speaker": "narrator",
           "text": "more",
@@ -11755,23 +11211,6 @@
           "meaning": "更多/mɔː(r)/det。",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u20/u20-p130-s085.wav"
-        },
-        {
-          "id": "u23-p158-s024",
-          "speaker": "narrator",
-          "text": "adv.",
-          "rects": [
-            {
-              "x": 64.2119,
-              "y": 31.0127,
-              "w": 3.6422,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈædv./",
-          "meaning": "adv。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p158-s024.wav"
         },
         {
           "id": "u23-p158-s101",
@@ -11842,23 +11281,6 @@
           "audio": "assets/audio/u23/u23-p158-s028.wav"
         },
         {
-          "id": "u23-p158-s030",
-          "speaker": "narrator",
-          "text": "adv.",
-          "rects": [
-            {
-              "x": 63.6677,
-              "y": 35.124,
-              "w": 3.6422,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈædv./",
-          "meaning": "adv。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p158-s030.wav"
-        },
-        {
           "id": "u23-p158-s031",
           "speaker": "narrator",
           "text": "mountain",
@@ -11874,23 +11296,6 @@
           "meaning": "山（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p158-s031.wav"
-        },
-        {
-          "id": "u23-p158-s032",
-          "speaker": "narrator",
-          "text": "adv.",
-          "rects": [
-            {
-              "x": 17.5908,
-              "y": 37.1914,
-              "w": 3.6422,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈædv./",
-          "meaning": "adv。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p158-s032.wav"
         },
         {
           "id": "u23-p158-s033",
@@ -12216,23 +11621,6 @@
           "audio": "assets/audio/u23/u23-p158-s049.wav"
         },
         {
-          "id": "u23-p158-s050",
-          "speaker": "narrator",
-          "text": "n.",
-          "rects": [
-            {
-              "x": 62.0275,
-              "y": 59.8157,
-              "w": 1.9628,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈen/",
-          "meaning": "n。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p158-s050.wav"
-        },
-        {
           "id": "u23-p158-s051",
           "speaker": "narrator",
           "text": "news",
@@ -12369,23 +11757,6 @@
           "audio": "assets/audio/u07/u07-p084-s022.wav"
         },
         {
-          "id": "u23-p158-s058",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 25.4363,
-              "y": 74.2173,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p158-s058.wav"
-        },
-        {
           "id": "u23-p158-s125",
           "speaker": "narrator",
           "text": "of course",
@@ -12488,23 +11859,6 @@
           "audio": "assets/audio/u23/u23-p158-s064.wav"
         },
         {
-          "id": "u23-p158-s065",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 21.5708,
-              "y": 82.44,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p158-s065.wav"
-        },
-        {
           "id": "u23-p158-s067",
           "speaker": "narrator",
           "text": "material",
@@ -12520,23 +11874,6 @@
           "meaning": "材料（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u06/u06-p077-s037.wav"
-        },
-        {
-          "id": "u23-p158-s068",
-          "speaker": "narrator",
-          "text": "adj.",
-          "rects": [
-            {
-              "x": 66.0657,
-              "y": 84.5076,
-              "w": 3.3946,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/eɪ diː dʒeɪ/",
-          "meaning": "adj．",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p158-s068.wav"
         },
         {
           "id": "u23-p158-s069",
@@ -12684,23 +12021,6 @@
           "audio": "assets/audio/u23/u23-p159-s003.wav"
         },
         {
-          "id": "u23-p159-s006",
-          "speaker": "narrator",
-          "text": "adj.",
-          "rects": [
-            {
-              "x": 63.2204,
-              "y": 10.4559,
-              "w": 3.3946,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/eɪ diː dʒeɪ/",
-          "meaning": "adj．",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p159-s006.wav"
-        },
-        {
           "id": "u23-p159-s004",
           "speaker": "narrator",
           "text": "p.m.",
@@ -12767,23 +12087,6 @@
           "meaning": "油漆（不及物动词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u12/u12-p109-s017.wav"
-        },
-        {
-          "id": "u23-p159-s010",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 22.9474,
-              "y": 14.5792,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p159-s010.wav"
         },
         {
           "id": "u23-p159-s011",
@@ -13296,23 +12599,6 @@
           "audio": "assets/audio/u23/u23-p159-s041.wav"
         },
         {
-          "id": "u23-p159-s042",
-          "speaker": "narrator",
-          "text": "n.",
-          "rects": [
-            {
-              "x": 59.4447,
-              "y": 51.617,
-              "w": 1.9628,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/ˈen/",
-          "meaning": "n。",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p159-s042.wav"
-        },
-        {
           "id": "u23-p159-s043",
           "speaker": "narrator",
           "text": "ring",
@@ -13721,23 +13007,6 @@
           "audio": "assets/audio/u02/u02-p022-s041.wav"
         },
         {
-          "id": "u23-p159-s067",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 24.3341,
-              "y": 78.3046,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p159-s067.wav"
-        },
-        {
           "id": "u23-p159-s069",
           "speaker": "narrator",
           "text": "present",
@@ -13968,23 +13237,6 @@
           "audio": "assets/audio/u06/u06-p075-s027.wav"
         },
         {
-          "id": "u23-p160-s005",
-          "speaker": "narrator",
-          "text": "adj.",
-          "rects": [
-            {
-              "x": 63.5181,
-              "y": 10.4572,
-              "w": 3.3946,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/eɪ diː dʒeɪ/",
-          "meaning": "adj．",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p160-s005.wav"
-        },
-        {
           "id": "u23-p160-s090",
           "speaker": "narrator",
           "text": "have a sweet tooth",
@@ -14189,23 +13441,6 @@
           "audio": "assets/audio/u13/u13-p112-s018.wav"
         },
         {
-          "id": "u23-p160-s018",
-          "speaker": "narrator",
-          "text": "adj.",
-          "rects": [
-            {
-              "x": 21.2954,
-              "y": 26.9011,
-              "w": 3.3946,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/eɪ diː dʒeɪ/",
-          "meaning": "adj．",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p160-s018.wav"
-        },
-        {
           "id": "u23-p160-s093",
           "speaker": "narrator",
           "text": "teach",
@@ -14221,23 +13456,6 @@
           "meaning": "教书",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p160-s093.wav"
-        },
-        {
-          "id": "u23-p160-s103",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 62.3277,
-              "y": 28.9808,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p160-s103.wav"
         },
         {
           "id": "u23-p160-s019",
@@ -14580,23 +13798,6 @@
           "audio": "assets/audio/u23/u23-p160-s083.wav"
         },
         {
-          "id": "u23-p160-s040",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 21.8171,
-              "y": 47.4577,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p160-s040.wav"
-        },
-        {
           "id": "u23-p160-s042",
           "speaker": "narrator",
           "text": "spread",
@@ -14629,23 +13830,6 @@
           "meaning": "累人，累人（形容词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p160-s043.wav"
-        },
-        {
-          "id": "u23-p160-s044",
-          "speaker": "narrator",
-          "text": "vi.",
-          "rects": [
-            {
-              "x": 22.0929,
-              "y": 53.6247,
-              "w": 2.233,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː aɪ/",
-          "meaning": "六．",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p160-s044.wav"
         },
         {
           "id": "u23-p160-s046",
@@ -14818,23 +14002,6 @@
           "audio": "assets/audio/u06/u06-p075-s059.wav"
         },
         {
-          "id": "u23-p160-s055",
-          "speaker": "narrator",
-          "text": "vt.",
-          "rects": [
-            {
-              "x": 19.4039,
-              "y": 63.903,
-              "w": 2.2687,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː tiː/",
-          "meaning": "及物动词",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p160-s055.wav"
-        },
-        {
           "id": "u23-p160-s057",
           "speaker": "narrator",
           "text": "stay",
@@ -14884,23 +14051,6 @@
           "meaning": "传统（形容词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p160-s059.wav"
-        },
-        {
-          "id": "u23-p160-s060",
-          "speaker": "narrator",
-          "text": "vi.",
-          "rects": [
-            {
-              "x": 18.2837,
-              "y": 68.0143,
-              "w": 2.233,
-              "h": 2.1339
-            }
-          ],
-          "ipa": "/viː aɪ/",
-          "meaning": "六．",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p160-s060.wav"
         },
         {
           "id": "u23-p160-s061",
