@@ -1,1 +1,2714 @@
-{"id":20,"kind":"appendix","title":"English sounds","displayTitle":"附录 · 英语音素","start":130,"end":131,"pages":[{"page":130,"pdfPage":131,"width":532.9130249023438,"height":754.0159912109375,"image":"assets/pages/page-130.webp","sentences":[{"id":"u20-p130-s002","speaker":"narrator","text":"sounds English","rects":[{"x":4.6169,"y":5.6216,"w":2.4747,"h":10.3108}],"ipa":"/ˈsaʊndz ˈɪŋglɪʃ/","meaning":"听起来英语","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s002.wav"},{"id":"u20-p130-s001","speaker":"narrator","text":"English sounds","rects":[{"x":13.6011,"y":6.5377,"w":25.3426,"h":2.8551}],"ipa":"/ˈɪŋglɪʃ ˈsaʊndz/","meaning":"英语音素","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s001.wav"},{"id":"u20-p130-s004","speaker":"narrator","text":"i:","rects":[{"x":33.9841,"y":13.4841,"w":1.6051,"h":2.4119}],"ipa":"/iː/","meaning":"长元音 /iː/","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s004.wav"},{"id":"u20-p130-s008","speaker":"narrator","text":"A:","rects":[{"x":60.6121,"y":13.4841,"w":2.325,"h":2.4119}],"ipa":"/ˈeɪ:/","meaning":"答复:","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s008.wav"},{"id":"u20-p130-s010","speaker":"narrator","text":"O:","rects":[{"x":73.9261,"y":13.4841,"w":2.0255,"h":2.4119}],"ipa":"/ˈəʊ:/","meaning":"欧:","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s010.wav"},{"id":"u20-p130-s012","speaker":"narrator","text":"u:","rects":[{"x":87.2401,"y":13.4841,"w":2.1883,"h":2.4119}],"ipa":"/ˈjuː:/","meaning":"ư:","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s012.wav"},{"id":"u20-p130-s003","speaker":"narrator","text":"I","rects":[{"x":27.3271,"y":13.5992,"w":0.7119,"h":2.0331}],"ipa":"/ˌaɪ/","meaning":"我","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s003.wav"},{"id":"u20-p130-s005","speaker":"narrator","text":"e","rects":[{"x":40.6411,"y":13.5992,"w":1.1664,"h":2.0331}],"ipa":"/ˈiː/","meaning":"e","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s005.wav"},{"id":"u20-p130-s006","speaker":"narrator","text":"C","rects":[{"x":47.2981,"y":13.5992,"w":1.7523,"h":2.0331}],"ipa":"/ˈsiː/","meaning":"字母C","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s006.wav"},{"id":"u20-p130-s007","speaker":"narrator","text":"V","rects":[{"x":53.9551,"y":13.5992,"w":1.3135,"h":2.0331}],"ipa":"/ˈviː/","meaning":"字母V","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s007.wav"},{"id":"u20-p130-s009","speaker":"narrator","text":"B","rects":[{"x":67.2691,"y":13.5992,"w":1.4501,"h":2.0331}],"ipa":"/ˈbiː/","meaning":"字母B","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s009.wav"},{"id":"u20-p130-s011","speaker":"narrator","text":"W","rects":[{"x":80.5831,"y":13.5992,"w":1.5867,"h":2.0331}],"ipa":"/ˈdʌbəljuː/","meaning":"字母W","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s011.wav"},{"id":"u20-p130-s013","speaker":"narrator","text":"Vowels","rects":[{"x":13.5494,"y":15.3888,"w":7.7258,"h":1.9018}],"ipa":"/ˈvaʊəlz/","meaning":"伏尔","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s013.wav"},{"id":"u20-p130-s015","speaker":"narrator","text":"F:","rects":[{"x":33.9736,"y":16.6182,"w":2.0255,"h":2.4119}],"ipa":"/ˈef:/","meaning":"费:","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s015.wav"},{"id":"u20-p130-s014","speaker":"narrator","text":"R","rects":[{"x":27.3166,"y":16.7333,"w":1.1507,"h":2.0331}],"ipa":"/ˈɑː/","meaning":"字母R","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s014.wav"},{"id":"u20-p130-s016","speaker":"narrator","text":"eI","rects":[{"x":40.6306,"y":16.7333,"w":1.8784,"h":2.0331}],"ipa":"/ˌiːˈaɪ/","meaning":"eI (英语)。","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s016.wav"},{"id":"u20-p130-s017","speaker":"narrator","text":"aI","rects":[{"x":47.2876,"y":16.7333,"w":1.8784,"h":2.0331}],"ipa":"/ˌeɪˈaɪ/","meaning":"(单位:千美元)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s017.wav"},{"id":"u20-p130-s018","speaker":"narrator","text":"OI","rects":[{"x":53.9446,"y":16.7333,"w":1.8626,"h":2.0331}],"ipa":"/ˈɔɪ/","meaning":"奥伊 OI","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s018.wav"},{"id":"u20-p130-s019","speaker":"narrator","text":"RW","rects":[{"x":60.6016,"y":16.7333,"w":2.7374,"h":2.0331}],"ipa":"/ˌɑːˈdʌbəljuː/","meaning":"RW( RW )","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s019.wav"},{"id":"u20-p130-s020","speaker":"narrator","text":"aW","rects":[{"x":67.2586,"y":16.7333,"w":2.7532,"h":2.0331}],"ipa":"/ˌeɪˈdʌbəljuː/","meaning":"aW (韩语)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s020.wav"},{"id":"u20-p130-s021","speaker":"narrator","text":"IR","rects":[{"x":73.9156,"y":16.7333,"w":1.8626,"h":2.0331}],"ipa":"/ˌaɪˈɑː/","meaning":"爱尔兰语Name","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s021.wav"},{"id":"u20-p130-s022","speaker":"narrator","text":"eR","rects":[{"x":80.5726,"y":16.7333,"w":2.3171,"h":2.0331}],"ipa":"/ˌiːˈɑː/","meaning":"eR (韩语)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s022.wav"},{"id":"u20-p130-s023","speaker":"narrator","text":"WR","rects":[{"x":87.2296,"y":16.7333,"w":2.7374,"h":2.0331}],"ipa":"/ˌdʌbəljuːˈɑː/","meaning":"WR 维基月球在线解说-WR","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s023.wav"},{"id":"u20-p130-s024","speaker":"narrator","text":"p","rects":[{"x":27.4862,"y":19.869,"w":1.3135,"h":2.0331}],"ipa":"/ˈpiː/","meaning":"p","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s024.wav"},{"id":"u20-p130-s025","speaker":"narrator","text":"b","rects":[{"x":37.9,"y":19.869,"w":1.3135,"h":2.0331}],"ipa":"/ˈbiː/","meaning":"b","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s025.wav"},{"id":"u20-p130-s026","speaker":"narrator","text":"t","rects":[{"x":47.6569,"y":19.869,"w":0.7303,"h":2.0331}],"ipa":"/ˈtiː/","meaning":"t","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s026.wav"},{"id":"u20-p130-s027","speaker":"narrator","text":"d","rects":[{"x":57.4138,"y":19.869,"w":1.3135,"h":2.0331}],"ipa":"/ˈdiː/","meaning":"d","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s027.wav"},{"id":"u20-p130-s028","speaker":"narrator","text":"k","rects":[{"x":66.6086,"y":19.869,"w":1.3135,"h":2.0331}],"ipa":"/ˈkeɪ/","meaning":"k","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s028.wav"},{"id":"u20-p130-s029","speaker":"narrator","text":"G","rects":[{"x":76.5547,"y":19.869,"w":1.4501,"h":2.0331}],"ipa":"/ˈdʒiː/","meaning":"字母G","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s029.wav"},{"id":"u20-p130-s030","speaker":"narrator","text":"T","rects":[{"x":86.1251,"y":19.869,"w":1.4501,"h":2.0331}],"ipa":"/ˈtiː/","meaning":"字母T","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s030.wav"},{"id":"u20-p130-s031","speaker":"narrator","text":"J","rects":[{"x":27.4863,"y":23.0032,"w":2.1621,"h":2.0331}],"ipa":"/ˈdʒeɪ/","meaning":"字母J","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s031.wav"},{"id":"u20-p130-s032","speaker":"narrator","text":"tr","rects":[{"x":37.9,"y":23.0032,"w":1.6051,"h":2.0331}],"ipa":"/tr/","meaning":"辅音 /tr/","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s032.wav"},{"id":"u20-p130-s033","speaker":"narrator","text":"dr","rects":[{"x":47.6569,"y":23.0032,"w":2.1883,"h":2.0331}],"ipa":"/ˈdɒktə/","meaning":"医生","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s033.wav"},{"id":"u20-p130-s034","speaker":"narrator","text":"ts","rects":[{"x":57.4138,"y":23.0032,"w":1.7523,"h":2.0331}],"ipa":"/ts/","meaning":"辅音 /ts/","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s034.wav"},{"id":"u20-p130-s035","speaker":"narrator","text":"dz","rects":[{"x":66.6086,"y":23.0032,"w":2.48,"h":2.0331}],"ipa":"/dz/","meaning":"辅音 /dz/","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s035.wav"},{"id":"u20-p130-s036","speaker":"narrator","text":"f","rects":[{"x":76.5547,"y":23.0032,"w":0.8748,"h":2.0331}],"ipa":"/ˈef/","meaning":"f","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s036.wav"},{"id":"u20-p130-s037","speaker":"narrator","text":"v","rects":[{"x":86.1251,"y":23.0032,"w":1.3135,"h":2.0331}],"ipa":"/ˈviː/","meaning":"v","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s037.wav"},{"id":"u20-p130-s038","speaker":"narrator","text":"Consonants","rects":[{"x":10.8619,"y":24.7935,"w":13.1008,"h":1.9018}],"ipa":"/ˈkɒnsənənts/","meaning":"连线","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s038.wav"},{"id":"u20-p130-s039","speaker":"narrator","text":"P","rects":[{"x":27.4863,"y":26.1373,"w":1.3135,"h":2.0331}],"ipa":"/ˈpiː/","meaning":"字母P","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s039.wav"},{"id":"u20-p130-s040","speaker":"narrator","text":"Q","rects":[{"x":37.9,"y":26.1373,"w":1.4501,"h":2.0331}],"ipa":"/ˈkjuː/","meaning":"字母Q","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s040.wav"},{"id":"u20-p130-s041","speaker":"narrator","text":"s","rects":[{"x":47.6569,"y":26.1373,"w":1.0219,"h":2.0331}],"ipa":"/ˈes/","meaning":"s","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s041.wav"},{"id":"u20-p130-s042","speaker":"narrator","text":"z","rects":[{"x":57.4138,"y":26.1373,"w":1.1664,"h":2.0331}],"ipa":"/ˈziː/","meaning":"z","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s042.wav"},{"id":"u20-p130-s043","speaker":"narrator","text":"S","rects":[{"x":66.6086,"y":26.1373,"w":1.0114,"h":2.0331}],"ipa":"/ˈes/","meaning":"字母S","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s043.wav"},{"id":"u20-p130-s044","speaker":"narrator","text":"Z","rects":[{"x":76.5547,"y":26.1373,"w":1.1507,"h":2.0331}],"ipa":"/ˈziː/","meaning":"页:1","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s044.wav"},{"id":"u20-p130-s045","speaker":"narrator","text":"h","rects":[{"x":86.1251,"y":26.1373,"w":1.3135,"h":2.0331}],"ipa":"/ˈeɪtʃ/","meaning":"(单位:千美元)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s045.wav"},{"id":"u20-p130-s046","speaker":"narrator","text":"m","rects":[{"x":27.4863,"y":29.2715,"w":2.0439,"h":2.0331}],"ipa":"/ˈem/","meaning":"m","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s046.wav"},{"id":"u20-p130-s047","speaker":"narrator","text":"n","rects":[{"x":37.9,"y":29.2715,"w":1.3135,"h":2.0331}],"ipa":"/ˈen/","meaning":"n","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s047.wav"},{"id":"u20-p130-s048","speaker":"narrator","text":"N","rects":[{"x":47.6569,"y":29.2715,"w":1.4501,"h":2.0331}],"ipa":"/ˈen/","meaning":"字母N","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s048.wav"},{"id":"u20-p130-s049","speaker":"narrator","text":"l","rects":[{"x":57.4138,"y":29.2715,"w":0.7303,"h":2.0331}],"ipa":"/ˈel/","meaning":"l","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s049.wav"},{"id":"u20-p130-s050","speaker":"narrator","text":"r","rects":[{"x":66.6086,"y":29.2715,"w":0.8748,"h":2.0331}],"ipa":"/ˈɑː/","meaning":"r","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s050.wav"},{"id":"u20-p130-s051","speaker":"narrator","text":"j","rects":[{"x":76.5547,"y":29.2715,"w":0.7303,"h":2.0331}],"ipa":"/ˈdʒeɪ/","meaning":"页:1","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s051.wav"},{"id":"u20-p130-s052","speaker":"narrator","text":"w","rects":[{"x":86.1251,"y":29.2715,"w":1.8967,"h":2.0331}],"ipa":"/ˈdʌbəljuː/","meaning":"(单位:千美元)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s052.wav"},{"id":"u20-p130-s053","speaker":"narrator","text":"Vowels","rects":[{"x":9.5745,"y":34.7762,"w":7.7258,"h":1.9018}],"ipa":"/ˈvaʊəlz/","meaning":"伏尔","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s053.wav"},{"id":"u20-p130-s054","speaker":"narrator","text":"ship","rects":[{"x":15.9583,"y":37.3114,"w":4.463,"h":1.8954}],"ipa":"/ˈʃɪp/","meaning":"船舶","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s054.wav"},{"id":"u20-p130-s055","speaker":"narrator","text":"little","rects":[{"x":24.2808,"y":37.3114,"w":4.8751,"h":1.8954}],"ipa":"/ˈlɪtəl/","meaning":"小","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s055.wav"},{"id":"u20-p130-s056","speaker":"narrator","text":"enjoy","rects":[{"x":33.423,"y":37.3114,"w":5.8906,"h":1.8954}],"ipa":"/ɪˈndʒɔɪ/","meaning":"欣赏","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s056.wav"},{"id":"u20-p130-s057","speaker":"narrator","text":"minute","rects":[{"x":42.6305,"y":37.3114,"w":7.6335,"h":1.8954}],"ipa":"/ˈmɪnɪt/","meaning":"分钟","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s057.wav"},{"id":"u20-p130-s058","speaker":"narrator","text":"women","rects":[{"x":52.8085,"y":37.3114,"w":7.8497,"h":1.8954}],"ipa":"/ˈwɪmɪn/","meaning":"妇女","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s058.wav"},{"id":"u20-p130-s059","speaker":"narrator","text":"me","rects":[{"x":15.956,"y":39.9549,"w":3.2448,"h":1.8954}],"ipa":"/ˌmiː/","meaning":"我","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s059.wav"},{"id":"u20-p130-s060","speaker":"narrator","text":"see","rects":[{"x":24.2786,"y":39.9549,"w":3.1457,"h":1.8954}],"ipa":"/ˈsiː/","meaning":"见","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s060.wav"},{"id":"u20-p130-s061","speaker":"narrator","text":"tea","rects":[{"x":33.4208,"y":39.9549,"w":3.0939,"h":1.8954}],"ipa":"/ˈtiː/","meaning":"茶叶","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s061.wav"},{"id":"u20-p130-s062","speaker":"narrator","text":"field","rects":[{"x":42.6283,"y":39.9549,"w":4.6522,"h":1.8954}],"ipa":"/ˈfiːld/","meaning":"字段","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s062.wav"},{"id":"u20-p130-s063","speaker":"narrator","text":"key","rects":[{"x":52.8063,"y":39.9549,"w":3.6073,"h":1.8954}],"ipa":"/ˈkiː/","meaning":"键","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s063.wav"},{"id":"u20-p130-s064","speaker":"narrator","text":"machine","rects":[{"x":62.3088,"y":39.9549,"w":9.1445,"h":1.8954}],"ipa":"/məˈʃiːn/","meaning":"机器","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s064.wav"},{"id":"u20-p130-s065","speaker":"narrator","text":"bed","rects":[{"x":15.956,"y":42.5983,"w":3.7965,"h":1.8954}],"ipa":"/ˈbed/","meaning":"床单","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s065.wav"},{"id":"u20-p130-s066","speaker":"narrator","text":"head","rects":[{"x":24.2786,"y":42.5983,"w":5.1025,"h":1.8954}],"ipa":"/ˈhed/","meaning":"头","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s066.wav"},{"id":"u20-p130-s067","speaker":"narrator","text":"many","rects":[{"x":33.4208,"y":42.5983,"w":6.01,"h":1.8954}],"ipa":"/ˈmeniː/","meaning":"许多人","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s067.wav"},{"id":"u20-p130-s068","speaker":"narrator","text":"friend","rects":[{"x":42.6283,"y":42.5983,"w":6.3027,"h":1.8954}],"ipa":"/ˈfrend/","meaning":"朋友们","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s068.wav"},{"id":"u20-p130-s069","speaker":"narrator","text":"says","rects":[{"x":52.8063,"y":42.5983,"w":4.2311,"h":1.8954}],"ipa":"/ˈsez/","meaning":"说","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s069.wav"},{"id":"u20-p130-s070","speaker":"narrator","text":"said","rects":[{"x":62.3088,"y":42.5983,"w":4.1207,"h":1.8954}],"ipa":"/ˈsed/","meaning":"说","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s070.wav"},{"id":"u20-p130-s071","speaker":"narrator","text":"map","rects":[{"x":15.956,"y":45.2418,"w":4.6432,"h":1.8954}],"ipa":"/ˈmæp/","meaning":"地图","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s071.wav"},{"id":"u20-p130-s072","speaker":"narrator","text":"cup","rects":[{"x":15.956,"y":47.8852,"w":3.8348,"h":1.8954}],"ipa":"/ˈkʌp/","meaning":"杯子","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s072.wav"},{"id":"u20-p130-s073","speaker":"narrator","text":"money","rects":[{"x":24.2786,"y":47.8852,"w":7.3115,"h":1.8954}],"ipa":"/ˈmʌniː/","meaning":"钱","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s073.wav"},{"id":"u20-p130-s074","speaker":"narrator","text":"young","rects":[{"x":33.4208,"y":47.8852,"w":6.6517,"h":1.8954}],"ipa":"/ˈjʌŋ/","meaning":"年轻","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s074.wav"},{"id":"u20-p130-s075","speaker":"narrator","text":"does","rects":[{"x":42.6283,"y":47.8852,"w":4.7242,"h":1.8954}],"ipa":"/ˈdʌz/","meaning":"是否","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s075.wav"},{"id":"u20-p130-s076","speaker":"narrator","text":"fast","rects":[{"x":15.956,"y":50.5287,"w":3.6771,"h":1.8954}],"ipa":"/ˈfɑːst/","meaning":"快速( T)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s076.wav"},{"id":"u20-p130-s077","speaker":"narrator","text":"car","rects":[{"x":24.2786,"y":50.5287,"w":3.1052,"h":1.8954}],"ipa":"/ˈkɑː/","meaning":"汽车","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s077.wav"},{"id":"u20-p130-s078","speaker":"narrator","text":"laugh","rects":[{"x":33.4208,"y":50.5287,"w":5.9109,"h":1.8954}],"ipa":"/ˈlɑːf/","meaning":"欢笑","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s078.wav"},{"id":"u20-p130-s079","speaker":"narrator","text":"calm","rects":[{"x":42.6283,"y":50.5287,"w":5.0665,"h":1.8954}],"ipa":"/ˈkɑːm/","meaning":"冷静","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s079.wav"},{"id":"u20-p130-s080","speaker":"narrator","text":"dog","rects":[{"x":15.956,"y":53.1721,"w":3.9023,"h":1.8954}],"ipa":"/ˈdɒg/","meaning":"狗","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s080.wav"},{"id":"u20-p130-s081","speaker":"narrator","text":"what","rects":[{"x":24.2786,"y":53.1721,"w":5.2511,"h":1.8954}],"ipa":"/ˌwɒt/","meaning":"什么","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s081.wav"},{"id":"u20-p130-s082","speaker":"narrator","text":"cough","rects":[{"x":33.4208,"y":53.1721,"w":6.4919,"h":1.8954}],"ipa":"/ˈkɒf/","meaning":"咳嗽声","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s082.wav"},{"id":"u20-p130-s083","speaker":"narrator","text":"water","rects":[{"x":15.956,"y":55.8156,"w":5.751,"h":1.8954}],"ipa":"/ˈwɔːtə/","meaning":"水","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s083.wav"},{"id":"u20-p130-s084","speaker":"narrator","text":"short","rects":[{"x":24.2786,"y":55.8156,"w":5.4313,"h":1.8954}],"ipa":"/ˈʃɔːt/","meaning":"简称","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s084.wav"},{"id":"u20-p130-s085","speaker":"narrator","text":"more","rects":[{"x":33.4208,"y":55.8156,"w":5.4448,"h":1.8954}],"ipa":"/ˈmɔː/","meaning":"更多( E)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s085.wav"},{"id":"u20-p130-s086","speaker":"narrator","text":"door","rects":[{"x":42.6283,"y":55.8156,"w":4.8931,"h":1.8954}],"ipa":"/ˈdɔː/","meaning":"门","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s086.wav"},{"id":"u20-p130-s087","speaker":"narrator","text":"talk","rects":[{"x":52.8063,"y":55.8156,"w":3.9181,"h":1.8954}],"ipa":"/ˈtɔːk/","meaning":"说话","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s087.wav"},{"id":"u20-p130-s088","speaker":"narrator","text":"saw","rects":[{"x":62.3088,"y":55.8156,"w":3.8528,"h":1.8954}],"ipa":"/ˈsɔː/","meaning":"锯","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s088.wav"},{"id":"u20-p130-s089","speaker":"narrator","text":"four","rects":[{"x":71.6176,"y":55.8156,"w":4.3572,"h":1.8954}],"ipa":"/ˈfɔː/","meaning":"4个","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s089.wav"},{"id":"u20-p130-s090","speaker":"narrator","text":"autumn","rects":[{"x":78.5328,"y":55.8156,"w":8.3428,"h":1.8954}],"ipa":"/ˈɔːtəm/","meaning":"秋天时分","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s090.wav"},{"id":"u20-p130-s091","speaker":"narrator","text":"blackboard","rects":[{"x":15.956,"y":58.459,"w":11.5268,"h":1.8954}],"ipa":"/ˈblækbɔːd/","meaning":"黑纸板","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s091.wav"},{"id":"u20-p130-s092","speaker":"narrator","text":"warm","rects":[{"x":33.4208,"y":58.459,"w":5.9334,"h":1.8954}],"ipa":"/ˈwɔːm/","meaning":"温暖","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s092.wav"},{"id":"u20-p130-s093","speaker":"narrator","text":"thought","rects":[{"x":42.6283,"y":58.459,"w":8.5477,"h":1.8954}],"ipa":"/ˈθɔːt/","meaning":"认为","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s093.wav"},{"id":"u20-p130-s094","speaker":"narrator","text":"put","rects":[{"x":15.956,"y":61.1025,"w":3.5758,"h":1.8954}],"ipa":"/ˌpʊt/","meaning":"设置","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s094.wav"},{"id":"u20-p130-s095","speaker":"narrator","text":"book","rects":[{"x":24.2786,"y":61.1025,"w":5.2286,"h":1.8954}],"ipa":"/ˈbʊk/","meaning":"书本","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s095.wav"},{"id":"u20-p130-s096","speaker":"narrator","text":"would","rects":[{"x":33.4208,"y":61.1025,"w":6.5572,"h":1.8954}],"ipa":"/ˈwʊd/","meaning":"将","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s096.wav"},{"id":"u20-p130-s097","speaker":"narrator","text":"woman","rects":[{"x":42.6283,"y":61.1025,"w":7.8812,"h":1.8954}],"ipa":"/ˈwʊmən/","meaning":"女人","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s097.wav"},{"id":"u20-p130-s098","speaker":"narrator","text":"zoo","rects":[{"x":15.956,"y":63.7459,"w":3.7244,"h":1.8954}],"ipa":"/ˈzuː/","meaning":"动物园","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s098.wav"},{"id":"u20-p130-s099","speaker":"narrator","text":"who","rects":[{"x":24.2786,"y":63.7459,"w":4.6049,"h":1.8954}],"ipa":"/ˌhuː/","meaning":"谁","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s099.wav"},{"id":"u20-p130-s100","speaker":"narrator","text":"ruler","rects":[{"x":33.4208,"y":63.7459,"w":4.9224,"h":1.8954}],"ipa":"/ˈruːlə/","meaning":"标尺","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s100.wav"},{"id":"u20-p130-s101","speaker":"narrator","text":"group","rects":[{"x":42.6283,"y":63.7459,"w":6.1519,"h":1.8954}],"ipa":"/ˈgruːp/","meaning":"组","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s101.wav"},{"id":"u20-p130-s102","speaker":"narrator","text":"shoe","rects":[{"x":52.8063,"y":63.7459,"w":4.8458,"h":1.8954}],"ipa":"/ˈʃuː/","meaning":"鞋头","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s102.wav"},{"id":"u20-p130-s103","speaker":"narrator","text":"flew","rects":[{"x":62.3088,"y":63.7459,"w":4.3842,"h":1.8954}],"ipa":"/ˈfluː/","meaning":"飞了","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s103.wav"},{"id":"u20-p130-s104","speaker":"narrator","text":"blue","rects":[{"x":71.6176,"y":63.7459,"w":4.5103,"h":1.8954}],"ipa":"/ˈbluː/","meaning":"蓝色","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s104.wav"},{"id":"u20-p130-s105","speaker":"narrator","text":"juice","rects":[{"x":78.5328,"y":63.7459,"w":4.9899,"h":1.8954}],"ipa":"/ˈdʒuːs/","meaning":"果汁( 果汁)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s105.wav"},{"id":"u20-p130-s106","speaker":"narrator","text":"two","rects":[{"x":86.2024,"y":63.7459,"w":3.9564,"h":1.8954}],"ipa":"/ˈtuː/","meaning":"二个","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s106.wav"},{"id":"u20-p130-s107","speaker":"narrator","text":"ago","rects":[{"x":15.956,"y":66.3893,"w":3.6884,"h":1.8955}],"ipa":"/əˈgəʊ/","meaning":"刚才","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s107.wav"},{"id":"u20-p130-s108","speaker":"narrator","text":"second","rects":[{"x":24.2786,"y":66.3893,"w":7.298,"h":1.8955}],"ipa":"/ˈsekənd/","meaning":"第二届","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s108.wav"},{"id":"u20-p130-s109","speaker":"narrator","text":"teacher doctor","rects":[{"x":33.4208,"y":66.3893,"w":16.0259,"h":1.8955}],"ipa":"/ˈtiːtʃə ˈdɒktə/","meaning":"教师医生","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s109.wav"},{"id":"u20-p130-s110","speaker":"narrator","text":"August","rects":[{"x":52.8063,"y":66.3893,"w":7.2507,"h":1.8955}],"ipa":"/ˈɔːgəst/","meaning":"8月(半天)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s110.wav"},{"id":"u20-p130-s111","speaker":"narrator","text":"holiday open colour","rects":[{"x":62.3088,"y":66.3893,"w":22.9231,"h":1.8955}],"ipa":"/ˈhɒlɪdeɪ ˈəʊpən ˈkʌlə/","meaning":"假日开放颜色","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s111.wav"},{"id":"u20-p130-s112","speaker":"narrator","text":"her","rects":[{"x":15.956,"y":69.0328,"w":3.4632,"h":1.8954}],"ipa":"/ˌhɜː/","meaning":"她的；她","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s112.wav"},{"id":"u20-p130-s113","speaker":"narrator","text":"bird","rects":[{"x":24.2786,"y":69.0328,"w":4.2468,"h":1.8954}],"ipa":"/ˈbɜːd/","meaning":"鸟类","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s113.wav"},{"id":"u20-p130-s114","speaker":"narrator","text":"worker","rects":[{"x":33.4208,"y":69.0328,"w":7.2124,"h":1.8954}],"ipa":"/ˈwɜːkə/","meaning":"劳动者","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s114.wav"},{"id":"u20-p130-s115","speaker":"narrator","text":"purse","rects":[{"x":42.6283,"y":69.0328,"w":5.6407,"h":1.8954}],"ipa":"/ˈpɜːs/","meaning":"钱包","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s115.wav"},{"id":"u20-p130-s116","speaker":"narrator","text":"earth","rects":[{"x":52.8063,"y":69.0328,"w":5.4425,"h":1.8954}],"ipa":"/ˈɜːθ/","meaning":"土质","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s116.wav"},{"id":"u20-p130-s117","speaker":"narrator","text":"late","rects":[{"x":15.9538,"y":71.6762,"w":3.792,"h":1.8954}],"ipa":"/ˈleɪt/","meaning":"迟到了","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s117.wav"},{"id":"u20-p130-s118","speaker":"narrator","text":"wait","rects":[{"x":24.2763,"y":71.6762,"w":4.4675,"h":1.8954}],"ipa":"/ˈweɪt/","meaning":"等待","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s118.wav"},{"id":"u20-p130-s119","speaker":"narrator","text":"day","rects":[{"x":33.4185,"y":71.6762,"w":3.7582,"h":1.8954}],"ipa":"/ˈdeɪ/","meaning":"日数","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s119.wav"},{"id":"u20-p130-s120","speaker":"narrator","text":"they","rects":[{"x":42.626,"y":71.6762,"w":4.6814,"h":1.8954}],"ipa":"/ðeɪ/","meaning":"他们","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s120.wav"},{"id":"u20-p130-s121","speaker":"narrator","text":"eight","rects":[{"x":52.804,"y":71.6762,"w":5.3367,"h":1.8954}],"ipa":"/ˈeɪt/","meaning":"八个","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s121.wav"},{"id":"u20-p130-s122","speaker":"narrator","text":"great","rects":[{"x":62.3065,"y":71.6762,"w":5.1701,"h":1.8954}],"ipa":"/ˈgreɪt/","meaning":"不错","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s122.wav"},{"id":"u20-p130-s123","speaker":"narrator","text":"cafe","rects":[{"x":71.6154,"y":71.6762,"w":4.1343,"h":1.8954}],"ipa":"/ˈkæfeɪ/","meaning":"咖啡馆","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s123.wav"},{"id":"u20-p130-s124","speaker":"narrator","text":"hi","rects":[{"x":15.9538,"y":74.3197,"w":2.1797,"h":1.8954}],"ipa":"/ˈhaɪ/","meaning":"你好","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s124.wav"},{"id":"u20-p130-s125","speaker":"narrator","text":"my","rects":[{"x":24.2763,"y":74.3197,"w":3.3822,"h":1.8954}],"ipa":"/ˈmaɪ/","meaning":"我的","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s125.wav"},{"id":"u20-p130-s126","speaker":"narrator","text":"bye","rects":[{"x":33.4185,"y":74.3197,"w":3.6884,"h":1.8954}],"ipa":"/ˈbaɪ/","meaning":"再见","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s126.wav"},{"id":"u20-p130-s127","speaker":"narrator","text":"eye","rects":[{"x":42.626,"y":74.3197,"w":3.4812,"h":1.8954}],"ipa":"/ˈaɪ/","meaning":"双眼","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s127.wav"},{"id":"u20-p130-s128","speaker":"narrator","text":"buy","rects":[{"x":52.804,"y":74.3197,"w":3.9496,"h":1.8954}],"ipa":"/ˈbaɪ/","meaning":"买","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s128.wav"},{"id":"u20-p130-s129","speaker":"narrator","text":"die","rects":[{"x":62.3065,"y":74.3197,"w":3.1727,"h":1.8954}],"ipa":"/ˈdaɪ/","meaning":"死亡( B)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s129.wav"},{"id":"u20-p130-s130","speaker":"narrator","text":"high","rects":[{"x":71.6154,"y":74.3197,"w":4.8706,"h":1.8954}],"ipa":"/ˈhaɪ/","meaning":"高档","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s130.wav"},{"id":"u20-p130-s131","speaker":"narrator","text":"join","rects":[{"x":15.9537,"y":76.9631,"w":4.2221,"h":1.8954}],"ipa":"/ˈdʒɔɪn/","meaning":"加入( E)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s131.wav"},{"id":"u20-p130-s132","speaker":"narrator","text":"boy","rects":[{"x":24.2763,"y":76.9631,"w":3.9068,"h":1.8954}],"ipa":"/ˈbɔɪ/","meaning":"男孩","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s132.wav"},{"id":"u20-p130-s133","speaker":"narrator","text":"no","rects":[{"x":15.956,"y":79.6066,"w":2.8147,"h":1.8954}],"ipa":"/ˈnəʊ/","meaning":"非也。","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s133.wav"},{"id":"u20-p130-s134","speaker":"narrator","text":"boat","rects":[{"x":24.2786,"y":79.6066,"w":4.6342,"h":1.8954}],"ipa":"/ˈbəʊt/","meaning":"轮船","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s134.wav"},{"id":"u20-p130-s135","speaker":"narrator","text":"know","rects":[{"x":33.4208,"y":79.6066,"w":5.8456,"h":1.8954}],"ipa":"/ˈnəʊ/","meaning":"知道吗？","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s135.wav"},{"id":"u20-p130-s136","speaker":"narrator","text":"shoulder","rects":[{"x":42.6283,"y":79.6066,"w":9.1467,"h":1.8954}],"ipa":"/ˈʃəʊldə/","meaning":"双肩","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s136.wav"},{"id":"u20-p130-s137","speaker":"narrator","text":"out","rects":[{"x":15.956,"y":82.25,"w":3.542,"h":1.8954}],"ipa":"/ˈaʊt/","meaning":"关闭( O)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s137.wav"},{"id":"u20-p130-s138","speaker":"narrator","text":"now","rects":[{"x":24.2786,"y":82.25,"w":4.6049,"h":1.8954}],"ipa":"/ˈnaʊ/","meaning":"现在","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s138.wav"},{"id":"u20-p130-s139","speaker":"narrator","text":"idea","rects":[{"x":15.9583,"y":84.8935,"w":4.3189,"h":1.8954}],"ipa":"/aɪˈdɪə/","meaning":"创意","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s139.wav"},{"id":"u20-p130-s140","speaker":"narrator","text":"near","rects":[{"x":24.2808,"y":84.8935,"w":4.6094,"h":1.8954}],"ipa":"/ˌnɪə/","meaning":"近处","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s140.wav"},{"id":"u20-p130-s141","speaker":"narrator","text":"beer","rects":[{"x":33.423,"y":84.8935,"w":4.418,"h":1.8954}],"ipa":"/ˈbɪə/","meaning":"来杯啤酒","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s141.wav"},{"id":"u20-p130-s142","speaker":"narrator","text":"here","rects":[{"x":42.6305,"y":84.8935,"w":4.5779,"h":1.8954}],"ipa":"/ˈhɪə/","meaning":"这儿","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s142.wav"},{"id":"u20-p130-s143","speaker":"narrator","text":"hair","rects":[{"x":15.9582,"y":87.5369,"w":4.1928,"h":1.8954}],"ipa":"/ˈheə/","meaning":"头发","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s143.wav"},{"id":"u20-p130-s144","speaker":"narrator","text":"wear","rects":[{"x":24.2808,"y":87.5369,"w":4.9179,"h":1.8954}],"ipa":"/ˈweə/","meaning":"佩戴( L)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s144.wav"},{"id":"u20-p130-s145","speaker":"narrator","text":"there","rects":[{"x":33.423,"y":87.5369,"w":5.411,"h":1.8954}],"ipa":"/ˈðeə/","meaning":"在那儿","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s145.wav"},{"id":"u20-p130-s146","speaker":"narrator","text":"their","rects":[{"x":42.6305,"y":87.5369,"w":4.9944,"h":1.8954}],"ipa":"/ðeə/","meaning":"他们的","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s146.wav"},{"id":"u20-p130-s147","speaker":"narrator","text":"care","rects":[{"x":52.8085,"y":87.5369,"w":4.2198,"h":1.8954}],"ipa":"/ˈkeə/","meaning":"护理","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s147.wav"},{"id":"u20-p130-s148","speaker":"narrator","text":"poor","rects":[{"x":15.956,"y":90.1804,"w":4.8999,"h":1.8954}],"ipa":"/ˈpɔː/","meaning":"穷人","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s148.wav"},{"id":"u20-p130-s149","speaker":"narrator","text":"sure","rects":[{"x":24.2786,"y":90.1804,"w":4.2739,"h":1.8954}],"ipa":"/ˈʃʊə/","meaning":"当然","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p130-s149.wav"}]},{"page":131,"pdfPage":132,"width":532.9130249023438,"height":754.0159912109375,"image":"assets/pages/page-131.webp","sentences":[{"id":"u20-p131-s002","speaker":"narrator","text":"English sounds","rects":[{"x":92.8482,"y":5.5924,"w":2.4814,"h":10.3388}],"ipa":"/ˈɪŋglɪʃ ˈsaʊndz/","meaning":"英语音素","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s002.wav"},{"id":"u20-p131-s001","speaker":"narrator","text":"Consonants","rects":[{"x":7.9787,"y":8.3665,"w":13.1008,"h":1.9018}],"ipa":"/ˈkɒnsənənts/","meaning":"连线","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s001.wav"},{"id":"u20-p131-s003","speaker":"narrator","text":"pen","rects":[{"x":14.3625,"y":10.9017,"w":3.9631,"h":1.8955}],"ipa":"/ˈpen/","meaning":"钢笔","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s003.wav"},{"id":"u20-p131-s004","speaker":"narrator","text":"happy","rects":[{"x":24.4932,"y":10.9017,"w":6.6135,"h":1.8955}],"ipa":"/ˈhæpiː/","meaning":"快乐","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s004.wav"},{"id":"u20-p131-s005","speaker":"narrator","text":"bus","rects":[{"x":14.3648,"y":13.5451,"w":3.6141,"h":1.8955}],"ipa":"/ˈbʌs/","meaning":"公共汽车","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s005.wav"},{"id":"u20-p131-s006","speaker":"narrator","text":"table","rects":[{"x":14.3648,"y":16.1886,"w":5.1138,"h":1.8955}],"ipa":"/ˈteɪbəl/","meaning":"表格显示","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s006.wav"},{"id":"u20-p131-s007","speaker":"narrator","text":"letter","rects":[{"x":24.4955,"y":16.1886,"w":5.4606,"h":1.8955}],"ipa":"/ˈletə/","meaning":"信件","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s007.wav"},{"id":"u20-p131-s008","speaker":"narrator","text":"dog","rects":[{"x":14.367,"y":18.832,"w":3.9023,"h":1.8954}],"ipa":"/ˈdɒg/","meaning":"狗","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s008.wav"},{"id":"u20-p131-s009","speaker":"narrator","text":"kite","rects":[{"x":14.367,"y":21.4755,"w":3.8866,"h":1.8954}],"ipa":"/ˈkaɪt/","meaning":"风筝","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s009.wav"},{"id":"u20-p131-s010","speaker":"narrator","text":"cat","rects":[{"x":24.4977,"y":21.4755,"w":3.0714,"h":1.8954}],"ipa":"/ˈkæt/","meaning":"猫","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s010.wav"},{"id":"u20-p131-s011","speaker":"narrator","text":"lock","rects":[{"x":38.0084,"y":21.4755,"w":4.3639,"h":1.8954}],"ipa":"/ˈlɒk/","meaning":"锁定","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s011.wav"},{"id":"u20-p131-s012","speaker":"narrator","text":"go","rects":[{"x":14.3693,"y":24.1189,"w":2.5423,"h":1.8954}],"ipa":"/ˌgəʊ/","meaning":"去","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s012.wav"},{"id":"u20-p131-s013","speaker":"narrator","text":"egg","rects":[{"x":24.5,"y":24.1189,"w":3.533,"h":1.8954}],"ipa":"/ˈeg/","meaning":"蛋","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s013.wav"},{"id":"u20-p131-s014","speaker":"narrator","text":"child","rects":[{"x":14.3715,"y":26.7624,"w":5.33,"h":1.8954}],"ipa":"/ˈtʃaɪld/","meaning":"儿童","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s014.wav"},{"id":"u20-p131-s015","speaker":"narrator","text":"watch","rects":[{"x":24.5023,"y":26.7624,"w":6.3432,"h":1.8954}],"ipa":"/ˈwɒtʃ/","meaning":"手表","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s015.wav"},{"id":"u20-p131-s016","speaker":"narrator","text":"joke","rects":[{"x":14.3738,"y":29.4058,"w":4.3977,"h":1.8954}],"ipa":"/ˈdʒəʊk/","meaning":"笑话","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s016.wav"},{"id":"u20-p131-s017","speaker":"narrator","text":"age","rects":[{"x":24.5045,"y":29.4058,"w":3.47,"h":1.8954}],"ipa":"/ˈeɪdʒ/","meaning":"年龄","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s017.wav"},{"id":"u20-p131-s018","speaker":"narrator","text":"bridge","rects":[{"x":38.0152,"y":29.4058,"w":6.5707,"h":1.8954}],"ipa":"/ˈbrɪdʒ/","meaning":"桥","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s018.wav"},{"id":"u20-p131-s019","speaker":"narrator","text":"tree","rects":[{"x":14.376,"y":32.0493,"w":3.9293,"h":1.8954}],"ipa":"/ˈtriː/","meaning":"树","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s019.wav"},{"id":"u20-p131-s020","speaker":"narrator","text":"dress","rects":[{"x":14.376,"y":34.6927,"w":5.1746,"h":1.8954}],"ipa":"/ˈdres/","meaning":"着装","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s020.wav"},{"id":"u20-p131-s021","speaker":"narrator","text":"boots","rects":[{"x":14.376,"y":37.3361,"w":5.7375,"h":1.8954}],"ipa":"/ˈbuːts/","meaning":"靴子","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s021.wav"},{"id":"u20-p131-s022","speaker":"narrator","text":"skates","rects":[{"x":24.5068,"y":37.3361,"w":6.1676,"h":1.8954}],"ipa":"/ˈskeɪts/","meaning":"滑冰运动员","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s022.wav"},{"id":"u20-p131-s023","speaker":"narrator","text":"cards","rects":[{"x":14.3783,"y":39.9796,"w":5.3817,"h":1.8954}],"ipa":"/ˈkɑːdz/","meaning":"纸牌","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s023.wav"},{"id":"u20-p131-s024","speaker":"narrator","text":"few","rects":[{"x":14.3783,"y":42.623,"w":3.6862,"h":1.8954}],"ipa":"/ˈfjuː/","meaning":"数量","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s024.wav"},{"id":"u20-p131-s025","speaker":"narrator","text":"laugh","rects":[{"x":24.509,"y":42.623,"w":5.9109,"h":1.8954}],"ipa":"/ˈlɑːf/","meaning":"欢笑","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s025.wav"},{"id":"u20-p131-s026","speaker":"narrator","text":"photo","rects":[{"x":38.0197,"y":42.623,"w":6.3478,"h":1.8954}],"ipa":"/ˈfəʊtəʊ/","meaning":"图片","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s026.wav"},{"id":"u20-p131-s027","speaker":"narrator","text":"office","rects":[{"x":50.5485,"y":42.623,"w":5.8006,"h":1.8954}],"ipa":"/ˈɒfɪs/","meaning":"办公室","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s027.wav"},{"id":"u20-p131-s028","speaker":"narrator","text":"very","rects":[{"x":14.3783,"y":45.2665,"w":4.4878,"h":1.8954}],"ipa":"/ˈveriː/","meaning":"非常喜欢","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s028.wav"},{"id":"u20-p131-s029","speaker":"narrator","text":"of","rects":[{"x":24.509,"y":45.2665,"w":2.1144,"h":1.8954}],"ipa":"/ɒv/","meaning":"的","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s029.wav"},{"id":"u20-p131-s030","speaker":"narrator","text":"month","rects":[{"x":14.3805,"y":47.9099,"w":7.2597,"h":1.8954}],"ipa":"/ˈmʌnθ/","meaning":"月数","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s030.wav"},{"id":"u20-p131-s031","speaker":"narrator","text":"that","rects":[{"x":14.3805,"y":50.5534,"w":4.2941,"h":1.8954}],"ipa":"/ðæt/","meaning":"那个","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s031.wav"},{"id":"u20-p131-s032","speaker":"narrator","text":"sit","rects":[{"x":14.3805,"y":53.1968,"w":2.4477,"h":1.8954}],"ipa":"/ˈsɪt/","meaning":"坐","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s032.wav"},{"id":"u20-p131-s033","speaker":"narrator","text":"maps","rects":[{"x":24.5113,"y":53.1968,"w":5.5596,"h":1.8954}],"ipa":"/ˈmæps/","meaning":"地图","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s033.wav"},{"id":"u20-p131-s034","speaker":"narrator","text":"city","rects":[{"x":38.0219,"y":53.1968,"w":3.8753,"h":1.8954}],"ipa":"/ˈsɪtiː/","meaning":"城市","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s034.wav"},{"id":"u20-p131-s035","speaker":"narrator","text":"class","rects":[{"x":50.5508,"y":53.1968,"w":4.7693,"h":1.8954}],"ipa":"/ˈklɑːs/","meaning":"类","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s035.wav"},{"id":"u20-p131-s036","speaker":"narrator","text":"zoo","rects":[{"x":14.3805,"y":55.8403,"w":3.7244,"h":1.8954}],"ipa":"/ˈzuː/","meaning":"动物园","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s036.wav"},{"id":"u20-p131-s037","speaker":"narrator","text":"jobs","rects":[{"x":24.5113,"y":55.8403,"w":4.2806,"h":1.8954}],"ipa":"/ˈdʒɒbz/","meaning":"任务","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s037.wav"},{"id":"u20-p131-s038","speaker":"narrator","text":"she","rects":[{"x":14.3828,"y":58.4837,"w":3.5128,"h":1.8954}],"ipa":"/ʃiː/","meaning":"她","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s038.wav"},{"id":"u20-p131-s039","speaker":"narrator","text":"sure","rects":[{"x":24.5135,"y":58.4837,"w":4.2739,"h":1.8954}],"ipa":"/ˈʃʊə/","meaning":"当然","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s039.wav"},{"id":"u20-p131-s040","speaker":"narrator","text":"usually","rects":[{"x":14.385,"y":61.1272,"w":7.4624,"h":1.8954}],"ipa":"/ˈjuːʒʊəliː/","meaning":"通常情况下","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s040.wav"},{"id":"u20-p131-s041","speaker":"narrator","text":"he","rects":[{"x":14.385,"y":63.7706,"w":2.5963,"h":1.8954}],"ipa":"/hiː/","meaning":"他","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s041.wav"},{"id":"u20-p131-s042","speaker":"narrator","text":"who","rects":[{"x":24.5158,"y":63.7706,"w":4.6049,"h":1.8954}],"ipa":"/ˌhuː/","meaning":"谁","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s042.wav"},{"id":"u20-p131-s043","speaker":"narrator","text":"man","rects":[{"x":14.3873,"y":66.4141,"w":4.758,"h":1.8954}],"ipa":"/ˈmæn/","meaning":"男人","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s043.wav"},{"id":"u20-p131-s044","speaker":"narrator","text":"summer","rects":[{"x":24.518,"y":66.4141,"w":8.5342,"h":1.8954}],"ipa":"/ˈsʌmə/","meaning":"夏季( 夏季)","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s044.wav"},{"id":"u20-p131-s045","speaker":"narrator","text":"no","rects":[{"x":14.3895,"y":69.0575,"w":2.8147,"h":1.8954}],"ipa":"/ˈnəʊ/","meaning":"非也。","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s045.wav"},{"id":"u20-p131-s046","speaker":"narrator","text":"beginning","rects":[{"x":24.5203,"y":69.0575,"w":10.6959,"h":1.8954}],"ipa":"/bɪˈgɪnɪŋ/","meaning":"开始","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s046.wav"},{"id":"u20-p131-s047","speaker":"narrator","text":"know","rects":[{"x":38.0309,"y":69.0575,"w":5.8456,"h":1.8954}],"ipa":"/ˈnəʊ/","meaning":"知道吗？","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s047.wav"},{"id":"u20-p131-s048","speaker":"narrator","text":"think","rects":[{"x":14.3918,"y":71.7009,"w":5.7353,"h":1.8954}],"ipa":"/ˈθɪŋk/","meaning":"考虑","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s048.wav"},{"id":"u20-p131-s049","speaker":"narrator","text":"sing","rects":[{"x":24.5225,"y":71.7009,"w":4.3054,"h":1.8954}],"ipa":"/ˈsɪŋ/","meaning":"歌声","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s049.wav"},{"id":"u20-p131-s050","speaker":"narrator","text":"leg","rects":[{"x":14.394,"y":74.3444,"w":3.0219,"h":1.8954}],"ipa":"/ˈleg/","meaning":"脚","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s050.wav"},{"id":"u20-p131-s051","speaker":"narrator","text":"bell","rects":[{"x":24.5248,"y":74.3444,"w":3.8325,"h":1.8954}],"ipa":"/ˈbel/","meaning":"铃声","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s051.wav"},{"id":"u20-p131-s052","speaker":"narrator","text":"red","rects":[{"x":14.3963,"y":76.9878,"w":3.3416,"h":1.8954}],"ipa":"/ˈred/","meaning":"红色","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s052.wav"},{"id":"u20-p131-s053","speaker":"narrator","text":"hurry","rects":[{"x":24.527,"y":76.9878,"w":5.8434,"h":1.8954}],"ipa":"/ˈhʌriː/","meaning":"快点","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s053.wav"},{"id":"u20-p131-s054","speaker":"narrator","text":"write","rects":[{"x":38.0377,"y":76.9878,"w":5.3029,"h":1.8954}],"ipa":"/ˈraɪt/","meaning":"写","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s054.wav"},{"id":"u20-p131-s055","speaker":"narrator","text":"yes","rects":[{"x":14.3985,"y":79.6313,"w":3.2831,"h":1.8954}],"ipa":"/ˈjes/","meaning":"是的","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s055.wav"},{"id":"u20-p131-s056","speaker":"narrator","text":"we","rects":[{"x":14.3985,"y":82.2747,"w":2.9048,"h":1.8954}],"ipa":"/wiː/","meaning":"我们","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s056.wav"},{"id":"u20-p131-s057","speaker":"narrator","text":"what","rects":[{"x":24.5293,"y":82.2747,"w":5.2511,"h":1.8954}],"ipa":"/ˌwɒt/","meaning":"什么","voice":"英式女声 · Emma","audio":"assets/audio/u20/u20-p131-s057.wav"}]}]}
+{
+  "id": 20,
+  "kind": "appendix",
+  "title": "English sounds",
+  "displayTitle": "附录 · 英语音素",
+  "start": 130,
+  "end": 131,
+  "pages": [
+    {
+      "page": 130,
+      "pdfPage": 131,
+      "width": 532.9130249023438,
+      "height": 754.0159912109375,
+      "image": "assets/pages/page-130.webp",
+      "sentences": [
+        {
+          "id": "u20-p130-s002",
+          "speaker": "narrator",
+          "text": "sounds English",
+          "rects": [
+            {
+              "x": 4.6169,
+              "y": 5.6216,
+              "w": 2.4747,
+              "h": 10.3108
+            }
+          ],
+          "ipa": "/ˈsaʊndz ˈɪŋglɪʃ/",
+          "meaning": "听起来英语",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s002.wav"
+        },
+        {
+          "id": "u20-p130-s001",
+          "speaker": "narrator",
+          "text": "English sounds",
+          "rects": [
+            {
+              "x": 13.6011,
+              "y": 6.5377,
+              "w": 25.3426,
+              "h": 2.8551
+            }
+          ],
+          "ipa": "/ˈɪŋglɪʃ ˈsaʊndz/",
+          "meaning": "英语音素",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s001.wav"
+        },
+        {
+          "id": "u20-p130-s013",
+          "speaker": "narrator",
+          "text": "Vowels",
+          "rects": [
+            {
+              "x": 13.5494,
+              "y": 15.3888,
+              "w": 7.7258,
+              "h": 1.9018
+            }
+          ],
+          "ipa": "/ˈvaʊəlz/",
+          "meaning": "伏尔",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s013.wav"
+        },
+        {
+          "id": "u20-p130-s038",
+          "speaker": "narrator",
+          "text": "Consonants",
+          "rects": [
+            {
+              "x": 10.8619,
+              "y": 24.7935,
+              "w": 13.1008,
+              "h": 1.9018
+            }
+          ],
+          "ipa": "/ˈkɒnsənənts/",
+          "meaning": "连线",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s038.wav"
+        },
+        {
+          "id": "u20-p130-s053",
+          "speaker": "narrator",
+          "text": "Vowels",
+          "rects": [
+            {
+              "x": 9.5745,
+              "y": 34.7762,
+              "w": 7.7258,
+              "h": 1.9018
+            }
+          ],
+          "ipa": "/ˈvaʊəlz/",
+          "meaning": "伏尔",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s053.wav"
+        },
+        {
+          "id": "u20-p130-s054",
+          "speaker": "narrator",
+          "text": "ship",
+          "rects": [
+            {
+              "x": 15.9583,
+              "y": 37.3114,
+              "w": 4.463,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈʃɪp/",
+          "meaning": "船舶",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s054.wav"
+        },
+        {
+          "id": "u20-p130-s055",
+          "speaker": "narrator",
+          "text": "little",
+          "rects": [
+            {
+              "x": 24.2808,
+              "y": 37.3114,
+              "w": 4.8751,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈlɪtəl/",
+          "meaning": "小",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s055.wav"
+        },
+        {
+          "id": "u20-p130-s056",
+          "speaker": "narrator",
+          "text": "enjoy",
+          "rects": [
+            {
+              "x": 33.423,
+              "y": 37.3114,
+              "w": 5.8906,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ɪˈndʒɔɪ/",
+          "meaning": "欣赏",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s056.wav"
+        },
+        {
+          "id": "u20-p130-s057",
+          "speaker": "narrator",
+          "text": "minute",
+          "rects": [
+            {
+              "x": 42.6305,
+              "y": 37.3114,
+              "w": 7.6335,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈmɪnɪt/",
+          "meaning": "分钟",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s057.wav"
+        },
+        {
+          "id": "u20-p130-s058",
+          "speaker": "narrator",
+          "text": "women",
+          "rects": [
+            {
+              "x": 52.8085,
+              "y": 37.3114,
+              "w": 7.8497,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈwɪmɪn/",
+          "meaning": "妇女",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s058.wav"
+        },
+        {
+          "id": "u20-p130-s059",
+          "speaker": "narrator",
+          "text": "me",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 39.9549,
+              "w": 3.2448,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˌmiː/",
+          "meaning": "我",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s059.wav"
+        },
+        {
+          "id": "u20-p130-s060",
+          "speaker": "narrator",
+          "text": "see",
+          "rects": [
+            {
+              "x": 24.2786,
+              "y": 39.9549,
+              "w": 3.1457,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈsiː/",
+          "meaning": "见",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s060.wav"
+        },
+        {
+          "id": "u20-p130-s061",
+          "speaker": "narrator",
+          "text": "tea",
+          "rects": [
+            {
+              "x": 33.4208,
+              "y": 39.9549,
+              "w": 3.0939,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈtiː/",
+          "meaning": "茶叶",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s061.wav"
+        },
+        {
+          "id": "u20-p130-s062",
+          "speaker": "narrator",
+          "text": "field",
+          "rects": [
+            {
+              "x": 42.6283,
+              "y": 39.9549,
+              "w": 4.6522,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈfiːld/",
+          "meaning": "字段",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s062.wav"
+        },
+        {
+          "id": "u20-p130-s063",
+          "speaker": "narrator",
+          "text": "key",
+          "rects": [
+            {
+              "x": 52.8063,
+              "y": 39.9549,
+              "w": 3.6073,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈkiː/",
+          "meaning": "键",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s063.wav"
+        },
+        {
+          "id": "u20-p130-s064",
+          "speaker": "narrator",
+          "text": "machine",
+          "rects": [
+            {
+              "x": 62.3088,
+              "y": 39.9549,
+              "w": 9.1445,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/məˈʃiːn/",
+          "meaning": "机器",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s064.wav"
+        },
+        {
+          "id": "u20-p130-s065",
+          "speaker": "narrator",
+          "text": "bed",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 42.5983,
+              "w": 3.7965,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈbed/",
+          "meaning": "床单",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s065.wav"
+        },
+        {
+          "id": "u20-p130-s066",
+          "speaker": "narrator",
+          "text": "head",
+          "rects": [
+            {
+              "x": 24.2786,
+              "y": 42.5983,
+              "w": 5.1025,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈhed/",
+          "meaning": "头",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s066.wav"
+        },
+        {
+          "id": "u20-p130-s067",
+          "speaker": "narrator",
+          "text": "many",
+          "rects": [
+            {
+              "x": 33.4208,
+              "y": 42.5983,
+              "w": 6.01,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈmeniː/",
+          "meaning": "许多人",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s067.wav"
+        },
+        {
+          "id": "u20-p130-s068",
+          "speaker": "narrator",
+          "text": "friend",
+          "rects": [
+            {
+              "x": 42.6283,
+              "y": 42.5983,
+              "w": 6.3027,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈfrend/",
+          "meaning": "朋友们",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s068.wav"
+        },
+        {
+          "id": "u20-p130-s069",
+          "speaker": "narrator",
+          "text": "says",
+          "rects": [
+            {
+              "x": 52.8063,
+              "y": 42.5983,
+              "w": 4.2311,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈsez/",
+          "meaning": "说",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s069.wav"
+        },
+        {
+          "id": "u20-p130-s070",
+          "speaker": "narrator",
+          "text": "said",
+          "rects": [
+            {
+              "x": 62.3088,
+              "y": 42.5983,
+              "w": 4.1207,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈsed/",
+          "meaning": "说",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s070.wav"
+        },
+        {
+          "id": "u20-p130-s071",
+          "speaker": "narrator",
+          "text": "map",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 45.2418,
+              "w": 4.6432,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈmæp/",
+          "meaning": "地图",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s071.wav"
+        },
+        {
+          "id": "u20-p130-s072",
+          "speaker": "narrator",
+          "text": "cup",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 47.8852,
+              "w": 3.8348,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈkʌp/",
+          "meaning": "杯子",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s072.wav"
+        },
+        {
+          "id": "u20-p130-s073",
+          "speaker": "narrator",
+          "text": "money",
+          "rects": [
+            {
+              "x": 24.2786,
+              "y": 47.8852,
+              "w": 7.3115,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈmʌniː/",
+          "meaning": "钱",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s073.wav"
+        },
+        {
+          "id": "u20-p130-s074",
+          "speaker": "narrator",
+          "text": "young",
+          "rects": [
+            {
+              "x": 33.4208,
+              "y": 47.8852,
+              "w": 6.6517,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈjʌŋ/",
+          "meaning": "年轻",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s074.wav"
+        },
+        {
+          "id": "u20-p130-s075",
+          "speaker": "narrator",
+          "text": "does",
+          "rects": [
+            {
+              "x": 42.6283,
+              "y": 47.8852,
+              "w": 4.7242,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈdʌz/",
+          "meaning": "是否",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s075.wav"
+        },
+        {
+          "id": "u20-p130-s076",
+          "speaker": "narrator",
+          "text": "fast",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 50.5287,
+              "w": 3.6771,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈfɑːst/",
+          "meaning": "快速( T)",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s076.wav"
+        },
+        {
+          "id": "u20-p130-s077",
+          "speaker": "narrator",
+          "text": "car",
+          "rects": [
+            {
+              "x": 24.2786,
+              "y": 50.5287,
+              "w": 3.1052,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈkɑː/",
+          "meaning": "汽车",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s077.wav"
+        },
+        {
+          "id": "u20-p130-s078",
+          "speaker": "narrator",
+          "text": "laugh",
+          "rects": [
+            {
+              "x": 33.4208,
+              "y": 50.5287,
+              "w": 5.9109,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈlɑːf/",
+          "meaning": "欢笑",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s078.wav"
+        },
+        {
+          "id": "u20-p130-s079",
+          "speaker": "narrator",
+          "text": "calm",
+          "rects": [
+            {
+              "x": 42.6283,
+              "y": 50.5287,
+              "w": 5.0665,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈkɑːm/",
+          "meaning": "冷静",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s079.wav"
+        },
+        {
+          "id": "u20-p130-s080",
+          "speaker": "narrator",
+          "text": "dog",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 53.1721,
+              "w": 3.9023,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈdɒg/",
+          "meaning": "狗",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s080.wav"
+        },
+        {
+          "id": "u20-p130-s081",
+          "speaker": "narrator",
+          "text": "what",
+          "rects": [
+            {
+              "x": 24.2786,
+              "y": 53.1721,
+              "w": 5.2511,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˌwɒt/",
+          "meaning": "什么",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s081.wav"
+        },
+        {
+          "id": "u20-p130-s082",
+          "speaker": "narrator",
+          "text": "cough",
+          "rects": [
+            {
+              "x": 33.4208,
+              "y": 53.1721,
+              "w": 6.4919,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈkɒf/",
+          "meaning": "咳嗽声",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s082.wav"
+        },
+        {
+          "id": "u20-p130-s083",
+          "speaker": "narrator",
+          "text": "water",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 55.8156,
+              "w": 5.751,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈwɔːtə/",
+          "meaning": "水",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s083.wav"
+        },
+        {
+          "id": "u20-p130-s084",
+          "speaker": "narrator",
+          "text": "short",
+          "rects": [
+            {
+              "x": 24.2786,
+              "y": 55.8156,
+              "w": 5.4313,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈʃɔːt/",
+          "meaning": "简称",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s084.wav"
+        },
+        {
+          "id": "u20-p130-s085",
+          "speaker": "narrator",
+          "text": "more",
+          "rects": [
+            {
+              "x": 33.4208,
+              "y": 55.8156,
+              "w": 5.4448,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈmɔː/",
+          "meaning": "更多( E)",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s085.wav"
+        },
+        {
+          "id": "u20-p130-s086",
+          "speaker": "narrator",
+          "text": "door",
+          "rects": [
+            {
+              "x": 42.6283,
+              "y": 55.8156,
+              "w": 4.8931,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈdɔː/",
+          "meaning": "门",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s086.wav"
+        },
+        {
+          "id": "u20-p130-s087",
+          "speaker": "narrator",
+          "text": "talk",
+          "rects": [
+            {
+              "x": 52.8063,
+              "y": 55.8156,
+              "w": 3.9181,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈtɔːk/",
+          "meaning": "说话",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s087.wav"
+        },
+        {
+          "id": "u20-p130-s088",
+          "speaker": "narrator",
+          "text": "saw",
+          "rects": [
+            {
+              "x": 62.3088,
+              "y": 55.8156,
+              "w": 3.8528,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈsɔː/",
+          "meaning": "锯",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s088.wav"
+        },
+        {
+          "id": "u20-p130-s089",
+          "speaker": "narrator",
+          "text": "four",
+          "rects": [
+            {
+              "x": 71.6176,
+              "y": 55.8156,
+              "w": 4.3572,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈfɔː/",
+          "meaning": "4个",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s089.wav"
+        },
+        {
+          "id": "u20-p130-s090",
+          "speaker": "narrator",
+          "text": "autumn",
+          "rects": [
+            {
+              "x": 78.5328,
+              "y": 55.8156,
+              "w": 8.3428,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈɔːtəm/",
+          "meaning": "秋天时分",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s090.wav"
+        },
+        {
+          "id": "u20-p130-s091",
+          "speaker": "narrator",
+          "text": "blackboard",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 58.459,
+              "w": 11.5268,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈblækbɔːd/",
+          "meaning": "黑纸板",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s091.wav"
+        },
+        {
+          "id": "u20-p130-s092",
+          "speaker": "narrator",
+          "text": "warm",
+          "rects": [
+            {
+              "x": 33.4208,
+              "y": 58.459,
+              "w": 5.9334,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈwɔːm/",
+          "meaning": "温暖",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s092.wav"
+        },
+        {
+          "id": "u20-p130-s093",
+          "speaker": "narrator",
+          "text": "thought",
+          "rects": [
+            {
+              "x": 42.6283,
+              "y": 58.459,
+              "w": 8.5477,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈθɔːt/",
+          "meaning": "认为",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s093.wav"
+        },
+        {
+          "id": "u20-p130-s094",
+          "speaker": "narrator",
+          "text": "put",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 61.1025,
+              "w": 3.5758,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˌpʊt/",
+          "meaning": "设置",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s094.wav"
+        },
+        {
+          "id": "u20-p130-s095",
+          "speaker": "narrator",
+          "text": "book",
+          "rects": [
+            {
+              "x": 24.2786,
+              "y": 61.1025,
+              "w": 5.2286,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈbʊk/",
+          "meaning": "书本",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s095.wav"
+        },
+        {
+          "id": "u20-p130-s096",
+          "speaker": "narrator",
+          "text": "would",
+          "rects": [
+            {
+              "x": 33.4208,
+              "y": 61.1025,
+              "w": 6.5572,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈwʊd/",
+          "meaning": "将",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s096.wav"
+        },
+        {
+          "id": "u20-p130-s097",
+          "speaker": "narrator",
+          "text": "woman",
+          "rects": [
+            {
+              "x": 42.6283,
+              "y": 61.1025,
+              "w": 7.8812,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈwʊmən/",
+          "meaning": "女人",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s097.wav"
+        },
+        {
+          "id": "u20-p130-s098",
+          "speaker": "narrator",
+          "text": "zoo",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 63.7459,
+              "w": 3.7244,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈzuː/",
+          "meaning": "动物园",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s098.wav"
+        },
+        {
+          "id": "u20-p130-s099",
+          "speaker": "narrator",
+          "text": "who",
+          "rects": [
+            {
+              "x": 24.2786,
+              "y": 63.7459,
+              "w": 4.6049,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˌhuː/",
+          "meaning": "谁",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s099.wav"
+        },
+        {
+          "id": "u20-p130-s100",
+          "speaker": "narrator",
+          "text": "ruler",
+          "rects": [
+            {
+              "x": 33.4208,
+              "y": 63.7459,
+              "w": 4.9224,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈruːlə/",
+          "meaning": "标尺",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s100.wav"
+        },
+        {
+          "id": "u20-p130-s101",
+          "speaker": "narrator",
+          "text": "group",
+          "rects": [
+            {
+              "x": 42.6283,
+              "y": 63.7459,
+              "w": 6.1519,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈgruːp/",
+          "meaning": "组",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s101.wav"
+        },
+        {
+          "id": "u20-p130-s102",
+          "speaker": "narrator",
+          "text": "shoe",
+          "rects": [
+            {
+              "x": 52.8063,
+              "y": 63.7459,
+              "w": 4.8458,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈʃuː/",
+          "meaning": "鞋头",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s102.wav"
+        },
+        {
+          "id": "u20-p130-s103",
+          "speaker": "narrator",
+          "text": "flew",
+          "rects": [
+            {
+              "x": 62.3088,
+              "y": 63.7459,
+              "w": 4.3842,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈfluː/",
+          "meaning": "飞了",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s103.wav"
+        },
+        {
+          "id": "u20-p130-s104",
+          "speaker": "narrator",
+          "text": "blue",
+          "rects": [
+            {
+              "x": 71.6176,
+              "y": 63.7459,
+              "w": 4.5103,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈbluː/",
+          "meaning": "蓝色",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s104.wav"
+        },
+        {
+          "id": "u20-p130-s105",
+          "speaker": "narrator",
+          "text": "juice",
+          "rects": [
+            {
+              "x": 78.5328,
+              "y": 63.7459,
+              "w": 4.9899,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈdʒuːs/",
+          "meaning": "果汁( 果汁)",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s105.wav"
+        },
+        {
+          "id": "u20-p130-s106",
+          "speaker": "narrator",
+          "text": "two",
+          "rects": [
+            {
+              "x": 86.2024,
+              "y": 63.7459,
+              "w": 3.9564,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈtuː/",
+          "meaning": "二个",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s106.wav"
+        },
+        {
+          "id": "u20-p130-s107",
+          "speaker": "narrator",
+          "text": "ago",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 66.3893,
+              "w": 3.6884,
+              "h": 1.8955
+            }
+          ],
+          "ipa": "/əˈgəʊ/",
+          "meaning": "刚才",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s107.wav"
+        },
+        {
+          "id": "u20-p130-s108",
+          "speaker": "narrator",
+          "text": "second",
+          "rects": [
+            {
+              "x": 24.2786,
+              "y": 66.3893,
+              "w": 7.298,
+              "h": 1.8955
+            }
+          ],
+          "ipa": "/ˈsekənd/",
+          "meaning": "第二届",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s108.wav"
+        },
+        {
+          "id": "u20-p130-s109",
+          "speaker": "narrator",
+          "text": "teacher doctor",
+          "rects": [
+            {
+              "x": 33.4208,
+              "y": 66.3893,
+              "w": 16.0259,
+              "h": 1.8955
+            }
+          ],
+          "ipa": "/ˈtiːtʃə ˈdɒktə/",
+          "meaning": "教师医生",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s109.wav"
+        },
+        {
+          "id": "u20-p130-s110",
+          "speaker": "narrator",
+          "text": "August",
+          "rects": [
+            {
+              "x": 52.8063,
+              "y": 66.3893,
+              "w": 7.2507,
+              "h": 1.8955
+            }
+          ],
+          "ipa": "/ˈɔːgəst/",
+          "meaning": "8月(半天)",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s110.wav"
+        },
+        {
+          "id": "u20-p130-s111",
+          "speaker": "narrator",
+          "text": "holiday open colour",
+          "rects": [
+            {
+              "x": 62.3088,
+              "y": 66.3893,
+              "w": 22.9231,
+              "h": 1.8955
+            }
+          ],
+          "ipa": "/ˈhɒlɪdeɪ ˈəʊpən ˈkʌlə/",
+          "meaning": "假日开放颜色",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s111.wav"
+        },
+        {
+          "id": "u20-p130-s112",
+          "speaker": "narrator",
+          "text": "her",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 69.0328,
+              "w": 3.4632,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˌhɜː/",
+          "meaning": "她的；她",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s112.wav"
+        },
+        {
+          "id": "u20-p130-s113",
+          "speaker": "narrator",
+          "text": "bird",
+          "rects": [
+            {
+              "x": 24.2786,
+              "y": 69.0328,
+              "w": 4.2468,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈbɜːd/",
+          "meaning": "鸟类",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s113.wav"
+        },
+        {
+          "id": "u20-p130-s114",
+          "speaker": "narrator",
+          "text": "worker",
+          "rects": [
+            {
+              "x": 33.4208,
+              "y": 69.0328,
+              "w": 7.2124,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈwɜːkə/",
+          "meaning": "劳动者",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s114.wav"
+        },
+        {
+          "id": "u20-p130-s115",
+          "speaker": "narrator",
+          "text": "purse",
+          "rects": [
+            {
+              "x": 42.6283,
+              "y": 69.0328,
+              "w": 5.6407,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈpɜːs/",
+          "meaning": "钱包",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s115.wav"
+        },
+        {
+          "id": "u20-p130-s116",
+          "speaker": "narrator",
+          "text": "earth",
+          "rects": [
+            {
+              "x": 52.8063,
+              "y": 69.0328,
+              "w": 5.4425,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈɜːθ/",
+          "meaning": "土质",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s116.wav"
+        },
+        {
+          "id": "u20-p130-s117",
+          "speaker": "narrator",
+          "text": "late",
+          "rects": [
+            {
+              "x": 15.9538,
+              "y": 71.6762,
+              "w": 3.792,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈleɪt/",
+          "meaning": "迟到了",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s117.wav"
+        },
+        {
+          "id": "u20-p130-s118",
+          "speaker": "narrator",
+          "text": "wait",
+          "rects": [
+            {
+              "x": 24.2763,
+              "y": 71.6762,
+              "w": 4.4675,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈweɪt/",
+          "meaning": "等待",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s118.wav"
+        },
+        {
+          "id": "u20-p130-s119",
+          "speaker": "narrator",
+          "text": "day",
+          "rects": [
+            {
+              "x": 33.4185,
+              "y": 71.6762,
+              "w": 3.7582,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈdeɪ/",
+          "meaning": "日数",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s119.wav"
+        },
+        {
+          "id": "u20-p130-s120",
+          "speaker": "narrator",
+          "text": "they",
+          "rects": [
+            {
+              "x": 42.626,
+              "y": 71.6762,
+              "w": 4.6814,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ðeɪ/",
+          "meaning": "他们",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s120.wav"
+        },
+        {
+          "id": "u20-p130-s121",
+          "speaker": "narrator",
+          "text": "eight",
+          "rects": [
+            {
+              "x": 52.804,
+              "y": 71.6762,
+              "w": 5.3367,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈeɪt/",
+          "meaning": "八个",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s121.wav"
+        },
+        {
+          "id": "u20-p130-s122",
+          "speaker": "narrator",
+          "text": "great",
+          "rects": [
+            {
+              "x": 62.3065,
+              "y": 71.6762,
+              "w": 5.1701,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈgreɪt/",
+          "meaning": "不错",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s122.wav"
+        },
+        {
+          "id": "u20-p130-s123",
+          "speaker": "narrator",
+          "text": "cafe",
+          "rects": [
+            {
+              "x": 71.6154,
+              "y": 71.6762,
+              "w": 4.1343,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈkæfeɪ/",
+          "meaning": "咖啡馆",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s123.wav"
+        },
+        {
+          "id": "u20-p130-s124",
+          "speaker": "narrator",
+          "text": "hi",
+          "rects": [
+            {
+              "x": 15.9538,
+              "y": 74.3197,
+              "w": 2.1797,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈhaɪ/",
+          "meaning": "你好",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s124.wav"
+        },
+        {
+          "id": "u20-p130-s125",
+          "speaker": "narrator",
+          "text": "my",
+          "rects": [
+            {
+              "x": 24.2763,
+              "y": 74.3197,
+              "w": 3.3822,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈmaɪ/",
+          "meaning": "我的",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s125.wav"
+        },
+        {
+          "id": "u20-p130-s126",
+          "speaker": "narrator",
+          "text": "bye",
+          "rects": [
+            {
+              "x": 33.4185,
+              "y": 74.3197,
+              "w": 3.6884,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈbaɪ/",
+          "meaning": "再见",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s126.wav"
+        },
+        {
+          "id": "u20-p130-s127",
+          "speaker": "narrator",
+          "text": "eye",
+          "rects": [
+            {
+              "x": 42.626,
+              "y": 74.3197,
+              "w": 3.4812,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈaɪ/",
+          "meaning": "双眼",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s127.wav"
+        },
+        {
+          "id": "u20-p130-s128",
+          "speaker": "narrator",
+          "text": "buy",
+          "rects": [
+            {
+              "x": 52.804,
+              "y": 74.3197,
+              "w": 3.9496,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈbaɪ/",
+          "meaning": "买",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s128.wav"
+        },
+        {
+          "id": "u20-p130-s129",
+          "speaker": "narrator",
+          "text": "die",
+          "rects": [
+            {
+              "x": 62.3065,
+              "y": 74.3197,
+              "w": 3.1727,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈdaɪ/",
+          "meaning": "死亡( B)",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s129.wav"
+        },
+        {
+          "id": "u20-p130-s130",
+          "speaker": "narrator",
+          "text": "high",
+          "rects": [
+            {
+              "x": 71.6154,
+              "y": 74.3197,
+              "w": 4.8706,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈhaɪ/",
+          "meaning": "高档",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s130.wav"
+        },
+        {
+          "id": "u20-p130-s131",
+          "speaker": "narrator",
+          "text": "join",
+          "rects": [
+            {
+              "x": 15.9537,
+              "y": 76.9631,
+              "w": 4.2221,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈdʒɔɪn/",
+          "meaning": "加入( E)",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s131.wav"
+        },
+        {
+          "id": "u20-p130-s132",
+          "speaker": "narrator",
+          "text": "boy",
+          "rects": [
+            {
+              "x": 24.2763,
+              "y": 76.9631,
+              "w": 3.9068,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈbɔɪ/",
+          "meaning": "男孩",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s132.wav"
+        },
+        {
+          "id": "u20-p130-s133",
+          "speaker": "narrator",
+          "text": "no",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 79.6066,
+              "w": 2.8147,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈnəʊ/",
+          "meaning": "非也。",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s133.wav"
+        },
+        {
+          "id": "u20-p130-s134",
+          "speaker": "narrator",
+          "text": "boat",
+          "rects": [
+            {
+              "x": 24.2786,
+              "y": 79.6066,
+              "w": 4.6342,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈbəʊt/",
+          "meaning": "轮船",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s134.wav"
+        },
+        {
+          "id": "u20-p130-s135",
+          "speaker": "narrator",
+          "text": "know",
+          "rects": [
+            {
+              "x": 33.4208,
+              "y": 79.6066,
+              "w": 5.8456,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈnəʊ/",
+          "meaning": "知道吗？",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s135.wav"
+        },
+        {
+          "id": "u20-p130-s136",
+          "speaker": "narrator",
+          "text": "shoulder",
+          "rects": [
+            {
+              "x": 42.6283,
+              "y": 79.6066,
+              "w": 9.1467,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈʃəʊldə/",
+          "meaning": "双肩",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s136.wav"
+        },
+        {
+          "id": "u20-p130-s137",
+          "speaker": "narrator",
+          "text": "out",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 82.25,
+              "w": 3.542,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈaʊt/",
+          "meaning": "关闭( O)",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s137.wav"
+        },
+        {
+          "id": "u20-p130-s138",
+          "speaker": "narrator",
+          "text": "now",
+          "rects": [
+            {
+              "x": 24.2786,
+              "y": 82.25,
+              "w": 4.6049,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈnaʊ/",
+          "meaning": "现在",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s138.wav"
+        },
+        {
+          "id": "u20-p130-s139",
+          "speaker": "narrator",
+          "text": "idea",
+          "rects": [
+            {
+              "x": 15.9583,
+              "y": 84.8935,
+              "w": 4.3189,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/aɪˈdɪə/",
+          "meaning": "创意",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s139.wav"
+        },
+        {
+          "id": "u20-p130-s140",
+          "speaker": "narrator",
+          "text": "near",
+          "rects": [
+            {
+              "x": 24.2808,
+              "y": 84.8935,
+              "w": 4.6094,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˌnɪə/",
+          "meaning": "近处",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s140.wav"
+        },
+        {
+          "id": "u20-p130-s141",
+          "speaker": "narrator",
+          "text": "beer",
+          "rects": [
+            {
+              "x": 33.423,
+              "y": 84.8935,
+              "w": 4.418,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈbɪə/",
+          "meaning": "来杯啤酒",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s141.wav"
+        },
+        {
+          "id": "u20-p130-s142",
+          "speaker": "narrator",
+          "text": "here",
+          "rects": [
+            {
+              "x": 42.6305,
+              "y": 84.8935,
+              "w": 4.5779,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈhɪə/",
+          "meaning": "这儿",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s142.wav"
+        },
+        {
+          "id": "u20-p130-s143",
+          "speaker": "narrator",
+          "text": "hair",
+          "rects": [
+            {
+              "x": 15.9582,
+              "y": 87.5369,
+              "w": 4.1928,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈheə/",
+          "meaning": "头发",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s143.wav"
+        },
+        {
+          "id": "u20-p130-s144",
+          "speaker": "narrator",
+          "text": "wear",
+          "rects": [
+            {
+              "x": 24.2808,
+              "y": 87.5369,
+              "w": 4.9179,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈweə/",
+          "meaning": "佩戴( L)",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s144.wav"
+        },
+        {
+          "id": "u20-p130-s145",
+          "speaker": "narrator",
+          "text": "there",
+          "rects": [
+            {
+              "x": 33.423,
+              "y": 87.5369,
+              "w": 5.411,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈðeə/",
+          "meaning": "在那儿",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s145.wav"
+        },
+        {
+          "id": "u20-p130-s146",
+          "speaker": "narrator",
+          "text": "their",
+          "rects": [
+            {
+              "x": 42.6305,
+              "y": 87.5369,
+              "w": 4.9944,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ðeə/",
+          "meaning": "他们的",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s146.wav"
+        },
+        {
+          "id": "u20-p130-s147",
+          "speaker": "narrator",
+          "text": "care",
+          "rects": [
+            {
+              "x": 52.8085,
+              "y": 87.5369,
+              "w": 4.2198,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈkeə/",
+          "meaning": "护理",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s147.wav"
+        },
+        {
+          "id": "u20-p130-s148",
+          "speaker": "narrator",
+          "text": "poor",
+          "rects": [
+            {
+              "x": 15.956,
+              "y": 90.1804,
+              "w": 4.8999,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈpɔː/",
+          "meaning": "穷人",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s148.wav"
+        },
+        {
+          "id": "u20-p130-s149",
+          "speaker": "narrator",
+          "text": "sure",
+          "rects": [
+            {
+              "x": 24.2786,
+              "y": 90.1804,
+              "w": 4.2739,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈʃʊə/",
+          "meaning": "当然",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s149.wav"
+        }
+      ]
+    },
+    {
+      "page": 131,
+      "pdfPage": 132,
+      "width": 532.9130249023438,
+      "height": 754.0159912109375,
+      "image": "assets/pages/page-131.webp",
+      "sentences": [
+        {
+          "id": "u20-p131-s002",
+          "speaker": "narrator",
+          "text": "English sounds",
+          "rects": [
+            {
+              "x": 92.8482,
+              "y": 5.5924,
+              "w": 2.4814,
+              "h": 10.3388
+            }
+          ],
+          "ipa": "/ˈɪŋglɪʃ ˈsaʊndz/",
+          "meaning": "英语音素",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s002.wav"
+        },
+        {
+          "id": "u20-p131-s001",
+          "speaker": "narrator",
+          "text": "Consonants",
+          "rects": [
+            {
+              "x": 7.9787,
+              "y": 8.3665,
+              "w": 13.1008,
+              "h": 1.9018
+            }
+          ],
+          "ipa": "/ˈkɒnsənənts/",
+          "meaning": "连线",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s001.wav"
+        },
+        {
+          "id": "u20-p131-s003",
+          "speaker": "narrator",
+          "text": "pen",
+          "rects": [
+            {
+              "x": 14.3625,
+              "y": 10.9017,
+              "w": 3.9631,
+              "h": 1.8955
+            }
+          ],
+          "ipa": "/ˈpen/",
+          "meaning": "钢笔",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s003.wav"
+        },
+        {
+          "id": "u20-p131-s004",
+          "speaker": "narrator",
+          "text": "happy",
+          "rects": [
+            {
+              "x": 24.4932,
+              "y": 10.9017,
+              "w": 6.6135,
+              "h": 1.8955
+            }
+          ],
+          "ipa": "/ˈhæpiː/",
+          "meaning": "快乐",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s004.wav"
+        },
+        {
+          "id": "u20-p131-s005",
+          "speaker": "narrator",
+          "text": "bus",
+          "rects": [
+            {
+              "x": 14.3648,
+              "y": 13.5451,
+              "w": 3.6141,
+              "h": 1.8955
+            }
+          ],
+          "ipa": "/ˈbʌs/",
+          "meaning": "公共汽车",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s005.wav"
+        },
+        {
+          "id": "u20-p131-s006",
+          "speaker": "narrator",
+          "text": "table",
+          "rects": [
+            {
+              "x": 14.3648,
+              "y": 16.1886,
+              "w": 5.1138,
+              "h": 1.8955
+            }
+          ],
+          "ipa": "/ˈteɪbəl/",
+          "meaning": "表格显示",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s006.wav"
+        },
+        {
+          "id": "u20-p131-s007",
+          "speaker": "narrator",
+          "text": "letter",
+          "rects": [
+            {
+              "x": 24.4955,
+              "y": 16.1886,
+              "w": 5.4606,
+              "h": 1.8955
+            }
+          ],
+          "ipa": "/ˈletə/",
+          "meaning": "信件",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s007.wav"
+        },
+        {
+          "id": "u20-p131-s008",
+          "speaker": "narrator",
+          "text": "dog",
+          "rects": [
+            {
+              "x": 14.367,
+              "y": 18.832,
+              "w": 3.9023,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈdɒg/",
+          "meaning": "狗",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s008.wav"
+        },
+        {
+          "id": "u20-p131-s009",
+          "speaker": "narrator",
+          "text": "kite",
+          "rects": [
+            {
+              "x": 14.367,
+              "y": 21.4755,
+              "w": 3.8866,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈkaɪt/",
+          "meaning": "风筝",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s009.wav"
+        },
+        {
+          "id": "u20-p131-s010",
+          "speaker": "narrator",
+          "text": "cat",
+          "rects": [
+            {
+              "x": 24.4977,
+              "y": 21.4755,
+              "w": 3.0714,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈkæt/",
+          "meaning": "猫",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s010.wav"
+        },
+        {
+          "id": "u20-p131-s011",
+          "speaker": "narrator",
+          "text": "lock",
+          "rects": [
+            {
+              "x": 38.0084,
+              "y": 21.4755,
+              "w": 4.3639,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈlɒk/",
+          "meaning": "锁定",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s011.wav"
+        },
+        {
+          "id": "u20-p131-s012",
+          "speaker": "narrator",
+          "text": "go",
+          "rects": [
+            {
+              "x": 14.3693,
+              "y": 24.1189,
+              "w": 2.5423,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˌgəʊ/",
+          "meaning": "去",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s012.wav"
+        },
+        {
+          "id": "u20-p131-s013",
+          "speaker": "narrator",
+          "text": "egg",
+          "rects": [
+            {
+              "x": 24.5,
+              "y": 24.1189,
+              "w": 3.533,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈeg/",
+          "meaning": "蛋",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s013.wav"
+        },
+        {
+          "id": "u20-p131-s014",
+          "speaker": "narrator",
+          "text": "child",
+          "rects": [
+            {
+              "x": 14.3715,
+              "y": 26.7624,
+              "w": 5.33,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈtʃaɪld/",
+          "meaning": "儿童",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s014.wav"
+        },
+        {
+          "id": "u20-p131-s015",
+          "speaker": "narrator",
+          "text": "watch",
+          "rects": [
+            {
+              "x": 24.5023,
+              "y": 26.7624,
+              "w": 6.3432,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈwɒtʃ/",
+          "meaning": "手表",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s015.wav"
+        },
+        {
+          "id": "u20-p131-s016",
+          "speaker": "narrator",
+          "text": "joke",
+          "rects": [
+            {
+              "x": 14.3738,
+              "y": 29.4058,
+              "w": 4.3977,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈdʒəʊk/",
+          "meaning": "笑话",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s016.wav"
+        },
+        {
+          "id": "u20-p131-s017",
+          "speaker": "narrator",
+          "text": "age",
+          "rects": [
+            {
+              "x": 24.5045,
+              "y": 29.4058,
+              "w": 3.47,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈeɪdʒ/",
+          "meaning": "年龄",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s017.wav"
+        },
+        {
+          "id": "u20-p131-s018",
+          "speaker": "narrator",
+          "text": "bridge",
+          "rects": [
+            {
+              "x": 38.0152,
+              "y": 29.4058,
+              "w": 6.5707,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈbrɪdʒ/",
+          "meaning": "桥",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s018.wav"
+        },
+        {
+          "id": "u20-p131-s019",
+          "speaker": "narrator",
+          "text": "tree",
+          "rects": [
+            {
+              "x": 14.376,
+              "y": 32.0493,
+              "w": 3.9293,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈtriː/",
+          "meaning": "树",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s019.wav"
+        },
+        {
+          "id": "u20-p131-s020",
+          "speaker": "narrator",
+          "text": "dress",
+          "rects": [
+            {
+              "x": 14.376,
+              "y": 34.6927,
+              "w": 5.1746,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈdres/",
+          "meaning": "着装",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s020.wav"
+        },
+        {
+          "id": "u20-p131-s021",
+          "speaker": "narrator",
+          "text": "boots",
+          "rects": [
+            {
+              "x": 14.376,
+              "y": 37.3361,
+              "w": 5.7375,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈbuːts/",
+          "meaning": "靴子",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s021.wav"
+        },
+        {
+          "id": "u20-p131-s022",
+          "speaker": "narrator",
+          "text": "skates",
+          "rects": [
+            {
+              "x": 24.5068,
+              "y": 37.3361,
+              "w": 6.1676,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈskeɪts/",
+          "meaning": "滑冰运动员",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s022.wav"
+        },
+        {
+          "id": "u20-p131-s023",
+          "speaker": "narrator",
+          "text": "cards",
+          "rects": [
+            {
+              "x": 14.3783,
+              "y": 39.9796,
+              "w": 5.3817,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈkɑːdz/",
+          "meaning": "纸牌",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s023.wav"
+        },
+        {
+          "id": "u20-p131-s024",
+          "speaker": "narrator",
+          "text": "few",
+          "rects": [
+            {
+              "x": 14.3783,
+              "y": 42.623,
+              "w": 3.6862,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈfjuː/",
+          "meaning": "数量",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s024.wav"
+        },
+        {
+          "id": "u20-p131-s025",
+          "speaker": "narrator",
+          "text": "laugh",
+          "rects": [
+            {
+              "x": 24.509,
+              "y": 42.623,
+              "w": 5.9109,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈlɑːf/",
+          "meaning": "欢笑",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s025.wav"
+        },
+        {
+          "id": "u20-p131-s026",
+          "speaker": "narrator",
+          "text": "photo",
+          "rects": [
+            {
+              "x": 38.0197,
+              "y": 42.623,
+              "w": 6.3478,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈfəʊtəʊ/",
+          "meaning": "图片",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s026.wav"
+        },
+        {
+          "id": "u20-p131-s027",
+          "speaker": "narrator",
+          "text": "office",
+          "rects": [
+            {
+              "x": 50.5485,
+              "y": 42.623,
+              "w": 5.8006,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈɒfɪs/",
+          "meaning": "办公室",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s027.wav"
+        },
+        {
+          "id": "u20-p131-s028",
+          "speaker": "narrator",
+          "text": "very",
+          "rects": [
+            {
+              "x": 14.3783,
+              "y": 45.2665,
+              "w": 4.4878,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈveriː/",
+          "meaning": "非常喜欢",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s028.wav"
+        },
+        {
+          "id": "u20-p131-s029",
+          "speaker": "narrator",
+          "text": "of",
+          "rects": [
+            {
+              "x": 24.509,
+              "y": 45.2665,
+              "w": 2.1144,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ɒv/",
+          "meaning": "的",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s029.wav"
+        },
+        {
+          "id": "u20-p131-s030",
+          "speaker": "narrator",
+          "text": "month",
+          "rects": [
+            {
+              "x": 14.3805,
+              "y": 47.9099,
+              "w": 7.2597,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈmʌnθ/",
+          "meaning": "月数",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s030.wav"
+        },
+        {
+          "id": "u20-p131-s031",
+          "speaker": "narrator",
+          "text": "that",
+          "rects": [
+            {
+              "x": 14.3805,
+              "y": 50.5534,
+              "w": 4.2941,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ðæt/",
+          "meaning": "那个",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s031.wav"
+        },
+        {
+          "id": "u20-p131-s032",
+          "speaker": "narrator",
+          "text": "sit",
+          "rects": [
+            {
+              "x": 14.3805,
+              "y": 53.1968,
+              "w": 2.4477,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈsɪt/",
+          "meaning": "坐",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s032.wav"
+        },
+        {
+          "id": "u20-p131-s033",
+          "speaker": "narrator",
+          "text": "maps",
+          "rects": [
+            {
+              "x": 24.5113,
+              "y": 53.1968,
+              "w": 5.5596,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈmæps/",
+          "meaning": "地图",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s033.wav"
+        },
+        {
+          "id": "u20-p131-s034",
+          "speaker": "narrator",
+          "text": "city",
+          "rects": [
+            {
+              "x": 38.0219,
+              "y": 53.1968,
+              "w": 3.8753,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈsɪtiː/",
+          "meaning": "城市",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s034.wav"
+        },
+        {
+          "id": "u20-p131-s035",
+          "speaker": "narrator",
+          "text": "class",
+          "rects": [
+            {
+              "x": 50.5508,
+              "y": 53.1968,
+              "w": 4.7693,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈklɑːs/",
+          "meaning": "类",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s035.wav"
+        },
+        {
+          "id": "u20-p131-s036",
+          "speaker": "narrator",
+          "text": "zoo",
+          "rects": [
+            {
+              "x": 14.3805,
+              "y": 55.8403,
+              "w": 3.7244,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈzuː/",
+          "meaning": "动物园",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s036.wav"
+        },
+        {
+          "id": "u20-p131-s037",
+          "speaker": "narrator",
+          "text": "jobs",
+          "rects": [
+            {
+              "x": 24.5113,
+              "y": 55.8403,
+              "w": 4.2806,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈdʒɒbz/",
+          "meaning": "任务",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s037.wav"
+        },
+        {
+          "id": "u20-p131-s038",
+          "speaker": "narrator",
+          "text": "she",
+          "rects": [
+            {
+              "x": 14.3828,
+              "y": 58.4837,
+              "w": 3.5128,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ʃiː/",
+          "meaning": "她",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s038.wav"
+        },
+        {
+          "id": "u20-p131-s039",
+          "speaker": "narrator",
+          "text": "sure",
+          "rects": [
+            {
+              "x": 24.5135,
+              "y": 58.4837,
+              "w": 4.2739,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈʃʊə/",
+          "meaning": "当然",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s039.wav"
+        },
+        {
+          "id": "u20-p131-s040",
+          "speaker": "narrator",
+          "text": "usually",
+          "rects": [
+            {
+              "x": 14.385,
+              "y": 61.1272,
+              "w": 7.4624,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈjuːʒʊəliː/",
+          "meaning": "通常情况下",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s040.wav"
+        },
+        {
+          "id": "u20-p131-s041",
+          "speaker": "narrator",
+          "text": "he",
+          "rects": [
+            {
+              "x": 14.385,
+              "y": 63.7706,
+              "w": 2.5963,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/hiː/",
+          "meaning": "他",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s041.wav"
+        },
+        {
+          "id": "u20-p131-s042",
+          "speaker": "narrator",
+          "text": "who",
+          "rects": [
+            {
+              "x": 24.5158,
+              "y": 63.7706,
+              "w": 4.6049,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˌhuː/",
+          "meaning": "谁",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s042.wav"
+        },
+        {
+          "id": "u20-p131-s043",
+          "speaker": "narrator",
+          "text": "man",
+          "rects": [
+            {
+              "x": 14.3873,
+              "y": 66.4141,
+              "w": 4.758,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈmæn/",
+          "meaning": "男人",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s043.wav"
+        },
+        {
+          "id": "u20-p131-s044",
+          "speaker": "narrator",
+          "text": "summer",
+          "rects": [
+            {
+              "x": 24.518,
+              "y": 66.4141,
+              "w": 8.5342,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈsʌmə/",
+          "meaning": "夏季( 夏季)",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s044.wav"
+        },
+        {
+          "id": "u20-p131-s045",
+          "speaker": "narrator",
+          "text": "no",
+          "rects": [
+            {
+              "x": 14.3895,
+              "y": 69.0575,
+              "w": 2.8147,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈnəʊ/",
+          "meaning": "非也。",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s045.wav"
+        },
+        {
+          "id": "u20-p131-s046",
+          "speaker": "narrator",
+          "text": "beginning",
+          "rects": [
+            {
+              "x": 24.5203,
+              "y": 69.0575,
+              "w": 10.6959,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/bɪˈgɪnɪŋ/",
+          "meaning": "开始",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s046.wav"
+        },
+        {
+          "id": "u20-p131-s047",
+          "speaker": "narrator",
+          "text": "know",
+          "rects": [
+            {
+              "x": 38.0309,
+              "y": 69.0575,
+              "w": 5.8456,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈnəʊ/",
+          "meaning": "知道吗？",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s047.wav"
+        },
+        {
+          "id": "u20-p131-s048",
+          "speaker": "narrator",
+          "text": "think",
+          "rects": [
+            {
+              "x": 14.3918,
+              "y": 71.7009,
+              "w": 5.7353,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈθɪŋk/",
+          "meaning": "考虑",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s048.wav"
+        },
+        {
+          "id": "u20-p131-s049",
+          "speaker": "narrator",
+          "text": "sing",
+          "rects": [
+            {
+              "x": 24.5225,
+              "y": 71.7009,
+              "w": 4.3054,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈsɪŋ/",
+          "meaning": "歌声",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s049.wav"
+        },
+        {
+          "id": "u20-p131-s050",
+          "speaker": "narrator",
+          "text": "leg",
+          "rects": [
+            {
+              "x": 14.394,
+              "y": 74.3444,
+              "w": 3.0219,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈleg/",
+          "meaning": "脚",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s050.wav"
+        },
+        {
+          "id": "u20-p131-s051",
+          "speaker": "narrator",
+          "text": "bell",
+          "rects": [
+            {
+              "x": 24.5248,
+              "y": 74.3444,
+              "w": 3.8325,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈbel/",
+          "meaning": "铃声",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s051.wav"
+        },
+        {
+          "id": "u20-p131-s052",
+          "speaker": "narrator",
+          "text": "red",
+          "rects": [
+            {
+              "x": 14.3963,
+              "y": 76.9878,
+              "w": 3.3416,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈred/",
+          "meaning": "红色",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s052.wav"
+        },
+        {
+          "id": "u20-p131-s053",
+          "speaker": "narrator",
+          "text": "hurry",
+          "rects": [
+            {
+              "x": 24.527,
+              "y": 76.9878,
+              "w": 5.8434,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈhʌriː/",
+          "meaning": "快点",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s053.wav"
+        },
+        {
+          "id": "u20-p131-s054",
+          "speaker": "narrator",
+          "text": "write",
+          "rects": [
+            {
+              "x": 38.0377,
+              "y": 76.9878,
+              "w": 5.3029,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈraɪt/",
+          "meaning": "写",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s054.wav"
+        },
+        {
+          "id": "u20-p131-s055",
+          "speaker": "narrator",
+          "text": "yes",
+          "rects": [
+            {
+              "x": 14.3985,
+              "y": 79.6313,
+              "w": 3.2831,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˈjes/",
+          "meaning": "是的",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s055.wav"
+        },
+        {
+          "id": "u20-p131-s056",
+          "speaker": "narrator",
+          "text": "we",
+          "rects": [
+            {
+              "x": 14.3985,
+              "y": 82.2747,
+              "w": 2.9048,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/wiː/",
+          "meaning": "我们",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s056.wav"
+        },
+        {
+          "id": "u20-p131-s057",
+          "speaker": "narrator",
+          "text": "what",
+          "rects": [
+            {
+              "x": 24.5293,
+              "y": 82.2747,
+              "w": 5.2511,
+              "h": 1.8954
+            }
+          ],
+          "ipa": "/ˌwɒt/",
+          "meaning": "什么",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p131-s057.wav"
+        }
+      ]
+    }
+  ]
+}
