@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>秋实中学牛琮一初中一年级英语发音教材</title>
   <meta name="description" content="秋实中学牛琮一初中一年级英语发音教材：悬浮聚焦句子，点击查看英式音标、汉语意思并听 AI 发音。">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%2375419a'/><text x='32' y='43' text-anchor='middle' font-size='36' fill='white'>英</text></svg>">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -32,7 +33,7 @@
       <label>教材页 <select id="pageSelect" aria-label="选择教材页"></select></label>
       <button type="button" id="nextPage">下一页 →</button>
       <span class="toolbar-separator" aria-hidden="true"></span>
-      <label class="page-jump">跳到第 <input id="pageNumber" type="number" min="6" max="103" step="1" inputmode="numeric" aria-label="输入教材页码"> 页</label>
+      <label class="page-jump">跳到第 <input id="pageNumber" type="number" min="0" max="165" step="1" inputmode="numeric" aria-label="输入教材页码"> 页</label>
       <button type="button" id="goToPage">跳转</button>
     </div>
     <section class="page-wrap" id="page" aria-label="教材页面">
@@ -43,7 +44,6 @@
   <aside class="study-popover hidden" id="studyPopover" aria-live="polite" aria-label="句子学习卡片">
     <div class="role-row">
       <span class="role-badge"><span class="role-avatar" id="roleAvatar">旁</span><span id="roleName">旁白</span></span>
-      <span class="playing-state" id="playingState">正在发音…</span>
     </div>
     <p class="field-label">原句</p>
     <p class="sentence-text" id="sentenceText"></p>

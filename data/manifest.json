@@ -2,12 +2,23 @@
   "book": "译林英语七年级上册（2024版）",
   "units": [
     {
+      "id": 0,
+      "title": "封面与目录",
+      "start": 0,
+      "end": 5,
+      "pages": 6,
+      "sentences": 191,
+      "frontMatter": true,
+      "sentenceCount": 191
+    },
+    {
       "id": 1,
       "title": "This is me!",
       "start": 6,
       "end": 17,
       "pages": 12,
-      "sentences": 226
+      "sentences": 497,
+      "sentenceCount": 497
     },
     {
       "id": 2,
@@ -15,7 +26,8 @@
       "start": 18,
       "end": 29,
       "pages": 12,
-      "sentences": 178
+      "sentences": 480,
+      "sentenceCount": 480
     },
     {
       "id": 3,
@@ -23,7 +35,8 @@
       "start": 30,
       "end": 41,
       "pages": 12,
-      "sentences": 193
+      "sentences": 450,
+      "sentenceCount": 450
     },
     {
       "id": 4,
@@ -31,7 +44,19 @@
       "start": 42,
       "end": 53,
       "pages": 12,
-      "sentences": 184
+      "sentences": 484,
+      "sentenceCount": 484
+    },
+    {
+      "id": 9,
+      "kind": "project",
+      "title": "A video about my new school life",
+      "displayTitle": "Project 1 · 我的新校园生活视频",
+      "start": 54,
+      "end": 55,
+      "pages": 2,
+      "sentences": 60,
+      "sentenceCount": 60
     },
     {
       "id": 5,
@@ -39,7 +64,8 @@
       "start": 56,
       "end": 67,
       "pages": 12,
-      "sentences": 199
+      "sentences": 495,
+      "sentenceCount": 495
     },
     {
       "id": 6,
@@ -47,7 +73,8 @@
       "start": 68,
       "end": 79,
       "pages": 12,
-      "sentences": 193
+      "sentences": 462,
+      "sentenceCount": 462
     },
     {
       "id": 7,
@@ -55,7 +82,8 @@
       "start": 80,
       "end": 91,
       "pages": 12,
-      "sentences": 181
+      "sentences": 425,
+      "sentenceCount": 425
     },
     {
       "id": 8,
@@ -63,7 +91,173 @@
       "start": 92,
       "end": 103,
       "pages": 12,
-      "sentences": 199
+      "sentences": 460,
+      "sentenceCount": 460
+    },
+    {
+      "id": 10,
+      "kind": "project",
+      "title": "A party plan to celebrate New Year",
+      "displayTitle": "Project 2 · 新年庆祝派对计划",
+      "start": 104,
+      "end": 105,
+      "pages": 2,
+      "sentences": 42,
+      "sentenceCount": 42
+    },
+    {
+      "id": 11,
+      "kind": "workbook",
+      "title": "Workbook · Unit 1",
+      "displayTitle": "练习册 · Unit 1",
+      "start": 106,
+      "end": 108,
+      "pages": 3,
+      "sentences": 113,
+      "sentenceCount": 113
+    },
+    {
+      "id": 12,
+      "kind": "workbook",
+      "title": "Workbook · Unit 2",
+      "displayTitle": "练习册 · Unit 2",
+      "start": 109,
+      "end": 111,
+      "pages": 3,
+      "sentences": 116,
+      "sentenceCount": 116
+    },
+    {
+      "id": 13,
+      "kind": "workbook",
+      "title": "Workbook · Unit 3",
+      "displayTitle": "练习册 · Unit 3",
+      "start": 112,
+      "end": 114,
+      "pages": 3,
+      "sentences": 113,
+      "sentenceCount": 113
+    },
+    {
+      "id": 14,
+      "kind": "workbook",
+      "title": "Workbook · Unit 4",
+      "displayTitle": "练习册 · Unit 4",
+      "start": 115,
+      "end": 117,
+      "pages": 3,
+      "sentences": 130,
+      "sentenceCount": 130
+    },
+    {
+      "id": 15,
+      "kind": "workbook",
+      "title": "Workbook · Unit 5",
+      "displayTitle": "练习册 · Unit 5",
+      "start": 118,
+      "end": 120,
+      "pages": 3,
+      "sentences": 119,
+      "sentenceCount": 119
+    },
+    {
+      "id": 16,
+      "kind": "workbook",
+      "title": "Workbook · Unit 6",
+      "displayTitle": "练习册 · Unit 6",
+      "start": 121,
+      "end": 123,
+      "pages": 3,
+      "sentences": 107,
+      "sentenceCount": 107
+    },
+    {
+      "id": 17,
+      "kind": "workbook",
+      "title": "Workbook · Unit 7",
+      "displayTitle": "练习册 · Unit 7",
+      "start": 124,
+      "end": 126,
+      "pages": 3,
+      "sentences": 138,
+      "sentenceCount": 138
+    },
+    {
+      "id": 18,
+      "kind": "workbook",
+      "title": "Workbook · Unit 8",
+      "displayTitle": "练习册 · Unit 8",
+      "start": 127,
+      "end": 129,
+      "pages": 3,
+      "sentences": 137,
+      "sentenceCount": 137
+    },
+    {
+      "id": 20,
+      "kind": "appendix",
+      "title": "English sounds",
+      "displayTitle": "附录 · 英语音素",
+      "start": 130,
+      "end": 131,
+      "pages": 2,
+      "sentences": 206,
+      "sentenceCount": 206
+    },
+    {
+      "id": 21,
+      "kind": "appendix",
+      "title": "Notes",
+      "displayTitle": "附录 · 笔记",
+      "start": 132,
+      "end": 139,
+      "pages": 8,
+      "sentences": 384,
+      "sentenceCount": 384
+    },
+    {
+      "id": 22,
+      "kind": "appendix",
+      "title": "Grammar check",
+      "displayTitle": "附录 · 语法检查",
+      "start": 140,
+      "end": 148,
+      "pages": 9,
+      "sentences": 589,
+      "sentenceCount": 589
+    },
+    {
+      "id": 23,
+      "kind": "appendix",
+      "title": "Wordlists",
+      "displayTitle": "附录 · 词汇表",
+      "start": 149,
+      "end": 161,
+      "pages": 13,
+      "sentences": 1300,
+      "sentenceCount": 1300
+    },
+    {
+      "id": 24,
+      "kind": "appendix",
+      "title": "Proper nouns",
+      "displayTitle": "附录 · 专有名词",
+      "start": 162,
+      "end": 163,
+      "pages": 2,
+      "sentences": 78,
+      "sentenceCount": 78
+    },
+    {
+      "id": 25,
+      "kind": "appendix",
+      "title": "Afterword and publisher",
+      "displayTitle": "后记与出版信息",
+      "start": 164,
+      "end": 165,
+      "pages": 2,
+      "sentences": 4,
+      "sentenceCount": 4
     }
   ]
 }
