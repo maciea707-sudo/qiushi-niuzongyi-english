@@ -16,7 +16,7 @@ const replayAudio = document.getElementById("replayAudio");
 const unitTitle = document.getElementById("unitTitle");
 const pageTitle = document.getElementById("pageTitle");
 const toast = document.getElementById("toast");
-const contentRevision = "20260927-cloze-and-roles-v1";
+const contentRevision = "20260927-cloze-and-roles-v2";
 
 const speakerPalette = [
   ["#75419a", "#f5eef9"], ["#d56843", "#fdf0eb"], ["#2878b5", "#eaf4fb"],
@@ -331,10 +331,22 @@ function positionPopover(anchor) {
   const gap = 14;
   const cardWidth = popover.offsetWidth;
   const cardHeight = popover.offsetHeight;
-  let left = rect.right + gap;
-  if (left + cardWidth > window.innerWidth - 16) left = rect.left - cardWidth - gap;
-  left = Math.max(16, Math.min(left, window.innerWidth - cardWidth - 16));
-  const top = Math.max(74, Math.min(rect.top - 18, window.innerHeight - cardHeight - 16));
+  const fragments = activeButtons.map(button => button.getBoundingClientRect());
+  const sentenceLeft = Math.min(...fragments.map(fragment => fragment.left));
+  const sentenceRight = Math.max(...fragments.map(fragment => fragment.right));
+  const sentenceTop = Math.min(...fragments.map(fragment => fragment.top));
+  const sentenceBottom = Math.max(...fragments.map(fragment => fragment.bottom));
+  let left;
+  let top = Math.max(74, Math.min(rect.top - 18, window.innerHeight - cardHeight - 16));
+  if (sentenceRight + gap + cardWidth <= window.innerWidth - 16) {
+    left = sentenceRight + gap;
+  } else if (sentenceLeft - gap - cardWidth >= 16) {
+    left = sentenceLeft - gap - cardWidth;
+  } else {
+    left = Math.max(16, Math.min(rect.left, window.innerWidth - cardWidth - 16));
+    if (sentenceTop - gap - cardHeight >= 74) top = sentenceTop - gap - cardHeight;
+    else if (sentenceBottom + gap + cardHeight <= window.innerHeight - 16) top = sentenceBottom + gap;
+  }
   popover.style.left = `${left}px`;
   popover.style.top = `${top}px`;
 }
