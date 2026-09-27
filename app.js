@@ -16,6 +16,7 @@ const replayAudio = document.getElementById("replayAudio");
 const unitTitle = document.getElementById("unitTitle");
 const pageTitle = document.getElementById("pageTitle");
 const toast = document.getElementById("toast");
+const contentRevision = "20260927-full-audio-v2";
 
 const speakerPalette = [
   ["#75419a", "#f5eef9"], ["#d56843", "#fdf0eb"], ["#2878b5", "#eaf4fb"],
@@ -73,7 +74,9 @@ async function boot() {
 }
 
 async function fetchJson(path) {
-  const response = await fetch(path);
+  const url = new URL(path, location.href);
+  url.searchParams.set("v", contentRevision);
+  const response = await fetch(url);
   if (!response.ok) throw new Error(`无法加载 ${path} (${response.status})`);
   return response.json();
 }
@@ -347,7 +350,9 @@ function hideSentence() {
 
 async function playCurrentAudio() {
   if (!currentSentence?.audio) return;
-  audioPlayer.src = new URL(currentSentence.audio, location.href).href;
+  const url = new URL(currentSentence.audio, location.href);
+  url.searchParams.set("v", contentRevision);
+  audioPlayer.src = url.href;
   audioPlayer.currentTime = 0;
   try { await audioPlayer.play(); }
   catch (error) {
