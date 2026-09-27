@@ -1,7 +1,8 @@
 """Regenerate phonetic readings and add targets for printed, standalone sounds.
 
 Run from the repository root: python scripts/repair_phonetics.py
-This uses the installed Flite SLT voice and does not call an online service.
+The individual phonemes come from the owner's English phonetics practice site.
+Flite SLT is used only for the connecting English prose in mixed sentences.
 The phoneme inventory and positions are checked against textbook pages 13, 25,
 37, 49, 63, 75, 87, 99, 130 and 131. Wordlist pages are deliberately excluded.
 """
@@ -9,40 +10,29 @@ The phoneme inventory and positions are checked against textbook pages 13, 25,
 import collections
 import csv
 import ctypes
-from array import array
+import base64
+import hashlib
 import json
-import math
 from pathlib import Path
 import re
+import shutil
+import subprocess
 import tempfile
+import urllib.request
 import wave
 
 
 ROOT = Path(__file__).resolve().parents[1]
 WIDTH, HEIGHT = 1481, 2096
 
-# British textbook symbols -> closest phonetic units supported by Flite SLT.
-# The backend is an American voice, so the historical British vowel qualities
-# /ɒ/, /ɜː/, /ɪə/, /eə/ and /ʊə/ remain approximations.
-PHONES = {
-    "ɪ": "ih1", "iː": "iy1", "e": "eh1", "æ": "ae1", "ʌ": "ah1",
-    "ɑː": "aa1", "ɒ": "ao1", "ɔː": "ao1", "ʊ": "uh1", "uː": "uw1",
-    "ə": "ax ax ax", "ɜː": "er1", "eɪ": "ey1", "aɪ": "ay1", "ɔɪ": "oy1",
-    "əʊ": "ow1", "aʊ": "aw1", "ɪə": "ih1 ax", "eə": "eh1 ax",
-    "ʊə": "uh1 ax", "juː": "y uw1",
-    "p": "p", "b": "b", "t": "t", "d": "d", "k": "k", "g": "g",
-    "tʃ": "ch", "dʒ": "jh", "tr": "t r", "dr": "d r",
-    "ts": "t s", "dz": "d z", "f": "f", "v": "v",
-    "θ": "th", "ð": "dh", "s": "s", "z": "z", "ʃ": "sh",
-    "ʒ": "zh", "h": "hh", "m": "m", "n": "n", "ŋ": "ng",
-    "l": "l", "r": "r", "j": "y", "w": "w",
-}
 VOWELS = ["ɪ", "iː", "e", "æ", "ʌ", "ɑː", "ɒ", "ɔː", "ʊ", "uː",
           "ə", "ɜː", "eɪ", "aɪ", "ɔɪ", "əʊ", "aʊ", "ɪə", "eə", "ʊə"]
 CONSONANTS = ["p", "b", "t", "d", "k", "g", "tʃ", "dʒ", "tr", "dr",
               "ts", "dz", "f", "v", "θ", "ð", "s", "z", "ʃ", "ʒ",
               "h", "m", "n", "ŋ", "l", "r", "j", "w"]
 assert len(VOWELS) == 20 and len(CONSONANTS) == 28
+PHONES = set(VOWELS + CONSONANTS + ["juː"])
+SOURCE_URL = "https://maciea707-sudo.github.io/english-phonetics-for-kids/"
 
 
 def printed_positions():
@@ -132,49 +122,69 @@ def flite_voice():
     voice = slt.register_cmu_us_slt(None)
     if not voice:
         raise RuntimeError("Flite SLT voice is unavailable")
-    for name in ("flite_text_to_speech", "flite_phones_to_speech"):
-        method = getattr(lib, name)
-        method.argtypes = [ctypes.c_char_p, ctypes.c_void_p, ctypes.c_char_p]
-        method.restype = ctypes.c_float
+    lib.flite_text_to_speech.argtypes = [ctypes.c_char_p, ctypes.c_void_p, ctypes.c_char_p]
+    lib.flite_text_to_speech.restype = ctypes.c_float
     return lib, voice
 
 
-def generate(lib, voice, text, target, is_phone=False):
+def generate(lib, voice, text, target):
     target.parent.mkdir(parents=True, exist_ok=True)
-    synth = lib.flite_phones_to_speech if is_phone else lib.flite_text_to_speech
-    synth(text.encode(), voice, str(target).encode())
+    lib.flite_text_to_speech(text.encode(), voice, str(target).encode())
     with wave.open(str(target)) as sound:
         assert sound.getnframes() > 0, target
+        rate = sound.getframerate()
+    if rate != 24000:
+        converted = target.with_suffix(".resampled.wav")
+        result = subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
+                                 "-i", str(target), "-ar", "24000", "-ac", "1",
+                                 "-c:a", "pcm_s16le", str(converted)], capture_output=True)
+        if result.returncode:
+            raise RuntimeError(result.stderr.decode(errors="replace"))
+        converted.replace(target)
 
 
 def symbol_path(symbol):
     return "assets/audio/phonemes/ipa-" + "-".join(f"{ord(c):04x}" for c in symbol) + ".wav"
 
 
-def clarify_isolated_sound(path, symbol):
-    """Let users hear short, unvoiced consonant releases on ordinary devices."""
-    with wave.open(str(path)) as source:
-        channels, width, rate, _, _, _ = source.getparams()
-        assert (channels, width) == (1, 2)
-        samples = array("h", source.readframes(source.getnframes()))
-    if symbol == "ɒ":
-        # A shorter, rounded vowel distinguished from the long /ɔː/ in this
-        # American backend; a British-quality /ɒ/ is not in its inventory.
-        samples = samples[:int(.19 * rate)]
-        edge = min(len(samples), int(.03 * rate))
-        for index in range(edge):
-            pos = len(samples) - edge + index
-            samples[pos] = round(samples[pos] * (edge - index) / edge)
-    rms = math.sqrt(sum(sample * sample for sample in samples) / len(samples))
-    if rms < 1800:
-        gain = min(25, 1800 / max(rms, 1))
-        if max(abs(sample) for sample in samples) * gain > 26000:
-            gain = 26000 / max(abs(sample) for sample in samples)
-        samples = array("h", (round(sample * gain) for sample in samples))
-    with wave.open(str(path), "wb") as target:
-        target.setparams((1, 2, rate, 0, "NONE", "not compressed"))
-        target.writeframes(b"\x00\x00" * int(rate * .06) + samples.tobytes()
-                           + b"\x00\x00" * int(rate * .12))
+def import_owner_sound_library(source_html):
+    """Copy the owner's 48 real sound clips, matched by IPA symbol (not index)."""
+    text = source_html.decode("utf-8")
+    start = text.index("const phonemes=[") + len("const phonemes=")
+    end = text.index("].map(([symbol,group,type,word,wordIpa,tip]", start) + 1
+    phonemes = json.loads(text[start:end])
+    start = text.index("const PHONEME_AUDIO=") + len("const PHONEME_AUDIO=")
+    recordings, _ = json.JSONDecoder().raw_decode(text[start:])
+    assert len(phonemes) == len(recordings) == 48
+    mapped = {entry[0]: recordings[f"p{index}"] for index, entry in enumerate(phonemes)}
+    assert set(mapped) == PHONES - {"juː"}, (set(mapped) ^ PHONES)
+    output_hashes = {}
+    for symbol, uri in mapped.items():
+        header, data = uri.split(",", 1)
+        assert header in ("data:audio/wav;base64", "data:audio/mpeg;base64")
+        target = ROOT / symbol_path(symbol)
+        target.parent.mkdir(parents=True, exist_ok=True)
+        result = subprocess.run(
+            ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
+             "-f", "wav" if "audio/wav" in header else "mp3", "-i", "pipe:0",
+             "-ar", "24000", "-ac", "1", "-c:a", "pcm_s16le", str(target)],
+            input=base64.b64decode(data, validate=True), capture_output=True)
+        if result.returncode:
+            raise RuntimeError(f"Could not decode /{symbol}/: {result.stderr.decode(errors='replace')}")
+        with wave.open(str(target)) as sound:
+            assert sound.getnframes() / sound.getframerate() > .35, symbol
+        output_hashes[symbol] = hashlib.sha256(target.read_bytes()).hexdigest()
+    # The textbook's /juː/ is the British pronunciation of the word 'you'.
+    # That combination is outside the owner's 48-symbol chart.
+    extra = ROOT / symbol_path("juː")
+    shutil.copyfile(ROOT / "assets/audio/u03/u03-p036-s025.wav", extra)
+    output_hashes["juː"] = hashlib.sha256(extra.read_bytes()).hexdigest()
+    (ROOT / "data/phoneme-sources.json").write_text(json.dumps({
+        "source": SOURCE_URL,
+        "note": "48 source sounds; /juː/ is the textbook's recorded word you.",
+        "audioSha256": output_hashes,
+    }, ensure_ascii=False, indent=2) + "\n")
+    return len(mapped)
 
 
 def join_recording(parts, target):
@@ -195,7 +205,7 @@ def join_recording(parts, target):
         output.writeframes(pause.join(fragments))
 
 
-def main():
+def main(source_path=None):
     spots = printed_positions()
     manifest_path = ROOT / "data/manifest.json"
     manifest = json.loads(manifest_path.read_text())
@@ -208,16 +218,16 @@ def main():
             if page["page"] in spots:
                 page["sentences"] = [card for card in page["sentences"]
                                      if not (re.search(r"-s2\d\d$", card["id"])
-                                             and card["voice"].endswith("单独音标"))]
+                                             and re.fullmatch(r"/[^/]+/", card["text"])
+                                             and card["audio"].startswith("assets/audio/phonemes/"))]
 
+    source_html = Path(source_path).read_bytes() if source_path else urllib.request.urlopen(SOURCE_URL, timeout=30).read()
+    sourced_count = import_owner_sound_library(source_html)
     lib, voice = flite_voice()
-    phonemes = set(VOWELS + CONSONANTS + ["juː"])
+    phonemes = PHONES.copy()
     for rows in spots.values():
         phonemes.update(symbol for symbol, *_ in rows)
-    for symbol in sorted(phonemes):
-        path = ROOT / symbol_path(symbol)
-        generate(lib, voice, PHONES[symbol], path, True)
-        clarify_isolated_sound(path, symbol)
+    assert phonemes == PHONES
 
     # Every card with a *printed sound symbol*, including sounds within prose.
     # Enumerating IDs avoids treating grammatical alternatives like he/she/it
@@ -277,7 +287,7 @@ def main():
                         # altered this ordinary word in the stored transcription.
                         if card["id"] == "u08-p099-s002":
                             card["ipa"] = card["ipa"].replace("ˈtɒp tθ", "ˈtɒp ˈtiːθ")
-                    card["voice"] = "美式女声 · SLT · 音标已校正"
+                    card["voice"] = "句子 · SLT；音标 · 用户音标练习站录音"
     assert found == cards, sorted(cards - found)
 
     new_cards = 0
@@ -291,7 +301,7 @@ def main():
                 "id": f"u{next(info['id'] for info in manifest['units'] if info['start'] <= number <= info['end']):02}-p{number:03}-s{index:03}",
                 "speaker": "narrator", "text": f"/{symbol}/", "rects": [rect],
                 "ipa": f"/{symbol}/", "meaning": f"音标 /{symbol}/：点击听这个音",
-                "voice": "美式女声 · SLT · 单独音标",
+                "voice": "英式音标 · 用户音标练习站录音" if symbol != "juː" else "英式词音 · you",
                 "audio": symbol_path(symbol),
             })
             new_cards += 1
@@ -312,8 +322,9 @@ def main():
                     writer.writerow({"unit": info["id"], "page": page["page"],
                                      "id": card["id"], "speaker": card["speaker"],
                                      "text": card["text"], "rects": len(card["rects"])})
-    print(f"Corrected {len(cards)} embedded phonetic cards; added {new_cards} sound cards at "
-          f"{sum(map(len, spots.values()))} printed positions and generated {len(phonemes)} unique sounds.")
+    print(f"Corrected {len(cards)} mixed sentences using {sourced_count} owner-recorded phonemes; "
+          f"added {new_cards} sound cards at {sum(map(len, spots.values()))} printed positions; "
+          "the additional /juː/ uses the textbook word 'you'.")
 
 
 def write_original_style(path, data):
@@ -331,4 +342,5 @@ def write_original_style(path, data):
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    main(sys.argv[1] if len(sys.argv) > 1 else None)

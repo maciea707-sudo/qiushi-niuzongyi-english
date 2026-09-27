@@ -17,7 +17,7 @@ const speedButtons = [...document.querySelectorAll(".speed-button")];
 const unitTitle = document.getElementById("unitTitle");
 const pageTitle = document.getElementById("pageTitle");
 const toast = document.getElementById("toast");
-const contentRevision = "20260928-phonetics-v1";
+const contentRevision = "20260928-phonetics-owner-audio-v2";
 
 const speakerPalette = [
   ["#75419a", "#f5eef9"], ["#d56843", "#fdf0eb"], ["#2878b5", "#eaf4fb"],
@@ -353,7 +353,9 @@ function showSentence(index, anchor) {
   sentenceText.textContent = currentSentence.text;
   ipaText.textContent = currentSentence.ipa || "正在完善音标";
   meaningText.textContent = currentSentence.meaning || "正在完善汉语意思";
-  voiceStatusText.textContent = `AI 配音 · ${currentSentence.voice || profile.voice}`;
+  const importedPhoneticAudio = currentSentence.audio?.startsWith("assets/audio/phonemes/") ||
+    currentSentence.voice?.includes("用户音标练习站录音");
+  voiceStatusText.textContent = `${importedPhoneticAudio ? "点读录音" : "AI 配音"} · ${currentSentence.voice || profile.voice}`;
   popover.classList.remove("hidden");
   document.body.classList.add("focus-mode");
   requestAnimationFrame(() => positionPopover(anchor));

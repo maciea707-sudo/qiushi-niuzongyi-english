@@ -1,6 +1,7 @@
 """Check the textbook index and every referenced static asset."""
 
 import csv
+import hashlib
 import json
 import pathlib
 import re
@@ -191,11 +192,23 @@ for number in range(149, 164):
                   and item["voice"].endswith("单独音标") for item in page_items[number]),
           f"Page {number}: wordlist sound accidentally split from its word")
 for symbol in PHONES:
-    check((ROOT / symbol_path(symbol)).is_file(), f"Missing phonetic sound /{symbol}/")
+    path = ROOT / symbol_path(symbol)
+    check(path.is_file(), f"Missing phonetic sound /{symbol}/")
+    if path.is_file():
+        with wave.open(str(path)) as sound:
+            check(sound.getnframes() / sound.getframerate() >= .35,
+                  f"Phonetic sound /{symbol}/ too short to hear")
+source_hashes = json.loads((ROOT / "data/phoneme-sources.json").read_text())["audioSha256"]
+check(set(source_hashes) == PHONES, "Imported phonetic recording inventory differs")
+for symbol, expected in source_hashes.items():
+    path = ROOT / symbol_path(symbol)
+    if path.is_file():
+        check(hashlib.sha256(path.read_bytes()).hexdigest() == expected,
+              f"Phonetic recording /{symbol}/ differs from imported source")
 for unit in manifest["units"]:
     for page in json.loads((ROOT / f"data/unit-{unit['id']}.json").read_text())["pages"]:
         for item in page["sentences"]:
-            if item["voice"].endswith("音标已校正"):
+            if item["voice"].startswith("句子 · SLT；音标"):
                 check(not re.search(r"ˈ(?:dʌbəljuː|viː|biː|keɪ|ef|piː)(?=$|[\s,./])", item["ipa"]),
                       f"{item['id']}: letter name still displayed instead of sound")
 
