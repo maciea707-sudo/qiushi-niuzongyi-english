@@ -16,7 +16,7 @@ const replayAudio = document.getElementById("replayAudio");
 const unitTitle = document.getElementById("unitTitle");
 const pageTitle = document.getElementById("pageTitle");
 const toast = document.getElementById("toast");
-const contentRevision = "20260927-cloze-and-roles-v2";
+const contentRevision = "20260927-complete-lines-v3";
 
 const speakerPalette = [
   ["#75419a", "#f5eef9"], ["#d56843", "#fdf0eb"], ["#2878b5", "#eaf4fb"],
@@ -184,7 +184,11 @@ async function renderPage(push = false, token = ++navigationToken) {
 }
 
 function createHotspots(sentence, index) {
-  sentence.rects.forEach((rect, fragmentIndex) => {
+  // A printed blank can lie between two OCR fragments on the same line.
+  // Join those fragments so the underline lights up with its whole sentence.
+  const rects = currentPage >= 149 && currentPage <= 163
+    ? sentence.rects : joinSentenceLineRects(sentence, index);
+  rects.forEach((rect, fragmentIndex) => {
     const button = document.createElement("button");
     button.type = "button";
     button.className = "hotspot";
@@ -210,6 +214,38 @@ function createHotspots(sentence, index) {
     button.addEventListener("blur", schedulePreviewHide);
     button.addEventListener("click", event => { event.stopPropagation(); showSentence(index, button); });
     page.appendChild(button);
+  });
+}
+
+function joinSentenceLineRects(sentence, index) {
+  const all = unitData.pages.find(item => item.page === currentPage).sentences;
+  const sorted = [...sentence.rects].sort((a, b) => a.y - b.y || a.x - b.x);
+  const rows = [];
+  for (const rect of sorted) {
+    const row = rows.find(group => Math.abs(group[0].y - rect.y) < 0.45);
+    if (row) row.push(rect);
+    else rows.push([rect]);
+  }
+  return rows.flatMap(group => {
+    group.sort((a, b) => a.x - b.x);
+    const joined = [{ ...group[0] }];
+    for (const next of group.slice(1)) {
+      const last = joined[joined.length - 1];
+      const end = last.x + last.w;
+      const gap = next.x - end;
+      const sharedHeight = Math.min(last.y + last.h, next.y + next.h) - Math.max(last.y, next.y);
+      const otherTextBetween = all.some((other, otherIndex) => otherIndex !== index &&
+        other.rects.some(box => box.x < next.x && box.x + box.w > end &&
+          box.y < Math.min(last.y + last.h, next.y + next.h) &&
+          box.y + box.h > Math.max(last.y, next.y)));
+      if (gap <= 35 && sharedHeight > Math.min(last.h, next.h) * 0.65 && !otherTextBetween) {
+        const bottom = Math.max(last.y + last.h, next.y + next.h);
+        last.w = Math.max(end, next.x + next.w) - last.x;
+        last.y = Math.min(last.y, next.y);
+        last.h = bottom - last.y;
+      } else joined.push({ ...next });
+    }
+    return joined;
   });
 }
 

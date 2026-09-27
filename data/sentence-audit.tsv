@@ -564,7 +564,7 @@ unit	page	id	speaker	text	rects
 1	14	u01-p014-s019	narrator	She has dance classes every week.	1
 1	14	u01-p014-s047	narrator	Amy is years old.	1
 1	14	u01-p014-s020	narrator	She is small.	1
-1	14	u01-p014-s048	narrator	She swims very	1
+1	14	u01-p014-s048	narrator	She swims very … .	2
 1	14	u01-p014-s049	narrator	She likes new people.	1
 1	14	u01-p014-s021	narrator	Millie likes her new friends very much.	1
 1	15	u01-p015-s018	narrator	Unit 1	1
@@ -1066,10 +1066,8 @@ unit	page	id	speaker	text	rects
 2	26	u02-p026-s008	narrator	Our school has 11 clubs in all.	1
 2	26	u02-p026-s033	narrator	I want to join the Club.	1
 2	26	u02-p026-s034	narrator	The club members meet on Wednesday afternoons.	2
-2	26	u02-p026-s035	narrator	They every week and share their	1
-2	26	u02-p026-s036	narrator	They also introduce their to each other at	1
-2	26	u02-p026-s010	narrator	ideas about it.	1
-2	26	u02-p026-s011	narrator	the meeting.	1
+2	26	u02-p026-s035	narrator	They … every week and share their ideas about it.	2
+2	26	u02-p026-s036	narrator	They also introduce their … to each other at the meeting.	2
 2	26	u02-p026-s037	narrator	Our school also has some clubs.	1
 2	26	u02-p026-s038	narrator	The members meet every Friday afternoon.	2
 2	26	u02-p026-s013	narrator	I can also join one of those clubs.	1
@@ -1761,8 +1759,7 @@ unit	page	id	speaker	text	rects
 4	46	u04-p046-s016	narrator	2 What lessons do you like best?	1
 4	46	u04-p046-s017	narrator	Why?	1
 4	46	u04-p046-s018	narrator	3 What do you think is special about your school life?	1
-4	46	u04-p046-s044	narrator	Share it with your	1
-4	46	u04-p046-s019	narrator	classmates.	1
+4	46	u04-p046-s044	narrator	Share it with your classmates.	2
 4	47	u04-p047-s033	narrator	Unit 4	1
 4	47	u04-p047-s034	narrator	Grammar	1
 4	47	u04-p047-s037	narrator	A Prepositions of time	1
@@ -1991,16 +1988,15 @@ unit	page	id	speaker	text	rects
 4	50	u04-p050-s022	narrator	Where: Sunny Apple Farm	1
 4	50	u04-p050-s009	narrator	When listening for details, pay attention to some words that help us follow the content, such as in the morning, in the afternoon and then.	9
 4	50	u04-p050-s023	narrator	TIP	1
-4	50	u04-p050-s024	narrator	When: October The bus leaves at a.m.	2
-4	50	u04-p050-s026	narrator	and gets back at	1
-4	50	u04-p050-s027	narrator	p.m.	1
+4	50	u04-p050-s024	narrator	When: … October	1
+4	50	u04-p050-s026	narrator	The bus leaves at … a.m. and gets back at … p.m.	3
 4	50	u04-p050-s028	narrator	Activities for the day:	1
 4	50	u04-p050-s029	narrator	In the morning:	1
-4	50	u04-p050-s030	narrator	We watch a video and learn how to apples.	1
+4	50	u04-p050-s030	narrator	We watch a video and learn how to … apples.	1
 4	50	u04-p050-s031	narrator	In the afternoon:	1
-4	50	u04-p050-s032	narrator	We have a about how to pick apples.	1
-4	50	u04-p050-s033	narrator	We help the apples on the farm.	1
-4	50	u04-p050-s034	narrator	We take some apples home and share them with.	1
+4	50	u04-p050-s032	narrator	We have a … about how to pick apples.	1
+4	50	u04-p050-s033	narrator	We help … the apples on the farm.	1
+4	50	u04-p050-s034	narrator	We take some apples home and share them with … .	1
 4	51	u04-p051-s017	narrator	Unit 4	1
 4	51	u04-p051-s002	narrator	Work in groups and talk about the topic.	2
 4	51	u04-p051-s001	narrator	C Sandy and her classmates are talking about school field trips.	1
@@ -2034,15 +2030,12 @@ unit	page	id	speaker	text	rects
 4	52	u04-p052-s022	narrator	Learning through chores	1
 4	52	u04-p052-s024	narrator	In my class, we all work in groups and take turns to do different chores.	2
 4	52	u04-p052-s003	narrator	My group works on Mondays.	1
-4	52	u04-p052-s025	narrator	Usually, Simon	1
-4	52	u04-p052-s026	narrator	cleans the windows, Daniel likes to sweep the floor, and I clean the blackboard and empty the bins.	2
+4	52	u04-p052-s025	narrator	Usually, Simon cleans the windows, Daniel likes to sweep the floor, and I clean the blackboard and empty the bins.	3
 4	52	u04-p052-s005	narrator	We have a “class farm”.	1
-4	52	u04-p052-s027	narrator	I like to water the plants	1
-4	52	u04-p052-s006	narrator	there.	1
+4	52	u04-p052-s027	narrator	I like to water the plants there.	2
 4	52	u04-p052-s028	narrator	This helps me learn how to take care of plants.	2
 4	52	u04-p052-s029	narrator	We each do something for our class and learn about teamwork through chores.	2
-4	52	u04-p052-s030	narrator	We are happy to keep	1
-4	52	u04-p052-s009	narrator	our classroom clean and tidy.	1
+4	52	u04-p052-s030	narrator	We are happy to keep our classroom clean and tidy.	2
 4	52	u04-p052-s010	narrator	D3 Write an article about hands-on learning at your school based on the information in Part D1.	2
 4	52	u04-p052-s011	narrator	Use Sandy’s article as a model.	1
 4	52	u04-p052-s031	narrator	Useful expressions	1
@@ -2573,15 +2566,13 @@ unit	page	id	speaker	text	rects
 5	66	u05-p066-s029	narrator	My lifestyle	1
 5	66	u05-p066-s032	narrator	For me, a healthy lifestyle is all about a healthy diet, enough exercise and rest.	2
 5	66	u05-p066-s005	narrator	For breakfast, I usually have a pie and an egg.	1
-5	66	u05-p066-s033	narrator	For lunch, I have	1
-5	66	u05-p066-s006	narrator	rice, meat and vegetables.	1
+5	66	u05-p066-s033	narrator	For lunch, I have rice, meat and vegetables.	2
 5	66	u05-p066-s007	narrator	I also have a yogurt between meals.	1
 5	66	u05-p066-s034	narrator	My mum likes to cook noodles in different ways, so I often eat noodles for dinner.	2
 5	66	u05-p066-s009	narrator	I do sport almost every day.	1
 5	66	u05-p066-s010	narrator	Sport helps me keep fit.	1
 5	66	u05-p066-s011	narrator	I sleep for about 9 hours most nights.	1
-5	66	u05-p066-s035	narrator	A good night’s sleep gives	1
-5	66	u05-p066-s012	narrator	me lots of energy for the next day.	1
+5	66	u05-p066-s035	narrator	A good night’s sleep gives me lots of energy for the next day.	2
 5	66	u05-p066-s013	narrator	I can stay fit with a healthy lifestyle.	1
 5	66	u05-p066-s015	narrator	Use Amy’s article as a model.	2
 5	66	u05-p066-s014	narrator	D3 Write an article about your lifestyle based on the information in Part D1.	1
@@ -2976,8 +2967,7 @@ unit	page	id	speaker	text	rects
 6	76	u06-p076-s019	narrator	Qipao	1
 6	76	u06-p076-s028	narrator	They are a kind of for women.	1
 6	76	u06-p076-s017	narrator	• They are usually close-fitting and have many different styles.	1
-6	76	u06-p076-s029	narrator	Most qipao have beautiful pictures on them, like Chinese	1
-6	76	u06-p076-s030	narrator	often with flowers.	1
+6	76	u06-p076-s029	narrator	Most qipao have beautiful pictures on them, like Chinese …, often with flowers.	3
 6	76	u06-p076-s031	narrator	Many women like to wear qipao for events.	1
 6	77	u06-p077-s014	narrator	Unit 6	1
 6	77	u06-p077-s002	narrator	Work in pairs and talk about the topic.	2
@@ -3375,17 +3365,11 @@ unit	page	id	speaker	text	rects
 7	88	u07-p088-s027	narrator	A show about money	1
 7	88	u07-p088-s021	narrator	Place Sunshine Museum	2
 7	88	u07-p088-s028	narrator	Time	1
-7	88	u07-p088-s036	narrator	of money from different times, such as	1
-7	88	u07-p088-s029	narrator	See	1
-7	88	u07-p088-s030	narrator	shells, coins and	1
-7	88	u07-p088-s037	narrator	about money	1
-7	88	u07-p088-s031	narrator	Watch videos to learn	1
-7	88	u07-p088-s032	narrator	(Example: China is the country in the world to	1
+7	88	u07-p088-s029	narrator	See … of money from different times, such as shells, coins and … .	3
+7	88	u07-p088-s031	narrator	Watch videos to learn … about money.	2
+7	88	u07-p088-s032	narrator	(Example: China is the … country in the world to use paper money.)	2
 7	88	u07-p088-s022	narrator	What to do	1
-7	88	u07-p088-s033	narrator	use paper money.)	1
-7	88	u07-p088-s038	narrator	about different kinds of money	1
-7	88	u07-p088-s034	narrator	Listen to a	1
-7	88	u07-p088-s035	narrator	around the world	1
+7	88	u07-p088-s034	narrator	Listen to a … about different kinds of money around the world.	3
 7	89	u07-p089-s026	narrator	Unit 7	1
 7	89	u07-p089-s002	narrator	Work in pairs and talk about the topic.	2
 7	89	u07-p089-s001	narrator	C Daniel and Millie are talking about lucky money.	1
@@ -3432,20 +3416,15 @@ unit	page	id	speaker	text	rects
 7	90	u07-p090-s001	narrator	D2 Millie is writing about what she does with her lucky money.	1
 7	90	u07-p090-s002	narrator	Read her article below.	1
 7	90	u07-p090-s026	narrator	What I do with my lucky money	1
-7	90	u07-p090-s027	narrator	Every year, I get some lucky money at the Spring	1
+7	90	u07-p090-s027	narrator	Every year, I get some lucky money at the Spring Festival.	2
 7	90	u07-p090-s003	narrator	When do I get lucky money?	2
-7	90	u07-p090-s004	narrator	Festival.	1
 7	90	u07-p090-s028	narrator	I usually spend most of my lucky money on pens, books, food and music.	2
-7	90	u07-p090-s029	narrator	I also use some money to	1
+7	90	u07-p090-s029	narrator	I also use some money to help children in need every year.	2
 7	90	u07-p090-s006	narrator	What do I spend money on?	2
-7	90	u07-p090-s007	narrator	help children in need every year.	1
-7	90	u07-p090-s030	narrator	I save the rest in	1
-7	90	u07-p090-s008	narrator	my bank account.	1
-7	90	u07-p090-s031	narrator	As Mum always tells me, it is	1
-7	90	u07-p090-s009	narrator	important to save for a rainy day.	1
+7	90	u07-p090-s030	narrator	I save the rest in my bank account.	2
+7	90	u07-p090-s031	narrator	As Mum always tells me, it is important to save for a rainy day.	2
 7	90	u07-p090-s010	narrator	I try to manage my money well.	1
-7	90	u07-p090-s032	narrator	At the beginning	1
-7	90	u07-p090-s011	narrator	of each year, I make a budget for my lucky money.	1
+7	90	u07-p090-s032	narrator	At the beginning of each year, I make a budget for my lucky money.	2
 7	90	u07-p090-s012	narrator	Do I make a budget?	1
 7	90	u07-p090-s033	narrator	It helps me plan what to do with it and have good spending habits.	2
 7	90	u07-p090-s014	narrator	D3 Write an article about how you use your lucky money based on the information in Part D1.	2
@@ -3540,35 +3519,26 @@ unit	page	id	speaker	text	rects
 8	94	u08-p094-s004	narrator	1 How do you celebrate New Year?	1
 8	94	u08-p094-s005	narrator	2 Why do we celebrate New Year?	1
 8	94	u08-p094-s006	narrator	Good evening, ladies and gentlemen.	1
-8	94	u08-p094-s030	narrator	New Year is	1
+8	94	u08-p094-s030	narrator	New Year is coming.	2
 8	94	u08-p094-s007	narrator	“Ladies and gentlemen” is a common way to address a group of people, especially in a formal, public setting.	8
 8	94	u08-p094-s031	narrator	TIP	1
-8	94	u08-p094-s008	narrator	coming.	1
-8	94	u08-p094-s032	narrator	Let’s see how people all over the world are	1
-8	94	u08-p094-s009	narrator	celebrating it.	1
+8	94	u08-p094-s032	narrator	Let’s see how people all over the world are celebrating it.	2
 8	94	u08-p094-s010	narrator	Look at the man spreading salt on his doorstep.	1
-8	94	u08-p094-s033	narrator	This is	1
-8	94	u08-p094-s011	narrator	for good luck and peace.	1
-8	94	u08-p094-s034	narrator	People in Türkiye think salt	1
-8	94	u08-p094-s012	narrator	will keep them from bad things in the coming year.	1
+8	94	u08-p094-s033	narrator	This is for good luck and peace.	2
+8	94	u08-p094-s034	narrator	People in Türkiye think salt will keep them from bad things in the coming year.	2
 8	94	u08-p094-s013	narrator	Isn’t that interesting?	1
 8	94	u08-p094-s035	narrator	Here in Greece, an old woman is hanging onions on her door.	2
-8	94	u08-p094-s036	narrator	It’s a Greek tradition to welcome the new	1
-8	94	u08-p094-s015	narrator	year.	1
+8	94	u08-p094-s036	narrator	It’s a Greek tradition to welcome the new year.	2
 8	94	u08-p094-s016	narrator	Onions are a symbol of good luck and health.	1
 8	94	u08-p094-s017	narrator	It’s near midnight in Denmark.	1
 8	94	u08-p094-s018	narrator	Look!	1
-8	94	u08-p094-s037	narrator	The families are	1
-8	94	u08-p094-s019	narrator	all standing on chairs.	1
-8	94	u08-p094-s038	narrator	When the clock strikes 12, they	1
-8	94	u08-p094-s039	narrator	jump off their chairs into the new year, in the hope of getting over any problem in the year ahead!	2
+8	94	u08-p094-s037	narrator	The families are all standing on chairs.	2
+8	94	u08-p094-s038	narrator	When the clock strikes 12, they jump off their chairs into the new year, in the hope of getting over any problem in the year ahead!	3
 8	94	u08-p094-s040	narrator	In Colombia, some people are carrying suitcases around the block.	2
 8	94	u08-p094-s022	narrator	Are they travellers?	1
 8	94	u08-p094-s023	narrator	No!	1
-8	94	u08-p094-s041	narrator	They’re	1
-8	94	u08-p094-s024	narrator	hoping for a new year with lots of travel.	1
-8	94	u08-p094-s042	narrator	The world is full of wonderful and interesting New	1
-8	94	u08-p094-s025	narrator	Year traditions.	1
+8	94	u08-p094-s041	narrator	They’re hoping for a new year with lots of travel.	2
+8	94	u08-p094-s042	narrator	The world is full of wonderful and interesting New Year traditions.	2
 8	94	u08-p094-s026	narrator	But wherever you are, Happy New Year!	1
 8	95	u08-p095-s016	narrator	Unit 8	1
 8	95	u08-p095-s002	narrator	Fill in the blanks with the correct words.	2
@@ -3649,14 +3619,11 @@ unit	page	id	speaker	text	rects
 8	97	u08-p097-s005	narrator	Look at me, the girl in the middle!	1
 8	97	u08-p097-s007	narrator	The boy behind us is Daniel.	1
 8	97	u08-p097-s008	narrator	He is playing the violin.	1
-8	97	u08-p097-s029	narrator	She is playing the piano with	1
+8	97	u08-p097-s029	narrator	She is playing the piano with another girl.	2
 8	97	u08-p097-s009	narrator	The girl over there is Sandy.	1
 8	97	u08-p097-s011	narrator	They are playing lively music for the dance.	1
-8	97	u08-p097-s010	narrator	another girl.	1
-8	97	u08-p097-s030	narrator	We use the present continuous tense to talk about things that are	1
-8	97	u08-p097-s031	narrator	(happening now, in the past).	1
-8	97	u08-p097-s032	narrator	We make positive and negative sentences using the present continuous tense like	1
-8	97	u08-p097-s033	narrator	this:	1
+8	97	u08-p097-s030	narrator	We use the present continuous tense to talk about things that are (happening now, in the past).	2
+8	97	u08-p097-s032	narrator	We make positive and negative sentences using the present continuous tense like this:	2
 8	97	u08-p097-s022	narrator	I am	2
 8	97	u08-p097-s023	narrator	I am not	2
 8	97	u08-p097-s034	narrator	You/We/They are playing.	2
@@ -3766,14 +3733,12 @@ unit	page	id	speaker	text	rects
 8	99	u08-p099-s007	narrator	Don’t worry.	1
 8	99	u08-p099-s008	narrator	You can get help from this website.	1
 8	99	u08-p099-s009	narrator	A lot of people are watching a show in the park.	1
-8	99	u08-p099-s045	narrator	What a	1
-8	99	u08-p099-s010	narrator	wonderful voice!	1
+8	99	u08-p099-s045	narrator	What a wonderful voice!	2
 8	99	u08-p099-s011	narrator	B Here is a tongue twister.	1
 8	99	u08-p099-s012	narrator	Listen carefully.	1
 8	99	u08-p099-s013	narrator	Then practise reading it correctly.	1
 8	99	u08-p099-s014	narrator	Wendy and I are watching a New Year show.	1
-8	99	u08-p099-s046	narrator	Two artists, Violet and William,	1
-8	99	u08-p099-s015	narrator	are singing at the Window of the World.	1
+8	99	u08-p099-s046	narrator	Two artists, Violet and William, are singing at the Window of the World.	2
 8	99	u08-p099-s016	narrator	Both Violet and William have a very wonderful voice.	1
 8	99	u08-p099-s017	narrator	They sing very well.	1
 8	99	u08-p099-s018	narrator	Their song is about warm wishes for the new year.	1
@@ -3792,16 +3757,10 @@ unit	page	id	speaker	text	rects
 8	100	u08-p100-s003	narrator	Read the article and answer the questions below.	1
 8	100	u08-p100-s019	narrator	The Double Ninth Festival	1
 8	100	u08-p100-s004	narrator	The Double Ninth Festival is in autumn.	1
-8	100	u08-p100-s020	narrator	On this day, people	1
-8	100	u08-p100-s021	narrator	often go mountain climbing to enjoy the natural beauty of autumn.	2
-8	100	u08-p100-s022	narrator	The Double Ninth	1
-8	100	u08-p100-s023	narrator	Festival is also a time to show respect and love for our elders.	3
-8	100	u08-p100-s025	narrator	This is because	1
-8	100	u08-p100-s015	narrator	“double ninth” sounds	1
-8	100	u08-p100-s026	narrator	like the word “forever” in	1
-8	100	u08-p100-s007	narrator	Chinese.	1
-8	100	u08-p100-s027	narrator	On this day, we	1
-8	100	u08-p100-s028	narrator	wish our elders a long and happy life.	2
+8	100	u08-p100-s020	narrator	On this day, people often go mountain climbing to enjoy the natural beauty of autumn.	3
+8	100	u08-p100-s022	narrator	The Double Ninth Festival is also a time to show respect and love for our elders.	4
+8	100	u08-p100-s025	narrator	This is because “double ninth” sounds like the word “forever” in Chinese.	4
+8	100	u08-p100-s027	narrator	On this day, we wish our elders a long and happy life.	3
 8	100	u08-p100-s009	narrator	1 What do people do on the Double Ninth Festival?	1
 8	100	u08-p100-s010	narrator	2 Does your family have any special traditions on the Double Ninth Festival?	1
 8	100	u08-p100-s011	narrator	What are they?	1
@@ -3873,23 +3832,16 @@ unit	page	id	speaker	text	rects
 8	102	u08-p102-s001	narrator	D2 Read Simon’s article about his favourite festival.	1
 8	102	u08-p102-s024	narrator	The Spring Festival	1
 8	102	u08-p102-s002	narrator	My favourite festival is the Spring Festival.	1
-8	102	u08-p102-s026	narrator	It is an important	1
-8	102	u08-p102-s003	narrator	holiday in China.	1
+8	102	u08-p102-s026	narrator	It is an important holiday in China.	2
 8	102	u08-p102-s004	narrator	It is always in January or February.	1
 8	102	u08-p102-s027	narrator	Usually, people clean their homes and put up the Spring Festival couplets beforehand.	2
-8	102	u08-p102-s028	narrator	On the Chinese New Year’s Eve, families get	1
-8	102	u08-p102-s006	narrator	together and enjoy a big dinner.	1
-8	102	u08-p102-s029	narrator	We prepare some dishes with	1
-8	102	u08-p102-s007	narrator	special meanings, like jiaozi and niangao.	1
-8	102	u08-p102-s030	narrator	Then people like to watch	1
-8	102	u08-p102-s008	narrator	the Spring Festival Gala on TV.	1
-8	102	u08-p102-s031	narrator	During the holiday, people visit	1
-8	102	u08-p102-s009	narrator	relatives and friends and send each other good wishes.	1
-8	102	u08-p102-s032	narrator	Elders often	1
-8	102	u08-p102-s010	narrator	give kids red packets to wish them good luck.	1
+8	102	u08-p102-s028	narrator	On the Chinese New Year’s Eve, families get together and enjoy a big dinner.	2
+8	102	u08-p102-s029	narrator	We prepare some dishes with special meanings, like jiaozi and niangao.	2
+8	102	u08-p102-s030	narrator	Then people like to watch the Spring Festival Gala on TV.	2
+8	102	u08-p102-s031	narrator	During the holiday, people visit relatives and friends and send each other good wishes.	2
+8	102	u08-p102-s032	narrator	Elders often give kids red packets to wish them good luck.	2
 8	102	u08-p102-s011	narrator	The Spring Festival lasts till the Lantern Festival.	1
-8	102	u08-p102-s033	narrator	It is often cold at	1
-8	102	u08-p102-s012	narrator	this time of year, but people feel warm in their hearts.	1
+8	102	u08-p102-s033	narrator	It is often cold at this time of year, but people feel warm in their hearts.	2
 8	102	u08-p102-s015	narrator	Use Simon’s article as a model.	2
 8	102	u08-p102-s013	narrator	D3 Write about your favourite festival.	1
 8	102	u08-p102-s014	narrator	Make a writing plan like the one in Part D1.	1
@@ -3897,8 +3849,7 @@ unit	page	id	speaker	text	rects
 8	102	u08-p102-s016	narrator	My favourite festival is …	1
 8	102	u08-p102-s017	narrator	It is usually/always in …	1
 8	102	u08-p102-s018	narrator	On this day, we dance/sing/send each other wishes/…	1
-8	102	u08-p102-s035	narrator	During this festival, we have a big dinner/spend time with	1
-8	102	u08-p102-s019	narrator	family/watch a firework show/…	1
+8	102	u08-p102-s035	narrator	During this festival, we have a big dinner/spend time with family/watch a firework show/…	2
 8	102	u08-p102-s020	narrator	Usually, people …	1
 8	102	u08-p102-s021	narrator	is a popular activity/tradition.	1
 8	102	u08-p102-s022	narrator	The best part about this festival is that …	1
@@ -3923,13 +3874,9 @@ unit	page	id	speaker	text	rects
 8	103	u08-p103-s023	narrator	My action plan:	1
 8	103	u08-p103-s024	narrator	Further study	1
 8	103	u08-p103-s025	narrator	Chinese New Year: The Biggest Celebration on Earth is an English TV documentary about the Chinese New Year.	2
-8	103	u08-p103-s026	narrator	It looks at all the interesting and exciting Chinese	1
-8	103	u08-p103-s027	narrator	New Year traditions, such as the temple fair in Beijing and the lion dance in	1
-8	103	u08-p103-s010	narrator	Hong Kong.	1
-8	103	u08-p103-s028	narrator	Watch the programme and learn more about different ways of	1
-8	103	u08-p103-s011	narrator	celebrating the festival around China.	1
-8	103	u08-p103-s029	narrator	Are there any special Chinese New Year	1
-8	103	u08-p103-s012	narrator	traditions in your hometown?	1
+8	103	u08-p103-s026	narrator	It looks at all the interesting and exciting Chinese New Year traditions, such as the temple fair in Beijing and the lion dance in Hong Kong.	3
+8	103	u08-p103-s028	narrator	Watch the programme and learn more about different ways of celebrating the festival around China.	2
+8	103	u08-p103-s029	narrator	Are there any special Chinese New Year traditions in your hometown?	2
 8	103	u08-p103-s013	narrator	Share them with your classmates.	1
 10	104	u10-p104-s001	narrator	Project 2	1
 10	104	u10-p104-s002	narrator	A party plan to celebrate New Year	1
@@ -4388,23 +4335,17 @@ unit	page	id	speaker	text	rects
 14	117	u14-p117-s004	narrator	Then correct the false one(s).	1
 14	117	u14-p117-s032	narrator	A happy corner: our class farm	1
 14	117	u14-p117-s005	narrator	At school, we have a special corner.	1
-14	117	u14-p117-s033	narrator	There, we grow vegetables and	1
-14	117	u14-p117-s006	narrator	have interesting classes.	1
+14	117	u14-p117-s033	narrator	There, we grow vegetables and have interesting classes.	2
 14	117	u14-p117-s007	narrator	We call it the “class farm”.	1
-14	117	u14-p117-s034	narrator	On the farm, you	1
-14	117	u14-p117-s008	narrator	can see cabbages, beans, tomatoes … and lots more!	2
+14	117	u14-p117-s034	narrator	On the farm, you can see cabbages, beans, tomatoes … and lots more!	3
 14	117	u14-p117-s010	narrator	We use the farm to learn different things in many of our classes.	1
-14	117	u14-p117-s035	narrator	On	1
-14	117	u14-p117-s011	narrator	Tuesdays, we have a Biology class.	1
-14	117	u14-p117-s036	narrator	We study different parts of plants,	1
-14	117	u14-p117-s012	narrator	such as the leaves, flowers and fruits.	1
+14	117	u14-p117-s035	narrator	On Tuesdays, we have a Biology class.	2
+14	117	u14-p117-s036	narrator	We study different parts of plants, such as the leaves, flowers and fruits.	2
 14	117	u14-p117-s013	narrator	We have an Art class on Fridays.	1
 14	117	u14-p117-s014	narrator	We draw beautiful pictures of our plants.	1
-14	117	u14-p117-s037	narrator	We also write about the	1
-14	117	u14-p117-s015	narrator	plants on the farm in our Chinese class.	1
+14	117	u14-p117-s037	narrator	We also write about the plants on the farm in our Chinese class.	2
 14	117	u14-p117-s016	narrator	Sometimes we take pictures of our plants.	1
-14	117	u14-p117-s038	narrator	Then, we share them on	1
-14	117	u14-p117-s017	narrator	our school website!	1
+14	117	u14-p117-s038	narrator	Then, we share them on our school website!	2
 14	117	u14-p117-s018	narrator	The class farm is a good place for learning!	1
 14	117	u14-p117-s019	narrator	1 The special corner is the class farm.	1
 14	117	u14-p117-s020	narrator	2 There are some small animals on the farm.	1
@@ -4454,20 +4395,14 @@ unit	page	id	speaker	text	rects
 15	119	u15-p119-s011	narrator	B Healthy and tasty	1
 15	119	u15-p119-s002	narrator	Listen to their conversations and complete the notes below.	2
 15	119	u15-p119-s001	narrator	B1 David is talking to his aunt and uncle about what food they like.	1
-15	119	u15-p119-s012	narrator	Aunt Su likes.	1
-15	119	u15-p119-s013	narrator	They help her	1
-15	119	u15-p119-s014	narrator	She loves.	1
-15	119	u15-p119-s015	narrator	She	1
-15	119	u15-p119-s016	narrator	eats fruit like	1
-15	119	u15-p119-s023	narrator	as a snack when she	1
-15	119	u15-p119-s003	narrator	is hungry.	1
-15	119	u15-p119-s017	narrator	Uncle Lin has	1
-15	119	u15-p119-s024	narrator	and milk for	1
-15	119	u15-p119-s018	narrator	He thinks this is.	1
-15	119	u15-p119-s004	narrator	breakfast.	1
-15	119	u15-p119-s019	narrator	He has meat or for lunch.	1
-15	119	u15-p119-s020	narrator	He	1
-15	119	u15-p119-s021	narrator	sometimes eats meat.	1
+15	119	u15-p119-s012	narrator	Aunt Su likes … .	1
+15	119	u15-p119-s013	narrator	They help her … .	2
+15	119	u15-p119-s014	narrator	She loves … .	1
+15	119	u15-p119-s015	narrator	She eats fruit like … as a snack when she is hungry.	4
+15	119	u15-p119-s017	narrator	Uncle Lin has … and milk for breakfast.	3
+15	119	u15-p119-s018	narrator	He thinks this is … .	1
+15	119	u15-p119-s019	narrator	He has meat or … for lunch.	1
+15	119	u15-p119-s020	narrator	He sometimes eats … meat.	2
 15	119	u15-p119-s005	narrator	B2 Do you like sweet foods?	1
 15	119	u15-p119-s006	narrator	Why or why not?	1
 15	119	u15-p119-s007	narrator	Work in pairs and talk about sweet foods.	1
@@ -4819,8 +4754,7 @@ unit	page	id	speaker	text	rects
 18	128	u18-p128-s005	narrator	1 David is celebrating the Lantern Festival right now.	1
 18	128	u18-p128-s006	narrator	2 Emily knows a lot about the Lantern Festival.	1
 18	128	u18-p128-s007	narrator	3 David enjoys the Lantern Festival.	1
-18	128	u18-p128-s020	narrator	David does not watch lion dance shows during the	1
-18	128	u18-p128-s008	narrator	Lantern Festival.	1
+18	128	u18-p128-s020	narrator	David does not watch lion dance shows during the Lantern Festival.	2
 18	128	u18-p128-s009	narrator	5 Emily wants to celebrate the Lantern Festival.	1
 18	128	u18-p128-s010	narrator	B2 Look at the table about the popular foods from two traditional Chinese festivals.	1
 18	128	u18-p128-s011	narrator	Work in pairs and talk about the foods.	1
@@ -4830,15 +4764,12 @@ unit	page	id	speaker	text	rects
 18	128	u18-p128-s024	narrator	Traditional food	1
 18	128	u18-p128-s026	narrator	mooncake	1
 18	128	u18-p128-s025	narrator	yuanxiao	1
-18	128	u18-p128-s027	narrator	Information	1
+18	128	u18-p128-s027	narrator	Information about the food	2
 18	128	u18-p128-s012	narrator	It’s a type of rice ball.	1
-18	128	u18-p128-s028	narrator	It’s	1
+18	128	u18-p128-s028	narrator	It’s round.	2
 18	128	u18-p128-s013	narrator	It’s round.	1
-18	128	u18-p128-s029	narrator	There’s usually a	1
-18	128	u18-p128-s030	narrator	about the food	1
-18	128	u18-p128-s014	narrator	round.	1
+18	128	u18-p128-s029	narrator	There’s usually a beautiful design on it.	2
 18	128	u18-p128-s015	narrator	It’s usually sweet.	1
-18	128	u18-p128-s016	narrator	beautiful design on it.	1
 18	128	u18-p128-s017	narrator	Meaning Families get together.	2
 18	129	u18-p129-s022	narrator	Unit 8	1
 18	129	u18-p129-s023	narrator	C Behind the festivals	1

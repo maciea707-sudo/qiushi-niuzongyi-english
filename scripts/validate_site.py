@@ -109,12 +109,26 @@ for page, suffix, expected, speaker, minimum_regions in [
     (119, "s009", "Do you like sweet foods?", "a", 1),
     (124, "s056", "I don’t need … pencils or rulers, but I want to buy some books.", "sarah", 3),
     (127, "s052", "My mum … (clean) the house for our party tonight.", "emily", 3),
+    (128, "s020", "David does not watch lion dance shows during the Lantern Festival.", "narrator", 2),
+    (119, "s015", "She eats fruit like … as a snack when she is hungry.", "narrator", 4),
+    (76, "s029", "Most qipao have beautiful pictures on them, like Chinese …, often with flowers.", "narrator", 3),
 ]:
     matching = [item for item in page_items[page] if item["id"].endswith(suffix)]
     check(len(matching) == 1 and matching[0]["text"] == expected
           and matching[0]["speaker"] == speaker
           and len(matching[0]["rects"]) >= minimum_regions,
           f"Page {page}: incomplete cloze card or incorrect dialogue role {suffix}")
+
+for page, suffix, expected, minimum_regions in [
+    (26, "s035", "They … every week and share their ideas about it.", 2),
+    (94, "s038", "When the clock strikes 12, they jump off their chairs into the new year, in the hope of getting over any problem in the year ahead!", 3),
+    (103, "s026", "It looks at all the interesting and exciting Chinese New Year traditions, such as the temple fair in Beijing and the lion dance in Hong Kong.", 3),
+    (128, "s028", "It’s round.", 2),
+]:
+    matching = [item for item in page_items[page] if item["id"].endswith(suffix)]
+    check(len(matching) == 1 and matching[0]["text"] == expected
+          and len(matching[0]["rects"]) >= minimum_regions,
+          f"Page {page}: incomplete wrapped sentence {suffix}")
 
 # Long sentences cannot be fully read in a fraction of a second. This catches
 # the class of truncated recordings which previously passed the existence test.
