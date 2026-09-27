@@ -167,6 +167,23 @@
           "audio": "assets/audio/u23/u23-p149-s006.wav"
         },
         {
+          "id": "u23-p149-s117",
+          "speaker": "narrator",
+          "text": "fun",
+          "rects": [
+            {
+              "x": 51.6393,
+              "y": 23.5981,
+              "w": 3.2034,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/fʌn/",
+          "meaning": "有趣的；乐趣",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u02/u02-p025-s066.wav"
+        },
+        {
           "id": "u23-p149-s078",
           "speaker": "narrator",
           "text": "make friends with",
@@ -405,6 +422,23 @@
           "audio": "assets/audio/u23/u23-p149-s016.wav"
         },
         {
+          "id": "u23-p149-s118",
+          "speaker": "narrator",
+          "text": "fit",
+          "rects": [
+            {
+              "x": 51.6393,
+              "y": 42.1095,
+              "w": 2.1231,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/fɪt/",
+          "meaning": "健康的",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p149-s118.wav"
+        },
+        {
           "id": "u23-p149-s018",
           "speaker": "narrator",
           "text": "around",
@@ -558,6 +592,23 @@
           "audio": "assets/audio/u01/u01-p010-s025.wav"
         },
         {
+          "id": "u23-p149-s119",
+          "speaker": "narrator",
+          "text": "lives",
+          "rects": [
+            {
+              "x": 63.8608,
+              "y": 50.3156,
+              "w": 4.6889,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/laɪvz/",
+          "meaning": "life 的复数：生命；生活",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p149-s119.wav"
+        },
+        {
           "id": "u23-p149-s027",
           "speaker": "narrator",
           "text": "museum",
@@ -626,15 +677,32 @@
           "audio": "assets/audio/u04/u04-p049-s047.wav"
         },
         {
+          "id": "u23-p149-s120",
+          "speaker": "narrator",
+          "text": "fun",
+          "rects": [
+            {
+              "x": 51.6393,
+              "y": 56.4702,
+              "w": 3.1359,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/fʌn/",
+          "meaning": "开心；乐趣；好玩的事",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u02/u02-p025-s066.wav"
+        },
+        {
           "id": "u23-p149-s032",
           "speaker": "narrator",
           "text": "apart",
           "rects": [
             {
-              "x": 60.2873,
-              "y": 60.4396,
-              "w": 4.8957,
-              "h": 2.1485
+              "x": 51.5718,
+              "y": 58.6649,
+              "w": 4.688899999999999,
+              "h": 1.8
             }
           ],
           "ipa": "/əˈpɑːt/",
@@ -679,18 +747,18 @@
         {
           "id": "u23-p149-s035",
           "speaker": "narrator",
-          "text": "take...",
+          "text": "take ... apart",
           "rects": [
             {
               "x": 54.3013,
               "y": 60.4396,
-              "w": 4.0626,
+              "w": 14.0,
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈteɪk.../",
-          "meaning": "拿去吧。.。",
-          "voice": "英式女声 · Emma",
+          "ipa": "/teɪk əˈpɑːt/",
+          "meaning": "拆卸；拆开",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p149-s035.wav"
         },
         {
@@ -709,6 +777,23 @@
           "meaning": "有兴趣（形容词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p149-s036.wav"
+        },
+        {
+          "id": "u23-p149-s121",
+          "speaker": "narrator",
+          "text": "fix",
+          "rects": [
+            {
+              "x": 51.6393,
+              "y": 62.6248,
+              "w": 2.4607,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/fɪks/",
+          "meaning": "修理；安装",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u02/u02-p022-s039.wav"
         },
         {
           "id": "u23-p149-s038",
@@ -913,6 +998,23 @@
           "meaning": "油漆（不及物动词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u12/u12-p109-s017.wav"
+        },
+        {
+          "id": "u23-p149-s116",
+          "speaker": "narrator",
+          "text": "shy",
+          "rects": [
+            {
+              "x": 8.8304,
+              "y": 76.8424,
+              "w": 3.1359,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/ʃaɪ/",
+          "meaning": "害羞的",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p149-s116.wav"
         },
         {
           "id": "u23-p149-s052",
@@ -1151,23 +1253,6 @@
           "meaning": "中国象棋",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u21/u21-p132-s050.wav"
-        },
-        {
-          "id": "u23-p149-s111",
-          "speaker": "narrator",
-          "text": "chess",
-          "rects": [
-            {
-              "x": 18.7685,
-              "y": 91.0746,
-              "w": 5.0215,
-              "h": 2.1485
-            }
-          ],
-          "ipa": "/ˈtʃes/",
-          "meaning": "国际象棋",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u21/u21-p132-s051.wav"
         }
       ]
     },
@@ -1725,18 +1810,18 @@
         {
           "id": "u23-p150-s039",
           "speaker": "narrator",
-          "text": "form",
+          "text": "form teacher",
           "rects": [
             {
               "x": 53.0713,
               "y": 41.2909,
-              "w": 4.6049,
+              "w": 16.1,
               "h": 2.1485
             }
           ],
-          "ipa": "/fɔːm/",
-          "meaning": "班级（form teacher：班主任）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/fɔːm ˈtiːtʃə(r)/",
+          "meaning": "班主任",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p150-s039.wav"
         },
         {
@@ -1857,23 +1942,6 @@
           "meaning": "在未来",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p150-s101.wav"
-        },
-        {
-          "id": "u23-p150-s092",
-          "speaker": "narrator",
-          "text": "future",
-          "rects": [
-            {
-              "x": 18.4727,
-              "y": 47.4577,
-              "w": 5.755,
-              "h": 2.1485
-            }
-          ],
-          "ipa": "/ˈfjuːtʃə/",
-          "meaning": "未来",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p150-s092.wav"
         },
         {
           "id": "u23-p150-s044",
@@ -2046,6 +2114,23 @@
           "audio": "assets/audio/u13/u13-p112-s016.wav"
         },
         {
+          "id": "u23-p150-s133",
+          "speaker": "narrator",
+          "text": "gym",
+          "rects": [
+            {
+              "x": 10.3834,
+              "y": 58.1878,
+              "w": 3.8787,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/dʒɪm/",
+          "meaning": "体育馆",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u03/u03-p031-s018.wav"
+        },
+        {
           "id": "u23-p150-s053",
           "speaker": "narrator",
           "text": "building",
@@ -2165,23 +2250,6 @@
           "audio": "assets/audio/u23/u23-p150-s110.wav"
         },
         {
-          "id": "u23-p150-s112",
-          "speaker": "narrator",
-          "text": "vent",
-          "rects": [
-            {
-              "x": 54.0564,
-              "y": 70.0701,
-              "w": 4.1658,
-              "h": 2.1485
-            }
-          ],
-          "ipa": "/ˈvent/",
-          "meaning": "通风口",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p150-s112.wav"
-        },
-        {
           "id": "u23-p150-s060",
           "speaker": "narrator",
           "text": "hall",
@@ -2214,23 +2282,6 @@
           "meaning": "活动",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u07/u07-p088-s026.wav"
-        },
-        {
-          "id": "u23-p150-s113",
-          "speaker": "narrator",
-          "text": "vent",
-          "rects": [
-            {
-              "x": 59.6577,
-              "y": 69.6736,
-              "w": 3.6817,
-              "h": 3.0676
-            }
-          ],
-          "ipa": "/ˈvent/",
-          "meaning": "通风口",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p150-s113.wav"
         },
         {
           "id": "u23-p150-s061",
@@ -2316,6 +2367,23 @@
           "meaning": "大（形容词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p150-s065.wav"
+        },
+        {
+          "id": "u23-p150-s134",
+          "speaker": "narrator",
+          "text": "lab",
+          "rects": [
+            {
+              "x": 9.25,
+              "y": 74.2053,
+              "w": 3.5,
+              "h": 1.9
+            }
+          ],
+          "ipa": "/læb/",
+          "meaning": "实验室",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u02/u02-p025-s043.wav"
         },
         {
           "id": "u23-p150-s066",
@@ -2735,6 +2803,23 @@
           "audio": "assets/audio/u04/u04-p049-s076.wav"
         },
         {
+          "id": "u23-p151-s127",
+          "speaker": "narrator",
+          "text": "jog",
+          "rects": [
+            {
+              "x": 8.5603,
+              "y": 16.8233,
+              "w": 3.0009,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/dʒɒɡ/",
+          "meaning": "慢跑",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p151-s127.wav"
+        },
+        {
           "id": "u23-p151-s088",
           "speaker": "narrator",
           "text": "a little",
@@ -2886,6 +2971,23 @@
           "meaning": "任期（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u04/u04-p046-s031.wav"
+        },
+        {
+          "id": "u23-p151-s128",
+          "speaker": "narrator",
+          "text": "bin",
+          "rects": [
+            {
+              "x": 51.6393,
+              "y": 25.0294,
+              "w": 3.0009,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/bɪn/",
+          "meaning": "垃圾桶",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p151-s128.wav"
         },
         {
           "id": "u23-p151-s019",
@@ -3951,6 +4053,23 @@
           "audio": "assets/audio/u23/u23-p152-s003.wav"
         },
         {
+          "id": "u23-p152-s106",
+          "speaker": "narrator",
+          "text": "tie",
+          "rects": [
+            {
+              "x": 53.2599,
+              "y": 6.5656,
+              "w": 2.3257,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/taɪ/",
+          "meaning": "领带",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u06/u06-p069-s026.wav"
+        },
+        {
           "id": "u23-p152-s004",
           "speaker": "narrator",
           "text": "T-shirt",
@@ -4461,6 +4580,23 @@
           "audio": "assets/audio/u23/u23-p152-s038.wav"
         },
         {
+          "id": "u23-p152-s107",
+          "speaker": "narrator",
+          "text": "mix",
+          "rects": [
+            {
+              "x": 53.2599,
+              "y": 43.5408,
+              "w": 3.4735,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/mɪks/",
+          "meaning": "混合",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u06/u06-p071-s019.wav"
+        },
+        {
           "id": "u23-p152-s101",
           "speaker": "narrator",
           "text": "stand out",
@@ -4816,6 +4952,23 @@
           "meaning": "日期（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u08/u08-p100-s031.wav"
+        },
+        {
+          "id": "u23-p152-s105",
+          "speaker": "narrator",
+          "text": "pie",
+          "rects": [
+            {
+              "x": 10.3834,
+              "y": 68.2069,
+              "w": 2.7983,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/paɪ/",
+          "meaning": "馅饼",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p152-s105.wav"
         },
         {
           "id": "u23-p152-s060",
@@ -5422,6 +5575,23 @@
           "audio": "assets/audio/u06/u06-p077-s038.wav"
         },
         {
+          "id": "u23-p153-s105",
+          "speaker": "narrator",
+          "text": "pay",
+          "rects": [
+            {
+              "x": 51.6393,
+              "y": 19.1134,
+              "w": 3.271,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/peɪ/",
+          "meaning": "支付",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u07/u07-p084-s019.wav"
+        },
+        {
           "id": "u23-p153-s089",
           "speaker": "narrator",
           "text": "pay for",
@@ -5796,6 +5966,23 @@
           "audio": "assets/audio/u23/u23-p153-s038.wav"
         },
         {
+          "id": "u23-p153-s100",
+          "speaker": "narrator",
+          "text": "yuan",
+          "rects": [
+            {
+              "x": 23.6177,
+              "y": 41.4893,
+              "w": 5.0265,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/juˈɑːn/",
+          "meaning": "元（中国货币单位）",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u23/u23-p153-s036.wav"
+        },
+        {
           "id": "u23-p153-s039",
           "speaker": "narrator",
           "text": "euro",
@@ -5915,6 +6102,40 @@
           "audio": "assets/audio/u23/u23-p153-s046.wav"
         },
         {
+          "id": "u23-p153-s101",
+          "speaker": "narrator",
+          "text": "yen",
+          "rects": [
+            {
+              "x": 7.8851,
+              "y": 49.4092,
+              "w": 3.5411,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/jen/",
+          "meaning": "日元",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p153-s101.wav"
+        },
+        {
+          "id": "u23-p153-s102",
+          "speaker": "narrator",
+          "text": "yen",
+          "rects": [
+            {
+              "x": 20.2416,
+              "y": 49.6954,
+              "w": 3.8111,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/jen/",
+          "meaning": "日元",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p153-s102.wav"
+        },
+        {
           "id": "u23-p153-s047",
           "speaker": "narrator",
           "text": "rouble",
@@ -6017,6 +6238,23 @@
           "audio": "assets/audio/u23/u23-p153-s053.wav"
         },
         {
+          "id": "u23-p153-s103",
+          "speaker": "narrator",
+          "text": "key",
+          "rects": [
+            {
+              "x": 8.8304,
+              "y": 57.9015,
+              "w": 3.2034,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/kiː/",
+          "meaning": "钥匙",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s063.wav"
+        },
+        {
           "id": "u23-p153-s054",
           "speaker": "narrator",
           "text": "ring",
@@ -6117,6 +6355,23 @@
           "meaning": "贝壳（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p153-s060.wav"
+        },
+        {
+          "id": "u23-p153-s104",
+          "speaker": "narrator",
+          "text": "set",
+          "rects": [
+            {
+              "x": 8.8304,
+              "y": 66.2985,
+              "w": 2.5957,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/set/",
+          "meaning": "一套；一组",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p153-s104.wav"
         },
         {
           "id": "u23-p153-s098",
@@ -7718,6 +7973,23 @@
           "audio": "assets/audio/u22/u22-p144-s057.wav"
         },
         {
+          "id": "u23-p155-s093",
+          "speaker": "narrator",
+          "text": "bin",
+          "rects": [
+            {
+              "x": 51.6393,
+              "y": 21.4989,
+              "w": 3.0009,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/bɪn/",
+          "meaning": "垃圾桶",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p155-s093.wav"
+        },
+        {
           "id": "u23-p155-s004",
           "speaker": "narrator",
           "text": "biology",
@@ -8131,10 +8403,10 @@
           "text": "apart",
           "rects": [
             {
-              "x": 17.4718,
-              "y": 50.1493,
-              "w": 4.8957,
-              "h": 2.1485
+              "x": 7.9526,
+              "y": 48.3118,
+              "w": 5.4992,
+              "h": 1.8
             }
           ],
           "ipa": "/əˈpɑːt/",
@@ -8145,18 +8417,18 @@
         {
           "id": "u23-p155-s031",
           "speaker": "narrator",
-          "text": "take...",
+          "text": "take ... apart",
           "rects": [
             {
               "x": 11.4859,
               "y": 50.1493,
-              "w": 4.0626,
+              "w": 14.0,
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈteɪk.../",
-          "meaning": "拿去吧。.。",
-          "voice": "英式女声 · Emma",
+          "ipa": "/teɪk əˈpɑːt/",
+          "meaning": "拆卸；拆开",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p155-s031.wav"
         },
         {
@@ -8279,23 +8551,6 @@
           "audio": "assets/audio/u23/u23-p155-s078.wav"
         },
         {
-          "id": "u23-p155-s080",
-          "speaker": "narrator",
-          "text": "care",
-          "rects": [
-            {
-              "x": 54.2957,
-              "y": 58.384,
-              "w": 4.01,
-              "h": 2.1485
-            }
-          ],
-          "ipa": "/ˈkeə/",
-          "meaning": "护理",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u20/u20-p130-s147.wav"
-        },
-        {
           "id": "u23-p155-s088",
           "speaker": "narrator",
           "text": "as well",
@@ -8313,6 +8568,23 @@
           "audio": "assets/audio/u23/u23-p155-s088.wav"
         },
         {
+          "id": "u23-p155-s094",
+          "speaker": "narrator",
+          "text": "care",
+          "rects": [
+            {
+              "x": 51.6393,
+              "y": 60.8595,
+              "w": 3.7436,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/keə(r)/",
+          "meaning": "照顾；关心",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s147.wav"
+        },
+        {
           "id": "u23-p155-s089",
           "speaker": "narrator",
           "text": "take care of",
@@ -8328,23 +8600,6 @@
           "meaning": "照顾好",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p155-s089.wav"
-        },
-        {
-          "id": "u23-p155-s081",
-          "speaker": "narrator",
-          "text": "care",
-          "rects": [
-            {
-              "x": 58.3489,
-              "y": 62.4966,
-              "w": 4.0098,
-              "h": 2.1485
-            }
-          ],
-          "ipa": "/ˈkeə/",
-          "meaning": "护理",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u20/u20-p130-s147.wav"
         },
         {
           "id": "u23-p155-s040",
@@ -10031,6 +10286,40 @@
           "audio": "assets/audio/u23/u23-p157-s011.wav"
         },
         {
+          "id": "u23-p157-s111",
+          "speaker": "narrator",
+          "text": "fit",
+          "rects": [
+            {
+              "x": 8.7629,
+              "y": 10.621,
+              "w": 2.1906,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/fɪt/",
+          "meaning": "健康的",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p157-s111.wav"
+        },
+        {
+          "id": "u23-p157-s112",
+          "speaker": "narrator",
+          "text": "fix",
+          "rects": [
+            {
+              "x": 8.7629,
+              "y": 12.6725,
+              "w": 2.5282,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/fɪks/",
+          "meaning": "修理；安装",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u02/u02-p022-s039.wav"
+        },
+        {
           "id": "u23-p157-s012",
           "speaker": "narrator",
           "text": "flat",
@@ -10101,18 +10390,18 @@
         {
           "id": "u23-p157-s016",
           "speaker": "narrator",
-          "text": "form",
+          "text": "form teacher",
           "rects": [
             {
               "x": 8.6411,
               "y": 18.6785,
-              "w": 4.6049,
+              "w": 16.0,
               "h": 2.1485
             }
           ],
-          "ipa": "/fɔːm/",
-          "meaning": "班级（form teacher：班主任）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/fɔːm ˈtiːtʃə(r)/",
+          "meaning": "班主任",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p157-s016.wav"
         },
         {
@@ -10284,6 +10573,23 @@
           "meaning": "家务劳动（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p157-s027.wav"
+        },
+        {
+          "id": "u23-p157-s113",
+          "speaker": "narrator",
+          "text": "fun",
+          "rects": [
+            {
+              "x": 8.7629,
+              "y": 31.184,
+              "w": 3.2034,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/fʌn/",
+          "meaning": "有趣的；乐趣",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u02/u02-p025-s066.wav"
         },
         {
           "id": "u23-p157-s029",
@@ -10660,6 +10966,23 @@
           "audio": "assets/audio/u23/u23-p157-s045.wav"
         },
         {
+          "id": "u23-p157-s114",
+          "speaker": "narrator",
+          "text": "jog",
+          "rects": [
+            {
+              "x": 51.5043,
+              "y": 64.1515,
+              "w": 2.9334,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/dʒɒɡ/",
+          "meaning": "慢跑",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p157-s114.wav"
+        },
+        {
           "id": "u23-p157-s046",
           "speaker": "narrator",
           "text": "jogging",
@@ -10811,6 +11134,23 @@
           "meaning": "体育馆",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p157-s076.wav"
+        },
+        {
+          "id": "u23-p157-s115",
+          "speaker": "narrator",
+          "text": "key",
+          "rects": [
+            {
+              "x": 51.6393,
+              "y": 80.5637,
+              "w": 3.2034,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/kiː/",
+          "meaning": "钥匙",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u20/u20-p130-s063.wav"
         },
         {
           "id": "u23-p157-s059",
@@ -10975,6 +11315,23 @@
           "audio": "assets/audio/u08/u08-p096-s021.wav"
         },
         {
+          "id": "u23-p158-s126",
+          "speaker": "narrator",
+          "text": "lab",
+          "rects": [
+            {
+              "x": 10.3834,
+              "y": 10.621,
+              "w": 2.7308,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/læb/",
+          "meaning": "实验室",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u02/u02-p025-s043.wav"
+        },
+        {
           "id": "u23-p158-s006",
           "speaker": "narrator",
           "text": "lady",
@@ -11041,6 +11398,23 @@
           "meaning": "灯笼（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p158-s011.wav"
+        },
+        {
+          "id": "u23-p158-s128",
+          "speaker": "narrator",
+          "text": "mix",
+          "rects": [
+            {
+              "x": 53.2599,
+              "y": 16.8233,
+              "w": 3.4735,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/mɪks/",
+          "meaning": "混合",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u06/u06-p071-s019.wav"
         },
         {
           "id": "u23-p158-s012",
@@ -11347,6 +11721,23 @@
           "meaning": "羊肉（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p158-s036.wav"
+        },
+        {
+          "id": "u23-p158-s127",
+          "speaker": "narrator",
+          "text": "lives",
+          "rects": [
+            {
+              "x": 22.6724,
+              "y": 39.3901,
+              "w": 4.6889,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/laɪvz/",
+          "meaning": "life 的复数：生命；生活",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p158-s127.wav"
         },
         {
           "id": "u23-p158-s037",
@@ -12208,6 +12599,23 @@
           "audio": "assets/audio/u23/u23-p159-s017.wav"
         },
         {
+          "id": "u23-p159-s109",
+          "speaker": "narrator",
+          "text": "pay",
+          "rects": [
+            {
+              "x": 8.7629,
+              "y": 27.3672,
+              "w": 3.271,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/peɪ/",
+          "meaning": "支付",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u07/u07-p084-s019.wav"
+        },
+        {
           "id": "u23-p159-s089",
           "speaker": "narrator",
           "text": "pay for",
@@ -12444,6 +12852,23 @@
           "meaning": "红包",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p159-s032.wav"
+        },
+        {
+          "id": "u23-p159-s110",
+          "speaker": "narrator",
+          "text": "pie",
+          "rects": [
+            {
+              "x": 8.7629,
+              "y": 43.5408,
+              "w": 2.8658,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/paɪ/",
+          "meaning": "馅饼",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p159-s110.wav"
         },
         {
           "id": "u23-p159-s033",
@@ -13141,6 +13566,23 @@
           "meaning": "问题（名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u03/u03-p034-s027.wav"
+        },
+        {
+          "id": "u23-p159-s111",
+          "speaker": "narrator",
+          "text": "set",
+          "rects": [
+            {
+              "x": 51.6393,
+              "y": 90.9645,
+              "w": 2.6633,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/set/",
+          "meaning": "一套；一组",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p159-s111.wav"
         }
       ]
     },
@@ -13252,6 +13694,23 @@
           "meaning": "爱吃甜食",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u05/u05-p060-s025.wav"
+        },
+        {
+          "id": "u23-p160-s133",
+          "speaker": "narrator",
+          "text": "shy",
+          "rects": [
+            {
+              "x": 10.3834,
+              "y": 12.6725,
+              "w": 3.2034,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/ʃaɪ/",
+          "meaning": "害羞的",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p160-s133.wav"
         },
         {
           "id": "u23-p160-s007",
@@ -13762,6 +14221,23 @@
           "meaning": "单词列表",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p160-s084.wav"
+        },
+        {
+          "id": "u23-p160-s134",
+          "speaker": "narrator",
+          "text": "tie",
+          "rects": [
+            {
+              "x": 53.2599,
+              "y": 47.6916,
+              "w": 2.3257,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/taɪ/",
+          "meaning": "领带",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u06/u06-p069-s026.wav"
         },
         {
           "id": "u23-p160-s038",
@@ -14725,6 +15201,40 @@
           "audio": "assets/audio/u23/u23-p161-s017.wav"
         },
         {
+          "id": "u23-p161-s048",
+          "speaker": "narrator",
+          "text": "yen",
+          "rects": [
+            {
+              "x": 63.1181,
+              "y": 35.287,
+              "w": 3.8111,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/jen/",
+          "meaning": "日元",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p161-s048.wav"
+        },
+        {
+          "id": "u23-p161-s047",
+          "speaker": "narrator",
+          "text": "yen",
+          "rects": [
+            {
+              "x": 51.5043,
+              "y": 35.5733,
+              "w": 3.271,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/jen/",
+          "meaning": "日元",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
+          "audio": "assets/audio/u23/u23-p161-s047.wav"
+        },
+        {
           "id": "u23-p161-s018",
           "speaker": "narrator",
           "text": "yogurt",
@@ -14825,6 +15335,23 @@
           "meaning": "平日",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p161-s046.wav"
+        },
+        {
+          "id": "u23-p161-s049",
+          "speaker": "narrator",
+          "text": "yuan",
+          "rects": [
+            {
+              "x": 66.4266,
+              "y": 39.4378,
+              "w": 5.0941,
+              "h": 1.8
+            }
+          ],
+          "ipa": "/juˈɑːn/",
+          "meaning": "元（中国货币单位）",
+          "voice": "英式女声 · Emma",
+          "audio": "assets/audio/u23/u23-p153-s036.wav"
         },
         {
           "id": "u23-p161-s034",

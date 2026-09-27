@@ -688,6 +688,7 @@ unit	page	id	speaker	text	rects
 1	17	u01-p017-s023	narrator	(Simon)	1
 1	17	u01-p017-s014	narrator	Find out more fun facts about names and share them with your classmates.	2
 2	18	u02-p018-s008	narrator	Unit	1
+2	18	u02-p018-s010	narrator	Hobbies	1
 2	18	u02-p018-s001	narrator	Hobbies bring joy to our life.	1
 2	18	u02-p018-s005	narrator	read about some students’ hobbies;	1
 2	18	u02-p018-s006	narrator	learn about after-school clubs at Sunshine Middle School;	1
@@ -1168,6 +1169,7 @@ unit	page	id	speaker	text	rects
 2	29	u02-p029-s011	narrator	It is quite popular with young people these days.	1
 2	29	u02-p029-s025	narrator	Find out about a fun sport and share it with your classmates.	2
 3	30	u03-p030-s008	narrator	Unit	1
+3	30	u03-p030-s010	narrator	Welcome to our school!	1
 3	30	u03-p030-s001	narrator	School is a great place for learning.	1
 3	30	u03-p030-s005	narrator	read about Sunshine Middle School;	1
 3	30	u03-p030-s006	narrator	learn about different places at school;	1
@@ -1178,7 +1180,7 @@ unit	page	id	speaker	text	rects
 3	30	u03-p030-s004	narrator	Let’s learn about different places at our school and discuss them with each other.	2
 3	31	u03-p031-s024	narrator	Unit 3	1
 3	31	u03-p031-s025	narrator	Welcome to the unit	1
-3	31	u03-p031-s017	narrator	Places at school A The Class 1, Grade 7 students are listening to an introduction to Sunshine Middle School.	3
+3	31	u03-p031-s017	narrator	Places at school	1
 3	31	u03-p031-s002	narrator	Listen and tick the places you hear.	1
 3	31	u03-p031-s018	narrator	gym	1
 3	31	u03-p031-s019	narrator	classroom building	1
@@ -1218,6 +1220,7 @@ unit	page	id	speaker	text	rects
 3	31	u03-p031-s033	kate	Kate:	1
 3	31	u03-p031-s015	narrator	C What other places does a school have?	1
 3	31	u03-p031-s016	narrator	Talk with your partner.	1
+3	31	u03-p031-s044	narrator	The Class 1, Grade 7 students are listening to an introduction to Sunshine Middle School.	2
 3	32	u03-p032-s027	narrator	Unit 3	1
 3	32	u03-p032-s028	narrator	Reading	1
 3	32	u03-p032-s026	narrator	Our wonderful school	1
@@ -1267,6 +1270,7 @@ unit	page	id	speaker	text	rects
 3	33	u03-p033-s018	narrator	students’ works, like	1
 3	33	u03-p033-s020	narrator	and photos	1
 3	34	u03-p034-s024	narrator	Unit 3	1
+3	34	u03-p034-s047	narrator	Subject	1
 3	34	u03-p034-s002	narrator	Complete her email with the correct forms of the words and phrases in the box below.	2
 3	34	u03-p034-s001	narrator	C Millie is writing an email to her online friend Liu Yi about her new school.	1
 3	34	u03-p034-s025	narrator	chat with	1
@@ -1325,7 +1329,7 @@ unit	page	id	speaker	text	rects
 3	35	u03-p035-s010	narrator	They're both kind and helpful.	2
 3	35	u03-p035-s009	narrator	She's a Music teacher.	1
 3	35	u03-p035-s011	narrator	We have many nice teachers like them.	2
-3	35	u03-p035-s023	narrator	We can use personal pronouns to replace nouns for or things, so we do not need to repeat the nouns.	2
+3	35	u03-p035-s023	narrator	We can use personal pronouns to replace nouns for … or things, so we do not need to repeat the nouns.	2
 3	35	u03-p035-s025	narrator	We use the	1
 3	35	u03-p035-s026	narrator	(subject, object) form when the noun is the subject.	1
 3	35	u03-p035-s013	narrator	Complete their conversation with the correct personal pronouns.	2
@@ -1618,6 +1622,7 @@ unit	page	id	speaker	text	rects
 3	41	u03-p041-s028	narrator	There are many other old schools in China.	2
 3	41	u03-p041-s029	narrator	Find one and share it with your classmates.	2
 4	42	u04-p042-s008	narrator	Unit	1
+4	42	u04-p042-s010	narrator	School days	1
 4	42	u04-p042-s001	narrator	Learn beyond the books.	1
 4	42	u04-p042-s005	narrator	read about interesting classes at school;	1
 4	42	u04-p042-s006	narrator	get to know about school field trips and school chores;	1
@@ -2162,6 +2167,7 @@ unit	page	id	speaker	text	rects
 9	55	u09-p055-s027	narrator	1 Share videos within your group and find out about other students’ life at school.	2
 9	55	u09-p055-s028	narrator	2 Share your video with your friends and family.	1
 5	56	u05-p056-s008	narrator	Unit	1
+5	56	u05-p056-s010	narrator	A healthy lifestyle	1
 5	56	u05-p056-s001	narrator	A life without health is like a river without water.	1
 5	56	u05-p056-s005	narrator	read about some students’ lifestyles;	1
 5	56	u05-p056-s006	narrator	understand good and bad points of different lifestyles;	1
@@ -2217,6 +2223,7 @@ unit	page	id	speaker	text	rects
 5	57	u05-p057-s013	narrator	C What other foods do you know?	1
 5	57	u05-p057-s014	daniel	Write them down in the table of Part A.	1
 5	58	u05-p058-s031	narrator	Unit 5	1
+5	58	u05-p058-s034	narrator	What we eat and how we live	1
 5	58	u05-p058-s032	narrator	Reading	1
 5	58	u05-p058-s033	narrator	Lifestyle:	1
 5	58	u05-p058-s001	narrator	healthy or not?	1
@@ -2657,6 +2664,7 @@ unit	page	id	speaker	text	rects
 5	67	u05-p067-s030	narrator	Pick one and try to learn more about its history and famous dishes.	2
 5	67	u05-p067-s013	narrator	Then share with your classmates.	1
 6	68	u06-p068-s008	narrator	Unit	1
+6	68	u06-p068-s010	narrator	My clothes, my style	1
 6	68	u06-p068-s001	narrator	Dressing is a way of life.	1
 6	68	u06-p068-s005	narrator	read about how to choose the right colours to wear;	1
 6	68	u06-p068-s006	narrator	get to know about different types of clothes;	1
@@ -2787,7 +2795,7 @@ unit	page	id	speaker	text	rects
 6	72	u06-p072-s004	narrator	shoes, like a T-shirt, jeans and sports shoes.	1
 6	72	u06-p072-s005	narrator	lots of activities.	1
 6	72	u06-p072-s006	narrator	Do not wear skirts or dresses.	1
-6	72	u06-p072-s017	narrator	Formal event To go to a formal event, you should	2
+6	72	u06-p072-s017	narrator	Formal event	1
 6	72	u06-p072-s043	narrator	some nice	1
 6	72	u06-p072-s035	narrator	It is best not to two quite different colours.	1
 6	72	u06-p072-s007	narrator	clothes.	1
@@ -2806,6 +2814,7 @@ unit	page	id	speaker	text	rects
 6	72	u06-p072-s013	narrator	2 Do you look better in warm colours or cool colours?	1
 6	72	u06-p072-s014	narrator	Why?	1
 6	72	u06-p072-s015	narrator	3 What other advice do you have about fashion?	1
+6	72	u06-p072-s044	narrator	To go to a formal event, you should	1
 6	73	u06-p073-s029	narrator	Unit 6	1
 6	73	u06-p073-s030	narrator	Grammar	1
 6	73	u06-p073-s028	narrator	Asking questions	1
@@ -2871,6 +2880,7 @@ unit	page	id	speaker	text	rects
 6	73	u06-p073-s063	narrator	How can we learn more about art?	1
 6	73	u06-p073-s027	narrator	We can look things up on the internet.	1
 6	74	u06-p074-s020	narrator	Unit 6	1
+6	74	u06-p074-s044	narrator	Welcome to our fashion show!	1
 6	74	u06-p074-s002	narrator	Choose the correct sentences to complete their conversation.	2
 6	74	u06-p074-s001	narrator	B Andy is asking for Millie’s advice about what to wear for a party.	1
 6	74	u06-p074-s003	andy	I have no idea about what to wear for my friend’s birthday party, Millie.	1
@@ -3119,6 +3129,7 @@ unit	page	id	speaker	text	rects
 6	79	u06-p079-s029	narrator	What type of traditional clothing are you interested in?	2
 6	79	u06-p079-s030	narrator	Use the internet to find out more and share with your classmates.	2
 7	80	u07-p080-s008	narrator	Unit	1
+7	80	u07-p080-s010	narrator	Be wise with money	1
 7	80	u07-p080-s001	narrator	Get your money’s worth.	1
 7	80	u07-p080-s005	narrator	read about family money management;	1
 7	80	u07-p080-s006	narrator	learn about the history of money;	1
@@ -3544,6 +3555,7 @@ unit	page	id	speaker	text	rects
 7	91	u07-p091-s011	narrator	Find more sayings or quotes about money.	1
 7	91	u07-p091-s012	narrator	Share them with your classmates.	1
 8	92	u08-p092-s008	narrator	Unit	1
+8	92	u08-p092-s010	narrator	Let’s celebrate!	1
 8	92	u08-p092-s001	narrator	Festivals are a window into different cultures.	1
 8	92	u08-p092-s005	narrator	read about New Year celebrations in different countries;	1
 8	92	u08-p092-s006	narrator	learn about other festivals around the world;	1
@@ -3554,10 +3566,10 @@ unit	page	id	speaker	text	rects
 8	92	u08-p092-s004	narrator	Let’s find out how people around the world celebrate it and talk about other popular festivals.	2
 8	93	u08-p093-s016	narrator	Unit 8	1
 8	93	u08-p093-s017	narrator	Welcome to the unit	1
-8	93	u08-p093-s018	narrator	Festivals around the world A The Class 1, Grade 7 students are learning about some popular festivals around the world.	3
+8	93	u08-p093-s018	narrator	Festivals around the world	1
 8	93	u08-p093-s002	narrator	Look at the pictures below.	1
 8	93	u08-p093-s003	narrator	Write the names of the festivals in the blanks.	1
-8	93	u08-p093-s019	narrator	the Spring Festival the Dragon Boat Festival the Mid-Autumn Festival	3
+8	93	u08-p093-s019	narrator	the Spring Festival	1
 8	93	u08-p093-s022	narrator	Christmas	1
 8	93	u08-p093-s023	narrator	Burns Night	1
 8	93	u08-p093-s024	narrator	the Water Festival	1
@@ -3587,6 +3599,9 @@ unit	page	id	speaker	text	rects
 8	93	u08-p093-s038	robin	It’s great fun!	1
 8	93	u08-p093-s015	narrator	Think of a festival and talk about how people celebrate it with your partner.	2
 8	93	u08-p093-s014	narrator	C What other festivals do you know?	1
+8	93	u08-p093-s039	narrator	The Class 1, Grade 7 students are learning about some popular festivals around the world.	2
+8	93	u08-p093-s040	narrator	the Dragon Boat Festival	1
+8	93	u08-p093-s041	narrator	the Mid-Autumn Festival	1
 8	94	u08-p094-s028	narrator	Unit 8	1
 8	94	u08-p094-s029	narrator	Reading	1
 8	94	u08-p094-s027	narrator	Happy New Year	1
@@ -4046,6 +4061,7 @@ unit	page	id	speaker	text	rects
 10	105	u10-p105-s012	narrator	Include details of the theme, time, place, decorations, food, activities, budget and any other information.	3
 10	105	u10-p105-s013	narrator	2 Class vote for the most popular party plan.	1
 11	106	u11-p106-s017	narrator	Workbook	1
+11	106	u11-p106-s063	narrator	This is me!	1
 11	106	u11-p106-s018	narrator	Unit 1	1
 11	106	u11-p106-s019	narrator	A My deskmate	1
 11	106	u11-p106-s002	narrator	Complete their introductions with the correct words.	2
@@ -4159,6 +4175,7 @@ unit	page	id	speaker	text	rects
 11	108	u11-p108-s030	narrator	Hobbies: basketball, reading, singing	1
 11	108	u11-p108-s031	narrator	Character: kind, friendly	1
 12	109	u12-p109-s013	narrator	Unit 2	1
+12	109	u12-p109-s061	narrator	Hobbies	1
 12	109	u12-p109-s014	narrator	A Family hobbies	1
 12	109	u12-p109-s002	narrator	Help her complete the sentences with the correct forms of the words and phrase in the box.	2
 12	109	u12-p109-s001	narrator	A1 Nora is writing about her family members’ hobbies.	1
@@ -4275,6 +4292,7 @@ unit	page	id	speaker	text	rects
 12	111	u12-p111-s034	narrator	I hope to join the club soon.	1
 12	111	u12-p111-s040	narrator	Best wishes,	1
 13	112	u13-p112-s012	narrator	Unit 3	1
+13	112	u13-p112-s051	narrator	Welcome to our school!	1
 13	112	u13-p112-s013	narrator	A Lovely school, lovely students	1
 13	112	u13-p112-s002	narrator	Help him complete his notes with the correct forms of the words and phrase in the box.	2
 13	112	u13-p112-s001	narrator	A1 David is writing about great places at school.	1
@@ -4388,6 +4406,7 @@ unit	page	id	speaker	text	rects
 13	114	u13-p114-s019	narrator	Write an article about it.	1
 13	114	u13-p114-s024	narrator	My dream school is	1
 14	115	u14-p115-s008	narrator	Unit 4	1
+14	115	u14-p115-s054	narrator	School days	1
 14	115	u14-p115-s009	narrator	A My school life	1
 14	115	u14-p115-s002	narrator	Read the sentences and help her complete the puzzle.	2
 14	115	u14-p115-s001	narrator	A1 Nora is working on a crossword puzzle.	1
@@ -4518,6 +4537,7 @@ unit	page	id	speaker	text	rects
 14	117	u14-p117-s027	narrator	Why is it interesting?	1
 14	117	u14-p117-s029	narrator	Write an article about an interesting place at your school.	1
 15	118	u15-p118-s014	narrator	Unit 5	1
+15	118	u15-p118-s046	narrator	A healthy lifestyle	1
 15	118	u15-p118-s015	narrator	A Get Fit Club	1
 15	118	u15-p118-s002	narrator	Help him complete it with the correct forms of the words and phrase in the box.	2
 15	118	u15-p118-s001	narrator	A1 David is reading an article by a member of the Get Fit Club.	1
@@ -4637,6 +4657,7 @@ unit	page	id	speaker	text	rects
 15	120	u15-p120-s018	narrator	C2 Do you want to live to 100 years old?	1
 15	120	u15-p120-s020	narrator	Write a diary entry about your plans to have a better lifestyle.	1
 16	121	u16-p121-s014	narrator	Unit 6	1
+16	121	u16-p121-s051	narrator	My clothes, my style	1
 16	121	u16-p121-s001	narrator	A The school fashion show is coming!	1
 16	121	u16-p121-s003	narrator	Complete what they are saying with the correct words.	2
 16	121	u16-p121-s002	narrator	A1 Nora and her friends are talking about some pictures in a fashion magazine.	1
@@ -4744,6 +4765,7 @@ unit	page	id	speaker	text	rects
 16	123	u16-p123-s022	narrator	C2 What is your T-shirt design?	1
 16	123	u16-p123-s023	narrator	Think about your design and write a passage about it.	1
 17	124	u17-p124-s015	narrator	Unit 7	1
+17	124	u17-p124-s060	narrator	Be wise with money	1
 17	124	u17-p124-s016	narrator	A A shopping list	1
 17	124	u17-p124-s002	narrator	Complete the blog post with the correct words.	2
 17	124	u17-p124-s001	narrator	A1 David is reading a blog post about how to make a shopping list.	1
@@ -4882,6 +4904,7 @@ unit	page	id	speaker	text	rects
 17	126	u17-p126-s015	narrator	There are some differences.	1
 17	126	u17-p126-s016	narrator	spends more of its budget on …	1
 18	127	u18-p127-s017	narrator	Unit 8	1
+18	127	u18-p127-s072	narrator	Let’s celebrate!	1
 18	127	u18-p127-s018	narrator	A Festival activities	1
 18	127	u18-p127-s002	narrator	Help her complete the article with the correct forms of the words and phrases in the box.	2
 18	127	u18-p127-s001	narrator	A1 Nora is writing about important Chinese festivals.	1
@@ -6158,6 +6181,7 @@ unit	page	id	speaker	text	rects
 23	149	u23-p149-s077	narrator	at the weekend	1
 23	149	u23-p149-s004	narrator	introduce	1
 23	149	u23-p149-s006	narrator	each other	1
+23	149	u23-p149-s117	narrator	fun	1
 23	149	u23-p149-s078	narrator	make friends with	1
 23	149	u23-p149-s079	narrator	go by	1
 23	149	u23-p149-s080	narrator	glad	1
@@ -6172,6 +6196,7 @@ unit	page	id	speaker	text	rects
 23	149	u23-p149-s015	narrator	friendly	1
 23	149	u23-p149-s085	narrator	all kinds of	1
 23	149	u23-p149-s016	narrator	full	1
+23	149	u23-p149-s118	narrator	fit	1
 23	149	u23-p149-s018	narrator	around	1
 23	149	u23-p149-s086	narrator	be full of	1
 23	149	u23-p149-s020	narrator	change	1
@@ -6181,15 +6206,18 @@ unit	page	id	speaker	text	rects
 23	149	u23-p149-s023	narrator	slim	1
 23	149	u23-p149-s024	narrator	life	1
 23	149	u23-p149-s026	narrator	polite	1
+23	149	u23-p149-s119	narrator	lives	1
 23	149	u23-p149-s027	narrator	museum	1
 23	149	u23-p149-s028	narrator	smart	1
 23	149	u23-p149-s029	narrator	thing	1
 23	149	u23-p149-s030	narrator	ready	1
+23	149	u23-p149-s120	narrator	fun	1
 23	149	u23-p149-s032	narrator	apart	1
 23	149	u23-p149-s096	narrator	be ready to do sth	1
 23	149	u23-p149-s097	narrator	other	1
-23	149	u23-p149-s035	narrator	take...	1
+23	149	u23-p149-s035	narrator	take ... apart	1
 23	149	u23-p149-s036	narrator	interested	1
+23	149	u23-p149-s121	narrator	fix	1
 23	149	u23-p149-s038	narrator	endless	1
 23	149	u23-p149-s101	narrator	be interested in	1
 23	149	u23-p149-s040	narrator	scientist	1
@@ -6202,6 +6230,7 @@ unit	page	id	speaker	text	rects
 23	149	u23-p149-s108	narrator	come true	1
 23	149	u23-p149-s047	narrator	pretty	1
 23	149	u23-p149-s048	narrator	paint	1
+23	149	u23-p149-s116	narrator	shy	1
 23	149	u23-p149-s052	narrator	only	1
 23	149	u23-p149-s053	narrator	club	1
 23	149	u23-p149-s054	narrator	stay	1
@@ -6216,7 +6245,6 @@ unit	page	id	speaker	text	rects
 23	149	u23-p149-s110	narrator	chess	1
 23	149	u23-p149-s065	narrator	once	1
 23	149	u23-p149-s066	narrator	Chinese chess	1
-23	149	u23-p149-s111	narrator	chess	1
 23	150	u23-p150-s001	narrator	join	1
 23	150	u23-p150-s003	narrator	spend	1
 23	150	u23-p150-s007	narrator	meeting	1
@@ -6249,7 +6277,7 @@ unit	page	id	speaker	text	rects
 23	150	u23-p150-s037	narrator	would	1
 23	150	u23-p150-s038	narrator	team	1
 23	150	u23-p150-s076	narrator	(short form ’d)	1
-23	150	u23-p150-s039	narrator	form	1
+23	150	u23-p150-s039	narrator	form teacher	1
 23	150	u23-p150-s040	narrator	show	1
 23	150	u23-p150-s090	narrator	would like	1
 23	150	u23-p150-s042	narrator	grey	1
@@ -6257,7 +6285,6 @@ unit	page	id	speaker	text	rects
 23	150	u23-p150-s100	narrator	AmE gray)	1
 23	150	u23-p150-s080	narrator	Wordlist	1
 23	150	u23-p150-s101	narrator	in the future	1
-23	150	u23-p150-s092	narrator	future	1
 23	150	u23-p150-s044	narrator	hope	1
 23	150	u23-p150-s046	narrator	different	1
 23	150	u23-p150-s047	narrator	thousand	1
@@ -6268,6 +6295,7 @@ unit	page	id	speaker	text	rects
 23	150	u23-p150-s103	narrator	borrow	1
 23	150	u23-p150-s051	narrator	newspaper	1
 23	150	u23-p150-s052	narrator	magazine	1
+23	150	u23-p150-s133	narrator	gym	1
 23	150	u23-p150-s053	narrator	building	1
 23	150	u23-p150-s054	narrator	else	1
 23	150	u23-p150-s055	narrator	field	1
@@ -6275,15 +6303,14 @@ unit	page	id	speaker	text	rects
 23	150	u23-p150-s057	narrator	sports field	1
 23	150	u23-p150-s058	narrator	dining	1
 23	150	u23-p150-s110	narrator	care about	1
-23	150	u23-p150-s112	narrator	vent	1
 23	150	u23-p150-s060	narrator	hall	1
 23	150	u23-p150-s111	narrator	event	1
-23	150	u23-p150-s113	narrator	vent	1
 23	150	u23-p150-s061	narrator	together	1
 23	150	u23-p150-s062	narrator	dining hall	1
 23	150	u23-p150-s063	narrator	quite	1
 23	150	u23-p150-s114	narrator	laboratory	1
 23	150	u23-p150-s065	narrator	large	1
+23	150	u23-p150-s134	narrator	lab	1
 23	150	u23-p150-s066	narrator	part	1
 23	150	u23-p150-s067	narrator	special	1
 23	150	u23-p150-s068	narrator	modern	1
@@ -6308,6 +6335,7 @@ unit	page	id	speaker	text	rects
 23	151	u23-p151-s008	narrator	through	1
 23	151	u23-p151-s010	narrator	group	1
 23	151	u23-p151-s011	narrator	turn	1
+23	151	u23-p151-s127	narrator	jog	1
 23	151	u23-p151-s088	narrator	a little	1
 23	151	u23-p151-s091	narrator	self	1
 23	151	u23-p151-s089	narrator	myself	1
@@ -6317,6 +6345,7 @@ unit	page	id	speaker	text	rects
 23	151	u23-p151-s094	narrator	empty	1
 23	151	u23-p151-s098	narrator	first	1
 23	151	u23-p151-s018	narrator	term	1
+23	151	u23-p151-s128	narrator	bin	1
 23	151	u23-p151-s019	narrator	care	1
 23	151	u23-p151-s020	narrator	start	1
 23	151	u23-p151-s106	narrator	take care of	1
@@ -6379,6 +6408,7 @@ unit	page	id	speaker	text	rects
 23	151	u23-p151-s126	narrator	stay up	1
 23	152	u23-p152-s001	narrator	unhealthy	1
 23	152	u23-p152-s003	narrator	need	1
+23	152	u23-p152-s106	narrator	tie	1
 23	152	u23-p152-s004	narrator	T-shirt	1
 23	152	u23-p152-s005	narrator	enough	1
 23	152	u23-p152-s007	narrator	calm	1
@@ -6409,6 +6439,7 @@ unit	page	id	speaker	text	rects
 23	152	u23-p152-s034	narrator	dark	1
 23	152	u23-p152-s035	narrator	almost	1
 23	152	u23-p152-s038	narrator	chip	1
+23	152	u23-p152-s107	narrator	mix	1
 23	152	u23-p152-s101	narrator	stand out	1
 23	152	u23-p152-s039	narrator	smartphone	1
 23	152	u23-p152-s040	narrator	match	1
@@ -6430,6 +6461,7 @@ unit	page	id	speaker	text	rects
 23	152	u23-p152-s056	narrator	rest	1
 23	152	u23-p152-s057	narrator	smart	1
 23	152	u23-p152-s059	narrator	date	1
+23	152	u23-p152-s105	narrator	pie	1
 23	152	u23-p152-s060	narrator	yogurt	1
 23	152	u23-p152-s061	narrator	traditional	1
 23	152	u23-p152-s102	narrator	yoghurt)	1
@@ -6465,6 +6497,7 @@ unit	page	id	speaker	text	rects
 23	153	u23-p153-s012	narrator	education	1
 23	153	u23-p153-s013	narrator	soft	1
 23	153	u23-p153-s016	narrator	cotton	1
+23	153	u23-p153-s105	narrator	pay	1
 23	153	u23-p153-s089	narrator	pay for	1
 23	153	u23-p153-s017	narrator	agree	1
 23	153	u23-p153-s019	narrator	flat	1
@@ -6487,6 +6520,7 @@ unit	page	id	speaker	text	rects
 23	153	u23-p153-s035	narrator	rainy	1
 23	153	u23-p153-s036	narrator	yuan	1
 23	153	u23-p153-s038	narrator	matter	1
+23	153	u23-p153-s100	narrator	yuan	1
 23	153	u23-p153-s039	narrator	euro	1
 23	153	u23-p153-s040	narrator	pocket	1
 23	153	u23-p153-s041	narrator	pound	1
@@ -6494,18 +6528,22 @@ unit	page	id	speaker	text	rects
 23	153	u23-p153-s042	narrator	pocket money	1
 23	153	u23-p153-s043	narrator	notebook	1
 23	153	u23-p153-s046	narrator	rest	1
+23	153	u23-p153-s101	narrator	yen	1
+23	153	u23-p153-s102	narrator	yen	1
 23	153	u23-p153-s047	narrator	rouble	1
 23	153	u23-p153-s048	narrator	strawberry	1
 23	153	u23-p153-s049	narrator	dollar	1
 23	153	u23-p153-s050	narrator	bookshop	1
 23	153	u23-p153-s051	narrator	eraser	1
 23	153	u23-p153-s053	narrator	as	1
+23	153	u23-p153-s103	narrator	key	1
 23	153	u23-p153-s054	narrator	ring	1
 23	153	u23-p153-s055	narrator	present	1
 23	153	u23-p153-s056	narrator	baseball	1
 23	153	u23-p153-s057	narrator	away	1
 23	153	u23-p153-s058	narrator	Russian	1
 23	153	u23-p153-s060	narrator	shell	1
+23	153	u23-p153-s104	narrator	set	1
 23	153	u23-p153-s098	narrator	a set of	1
 23	153	u23-p153-s061	narrator	deal	1
 23	153	u23-p153-s062	narrator	inside	1
@@ -6599,6 +6637,7 @@ unit	page	id	speaker	text	rects
 23	155	u23-p155-s001	narrator	belt	1
 23	155	u23-p155-s002	narrator	better	1
 23	155	u23-p155-s075	narrator	a little	1
+23	155	u23-p155-s093	narrator	bin	1
 23	155	u23-p155-s004	narrator	biology	1
 23	155	u23-p155-s005	narrator	a.m.	1
 23	155	u23-p155-s007	narrator	block	1
@@ -6624,7 +6663,7 @@ unit	page	id	speaker	text	rects
 23	155	u23-p155-s028	narrator	another	1
 23	155	u23-p155-s070	narrator	Wordlist	1
 23	155	u23-p155-s030	narrator	apart	1
-23	155	u23-p155-s031	narrator	take...	1
+23	155	u23-p155-s031	narrator	take ... apart	1
 23	155	u23-p155-s032	narrator	area	1
 23	155	u23-p155-s033	narrator	around	1
 23	155	u23-p155-s034	narrator	calm	1
@@ -6632,10 +6671,9 @@ unit	page	id	speaker	text	rects
 23	155	u23-p155-s036	narrator	care	1
 23	155	u23-p155-s037	narrator	as	1
 23	155	u23-p155-s078	narrator	care about	1
-23	155	u23-p155-s080	narrator	care	1
 23	155	u23-p155-s088	narrator	as well	1
+23	155	u23-p155-s094	narrator	care	1
 23	155	u23-p155-s089	narrator	take care of	1
-23	155	u23-p155-s081	narrator	care	1
 23	155	u23-p155-s040	narrator	away	1
 23	155	u23-p155-s041	narrator	carrot	1
 23	155	u23-p155-s042	narrator	carry	1
@@ -6734,11 +6772,13 @@ unit	page	id	speaker	text	rects
 23	157	u23-p157-s006	narrator	dining hall	1
 23	157	u23-p157-s008	narrator	hang	1
 23	157	u23-p157-s011	narrator	health	1
+23	157	u23-p157-s111	narrator	fit	1
+23	157	u23-p157-s112	narrator	fix	1
 23	157	u23-p157-s012	narrator	flat	1
 23	157	u23-p157-s013	narrator	heart	1
 23	157	u23-p157-s014	narrator	forever	1
 23	157	u23-p157-s015	narrator	history	1
-23	157	u23-p157-s016	narrator	form	1
+23	157	u23-p157-s016	narrator	form teacher	1
 23	157	u23-p157-s017	narrator	hobby	1
 23	157	u23-p157-s018	narrator	formal	1
 23	157	u23-p157-s019	narrator	homebody	1
@@ -6749,6 +6789,7 @@ unit	page	id	speaker	text	rects
 23	157	u23-p157-s079	narrator	be full of	1
 23	157	u23-p157-s080	narrator	in the hope of	1
 23	157	u23-p157-s027	narrator	housework	1
+23	157	u23-p157-s113	narrator	fun	1
 23	157	u23-p157-s029	narrator	future	1
 23	157	u23-p157-s081	narrator	in the future	1
 23	157	u23-p157-s030	narrator	important	1
@@ -6771,6 +6812,7 @@ unit	page	id	speaker	text	rects
 23	157	u23-p157-s042	narrator	grandparent	1
 23	157	u23-p157-s043	narrator	jeans	1
 23	157	u23-p157-s045	narrator	Greek	1
+23	157	u23-p157-s114	narrator	jog	1
 23	157	u23-p157-s046	narrator	jogging	1
 23	157	u23-p157-s047	narrator	greet	1
 23	157	u23-p157-s048	narrator	join	1
@@ -6780,6 +6822,7 @@ unit	page	id	speaker	text	rects
 23	157	u23-p157-s054	narrator	group	1
 23	157	u23-p157-s055	narrator	grow	1
 23	157	u23-p157-s076	narrator	gymnasium	1
+23	157	u23-p157-s115	narrator	key	1
 23	157	u23-p157-s059	narrator	kilo	1
 23	157	u23-p157-s077	narrator	kilogram	1
 23	157	u23-p157-s060	narrator	habit	1
@@ -6789,10 +6832,12 @@ unit	page	id	speaker	text	rects
 23	158	u23-p158-s003	narrator	member	1
 23	158	u23-p158-s089	narrator	laboratory	1
 23	158	u23-p158-s005	narrator	midnight	1
+23	158	u23-p158-s126	narrator	lab	1
 23	158	u23-p158-s006	narrator	lady	1
 23	158	u23-p158-s007	narrator	miss	1
 23	158	u23-p158-s008	narrator	language	1
 23	158	u23-p158-s011	narrator	lantern	1
+23	158	u23-p158-s128	narrator	mix	1
 23	158	u23-p158-s012	narrator	model	1
 23	158	u23-p158-s013	narrator	large	1
 23	158	u23-p158-s014	narrator	last	1
@@ -6811,6 +6856,7 @@ unit	page	id	speaker	text	rects
 23	158	u23-p158-s033	narrator	museum	1
 23	158	u23-p158-s034	narrator	life	1
 23	158	u23-p158-s036	narrator	mutton	1
+23	158	u23-p158-s127	narrator	lives	1
 23	158	u23-p158-s037	narrator	lifestyle	1
 23	158	u23-p158-s038	narrator	myself	1
 23	158	u23-p158-s039	narrator	like	1
@@ -6861,6 +6907,7 @@ unit	page	id	speaker	text	rects
 23	159	u23-p159-s015	narrator	quiet	1
 23	159	u23-p159-s016	narrator	part	1
 23	159	u23-p159-s017	narrator	quite	1
+23	159	u23-p159-s109	narrator	pay	1
 23	159	u23-p159-s089	narrator	pay for	1
 23	159	u23-p159-s090	narrator	peace	1
 23	159	u23-p159-s021	narrator	pepper	1
@@ -6875,6 +6922,7 @@ unit	page	id	speaker	text	rects
 23	159	u23-p159-s029	narrator	pick	1
 23	159	u23-p159-s030	narrator	really	1
 23	159	u23-p159-s032	narrator	red packet	1
+23	159	u23-p159-s110	narrator	pie	1
 23	159	u23-p159-s033	narrator	piece	1
 23	159	u23-p159-s034	narrator	relative	1
 23	159	u23-p159-s035	narrator	remember	1
@@ -6916,12 +6964,14 @@ unit	page	id	speaker	text	rects
 23	159	u23-p159-s074	narrator	seldom	1
 23	159	u23-p159-s075	narrator	send	1
 23	159	u23-p159-s076	narrator	problem	1
+23	159	u23-p159-s111	narrator	set	1
 23	160	u23-p160-s001	narrator	survey	1
 23	160	u23-p160-s089	narrator	a set of	1
 23	160	u23-p160-s002	narrator	shell	1
 23	160	u23-p160-s003	narrator	sweet	1
 23	160	u23-p160-s004	narrator	show	1
 23	160	u23-p160-s090	narrator	have a sweet tooth	1
+23	160	u23-p160-s133	narrator	shy	1
 23	160	u23-p160-s007	narrator	silk	1
 23	160	u23-p160-s008	narrator	symbol	1
 23	160	u23-p160-s009	narrator	similar	1
@@ -6952,6 +7002,7 @@ unit	page	id	speaker	text	rects
 23	160	u23-p160-s035	narrator	through	1
 23	160	u23-p160-s036	narrator	spend	1
 23	160	u23-p160-s084	narrator	Wordlist	1
+23	160	u23-p160-s134	narrator	tie	1
 23	160	u23-p160-s038	narrator	till	1
 23	160	u23-p160-s083	narrator	until	1
 23	160	u23-p160-s042	narrator	spread	1
@@ -7008,91 +7059,91 @@ unit	page	id	speaker	text	rects
 23	161	u23-p161-s037	narrator	writer	1
 23	161	u23-p161-s014	narrator	watermelon	1
 23	161	u23-p161-s017	narrator	website	1
+23	161	u23-p161-s048	narrator	yen	1
+23	161	u23-p161-s047	narrator	yen	1
 23	161	u23-p161-s018	narrator	yogurt	1
 23	161	u23-p161-s019	narrator	wedding	1
 23	161	u23-p161-s044	narrator	yoghurt)	1
 23	161	u23-p161-s020	narrator	yuan	1
 23	161	u23-p161-s022	narrator	weekday	1
 23	161	u23-p161-s046	narrator	on weekdays	1
+23	161	u23-p161-s049	narrator	yuan	1
 23	161	u23-p161-s034	narrator	Wordlist	1
 24	162	u24-p162-s001	narrator	Proper nouns	1
-24	162	u24-p162-s002	narrator	Millie /ˈmɪli/	1
-24	162	u24-p162-s003	narrator	Sunshine /ˈsʌnʃaɪn/ Middle School	1
-24	162	u24-p162-s004	narrator	Daniel /ˈdænjəl/	1
-24	162	u24-p162-s005	narrator	Amy /ˈeɪmi/	1
-24	162	u24-p162-s006	narrator	Kitty /ˈkɪti/	1
-24	162	u24-p162-s007	narrator	Simon /ˈsaɪmən/	1
-24	162	u24-p162-s008	narrator	Sandy /ˈsændi/	1
-24	162	u24-p162-s009	narrator	Jenny /ˈdʒeni/	1
-24	162	u24-p162-s010	narrator	William Smith /ˌwɪljəm ˈsmɪθ/	1
-24	162	u24-p162-s011	narrator	the UK /ˌjuː ˈkeɪ/	1
-24	162	u24-p162-s012	narrator	the United Kingdom）	1
-24	162	u24-p162-s013	narrator	Will /wɪl/	1
-24	162	u24-p162-s014	narrator	Andrew /ˈændruː/	1
-24	162	u24-p162-s015	narrator	Andy /ˈændi/	1
-24	162	u24-p162-s016	narrator	James /dʒeɪmz/	1
-24	162	u24-p162-s017	narrator	Jimmy /ˈdʒɪmi/	1
-24	162	u24-p162-s018	narrator	Thomas /ˈtɒməs/	1
-24	162	u24-p162-s019	narrator	Tom /tɒm/	1
-24	162	u24-p162-s020	narrator	Elizabeth /ɪˈlɪzəbəθ/	1
-24	162	u24-p162-s021	narrator	Liz /lɪz/	1
-24	162	u24-p162-s022	narrator	Susan /ˈsuːzn/	1
-24	162	u24-p162-s023	narrator	Sue /suː/	1
-24	162	u24-p162-s025	narrator	nouns Proper	1
-24	162	u24-p162-s024	narrator	David /ˈdeɪvɪd/	1
-24	162	u24-p162-s026	narrator	Nora /ˈnɔːrə/	1
-24	162	u24-p162-s027	narrator	the Olympics /əˈlɪmpɪks/	1
-24	162	u24-p162-s028	narrator	Kate /keɪt/	1
-24	162	u24-p162-s029	narrator	Jack /dʒæk/	1
-24	162	u24-p162-s030	narrator	Annie /ˈæni/	1
-24	162	u24-p162-s031	narrator	Lucy /ˈluːsi/	1
-24	162	u24-p162-s032	narrator	Peter /ˈpiːtə(r)/	1
-24	162	u24-p162-s033	narrator	Yuelu Academy /əˈkædəmi/	1
-24	162	u24-p162-s034	narrator	China /ˈtʃaɪnə/	1
-24	162	u24-p162-s035	narrator	Yuelu Mountain /ˈmaʊntən/	1
-24	162	u24-p162-s036	narrator	Tommy /ˈtɒmi/	1
-24	162	u24-p162-s037	narrator	Shakespeare /ˈʃeɪkspɪə(r)/	1
+24	162	u24-p162-s002	narrator	Millie	1
+24	162	u24-p162-s003	narrator	Sunshine Middle School	1
+24	162	u24-p162-s004	narrator	Daniel	1
+24	162	u24-p162-s005	narrator	Amy	1
+24	162	u24-p162-s006	narrator	Kitty	1
+24	162	u24-p162-s007	narrator	Simon	1
+24	162	u24-p162-s008	narrator	Sandy	1
+24	162	u24-p162-s009	narrator	Jenny	1
+24	162	u24-p162-s010	narrator	William Smith	1
+24	162	u24-p162-s011	narrator	the UK	1
+24	162	u24-p162-s012	narrator	the United Kingdom	1
+24	162	u24-p162-s013	narrator	Will	1
+24	162	u24-p162-s014	narrator	Andrew	1
+24	162	u24-p162-s015	narrator	Andy	1
+24	162	u24-p162-s016	narrator	James	1
+24	162	u24-p162-s017	narrator	Jimmy	1
+24	162	u24-p162-s018	narrator	Thomas	1
+24	162	u24-p162-s019	narrator	Tom	1
+24	162	u24-p162-s020	narrator	Elizabeth	1
+24	162	u24-p162-s021	narrator	Liz	1
+24	162	u24-p162-s022	narrator	Susan	1
+24	162	u24-p162-s023	narrator	Sue	1
+24	162	u24-p162-s024	narrator	David	1
+24	162	u24-p162-s026	narrator	Nora	1
+24	162	u24-p162-s027	narrator	the Olympics	1
+24	162	u24-p162-s028	narrator	Kate	1
+24	162	u24-p162-s029	narrator	Jack	1
+24	162	u24-p162-s030	narrator	Annie	1
+24	162	u24-p162-s031	narrator	Lucy	1
+24	162	u24-p162-s032	narrator	Peter	1
+24	162	u24-p162-s033	narrator	Yuelu Academy	1
+24	162	u24-p162-s034	narrator	China	1
+24	162	u24-p162-s035	narrator	Yuelu Mountain	1
+24	162	u24-p162-s036	narrator	Tommy	1
+24	162	u24-p162-s037	narrator	Shakespeare	1
 24	162	u24-p162-s038	narrator	Children’s Day	1
-24	162	u24-p162-s039	narrator	Benny /ˈbeni/	1
-24	162	u24-p162-s040	narrator	France /frɑːns/	1
-24	163	u24-p163-s001	narrator	Japan /dʒəˈpæn/	1
-24	163	u24-p163-s002	narrator	Russia /ˈrʌʃə/	1
-24	163	u24-p163-s003	narrator	USA /ˌjuː es ˈeɪ/	1
-24	163	u24-p163-s004	narrator	the United States of America）	1
-24	163	u24-p163-s005	narrator	Lucky /ˈlʌki/ Cat	1
-24	163	u24-p163-s006	narrator	John /dʒɒn/	1
-24	163	u24-p163-s007	narrator	Sunshine Museum the Spring Festival the Dragon /ˈdræɡən/ Boat Festival	3
-24	163	u24-p163-s010	narrator	the Mid-Autumn /ˌmɪd ˈɔːtəm/ Festival	1
-24	163	u24-p163-s011	narrator	Christmas /ˈkrɪsməs/	1
-24	163	u24-p163-s012	narrator	Burns Night the Water Festival	2
-24	163	u24-p163-s014	narrator	Scotland /ˈskɒtlənd/	1
-24	163	u24-p163-s015	narrator	Robin /ˈrɒbɪn/	1
+24	162	u24-p162-s039	narrator	Benny	1
+24	162	u24-p162-s040	narrator	France	1
+24	163	u24-p163-s001	narrator	Japan	1
+24	163	u24-p163-s002	narrator	Russia	1
+24	163	u24-p163-s003	narrator	USA	1
+24	163	u24-p163-s004	narrator	the United States of America	1
+24	163	u24-p163-s005	narrator	Lucky Cat	1
+24	163	u24-p163-s006	narrator	John	1
+24	163	u24-p163-s007	narrator	Sunshine Museum	1
+24	163	u24-p163-s047	narrator	the Spring Festival	1
+24	163	u24-p163-s048	narrator	the Dragon Boat Festival	1
+24	163	u24-p163-s010	narrator	the Mid-Autumn Festival	1
+24	163	u24-p163-s011	narrator	Christmas	1
+24	163	u24-p163-s012	narrator	Burns Night	1
+24	163	u24-p163-s049	narrator	the Water Festival	1
+24	163	u24-p163-s014	narrator	Scotland	1
+24	163	u24-p163-s015	narrator	Robin	1
 24	163	u24-p163-s016	narrator	Robert Burns	1
-24	163	u24-p163-s017	narrator	Türkiye /ˈtʊəkijə/	1
-24	163	u24-p163-s018	narrator	Greece /ɡriːs/	1
-24	163	u24-p163-s019	narrator	Denmark /ˈdenmɑːk/	1
-24	163	u24-p163-s020	narrator	Colombia /kəˈlʌmbiə/	1
-24	163	u24-p163-s021	narrator	Shirley /ˈʃɜːli/	1
-24	163	u24-p163-s039	narrator	vi	1
-24	163	u24-p163-s041	narrator	en	1
-24	163	u24-p163-s044	narrator	k	1
-24	163	u24-p163-s045	narrator	ns	1
-24	163	u24-p163-s046	narrator	t/	1
-24	163	u24-p163-s038	narrator	the Vienna	1
-24	163	u24-p163-s040	narrator	vi	1
-24	163	u24-p163-s042	narrator	en	1
-24	163	u24-p163-s043	narrator	New Year’s Concert	1
-24	163	u24-p163-s023	narrator	the Strauss /straʊs/ family	1
-24	163	u24-p163-s024	narrator	Wendy /ˈwendi/	1
-24	163	u24-p163-s025	narrator	Violet /ˈvaɪələt/ the Window of the World the Lantern /ˈlæntən/ Festival	3
+24	163	u24-p163-s017	narrator	Türkiye	1
+24	163	u24-p163-s018	narrator	Greece	1
+24	163	u24-p163-s019	narrator	Denmark	1
+24	163	u24-p163-s020	narrator	Colombia	1
+24	163	u24-p163-s021	narrator	Shirley	1
+24	163	u24-p163-s038	narrator	the Vienna New Year’s Concert	1
+24	163	u24-p163-s023	narrator	the Strauss family	1
+24	163	u24-p163-s024	narrator	Wendy	1
+24	163	u24-p163-s025	narrator	Violet	1
+24	163	u24-p163-s050	narrator	the Window of the World	1
+24	163	u24-p163-s051	narrator	the Lantern Festival	1
 24	163	u24-p163-s030	narrator	Proper nouns	1
-24	163	u24-p163-s028	narrator	the Double /ˈdʌbl/ Ninth Festival	1
-24	163	u24-p163-s029	narrator	Chongyang Festival）	1
+24	163	u24-p163-s028	narrator	the Double Ninth Festival	1
+24	163	u24-p163-s029	narrator	Chongyang Festival	1
 24	163	u24-p163-s031	narrator	Mother’s Day	1
-24	163	u24-p163-s032	narrator	Father’s Day the Chinese New Year’s Eve /iːv/	2
-24	163	u24-p163-s034	narrator	the Spring Festival Gala /ˈɡɑːlə/	1
+24	163	u24-p163-s032	narrator	Father’s Day	1
+24	163	u24-p163-s052	narrator	the Chinese New Year’s Eve	1
+24	163	u24-p163-s034	narrator	the Spring Festival Gala	1
 24	163	u24-p163-s035	narrator	Chinese New Year: The Biggest Celebration on Earth	2
-24	163	u24-p163-s037	narrator	Hong Kong /ˌhɒŋ ˈkɒŋ/	1
+24	163	u24-p163-s037	narrator	Hong Kong	1
 25	164	u25-p164-s002	narrator	jiaocai	1
 25	164	u25-p164-s003	narrator	yilin	1
 25	164	u25-p164-s004	narrator	com	1

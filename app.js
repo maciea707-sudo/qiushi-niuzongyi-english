@@ -12,6 +12,7 @@ const meaningText = document.getElementById("meaningText");
 const roleAvatar = document.getElementById("roleAvatar");
 const roleName = document.getElementById("roleName");
 const voiceStatusText = document.getElementById("voiceStatusText");
+const replayAudio = document.getElementById("replayAudio");
 const unitTitle = document.getElementById("unitTitle");
 const pageTitle = document.getElementById("pageTitle");
 const toast = document.getElementById("toast");
@@ -171,6 +172,7 @@ async function renderPage(push = false, token = ++navigationToken) {
   page.replaceChildren(image);
   page.style.setProperty("--page-image", `url("${pageData.image}")`);
   pageData.sentences.forEach((sentence, index) => createHotspots(sentence, index));
+  if (currentPage >= 149 && currentPage <= 163) trimWordlistOverlaps();
   if (push) history.pushState({}, "", `?page=${currentPage}`);
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
@@ -182,8 +184,9 @@ function createHotspots(sentence, index) {
     button.className = "hotspot";
     button.dataset.sentenceIndex = String(index);
     button.dataset.fragmentIndex = String(fragmentIndex);
-    const horizontalPadding = 0.58;
-    const verticalPadding = 0.2;
+    const wordlist = currentPage >= 149 && currentPage <= 163;
+    const horizontalPadding = wordlist ? 0.12 : 0.58;
+    const verticalPadding = wordlist ? 0 : 0.2;
     const left = Math.max(0, rect.x - horizontalPadding);
     const top = Math.max(0, rect.y - verticalPadding);
     const right = Math.min(100, rect.x + rect.w + horizontalPadding);
@@ -201,6 +204,47 @@ function createHotspots(sentence, index) {
     button.addEventListener("blur", schedulePreviewHide);
     button.addEventListener("click", event => { event.stopPropagation(); showSentence(index, button); });
     page.appendChild(button);
+  });
+}
+
+// Wordlist rows are close together. Make neighbouring hit targets meet at their
+// midpoint so the lower word cannot intercept a click on the upper word.
+function trimWordlistOverlaps() {
+  const buttons = [...page.querySelectorAll(".hotspot")];
+  const boxes = buttons.map(button => ({
+    button,
+    x: parseFloat(button.style.left),
+    y: parseFloat(button.style.top),
+    w: parseFloat(button.style.width),
+    h: parseFloat(button.style.height),
+  }));
+  for (let i = 0; i < boxes.length; i++) {
+    for (let j = i + 1; j < boxes.length; j++) {
+      const left = boxes[i].x <= boxes[j].x ? boxes[i] : boxes[j];
+      const right = left === boxes[i] ? boxes[j] : boxes[i];
+      if (Math.abs(left.y - right.y) < 0.7 &&
+          left.x + left.w > right.x && left.x + left.w < right.x + right.w) {
+        const edge = (left.x + left.w + right.x) / 2;
+        right.w -= edge - right.x;
+        right.x = edge;
+        left.w = edge - left.x;
+      }
+      const first = boxes[i].y <= boxes[j].y ? boxes[i] : boxes[j];
+      const second = first === boxes[i] ? boxes[j] : boxes[i];
+      const rowDistance = second.y - first.y;
+      const sharedWidth = Math.min(first.x + first.w, second.x + second.w) - Math.max(first.x, second.x);
+      if (rowDistance < 0.7 || sharedWidth <= 0 || first.y + first.h <= second.y) continue;
+      const boundary = (first.y + first.h / 2 + second.y + second.h / 2) / 2;
+      first.h = Math.min(first.h, boundary - first.y);
+      second.h = Math.max(0.5, second.y + second.h - Math.max(second.y, boundary));
+      second.y = Math.max(second.y, boundary);
+    }
+  }
+  boxes.forEach(({ button, x, y, w, h }) => {
+    button.style.left = `${x}%`;
+    button.style.width = `${w}%`;
+    button.style.top = `${y}%`;
+    button.style.height = `${h}%`;
   });
 }
 
@@ -307,6 +351,7 @@ async function playCurrentAudio() {
   audioPlayer.currentTime = 0;
   try { await audioPlayer.play(); }
   catch (error) {
+    if (error.name === "AbortError") return; // another word was selected meanwhile
     console.warn("Audio playback failed", error);
     showToast("音频暂时没有成功加载，请稍后重试。");
   }
@@ -358,6 +403,7 @@ goToPage.addEventListener("click", jumpToPage);
 pageNumber.addEventListener("keydown", event => { if (event.key === "Enter") { event.preventDefault(); void jumpToPage(); } });
 catalogToggle.addEventListener("click", () => setCatalogClosed(!catalog.classList.contains("closed")));
 popover.addEventListener("click", event => event.stopPropagation());
+replayAudio.addEventListener("click", () => { void playCurrentAudio(); });
 document.addEventListener("click", hideSentence);
 document.addEventListener("keydown", event => { if (event.key === "Escape") hideSentence(); });
 audioPlayer.addEventListener("play", () => popover.classList.add("speaking"));

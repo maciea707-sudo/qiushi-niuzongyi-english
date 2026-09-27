@@ -3,6 +3,7 @@
 import csv
 import json
 import pathlib
+import re
 import wave
 
 
@@ -13,6 +14,7 @@ pages = set()
 sentence_ids = set()
 audio_paths = set()
 total = 0
+page_items = {}
 
 
 def check(condition, message):
@@ -31,6 +33,7 @@ for unit in manifest["units"]:
         check(number not in pages, f"Duplicate page {number}")
         check(unit["start"] <= number <= unit["end"], f"Page {number}: wrong unit")
         pages.add(number)
+        page_items[number] = page["sentences"]
         image = ROOT / page["image"]
         check(image.is_file() and image.read_bytes()[:4] == b"RIFF", f"Page {number}: image missing or invalid")
         for sentence in page["sentences"]:
@@ -67,6 +70,36 @@ for path in audio_paths:
             check(sound.getnframes() > 0 and sound.getframerate() > 0, f"Invalid audio {path}")
     except (FileNotFoundError, OSError, wave.Error):
         errors.append(f"Missing or unreadable audio {path}")
+
+# Audited coordinates refer to words visible in the textbook image. A valid WAV
+# on disk does not help if the printed word has no target at its actual location.
+for entry in json.loads((ROOT / "data/hotspot-coverage.json").read_text()):
+    word = entry["word"].casefold()
+    x, y = entry["x"], entry["y"]
+    check(any(
+        word in item["text"].casefold() and any(
+            box["x"] <= x <= box["x"] + box["w"]
+            and box["y"] <= y <= box["y"] + box["h"]
+            for box in item["rects"]
+        ) for item in page_items[entry["page"]]
+    ), f"Page {entry['page']}: no clickable target for printed {entry['word']} at ({x}, {y})")
+
+for number, discarded in {150: {"vent"}, 163: {"vi", "en", "k", "ns", "t/"}}.items():
+    for item in page_items[number]:
+        check(item["text"].casefold() not in discarded,
+              f"Page {number}: OCR fragment is still a learning item: {item['text']}")
+
+# Long sentences cannot be fully read in a fraction of a second. This catches
+# the class of truncated recordings which previously passed the existence test.
+for number, items in page_items.items():
+    for item in items:
+        words = re.findall(r"[A-Za-z]+(?:'[A-Za-z]+)?", item["text"])
+        if len(words) < 3 or not item.get("audio") or not (ROOT / item["audio"]).is_file():
+            continue
+        with wave.open(str(ROOT / item["audio"])) as sound:
+            duration = sound.getnframes() / sound.getframerate()
+        check(len(words) / duration <= 4.8,
+              f"Page {number}: recording too short for {item['text']!r} ({duration:.2f}s)")
 
 if errors:
     raise SystemExit("\n".join(errors[:60]) + f"\nTotal errors: {len(errors)}")
