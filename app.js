@@ -17,7 +17,7 @@ const speedButtons = [...document.querySelectorAll(".speed-button")];
 const unitTitle = document.getElementById("unitTitle");
 const pageTitle = document.getElementById("pageTitle");
 const toast = document.getElementById("toast");
-const contentRevision = "20260927-cloze-lines-v4";
+const contentRevision = "20260928-phonetics-v1";
 
 const speakerPalette = [
   ["#75419a", "#f5eef9"], ["#d56843", "#fdf0eb"], ["#2878b5", "#eaf4fb"],
@@ -197,8 +197,9 @@ function createHotspots(sentence, index) {
     button.dataset.sentenceIndex = String(index);
     button.dataset.fragmentIndex = String(fragmentIndex);
     const wordlist = currentPage >= 149 && currentPage <= 163;
-    const horizontalPadding = wordlist ? 0.12 : 0.58;
-    const verticalPadding = wordlist ? 0 : 0.2;
+    const isolatedPhoneme = /^\/[^/]+\/$/.test(sentence.text);
+    const horizontalPadding = isolatedPhoneme ? 0 : wordlist ? 0.12 : 0.58;
+    const verticalPadding = isolatedPhoneme || wordlist ? 0 : 0.2;
     const left = Math.max(0, rect.x - horizontalPadding);
     const top = Math.max(0, rect.y - verticalPadding);
     const right = Math.min(100, rect.x + rect.w + horizontalPadding);
@@ -209,7 +210,8 @@ function createHotspots(sentence, index) {
       width: `${right - left}%`,
       height: `${bottom - top}%`,
     });
-    button.setAttribute("aria-label", `学习句子：${sentence.text}`);
+    button.setAttribute("aria-label", isolatedPhoneme
+      ? `收听音标 ${sentence.text}` : `学习句子：${sentence.text}`);
     button.addEventListener("mouseenter", () => showPreview(index));
     button.addEventListener("mouseleave", schedulePreviewHide);
     button.addEventListener("focus", () => showPreview(index));

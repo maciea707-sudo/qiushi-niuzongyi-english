@@ -524,6 +524,16 @@ unit	page	id	speaker	text	rects
 1	13	u01-p013-s011	narrator	3 Sandy likes listening to piano music.	1
 1	13	u01-p013-s012	narrator	4 Simon and Amy go to school by bike.	1
 1	13	u01-p013-s013	narrator	5 These students go home by bus.	1
+1	13	u01-p013-s200	narrator	/eɪ/	1
+1	13	u01-p013-s201	narrator	/eɪ/	1
+1	13	u01-p013-s202	narrator	/iː/	1
+1	13	u01-p013-s203	narrator	/iː/	1
+1	13	u01-p013-s204	narrator	/aɪ/	1
+1	13	u01-p013-s205	narrator	/aɪ/	1
+1	13	u01-p013-s206	narrator	/əʊ/	1
+1	13	u01-p013-s207	narrator	/əʊ/	1
+1	13	u01-p013-s208	narrator	/juː/	1
+1	13	u01-p013-s209	narrator	/juː/	1
 1	14	u01-p014-s023	narrator	Unit 1	1
 1	14	u01-p014-s024	narrator	Integration	1
 1	14	u01-p014-s025	narrator	Meeting my new friends	1
@@ -1037,6 +1047,16 @@ unit	page	id	speaker	text	rects
 2	25	u02-p025-s064	narrator	Learning on the apps,	1
 2	25	u02-p025-s011	narrator	Or going for a long run?	1
 2	25	u02-p025-s012	narrator	Well, all of these hobbies are so much fun!	1
+2	25	u02-p025-s200	narrator	/æ/	1
+2	25	u02-p025-s201	narrator	/æ/	1
+2	25	u02-p025-s202	narrator	/e/	1
+2	25	u02-p025-s203	narrator	/e/	1
+2	25	u02-p025-s204	narrator	/ɪ/	1
+2	25	u02-p025-s205	narrator	/ɪ/	1
+2	25	u02-p025-s206	narrator	/ɒ/	1
+2	25	u02-p025-s207	narrator	/ɒ/	1
+2	25	u02-p025-s208	narrator	/ʌ/	1
+2	25	u02-p025-s209	narrator	/ʌ/	1
 2	26	u02-p026-s016	narrator	Unit 2	1
 2	26	u02-p026-s017	narrator	Integration	1
 2	26	u02-p026-s014	narrator	After-school fun	1
@@ -1458,6 +1478,20 @@ unit	page	id	speaker	text	rects
 3	37	u03-p037-s010	narrator	3 We like the yellow flowers and the green trees in the garden.	1
 3	37	u03-p037-s011	narrator	4 Lucy loves reading in the library.	1
 3	37	u03-p037-s012	narrator	5 Peter puts his pencils and pens on the book.	1
+3	37	u03-p037-s200	narrator	/p/	1
+3	37	u03-p037-s201	narrator	/m/	1
+3	37	u03-p037-s202	narrator	/b/	1
+3	37	u03-p037-s203	narrator	/n/	1
+3	37	u03-p037-s204	narrator	/t/	1
+3	37	u03-p037-s205	narrator	/ŋ/	1
+3	37	u03-p037-s206	narrator	/d/	1
+3	37	u03-p037-s207	narrator	/l/	1
+3	37	u03-p037-s208	narrator	/k/	1
+3	37	u03-p037-s209	narrator	/r/	1
+3	37	u03-p037-s210	narrator	/g/	1
+3	37	u03-p037-s211	narrator	/j/	1
+3	37	u03-p037-s212	narrator	/h/	1
+3	37	u03-p037-s213	narrator	/w/	1
 3	38	u03-p038-s021	narrator	Unit 3	1
 3	38	u03-p038-s022	narrator	Integration	1
 3	38	u03-p038-s023	narrator	Great places at school	1
@@ -1954,6 +1988,22 @@ unit	page	id	speaker	text	rects
 4	49	u04-p049-s084	narrator	a nurse at work	1
 4	49	u04-p049-s085	narrator	walk around the wall	1
 4	49	u04-p049-s086	narrator	after dinner	1
+4	49	u04-p049-s200	narrator	/ɑː/	1
+4	49	u04-p049-s201	narrator	/ɔː/	1
+4	49	u04-p049-s202	narrator	/iː/	1
+4	49	u04-p049-s203	narrator	/e/	1
+4	49	u04-p049-s204	narrator	/uː/	1
+4	49	u04-p049-s205	narrator	/ʊ/	1
+4	49	u04-p049-s206	narrator	/ɜː/	1
+4	49	u04-p049-s207	narrator	/ə/	1
+4	49	u04-p049-s208	narrator	/uː/	1
+4	49	u04-p049-s209	narrator	/ʊ/	1
+4	49	u04-p049-s210	narrator	/iː/	1
+4	49	u04-p049-s211	narrator	/ɔː/	1
+4	49	u04-p049-s212	narrator	/e/	1
+4	49	u04-p049-s213	narrator	/ɜː/	1
+4	49	u04-p049-s214	narrator	/ə/	1
+4	49	u04-p049-s215	narrator	/ɑː/	1
 4	50	u04-p050-s011	narrator	Unit 4	1
 4	50	u04-p050-s012	narrator	Integration	1
 4	50	u04-p050-s010	narrator	Learning by doing	1
@@ -2456,6 +2506,20 @@ unit	page	id	speaker	text	rects
 5	63	u05-p063-s012	narrator	4 The fruits on the farm are very fresh.	1
 5	63	u05-p063-s013	narrator	5 Jack likes cheese and orange juice.	1
 5	63	u05-p063-s014	narrator	6 Suzy likes painting plants and fruits with her friends.	1
+5	63	u05-p063-s200	narrator	/f/	1
+5	63	u05-p063-s201	narrator	/v/	1
+5	63	u05-p063-s202	narrator	/ʃ/	1
+5	63	u05-p063-s203	narrator	/ʒ/	1
+5	63	u05-p063-s204	narrator	/θ/	1
+5	63	u05-p063-s205	narrator	/ð/	1
+5	63	u05-p063-s206	narrator	/s/	1
+5	63	u05-p063-s207	narrator	/z/	1
+5	63	u05-p063-s208	narrator	/tr/	1
+5	63	u05-p063-s209	narrator	/dr/	1
+5	63	u05-p063-s210	narrator	/tʃ/	1
+5	63	u05-p063-s211	narrator	/dʒ/	1
+5	63	u05-p063-s212	narrator	/ts/	1
+5	63	u05-p063-s213	narrator	/dz/	1
 5	64	u05-p064-s038	narrator	Unit 5	1
 5	64	u05-p064-s039	narrator	Integration	1
 5	64	u05-p064-s001	narrator	A questionnaire is a set of written questions to gather information about a topic.	3
@@ -2924,6 +2988,20 @@ unit	page	id	speaker	text	rects
 6	75	u06-p075-s012	narrator	4 Whose brown shirt is on that chair?	1
 6	75	u06-p075-s013	narrator	5 Take the grey coat when you go out.	1
 6	75	u06-p075-s014	narrator	6 We have a great fashion show around New Year.	1
+6	75	u06-p075-s200	narrator	/eɪ/	1
+6	75	u06-p075-s201	narrator	/aɪ/	1
+6	75	u06-p075-s202	narrator	/ɔɪ/	1
+6	75	u06-p075-s203	narrator	/əʊ/	1
+6	75	u06-p075-s204	narrator	/aʊ/	1
+6	75	u06-p075-s205	narrator	/ɪə/	1
+6	75	u06-p075-s206	narrator	/eə/	1
+6	75	u06-p075-s207	narrator	/ʊə/	1
+6	75	u06-p075-s208	narrator	/eə/	1
+6	75	u06-p075-s209	narrator	/ɔɪ/	1
+6	75	u06-p075-s210	narrator	/ɪə/	1
+6	75	u06-p075-s211	narrator	/əʊ/	1
+6	75	u06-p075-s212	narrator	/aɪ/	1
+6	75	u06-p075-s213	narrator	/aʊ/	1
 6	76	u06-p076-s020	narrator	Unit 6	1
 6	76	u06-p076-s021	narrator	Integration	1
 6	76	u06-p076-s022	narrator	Different types of clothes	1
@@ -3322,6 +3400,47 @@ unit	page	id	speaker	text	rects
 7	87	u07-p087-s009	narrator	3 Twenty people listened to the speaker’s speech about making a budget.	1
 7	87	u07-p087-s010	narrator	4 The price of those pencils is pretty high.	1
 7	87	u07-p087-s011	narrator	5 My uncle is quite smart with his money.	1
+7	87	u07-p087-s200	narrator	/b/	1
+7	87	u07-p087-s201	narrator	/k/	1
+7	87	u07-p087-s202	narrator	/f/	1
+7	87	u07-p087-s203	narrator	/g/	1
+7	87	u07-p087-s204	narrator	/p/	1
+7	87	u07-p087-s205	narrator	/s/	1
+7	87	u07-p087-s206	narrator	/l/	1
+7	87	u07-p087-s207	narrator	/b/	1
+7	87	u07-p087-s208	narrator	/k/	1
+7	87	u07-p087-s209	narrator	/f/	1
+7	87	u07-p087-s210	narrator	/g/	1
+7	87	u07-p087-s211	narrator	/p/	1
+7	87	u07-p087-s212	narrator	/r/	1
+7	87	u07-p087-s213	narrator	/s/	1
+7	87	u07-p087-s214	narrator	/k/	1
+7	87	u07-p087-s215	narrator	/m/	1
+7	87	u07-p087-s216	narrator	/n/	1
+7	87	u07-p087-s217	narrator	/p/	1
+7	87	u07-p087-s218	narrator	/t/	1
+7	87	u07-p087-s219	narrator	/s/	1
+7	87	u07-p087-s220	narrator	/k/	1
+7	87	u07-p087-s221	narrator	/p/	1
+7	87	u07-p087-s222	narrator	/t/	1
+7	87	u07-p087-s223	narrator	/r/	1
+7	87	u07-p087-s224	narrator	/k/	1
+7	87	u07-p087-s225	narrator	/s/	1
+7	87	u07-p087-s226	narrator	/t/	1
+7	87	u07-p087-s227	narrator	/w/	1
+7	87	u07-p087-s228	narrator	/b/	1
+7	87	u07-p087-s229	narrator	/p/	1
+7	87	u07-p087-s230	narrator	/k/	1
+7	87	u07-p087-s231	narrator	/d/	1
+7	87	u07-p087-s232	narrator	/t/	1
+7	87	u07-p087-s233	narrator	/s/	1
+7	87	u07-p087-s234	narrator	/l/	1
+7	87	u07-p087-s235	narrator	/z/	1
+7	87	u07-p087-s236	narrator	/s/	1
+7	87	u07-p087-s237	narrator	/f/	1
+7	87	u07-p087-s238	narrator	/v/	1
+7	87	u07-p087-s239	narrator	/d/	1
+7	87	u07-p087-s240	narrator	/n/	1
 7	88	u07-p088-s023	narrator	Unit 7	1
 7	88	u07-p088-s024	narrator	Integration	1
 7	88	u07-p088-s020	narrator	All about money	1
@@ -3733,6 +3852,12 @@ unit	page	id	speaker	text	rects
 8	99	u08-p099-s023	narrator	I like the Lantern Festival best.	2
 8	99	u08-p099-s024	narrator	I like to visit the park very much.	2
 8	99	u08-p099-s025	narrator	I can enjoy the colourful lantern show!	2
+8	99	u08-p099-s200	narrator	/w/	1
+8	99	u08-p099-s201	narrator	/v/	1
+8	99	u08-p099-s202	narrator	/w/	1
+8	99	u08-p099-s203	narrator	/v/	1
+8	99	u08-p099-s204	narrator	/w/	1
+8	99	u08-p099-s205	narrator	/v/	1
 8	100	u08-p100-s016	narrator	Unit 8	1
 8	100	u08-p100-s017	narrator	Integration	1
 8	100	u08-p100-s018	narrator	Festivals for the family	1
@@ -4880,6 +5005,74 @@ unit	page	id	speaker	text	rects
 20	130	u20-p130-s147	narrator	care	1
 20	130	u20-p130-s148	narrator	poor	1
 20	130	u20-p130-s149	narrator	sure	1
+20	130	u20-p130-s200	narrator	/ɪ/	1
+20	130	u20-p130-s201	narrator	/iː/	1
+20	130	u20-p130-s202	narrator	/e/	1
+20	130	u20-p130-s203	narrator	/æ/	1
+20	130	u20-p130-s204	narrator	/ʌ/	1
+20	130	u20-p130-s205	narrator	/ɑː/	1
+20	130	u20-p130-s206	narrator	/ɒ/	1
+20	130	u20-p130-s207	narrator	/ɔː/	1
+20	130	u20-p130-s208	narrator	/ʊ/	1
+20	130	u20-p130-s209	narrator	/uː/	1
+20	130	u20-p130-s210	narrator	/ə/	1
+20	130	u20-p130-s211	narrator	/ɜː/	1
+20	130	u20-p130-s212	narrator	/eɪ/	1
+20	130	u20-p130-s213	narrator	/aɪ/	1
+20	130	u20-p130-s214	narrator	/ɔɪ/	1
+20	130	u20-p130-s215	narrator	/əʊ/	1
+20	130	u20-p130-s216	narrator	/aʊ/	1
+20	130	u20-p130-s217	narrator	/ɪə/	1
+20	130	u20-p130-s218	narrator	/eə/	1
+20	130	u20-p130-s219	narrator	/ʊə/	1
+20	130	u20-p130-s220	narrator	/p/	1
+20	130	u20-p130-s221	narrator	/b/	1
+20	130	u20-p130-s222	narrator	/t/	1
+20	130	u20-p130-s223	narrator	/d/	1
+20	130	u20-p130-s224	narrator	/k/	1
+20	130	u20-p130-s225	narrator	/g/	1
+20	130	u20-p130-s226	narrator	/tʃ/	1
+20	130	u20-p130-s227	narrator	/dʒ/	1
+20	130	u20-p130-s228	narrator	/tr/	1
+20	130	u20-p130-s229	narrator	/dr/	1
+20	130	u20-p130-s230	narrator	/ts/	1
+20	130	u20-p130-s231	narrator	/dz/	1
+20	130	u20-p130-s232	narrator	/f/	1
+20	130	u20-p130-s233	narrator	/v/	1
+20	130	u20-p130-s234	narrator	/θ/	1
+20	130	u20-p130-s235	narrator	/ð/	1
+20	130	u20-p130-s236	narrator	/s/	1
+20	130	u20-p130-s237	narrator	/z/	1
+20	130	u20-p130-s238	narrator	/ʃ/	1
+20	130	u20-p130-s239	narrator	/ʒ/	1
+20	130	u20-p130-s240	narrator	/h/	1
+20	130	u20-p130-s241	narrator	/m/	1
+20	130	u20-p130-s242	narrator	/n/	1
+20	130	u20-p130-s243	narrator	/ŋ/	1
+20	130	u20-p130-s244	narrator	/l/	1
+20	130	u20-p130-s245	narrator	/r/	1
+20	130	u20-p130-s246	narrator	/j/	1
+20	130	u20-p130-s247	narrator	/w/	1
+20	130	u20-p130-s248	narrator	/ɪ/	1
+20	130	u20-p130-s249	narrator	/iː/	1
+20	130	u20-p130-s250	narrator	/e/	1
+20	130	u20-p130-s251	narrator	/æ/	1
+20	130	u20-p130-s252	narrator	/ʌ/	1
+20	130	u20-p130-s253	narrator	/ɑː/	1
+20	130	u20-p130-s254	narrator	/ɒ/	1
+20	130	u20-p130-s255	narrator	/ɔː/	1
+20	130	u20-p130-s256	narrator	/ʊ/	1
+20	130	u20-p130-s257	narrator	/uː/	1
+20	130	u20-p130-s258	narrator	/ə/	1
+20	130	u20-p130-s259	narrator	/ɜː/	1
+20	130	u20-p130-s260	narrator	/eɪ/	1
+20	130	u20-p130-s261	narrator	/aɪ/	1
+20	130	u20-p130-s262	narrator	/ɔɪ/	1
+20	130	u20-p130-s263	narrator	/əʊ/	1
+20	130	u20-p130-s264	narrator	/aʊ/	1
+20	130	u20-p130-s265	narrator	/ɪə/	1
+20	130	u20-p130-s266	narrator	/eə/	1
+20	130	u20-p130-s267	narrator	/ʊə/	1
 20	131	u20-p131-s002	narrator	English sounds	1
 20	131	u20-p131-s001	narrator	Consonants	1
 20	131	u20-p131-s003	narrator	pen	1
@@ -4937,6 +5130,34 @@ unit	page	id	speaker	text	rects
 20	131	u20-p131-s055	narrator	yes	1
 20	131	u20-p131-s056	narrator	we	1
 20	131	u20-p131-s057	narrator	what	1
+20	131	u20-p131-s200	narrator	/p/	1
+20	131	u20-p131-s201	narrator	/b/	1
+20	131	u20-p131-s202	narrator	/t/	1
+20	131	u20-p131-s203	narrator	/d/	1
+20	131	u20-p131-s204	narrator	/k/	1
+20	131	u20-p131-s205	narrator	/g/	1
+20	131	u20-p131-s206	narrator	/tʃ/	1
+20	131	u20-p131-s207	narrator	/dʒ/	1
+20	131	u20-p131-s208	narrator	/tr/	1
+20	131	u20-p131-s209	narrator	/dr/	1
+20	131	u20-p131-s210	narrator	/ts/	1
+20	131	u20-p131-s211	narrator	/dz/	1
+20	131	u20-p131-s212	narrator	/f/	1
+20	131	u20-p131-s213	narrator	/v/	1
+20	131	u20-p131-s214	narrator	/θ/	1
+20	131	u20-p131-s215	narrator	/ð/	1
+20	131	u20-p131-s216	narrator	/s/	1
+20	131	u20-p131-s217	narrator	/z/	1
+20	131	u20-p131-s218	narrator	/ʃ/	1
+20	131	u20-p131-s219	narrator	/ʒ/	1
+20	131	u20-p131-s220	narrator	/h/	1
+20	131	u20-p131-s221	narrator	/m/	1
+20	131	u20-p131-s222	narrator	/n/	1
+20	131	u20-p131-s223	narrator	/ŋ/	1
+20	131	u20-p131-s224	narrator	/l/	1
+20	131	u20-p131-s225	narrator	/r/	1
+20	131	u20-p131-s226	narrator	/j/	1
+20	131	u20-p131-s227	narrator	/w/	1
 21	132	u21-p132-s016	narrator	Notes	1
 21	132	u21-p132-s017	narrator	Unit 1	1
 21	132	u21-p132-s001	narrator	1 Hello, I’m Wang Xinyue, and I go by Millie.	2

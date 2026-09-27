@@ -1729,6 +1729,1162 @@
           "meaning": "当然",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u20/u20-p130-s149.wav"
+        },
+        {
+          "id": "u20-p130-s200",
+          "speaker": "narrator",
+          "text": "/ɪ/",
+          "rects": [
+            {
+              "x": 26.6036,
+              "y": 13.5973,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ɪ/",
+          "meaning": "音标 /ɪ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-026a.wav"
+        },
+        {
+          "id": "u20-p130-s201",
+          "speaker": "narrator",
+          "text": "/iː/",
+          "rects": [
+            {
+              "x": 32.9507,
+              "y": 13.5973,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/iː/",
+          "meaning": "音标 /iː/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0069-02d0.wav"
+        },
+        {
+          "id": "u20-p130-s202",
+          "speaker": "narrator",
+          "text": "/e/",
+          "rects": [
+            {
+              "x": 39.2978,
+              "y": 13.5973,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/e/",
+          "meaning": "音标 /e/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0065.wav"
+        },
+        {
+          "id": "u20-p130-s203",
+          "speaker": "narrator",
+          "text": "/æ/",
+          "rects": [
+            {
+              "x": 45.6448,
+              "y": 13.5973,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/æ/",
+          "meaning": "音标 /æ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-00e6.wav"
+        },
+        {
+          "id": "u20-p130-s204",
+          "speaker": "narrator",
+          "text": "/ʌ/",
+          "rects": [
+            {
+              "x": 51.9919,
+              "y": 13.5973,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ʌ/",
+          "meaning": "音标 /ʌ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-028c.wav"
+        },
+        {
+          "id": "u20-p130-s205",
+          "speaker": "narrator",
+          "text": "/ɑː/",
+          "rects": [
+            {
+              "x": 58.339,
+              "y": 13.5973,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ɑː/",
+          "meaning": "音标 /ɑː/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0251-02d0.wav"
+        },
+        {
+          "id": "u20-p130-s206",
+          "speaker": "narrator",
+          "text": "/ɒ/",
+          "rects": [
+            {
+              "x": 64.686,
+              "y": 13.5973,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ɒ/",
+          "meaning": "音标 /ɒ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0252.wav"
+        },
+        {
+          "id": "u20-p130-s207",
+          "speaker": "narrator",
+          "text": "/ɔː/",
+          "rects": [
+            {
+              "x": 71.0331,
+              "y": 13.5973,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ɔː/",
+          "meaning": "音标 /ɔː/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0254-02d0.wav"
+        },
+        {
+          "id": "u20-p130-s208",
+          "speaker": "narrator",
+          "text": "/ʊ/",
+          "rects": [
+            {
+              "x": 77.3801,
+              "y": 13.5973,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ʊ/",
+          "meaning": "音标 /ʊ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-028a.wav"
+        },
+        {
+          "id": "u20-p130-s209",
+          "speaker": "narrator",
+          "text": "/uː/",
+          "rects": [
+            {
+              "x": 83.7272,
+              "y": 13.5973,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/uː/",
+          "meaning": "音标 /uː/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0075-02d0.wav"
+        },
+        {
+          "id": "u20-p130-s210",
+          "speaker": "narrator",
+          "text": "/ə/",
+          "rects": [
+            {
+              "x": 26.6036,
+              "y": 16.6985,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ə/",
+          "meaning": "音标 /ə/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0259.wav"
+        },
+        {
+          "id": "u20-p130-s211",
+          "speaker": "narrator",
+          "text": "/ɜː/",
+          "rects": [
+            {
+              "x": 32.9507,
+              "y": 16.6985,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ɜː/",
+          "meaning": "音标 /ɜː/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-025c-02d0.wav"
+        },
+        {
+          "id": "u20-p130-s212",
+          "speaker": "narrator",
+          "text": "/eɪ/",
+          "rects": [
+            {
+              "x": 39.2978,
+              "y": 16.6985,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/eɪ/",
+          "meaning": "音标 /eɪ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0065-026a.wav"
+        },
+        {
+          "id": "u20-p130-s213",
+          "speaker": "narrator",
+          "text": "/aɪ/",
+          "rects": [
+            {
+              "x": 45.6448,
+              "y": 16.6985,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/aɪ/",
+          "meaning": "音标 /aɪ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0061-026a.wav"
+        },
+        {
+          "id": "u20-p130-s214",
+          "speaker": "narrator",
+          "text": "/ɔɪ/",
+          "rects": [
+            {
+              "x": 51.9919,
+              "y": 16.6985,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ɔɪ/",
+          "meaning": "音标 /ɔɪ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0254-026a.wav"
+        },
+        {
+          "id": "u20-p130-s215",
+          "speaker": "narrator",
+          "text": "/əʊ/",
+          "rects": [
+            {
+              "x": 58.339,
+              "y": 16.6985,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/əʊ/",
+          "meaning": "音标 /əʊ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0259-028a.wav"
+        },
+        {
+          "id": "u20-p130-s216",
+          "speaker": "narrator",
+          "text": "/aʊ/",
+          "rects": [
+            {
+              "x": 64.686,
+              "y": 16.6985,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/aʊ/",
+          "meaning": "音标 /aʊ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0061-028a.wav"
+        },
+        {
+          "id": "u20-p130-s217",
+          "speaker": "narrator",
+          "text": "/ɪə/",
+          "rects": [
+            {
+              "x": 71.0331,
+              "y": 16.6985,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ɪə/",
+          "meaning": "音标 /ɪə/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-026a-0259.wav"
+        },
+        {
+          "id": "u20-p130-s218",
+          "speaker": "narrator",
+          "text": "/eə/",
+          "rects": [
+            {
+              "x": 77.3801,
+              "y": 16.6985,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/eə/",
+          "meaning": "音标 /eə/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0065-0259.wav"
+        },
+        {
+          "id": "u20-p130-s219",
+          "speaker": "narrator",
+          "text": "/ʊə/",
+          "rects": [
+            {
+              "x": 83.7272,
+              "y": 16.6985,
+              "w": 4.8616,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ʊə/",
+          "meaning": "音标 /ʊə/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-028a-0259.wav"
+        },
+        {
+          "id": "u20-p130-s220",
+          "speaker": "narrator",
+          "text": "/p/",
+          "rects": [
+            {
+              "x": 26.3336,
+              "y": 19.7996,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/p/",
+          "meaning": "音标 /p/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0070.wav"
+        },
+        {
+          "id": "u20-p130-s221",
+          "speaker": "narrator",
+          "text": "/b/",
+          "rects": [
+            {
+              "x": 36.3943,
+              "y": 19.7996,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/b/",
+          "meaning": "音标 /b/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0062.wav"
+        },
+        {
+          "id": "u20-p130-s222",
+          "speaker": "narrator",
+          "text": "/t/",
+          "rects": [
+            {
+              "x": 46.4551,
+              "y": 19.7996,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/t/",
+          "meaning": "音标 /t/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0074.wav"
+        },
+        {
+          "id": "u20-p130-s223",
+          "speaker": "narrator",
+          "text": "/d/",
+          "rects": [
+            {
+              "x": 56.5159,
+              "y": 19.7996,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/d/",
+          "meaning": "音标 /d/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0064.wav"
+        },
+        {
+          "id": "u20-p130-s224",
+          "speaker": "narrator",
+          "text": "/k/",
+          "rects": [
+            {
+              "x": 66.5766,
+              "y": 19.7996,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/k/",
+          "meaning": "音标 /k/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-006b.wav"
+        },
+        {
+          "id": "u20-p130-s225",
+          "speaker": "narrator",
+          "text": "/g/",
+          "rects": [
+            {
+              "x": 76.6374,
+              "y": 19.7996,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/g/",
+          "meaning": "音标 /g/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0067.wav"
+        },
+        {
+          "id": "u20-p130-s226",
+          "speaker": "narrator",
+          "text": "/tʃ/",
+          "rects": [
+            {
+              "x": 86.6982,
+              "y": 19.7996,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/tʃ/",
+          "meaning": "音标 /tʃ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0074-0283.wav"
+        },
+        {
+          "id": "u20-p130-s227",
+          "speaker": "narrator",
+          "text": "/dʒ/",
+          "rects": [
+            {
+              "x": 26.3336,
+              "y": 22.9485,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/dʒ/",
+          "meaning": "音标 /dʒ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0064-0292.wav"
+        },
+        {
+          "id": "u20-p130-s228",
+          "speaker": "narrator",
+          "text": "/tr/",
+          "rects": [
+            {
+              "x": 36.3943,
+              "y": 22.9485,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/tr/",
+          "meaning": "音标 /tr/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0074-0072.wav"
+        },
+        {
+          "id": "u20-p130-s229",
+          "speaker": "narrator",
+          "text": "/dr/",
+          "rects": [
+            {
+              "x": 46.4551,
+              "y": 22.9485,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/dr/",
+          "meaning": "音标 /dr/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0064-0072.wav"
+        },
+        {
+          "id": "u20-p130-s230",
+          "speaker": "narrator",
+          "text": "/ts/",
+          "rects": [
+            {
+              "x": 56.5159,
+              "y": 22.9485,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ts/",
+          "meaning": "音标 /ts/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0074-0073.wav"
+        },
+        {
+          "id": "u20-p130-s231",
+          "speaker": "narrator",
+          "text": "/dz/",
+          "rects": [
+            {
+              "x": 66.5766,
+              "y": 22.9485,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/dz/",
+          "meaning": "音标 /dz/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0064-007a.wav"
+        },
+        {
+          "id": "u20-p130-s232",
+          "speaker": "narrator",
+          "text": "/f/",
+          "rects": [
+            {
+              "x": 76.6374,
+              "y": 22.9485,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/f/",
+          "meaning": "音标 /f/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0066.wav"
+        },
+        {
+          "id": "u20-p130-s233",
+          "speaker": "narrator",
+          "text": "/v/",
+          "rects": [
+            {
+              "x": 86.6982,
+              "y": 22.9485,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/v/",
+          "meaning": "音标 /v/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0076.wav"
+        },
+        {
+          "id": "u20-p130-s234",
+          "speaker": "narrator",
+          "text": "/θ/",
+          "rects": [
+            {
+              "x": 26.3336,
+              "y": 26.0973,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/θ/",
+          "meaning": "音标 /θ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-03b8.wav"
+        },
+        {
+          "id": "u20-p130-s235",
+          "speaker": "narrator",
+          "text": "/ð/",
+          "rects": [
+            {
+              "x": 36.3943,
+              "y": 26.0973,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ð/",
+          "meaning": "音标 /ð/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-00f0.wav"
+        },
+        {
+          "id": "u20-p130-s236",
+          "speaker": "narrator",
+          "text": "/s/",
+          "rects": [
+            {
+              "x": 46.4551,
+              "y": 26.0973,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/s/",
+          "meaning": "音标 /s/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0073.wav"
+        },
+        {
+          "id": "u20-p130-s237",
+          "speaker": "narrator",
+          "text": "/z/",
+          "rects": [
+            {
+              "x": 56.5159,
+              "y": 26.0973,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/z/",
+          "meaning": "音标 /z/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-007a.wav"
+        },
+        {
+          "id": "u20-p130-s238",
+          "speaker": "narrator",
+          "text": "/ʃ/",
+          "rects": [
+            {
+              "x": 66.5766,
+              "y": 26.0973,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ʃ/",
+          "meaning": "音标 /ʃ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0283.wav"
+        },
+        {
+          "id": "u20-p130-s239",
+          "speaker": "narrator",
+          "text": "/ʒ/",
+          "rects": [
+            {
+              "x": 76.6374,
+              "y": 26.0973,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ʒ/",
+          "meaning": "音标 /ʒ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0292.wav"
+        },
+        {
+          "id": "u20-p130-s240",
+          "speaker": "narrator",
+          "text": "/h/",
+          "rects": [
+            {
+              "x": 86.6982,
+              "y": 26.0973,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/h/",
+          "meaning": "音标 /h/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0068.wav"
+        },
+        {
+          "id": "u20-p130-s241",
+          "speaker": "narrator",
+          "text": "/m/",
+          "rects": [
+            {
+              "x": 26.3336,
+              "y": 29.2462,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/m/",
+          "meaning": "音标 /m/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-006d.wav"
+        },
+        {
+          "id": "u20-p130-s242",
+          "speaker": "narrator",
+          "text": "/n/",
+          "rects": [
+            {
+              "x": 36.3943,
+              "y": 29.2462,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/n/",
+          "meaning": "音标 /n/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-006e.wav"
+        },
+        {
+          "id": "u20-p130-s243",
+          "speaker": "narrator",
+          "text": "/ŋ/",
+          "rects": [
+            {
+              "x": 46.4551,
+              "y": 29.2462,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/ŋ/",
+          "meaning": "音标 /ŋ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-014b.wav"
+        },
+        {
+          "id": "u20-p130-s244",
+          "speaker": "narrator",
+          "text": "/l/",
+          "rects": [
+            {
+              "x": 56.5159,
+              "y": 29.2462,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/l/",
+          "meaning": "音标 /l/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-006c.wav"
+        },
+        {
+          "id": "u20-p130-s245",
+          "speaker": "narrator",
+          "text": "/r/",
+          "rects": [
+            {
+              "x": 66.5766,
+              "y": 29.2462,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/r/",
+          "meaning": "音标 /r/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0072.wav"
+        },
+        {
+          "id": "u20-p130-s246",
+          "speaker": "narrator",
+          "text": "/j/",
+          "rects": [
+            {
+              "x": 76.6374,
+              "y": 29.2462,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/j/",
+          "meaning": "音标 /j/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-006a.wav"
+        },
+        {
+          "id": "u20-p130-s247",
+          "speaker": "narrator",
+          "text": "/w/",
+          "rects": [
+            {
+              "x": 86.6982,
+              "y": 29.2462,
+              "w": 5.1317,
+              "h": 2.4809
+            }
+          ],
+          "ipa": "/w/",
+          "meaning": "音标 /w/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0077.wav"
+        },
+        {
+          "id": "u20-p130-s248",
+          "speaker": "narrator",
+          "text": "/ɪ/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 37.3569,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/ɪ/",
+          "meaning": "音标 /ɪ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-026a.wav"
+        },
+        {
+          "id": "u20-p130-s249",
+          "speaker": "narrator",
+          "text": "/iː/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 40.0,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/iː/",
+          "meaning": "音标 /iː/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0069-02d0.wav"
+        },
+        {
+          "id": "u20-p130-s250",
+          "speaker": "narrator",
+          "text": "/e/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 42.6431,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/e/",
+          "meaning": "音标 /e/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0065.wav"
+        },
+        {
+          "id": "u20-p130-s251",
+          "speaker": "narrator",
+          "text": "/æ/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 45.2863,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/æ/",
+          "meaning": "音标 /æ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-00e6.wav"
+        },
+        {
+          "id": "u20-p130-s252",
+          "speaker": "narrator",
+          "text": "/ʌ/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 47.9294,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/ʌ/",
+          "meaning": "音标 /ʌ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-028c.wav"
+        },
+        {
+          "id": "u20-p130-s253",
+          "speaker": "narrator",
+          "text": "/ɑː/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 50.5725,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/ɑː/",
+          "meaning": "音标 /ɑː/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0251-02d0.wav"
+        },
+        {
+          "id": "u20-p130-s254",
+          "speaker": "narrator",
+          "text": "/ɒ/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 53.2156,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/ɒ/",
+          "meaning": "音标 /ɒ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0252.wav"
+        },
+        {
+          "id": "u20-p130-s255",
+          "speaker": "narrator",
+          "text": "/ɔː/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 55.8588,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/ɔː/",
+          "meaning": "音标 /ɔː/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0254-02d0.wav"
+        },
+        {
+          "id": "u20-p130-s256",
+          "speaker": "narrator",
+          "text": "/ʊ/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 61.145,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/ʊ/",
+          "meaning": "音标 /ʊ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-028a.wav"
+        },
+        {
+          "id": "u20-p130-s257",
+          "speaker": "narrator",
+          "text": "/uː/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 63.7882,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/uː/",
+          "meaning": "音标 /uː/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0075-02d0.wav"
+        },
+        {
+          "id": "u20-p130-s258",
+          "speaker": "narrator",
+          "text": "/ə/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 66.4313,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/ə/",
+          "meaning": "音标 /ə/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0259.wav"
+        },
+        {
+          "id": "u20-p130-s259",
+          "speaker": "narrator",
+          "text": "/ɜː/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 69.0744,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/ɜː/",
+          "meaning": "音标 /ɜː/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-025c-02d0.wav"
+        },
+        {
+          "id": "u20-p130-s260",
+          "speaker": "narrator",
+          "text": "/eɪ/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 71.7176,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/eɪ/",
+          "meaning": "音标 /eɪ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0065-026a.wav"
+        },
+        {
+          "id": "u20-p130-s261",
+          "speaker": "narrator",
+          "text": "/aɪ/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 74.3607,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/aɪ/",
+          "meaning": "音标 /aɪ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0061-026a.wav"
+        },
+        {
+          "id": "u20-p130-s262",
+          "speaker": "narrator",
+          "text": "/ɔɪ/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 77.0038,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/ɔɪ/",
+          "meaning": "音标 /ɔɪ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0254-026a.wav"
+        },
+        {
+          "id": "u20-p130-s263",
+          "speaker": "narrator",
+          "text": "/əʊ/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 79.6469,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/əʊ/",
+          "meaning": "音标 /əʊ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0259-028a.wav"
+        },
+        {
+          "id": "u20-p130-s264",
+          "speaker": "narrator",
+          "text": "/aʊ/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 82.2901,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/aʊ/",
+          "meaning": "音标 /aʊ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0061-028a.wav"
+        },
+        {
+          "id": "u20-p130-s265",
+          "speaker": "narrator",
+          "text": "/ɪə/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 84.9332,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/ɪə/",
+          "meaning": "音标 /ɪə/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-026a-0259.wav"
+        },
+        {
+          "id": "u20-p130-s266",
+          "speaker": "narrator",
+          "text": "/eə/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 87.5763,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/eə/",
+          "meaning": "音标 /eə/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0065-0259.wav"
+        },
+        {
+          "id": "u20-p130-s267",
+          "speaker": "narrator",
+          "text": "/ʊə/",
+          "rects": [
+            {
+              "x": 9.3856,
+              "y": 90.2195,
+              "w": 5.0641,
+              "h": 2.0992
+            }
+          ],
+          "ipa": "/ʊə/",
+          "meaning": "音标 /ʊə/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-028a-0259.wav"
         }
       ]
     },
@@ -2707,6 +3863,482 @@
           "meaning": "什么",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u20/u20-p131-s057.wav"
+        },
+        {
+          "id": "u20-p131-s200",
+          "speaker": "narrator",
+          "text": "/p/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 10.9733,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/p/",
+          "meaning": "音标 /p/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0070.wav"
+        },
+        {
+          "id": "u20-p131-s201",
+          "speaker": "narrator",
+          "text": "/b/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 13.6164,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/b/",
+          "meaning": "音标 /b/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0062.wav"
+        },
+        {
+          "id": "u20-p131-s202",
+          "speaker": "narrator",
+          "text": "/t/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 16.2595,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/t/",
+          "meaning": "音标 /t/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0074.wav"
+        },
+        {
+          "id": "u20-p131-s203",
+          "speaker": "narrator",
+          "text": "/d/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 18.9027,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/d/",
+          "meaning": "音标 /d/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0064.wav"
+        },
+        {
+          "id": "u20-p131-s204",
+          "speaker": "narrator",
+          "text": "/k/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 21.5458,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/k/",
+          "meaning": "音标 /k/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-006b.wav"
+        },
+        {
+          "id": "u20-p131-s205",
+          "speaker": "narrator",
+          "text": "/g/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 24.1889,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/g/",
+          "meaning": "音标 /g/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0067.wav"
+        },
+        {
+          "id": "u20-p131-s206",
+          "speaker": "narrator",
+          "text": "/tʃ/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 26.8321,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/tʃ/",
+          "meaning": "音标 /tʃ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0074-0283.wav"
+        },
+        {
+          "id": "u20-p131-s207",
+          "speaker": "narrator",
+          "text": "/dʒ/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 29.4752,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/dʒ/",
+          "meaning": "音标 /dʒ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0064-0292.wav"
+        },
+        {
+          "id": "u20-p131-s208",
+          "speaker": "narrator",
+          "text": "/tr/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 32.1183,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/tr/",
+          "meaning": "音标 /tr/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0074-0072.wav"
+        },
+        {
+          "id": "u20-p131-s209",
+          "speaker": "narrator",
+          "text": "/dr/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 34.7615,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/dr/",
+          "meaning": "音标 /dr/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0064-0072.wav"
+        },
+        {
+          "id": "u20-p131-s210",
+          "speaker": "narrator",
+          "text": "/ts/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 37.4046,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/ts/",
+          "meaning": "音标 /ts/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0074-0073.wav"
+        },
+        {
+          "id": "u20-p131-s211",
+          "speaker": "narrator",
+          "text": "/dz/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 40.0477,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/dz/",
+          "meaning": "音标 /dz/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0064-007a.wav"
+        },
+        {
+          "id": "u20-p131-s212",
+          "speaker": "narrator",
+          "text": "/f/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 42.6908,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/f/",
+          "meaning": "音标 /f/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0066.wav"
+        },
+        {
+          "id": "u20-p131-s213",
+          "speaker": "narrator",
+          "text": "/v/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 45.334,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/v/",
+          "meaning": "音标 /v/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0076.wav"
+        },
+        {
+          "id": "u20-p131-s214",
+          "speaker": "narrator",
+          "text": "/θ/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 47.9771,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/θ/",
+          "meaning": "音标 /θ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-03b8.wav"
+        },
+        {
+          "id": "u20-p131-s215",
+          "speaker": "narrator",
+          "text": "/ð/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 50.6202,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/ð/",
+          "meaning": "音标 /ð/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-00f0.wav"
+        },
+        {
+          "id": "u20-p131-s216",
+          "speaker": "narrator",
+          "text": "/s/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 53.2634,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/s/",
+          "meaning": "音标 /s/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0073.wav"
+        },
+        {
+          "id": "u20-p131-s217",
+          "speaker": "narrator",
+          "text": "/z/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 55.9065,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/z/",
+          "meaning": "音标 /z/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-007a.wav"
+        },
+        {
+          "id": "u20-p131-s218",
+          "speaker": "narrator",
+          "text": "/ʃ/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 58.5496,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/ʃ/",
+          "meaning": "音标 /ʃ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0283.wav"
+        },
+        {
+          "id": "u20-p131-s219",
+          "speaker": "narrator",
+          "text": "/ʒ/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 61.1927,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/ʒ/",
+          "meaning": "音标 /ʒ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0292.wav"
+        },
+        {
+          "id": "u20-p131-s220",
+          "speaker": "narrator",
+          "text": "/h/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 63.8359,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/h/",
+          "meaning": "音标 /h/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0068.wav"
+        },
+        {
+          "id": "u20-p131-s221",
+          "speaker": "narrator",
+          "text": "/m/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 66.479,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/m/",
+          "meaning": "音标 /m/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-006d.wav"
+        },
+        {
+          "id": "u20-p131-s222",
+          "speaker": "narrator",
+          "text": "/n/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 69.1221,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/n/",
+          "meaning": "音标 /n/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-006e.wav"
+        },
+        {
+          "id": "u20-p131-s223",
+          "speaker": "narrator",
+          "text": "/ŋ/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 71.7653,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/ŋ/",
+          "meaning": "音标 /ŋ/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-014b.wav"
+        },
+        {
+          "id": "u20-p131-s224",
+          "speaker": "narrator",
+          "text": "/l/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 74.4084,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/l/",
+          "meaning": "音标 /l/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-006c.wav"
+        },
+        {
+          "id": "u20-p131-s225",
+          "speaker": "narrator",
+          "text": "/r/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 77.0515,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/r/",
+          "meaning": "音标 /r/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0072.wav"
+        },
+        {
+          "id": "u20-p131-s226",
+          "speaker": "narrator",
+          "text": "/j/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 79.6947,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/j/",
+          "meaning": "音标 /j/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-006a.wav"
+        },
+        {
+          "id": "u20-p131-s227",
+          "speaker": "narrator",
+          "text": "/w/",
+          "rects": [
+            {
+              "x": 7.8325,
+              "y": 82.3378,
+              "w": 5.6718,
+              "h": 2.0515
+            }
+          ],
+          "ipa": "/w/",
+          "meaning": "音标 /w/：点击听这个音",
+          "voice": "美式女声 · SLT · 单独音标",
+          "audio": "assets/audio/phonemes/ipa-0077.wav"
         }
       ]
     }

@@ -4,7 +4,11 @@ import csv
 import json
 import pathlib
 import re
+import sys
 import wave
+
+sys.dont_write_bytecode = True
+from repair_phonetics import PHONES, printed_positions, symbol_path
 
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -157,13 +161,43 @@ for page, suffix, text, x, y in [
 # the class of truncated recordings which previously passed the existence test.
 for number, items in page_items.items():
     for item in items:
-        words = re.findall(r"[A-Za-z]+(?:'[A-Za-z]+)?", item["text"])
+        # IPA labels are sounds, not English words: /b/, /p/ can be under a
+        # second each without the sentence recording being truncated.
+        prose = re.sub(r"/[^/\s]+/", "", item["text"])
+        words = re.findall(r"[A-Za-z]+(?:'[A-Za-z]+)?", prose)
         if len(words) < 3 or not item.get("audio") or not (ROOT / item["audio"]).is_file():
             continue
         with wave.open(str(ROOT / item["audio"])) as sound:
             duration = sound.getnframes() / sound.getframerate()
         check(len(words) / duration <= 4.8,
               f"Page {number}: recording too short for {item['text']!r} ({duration:.2f}s)")
+
+# Each printed pronunciation symbol must be clickable in its actual location,
+# speak the matching sound, and highlight only that one printed position.
+positions = printed_positions()
+check(sum(len(entries) for entries in positions.values()) == 221, "Phonetic spot count changed")
+for number, entries in positions.items():
+    for symbol, x, y, w, h in entries:
+        cx, cy = (x + w / 2) / 1481 * 100, (y + h / 2) / 2096 * 100
+        check(any(item["text"] == f"/{symbol}/" and item["audio"] == symbol_path(symbol)
+                  and len(item["rects"]) == 1 and any(
+                      box["x"] <= cx <= box["x"] + box["w"]
+                      and box["y"] <= cy <= box["y"] + box["h"]
+                      for box in item["rects"])
+                  for item in page_items[number]),
+              f"Page {number}: missing /{symbol}/ at printed position ({x}, {y})")
+for number in range(149, 164):
+    check(not any(item["id"].endswith(tuple(f"s{i:03}" for i in range(200, 300)))
+                  and item["voice"].endswith("单独音标") for item in page_items[number]),
+          f"Page {number}: wordlist sound accidentally split from its word")
+for symbol in PHONES:
+    check((ROOT / symbol_path(symbol)).is_file(), f"Missing phonetic sound /{symbol}/")
+for unit in manifest["units"]:
+    for page in json.loads((ROOT / f"data/unit-{unit['id']}.json").read_text())["pages"]:
+        for item in page["sentences"]:
+            if item["voice"].endswith("音标已校正"):
+                check(not re.search(r"ˈ(?:dʌbəljuː|viː|biː|keɪ|ef|piː)(?=$|[\s,./])", item["ipa"]),
+                      f"{item['id']}: letter name still displayed instead of sound")
 
 if errors:
     raise SystemExit("\n".join(errors[:60]) + f"\nTotal errors: {len(errors)}")
