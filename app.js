@@ -16,7 +16,7 @@ const replayAudio = document.getElementById("replayAudio");
 const unitTitle = document.getElementById("unitTitle");
 const pageTitle = document.getElementById("pageTitle");
 const toast = document.getElementById("toast");
-const contentRevision = "20260927-full-audio-v2";
+const contentRevision = "20260927-cloze-and-roles-v1";
 
 const speakerPalette = [
   ["#75419a", "#f5eef9"], ["#d56843", "#fdf0eb"], ["#2878b5", "#eaf4fb"],
@@ -31,6 +31,9 @@ const speakerProfiles = {
   "mr wu": ["吴老师", "师", "英式男声 · George"], class: ["全班同学", "班", "英式女声 · Lily"],
   "ms li": ["李老师", "师", "英式女声 · Isabella"], "ms lin": ["林老师", "师", "英式女声 · Alice"],
   mum: ["妈妈", "妈", "英式女声 · Emma"], grandpa: ["爷爷", "爷", "英式男声 · George"],
+  "sandy & simon": ["Sandy 和 Simon", "同", "本地合成 · 英语女声 SLT（美式）"],
+  a: ["A", "A", "本地合成 · 英语女声 SLT（美式）"],
+  b: ["B", "B", "本地合成 · 英语男声 Kal（美式）"],
   grandma: ["奶奶", "奶", "英式女声 · Emma"], andy: ["Andy", "A", "英式男声 · Fable"],
   robin: ["Robin", "R", "英式男声 · Daniel"], shirley: ["Shirley", "S", "英式女声 · Isabella"],
   dad: ["爸爸", "爸", "英式男声 · George"], emily: ["Emily", "E", "英式女声 · Alice"],

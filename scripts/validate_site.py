@@ -95,6 +95,27 @@ for number, discarded in {150: {"vent"}, 163: {"vi", "en", "k", "ns", "t/"}}.ite
         check(item["text"].casefold() not in discarded,
               f"Page {number}: OCR fragment is still a learning item: {item['text']}")
 
+# Cloze exercises can print one sentence across several rows and blanks. All
+# printed fragments must select the same card, including the speaker identity.
+for page, suffix, expected, speaker, minimum_regions in [
+    (12, "s037", "Mr Wu … my favourite teacher!", "simon", 1),
+    (22, "s022", "He often visits science … .", "millie", 1),
+    (35, "s030", "… all have lunch there.", "simon", 2),
+    (62, "s048", "Let’s get some …, some … and some … .", "simon", 3),
+    (98, "s051", "My dad … (shop) in the supermarket, and my mum … (clean) the flat.", "sandy", 3),
+    (106, "s043", "David and I … both good basketball players.", "simon", 3),
+    (115, "s041", "But the field trip … (seldom/sometimes) takes place … early May.", "david", 3),
+    (116, "s014", "I’m excited about our school trip this term!", "a", 1),
+    (119, "s009", "Do you like sweet foods?", "a", 1),
+    (124, "s056", "I don’t need … pencils or rulers, but I want to buy some books.", "sarah", 3),
+    (127, "s052", "My mum … (clean) the house for our party tonight.", "emily", 3),
+]:
+    matching = [item for item in page_items[page] if item["id"].endswith(suffix)]
+    check(len(matching) == 1 and matching[0]["text"] == expected
+          and matching[0]["speaker"] == speaker
+          and len(matching[0]["rects"]) >= minimum_regions,
+          f"Page {page}: incomplete cloze card or incorrect dialogue role {suffix}")
+
 # Long sentences cannot be fully read in a fraction of a second. This catches
 # the class of truncated recordings which previously passed the existence test.
 for number, items in page_items.items():
