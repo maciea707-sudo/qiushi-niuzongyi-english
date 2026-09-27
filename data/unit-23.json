@@ -774,7 +774,7 @@
             }
           ],
           "ipa": "/ˈlʊks/",
-          "meaning": "看起来",
+          "meaning": "相貌；容貌（复数名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u01/u01-p010-s016.wav"
         },
@@ -961,7 +961,7 @@
             }
           ],
           "ipa": "/steɪ/",
-          "meaning": "留/steò/linking v。",
+          "meaning": "留下；逗留",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u21/u21-p132-s043.wav"
         },
@@ -1097,7 +1097,7 @@
             }
           ],
           "ipa": "/iːtʃ/",
-          "meaning": "每个/i〇t〇/det。，pron。",
+          "meaning": "每个；各个",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p149-s063.wav"
         },
@@ -1147,8 +1147,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˌtʃaɪˈniːz ˈtʃes ˈen/",
-          "meaning": "中国象棋n。",
+          "ipa": "/ˌtʃaɪˈniːz ˈtʃes/",
+          "meaning": "中国象棋",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u21/u21-p132-s050.wav"
         },
@@ -1259,7 +1259,7 @@
             }
           ],
           "ipa": "/saʊnd/",
-          "meaning": "音/saīnd/linking v．",
+          "meaning": "听起来好像",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p150-s009.wav"
         },
@@ -1445,8 +1445,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈrəʊl ˈmɒdəl ˈen/",
-          "meaning": "角色模型n。",
+          "ipa": "/ˈrəʊl ˈmɒdəl/",
+          "meaning": "榜样；行为榜样",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u21/u21-p134-s039.wav"
         },
@@ -1514,7 +1514,7 @@
             }
           ],
           "ipa": "/mɔː(r)/",
-          "meaning": "更多/mɔː(r)/det。",
+          "meaning": "更多的；更多",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u20/u20-p130-s085.wav"
         },
@@ -1616,7 +1616,7 @@
             }
           ],
           "ipa": "/bɪˈkʌm/",
-          "meaning": "成为/b〇k〇m/链接v。",
+          "meaning": "成为；变得",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p150-s032.wav"
         },
@@ -1684,7 +1684,7 @@
             }
           ],
           "ipa": "/wʊd/",
-          "meaning": "将/w〇d/模态v。",
+          "meaning": "想（表示意愿）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u20/u20-p130-s096.wav"
         },
@@ -1735,7 +1735,7 @@
             }
           ],
           "ipa": "/fɔːm/",
-          "meaning": "*表格/f〇m/教师n。",
+          "meaning": "班级（form teacher：班主任）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p150-s039.wav"
         },
@@ -1990,7 +1990,7 @@
             }
           ],
           "ipa": "/dʒɪmˈneɪziəm/",
-          "meaning": "体育馆/déméneéziém/)",
+          "meaning": "体育馆",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p150-s083.wav"
         },
@@ -2125,8 +2125,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈspɔːts ˈfiːld ˈen/",
-          "meaning": "运动场n。",
+          "ipa": "/ˈspɔːts ˈfiːld/",
+          "meaning": "运动场",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u03/u03-p031-s020.wav"
         },
@@ -2176,8 +2176,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈvent ˈen/",
-          "meaning": "通风口/n。",
+          "ipa": "/ˈvent/",
+          "meaning": "通风口",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p150-s112.wav"
         },
@@ -2227,8 +2227,8 @@
               "h": 3.0676
             }
           ],
-          "ipa": "/ˈvent ˈen/",
-          "meaning": "通风口/n。",
+          "ipa": "/ˈvent/",
+          "meaning": "通风口",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p150-s113.wav"
         },
@@ -2261,8 +2261,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈdaɪnɪŋ ˈhɔːl ˈen/",
-          "meaning": "餐厅n。",
+          "ipa": "/ˈdaɪnɪŋ ˈhɔːl/",
+          "meaning": "餐厅",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u03/u03-p031-s021.wav"
         },
@@ -2764,7 +2764,7 @@
             }
           ],
           "ipa": "/ˈself ˈprɒn./",
-          "meaning": "自我/pron。",
+          "meaning": "自己",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p151-s091.wav"
         },
@@ -2805,7 +2805,7 @@
         {
           "id": "u23-p151-s095",
           "speaker": "narrator",
-          "text": "empti",
+          "text": "empty",
           "rects": [
             {
               "x": 58.2402,
@@ -2815,7 +2815,7 @@
             }
           ],
           "ipa": "/iː em piː tiː aɪ viː tiː/",
-          "meaning": "empti/vt。",
+          "meaning": "倒空；腾空",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p151-s095.wav"
         },
@@ -3307,8 +3307,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈfiːld ˈtrɪp ˈen/",
-          "meaning": "实地考察n。",
+          "ipa": "/ˈfiːld ˈtrɪp/",
+          "meaning": "实地考察",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u04/u04-p046-s028.wav"
         },
@@ -3980,7 +3980,7 @@
             }
           ],
           "ipa": "/ɪˈnʌf/",
-          "meaning": "够/ˈnəf/det。",
+          "meaning": "足够的；足够",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u21/u21-p136-s050.wav"
         },
@@ -4031,7 +4031,7 @@
             }
           ],
           "ipa": "/les/",
-          "meaning": "少/les/det。",
+          "meaning": "更少的；更少",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p152-s010.wav"
         },
@@ -4065,7 +4065,7 @@
             }
           ],
           "ipa": "/kʊd/",
-          "meaning": "能/k〇d/模态v。",
+          "meaning": "能；可以",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p152-s014.wav"
         },
@@ -4269,7 +4269,7 @@
             }
           ],
           "ipa": "/ˈkɪləɡræm/",
-          "meaning": "柯丝柯/柯丝柯/)",
+          "meaning": "千克",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p152-s084.wav"
         },
@@ -4830,7 +4830,7 @@
             }
           ],
           "ipa": "/ˈjɒɡət/",
-          "meaning": "酸奶/酸奶（名词）",
+          "meaning": "酸奶",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p152-s060.wav"
         },
@@ -4881,7 +4881,7 @@
             }
           ],
           "ipa": "/məʊst/",
-          "meaning": "大多数/mést/det。",
+          "meaning": "大多数；最多",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p152-s063.wav"
         },
@@ -5332,7 +5332,7 @@
             }
           ],
           "ipa": "/fiːl/",
-          "meaning": "感觉/fi〇l/链接v。",
+          "meaning": "感觉；觉得",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p153-s009.wav"
         },
@@ -5875,8 +5875,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈpɒkɪt ˈmʌniː ˈen/",
-          "meaning": "零用钱n。",
+          "ipa": "/ˈpɒkɪt ˈmʌniː/",
+          "meaning": "零花钱",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p153-s042.wav"
         },
@@ -6300,8 +6300,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈlʌkiː ˈmʌniː ˈen/",
-          "meaning": "幸运的钱n。",
+          "ipa": "/ˈlʌkiː ˈmʌniː/",
+          "meaning": "压岁钱",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p153-s070.wav"
         },
@@ -6318,7 +6318,7 @@
             }
           ],
           "ipa": "/ˈɡrænpeərənt/",
-          "meaning": "祖父母/外祖父母（名词）",
+          "meaning": "祖父或祖母；外祖父或外祖母",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p153-s071.wav"
         },
@@ -6453,8 +6453,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈred ˈpækɪt ˈen/",
-          "meaning": "红包n。",
+          "ipa": "/ˈred ˈpækɪt/",
+          "meaning": "红包",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p153-s080.wav"
         }
@@ -6921,8 +6921,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈdrægən ˈbəʊt ˈen/",
-          "meaning": "龙舟n。",
+          "ipa": "/ˈdrægən ˈbəʊt/",
+          "meaning": "龙舟",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p154-s024.wav"
         },
@@ -7023,8 +7023,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈraɪs ˈdʌmplɪŋ ˈen/",
-          "meaning": "水饺。",
+          "ipa": "/ˈraɪs ˈdʌmplɪŋ/",
+          "meaning": "粽子",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p154-s031.wav"
         },
@@ -7551,7 +7551,7 @@
             }
           ],
           "ipa": "/ənˈtɪl/",
-          "meaning": "直到/ˈnətəl/）",
+          "meaning": "直到",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p154-s079.wav"
         },
@@ -8597,7 +8597,7 @@
             }
           ],
           "ipa": "/bɪˈkʌm/",
-          "meaning": "成为/b〇k〇m/链接v。",
+          "meaning": "成为；变得",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p155-s057.wav"
         },
@@ -8698,8 +8698,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˌtʃaɪˈniːz ˈtʃes ˈen/",
-          "meaning": "中国象棋n。",
+          "ipa": "/ˌtʃaɪˈniːz ˈtʃes/",
+          "meaning": "中国象棋",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u21/u21-p132-s050.wav"
         }
@@ -8775,8 +8775,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈdrægən ˈbəʊt ˈen/",
-          "meaning": "龙舟n。",
+          "ipa": "/ˈdrægən ˈbəʊt/",
+          "meaning": "龙舟",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p156-s004.wav"
         },
@@ -8877,8 +8877,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈraɪs ˈdʌmplɪŋ ˈen/",
-          "meaning": "水饺。",
+          "ipa": "/ˈraɪs ˈdʌmplɪŋ/",
+          "meaning": "粽子",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p156-s011.wav"
         },
@@ -9031,7 +9031,7 @@
             }
           ],
           "ipa": "/iːtʃ/",
-          "meaning": "每个/i〇t〇/det。，pron。",
+          "meaning": "每个；各个",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p156-s020.wav"
         },
@@ -9150,7 +9150,7 @@
             }
           ],
           "ipa": "/kʊd/",
-          "meaning": "能/k〇d/模态v。",
+          "meaning": "能；可以",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p156-s028.wav"
         },
@@ -9320,7 +9320,7 @@
             }
           ],
           "ipa": "/ɪˈnʌf/",
-          "meaning": "够/ˈnəf/det。",
+          "meaning": "足够的；足够",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u21/u21-p136-s050.wav"
         },
@@ -9830,7 +9830,7 @@
             }
           ],
           "ipa": "/fiːl/",
-          "meaning": "感觉/fi〇l/链接v。",
+          "meaning": "感觉；觉得",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p156-s066.wav"
         },
@@ -9914,8 +9914,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈspɔːts ˈfiːld ˈen/",
-          "meaning": "运动场n。",
+          "ipa": "/ˈspɔːts ˈfiːld/",
+          "meaning": "运动场",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u03/u03-p031-s020.wav"
         }
@@ -9975,7 +9975,7 @@
             }
           ],
           "ipa": "/fɜːst/",
-          "meaning": "第一/f〇st/det。，ord。",
+          "meaning": "第一；首先",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u04/u04-p049-s039.wav"
         },
@@ -9991,8 +9991,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈdaɪnɪŋ ˈhɔːl ˈen/",
-          "meaning": "餐厅n。",
+          "ipa": "/ˈdaɪnɪŋ ˈhɔːl/",
+          "meaning": "餐厅",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u03/u03-p031-s021.wav"
         },
@@ -10111,7 +10111,7 @@
             }
           ],
           "ipa": "/fɔːm/",
-          "meaning": "*表格/f〇m/教师n。",
+          "meaning": "班级（form teacher：班主任）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p157-s016.wav"
         },
@@ -10621,7 +10621,7 @@
             }
           ],
           "ipa": "/ˈɡrænpeərənt/",
-          "meaning": "祖父母/外祖父母（名词）",
+          "meaning": "祖父或祖母；外祖父或外祖母",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p157-s042.wav"
         },
@@ -10808,7 +10808,7 @@
             }
           ],
           "ipa": "/dʒɪmˈneɪziəm/",
-          "meaning": "体育馆/déméneéziém/)",
+          "meaning": "体育馆",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p157-s076.wav"
         },
@@ -10842,7 +10842,7 @@
             }
           ],
           "ipa": "/ˈkɪləɡræm/",
-          "meaning": "柯丝柯/柯丝柯/)",
+          "meaning": "千克",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p157-s077.wav"
         },
@@ -11105,8 +11105,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈrəʊl ˈmɒdəl ˈen/",
-          "meaning": "角色模型n。",
+          "ipa": "/ˈrəʊl ˈmɒdəl/",
+          "meaning": "榜样；行为榜样",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u21/u21-p134-s039.wav"
         },
@@ -11208,7 +11208,7 @@
             }
           ],
           "ipa": "/mɔː(r)/",
-          "meaning": "更多/mɔː(r)/det。",
+          "meaning": "更多的；更多",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u20/u20-p130-s085.wav"
         },
@@ -11242,7 +11242,7 @@
             }
           ],
           "ipa": "/məʊst/",
-          "meaning": "大多数/mést/det。",
+          "meaning": "大多数；最多",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p158-s025.wav"
         },
@@ -11276,7 +11276,7 @@
             }
           ],
           "ipa": "/les/",
-          "meaning": "少/les/det。",
+          "meaning": "更少的；更少",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p158-s028.wav"
         },
@@ -11480,7 +11480,7 @@
             }
           ],
           "ipa": "/lʊks/",
-          "meaning": "看起来（名词）",
+          "meaning": "相貌；容貌（复数名词）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u01/u01-p010-s016.wav"
         },
@@ -11615,8 +11615,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈlʌkiː ˈmʌniː ˈen/",
-          "meaning": "幸运的钱n。",
+          "ipa": "/ˈlʌkiː ˈmʌniː/",
+          "meaning": "压岁钱",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p158-s049.wav"
         },
@@ -12440,8 +12440,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈred ˈpækɪt ˈen/",
-          "meaning": "红包n。",
+          "ipa": "/ˈred ˈpækɪt/",
+          "meaning": "红包",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p159-s032.wav"
         },
@@ -12627,8 +12627,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈpɒkɪt ˈmʌniː ˈen/",
-          "meaning": "零用钱n。",
+          "ipa": "/ˈpɒkɪt ˈmʌniː/",
+          "meaning": "零花钱",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p159-s044.wav"
         },
@@ -13674,7 +13674,7 @@
             }
           ],
           "ipa": "/saʊnd/",
-          "meaning": "音/saīnd/linking v．",
+          "meaning": "听起来好像",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p160-s032.wav"
         },
@@ -13793,7 +13793,7 @@
             }
           ],
           "ipa": "/ənˈtɪl/",
-          "meaning": "直到/ˈnətəl/）",
+          "meaning": "直到",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p160-s083.wav"
         },
@@ -14014,7 +14014,7 @@
             }
           ],
           "ipa": "/steɪ/",
-          "meaning": "留/steò/linking v。",
+          "meaning": "留下；逗留",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u21/u21-p132-s043.wav"
         },
@@ -14183,8 +14183,8 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈfiːld ˈtrɪp ˈen/",
-          "meaning": "实地考察n。",
+          "ipa": "/ˈfiːld ˈtrɪp/",
+          "meaning": "实地考察",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u04/u04-p046-s028.wav"
         },
@@ -14584,7 +14584,7 @@
             }
           ],
           "ipa": "/wʊd/",
-          "meaning": "将/w〇d/模态v。",
+          "meaning": "想（表示意愿）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u20/u20-p130-s096.wav"
         },
@@ -14737,7 +14737,7 @@
             }
           ],
           "ipa": "/ˈjɒɡət/",
-          "meaning": "酸奶/酸奶（名词）",
+          "meaning": "酸奶",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p161-s018.wav"
         },

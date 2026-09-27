@@ -42,7 +42,7 @@ unit	page	id	speaker	text	rects
 0	4	u00-p004-s012	narrator	(pp.	1
 0	4	u00-p004-s013	narrator	(p.	1
 0	4	u00-p004-s014	narrator	(pp.	1
-0	4	u00-p004-s015	narrator	What do you like to dog	2
+0	4	u00-p004-s015	narrator	What do you like to do?	2
 0	4	u00-p004-s016	narrator	Simple present tense (II)	1
 0	4	u00-p004-s017	narrator	A fan of science	1
 0	4	u00-p004-s018	narrator	Hobbies	1
@@ -76,7 +76,7 @@ unit	page	id	speaker	text	rects
 0	4	u00-p004-s046	narrator	(p.	1
 0	4	u00-p004-s047	narrator	(p.	1
 0	4	u00-p004-s048	narrator	All kinds of food	1
-0	4	u00-p004-s049	narrator	Lifestyle: healthy or notg	2
+0	4	u00-p004-s049	narrator	Lifestyle: healthy or not?	2
 0	4	u00-p004-s050	narrator	Countable and uncountable nouns	2
 0	4	u00-p004-s051	narrator	Colourful life	1
 0	4	u00-p004-s052	narrator	A healthy lifestyle	2
@@ -230,29 +230,29 @@ unit	page	id	speaker	text	rects
 1	7	u01-p007-s021	sandy	Morning.	1
 1	7	u01-p007-s028	sandy	The same goes for “Afternoon/Evening/Night”.	2
 1	7	u01-p007-s039	millie	Millie:	1
-1	7	u01-p007-s022	millie	I’m Millie. What’s your nameg	1
+1	7	u01-p007-s022	millie	I’m Millie. What’s your name?	1
 1	7	u01-p007-s040	sandy	Sandy:	1
 1	7	u01-p007-s023	sandy	My name is Sandy. Nice to meet you!	1
 1	7	u01-p007-s041	millie	Millie:	1
-1	7	u01-p007-s024	millie	Glad to meet you too! Which class are you ing	1
+1	7	u01-p007-s024	millie	Glad to meet you too! Which class are you in?	1
 1	7	u01-p007-s042	sandy	Sandy:	1
-1	7	u01-p007-s025	sandy	I’m in Class 1. And youg	1
+1	7	u01-p007-s025	sandy	I’m in Class 1. And you?	1
 1	7	u01-p007-s043	millie	Millie:	1
-1	7	u01-p007-s026	millie	Wow, we’re in the same class! Do you have any hobbiesg	2
+1	7	u01-p007-s026	millie	Wow, we’re in the same class! Do you have any hobbies?	2
 1	7	u01-p007-s044	sandy	Sandy:	1
-1	7	u01-p007-s029	sandy	Yes, I like playing the piano. What about youg	1
+1	7	u01-p007-s029	sandy	Yes, I like playing the piano. What about you?	1
 1	7	u01-p007-s045	millie	Millie:	1
 1	7	u01-p007-s030	millie	I love reading.	1
 1	7	u01-p007-s032	narrator	Think of a different greeting and share it with your classmates.	2
-1	7	u01-p007-s031	narrator	What other greetings do you knowg	1
+1	7	u01-p007-s031	narrator	What other greetings do you know?	1
 1	8	u01-p008-s035	narrator	Unit 1	1
 1	8	u01-p008-s036	narrator	Reading	1
 1	8	u01-p008-s001	narrator	Welcome to Class 1, Grade 7!	1
 1	8	u01-p008-s002	narrator	Millie is introducing herself and her new classmates at Sunshine Middle School.	1
 1	8	u01-p008-s003	narrator	Let’s meet them.	2
 1	8	u01-p008-s004	narrator	Before reading, think about the questions below.	1
-1	8	u01-p008-s005	narrator	1 What do you want to tell your new classmates about yourselfg	1
-1	8	u01-p008-s006	narrator	2 What do you know about your new classmatesg	1
+1	8	u01-p008-s005	narrator	1 What do you want to tell your new classmates about yourself?	1
+1	8	u01-p008-s006	narrator	2 What do you know about your new classmates?	1
 1	8	u01-p008-s034	narrator	Welcome to	1
 1	8	u01-p008-s037	narrator	Class 1, Grade 7	1
 1	8	u01-p008-s007	millie	Hi! I'm Millie, a new student at Sunshine Middle School.	3
@@ -360,8 +360,8 @@ unit	page	id	speaker	text	rects
 1	11	u01-p011-s008	narrator	Sandy is a tall girl.	1
 1	11	u01-p011-s010	narrator	Simon is tall too.	1
 1	11	u01-p011-s012	narrator	We are friends now.	1
-1	11	u01-p011-s014	narrator	Are you happy at your new schoolg	1
-1	11	u01-p011-s013	narrator	How about youg	1
+1	11	u01-p011-s014	narrator	Are you happy at your new school?	1
+1	11	u01-p011-s013	narrator	How about you?	1
 1	11	u01-p011-s015	narrator	We use the simple present tense to talk about facts and states.	1
 1	11	u01-p011-s033	narrator	We use (am, are, is) with I.	1
 1	11	u01-p011-s034	narrator	We use (am, are, is) with you, we and they.	1
@@ -397,7 +397,7 @@ unit	page	id	speaker	text	rects
 1	11	u01-p011-s058	narrator	is not = isn’t	1
 1	11	u01-p011-s059	narrator	Are	1
 1	11	u01-p011-s060	narrator	you/we/they	1
-1	11	u01-p011-s018	narrator	happyg	1
+1	11	u01-p011-s018	narrator	happy?	1
 1	11	u01-p011-s061	narrator	Is	1
 1	11	u01-p011-s062	narrator	he/she/it	1
 1	11	u01-p011-s066	narrator	am.	1
@@ -424,11 +424,11 @@ unit	page	id	speaker	text	rects
 1	12	u01-p012-s014	narrator	They friendly.	1
 1	12	u01-p012-s005	narrator	Hi, Daniel.	1
 1	12	u01-p012-s015	narrator	The girls over there … Kitty and Sandy.	2
-1	12	u01-p012-s016	narrator	you good at footballg	1
+1	12	u01-p012-s016	narrator	you good at football?	1
 1	12	u01-p012-s006	narrator	They both love sport.	1
 1	12	u01-p012-s018	narrator	No, I.	1
 1	12	u01-p012-s007	narrator	Look!	1
-1	12	u01-p012-s019	narrator	he our teacherg	1
+1	12	u01-p012-s019	narrator	he our teacher?	1
 1	12	u01-p012-s020	narrator	Yes, he.	1
 1	12	u01-p012-s021	narrator	He … our English teacher.	2
 1	12	u01-p012-s023	narrator	This our classroom.	1
@@ -438,7 +438,7 @@ unit	page	id	speaker	text	rects
 1	12	u01-p012-s027	millie	Millie:	1
 1	12	u01-p012-s028	millie	Hi, Simon.	1
 1	12	u01-p012-s029	millie	Hi, Sandy.	1
-1	12	u01-p012-s030	millie	you happy at our new schoolg	1
+1	12	u01-p012-s030	millie	you happy at our new school?	1
 1	12	u01-p012-s031	narrator	Sandy & Simon:	1
 1	12	u01-p012-s049	millie	Yes, we …	1
 1	12	u01-p012-s033	sandy	It new and clean.	1
@@ -449,13 +449,13 @@ unit	page	id	speaker	text	rects
 1	12	u01-p012-s036	narrator	Simon: The teachers nice too.	1
 1	12	u01-p012-s037	sandy	Mr Wu … my favourite teacher!	2
 1	12	u01-p012-s039	sandy	Sandy:	1
-1	12	u01-p012-s040	sandy	English easy for you, Simong	1
+1	12	u01-p012-s040	sandy	English easy for you, Simon?	1
 1	12	u01-p012-s041	simon	Simon:	1
 1	12	u01-p012-s051	simon	No, it …	1
 1	12	u01-p012-s042	simon	It hard for me, but I like it.	1
 1	12	u01-p012-s043	sandy	Sandy:	1
-1	12	u01-p012-s052	sandy	How about you, Millieg	1
-1	12	u01-p012-s044	sandy	you interested in Englishg	1
+1	12	u01-p012-s052	sandy	How about you, Millie?	1
+1	12	u01-p012-s044	sandy	you interested in English?	1
 1	12	u01-p012-s046	millie	Yes, I.	1
 1	12	u01-p012-s047	millie	I … always happy in English class.	2
 1	12	u01-p012-s045	millie	Millie:	1
@@ -584,7 +584,7 @@ unit	page	id	speaker	text	rects
 1	15	u01-p015-s007	simon	Glad to meet you, Ms Lin.	1
 1	15	u01-p015-s023	ms lin	Ms Lin:	1
 1	15	u01-p015-s008	ms lin	Glad to meet you too, Simon.	1
-1	15	u01-p015-s034	ms lin	You like playing football, rightg	1
+1	15	u01-p015-s034	ms lin	You like playing football, right?	1
 1	15	u01-p015-s024	simon	Simon:	1
 1	15	u01-p015-s009	simon	Yes, I do.	1
 1	15	u01-p015-s036	simon	Sport helps me stay healthy and happy.	2
@@ -630,7 +630,7 @@ unit	page	id	speaker	text	rects
 1	16	u01-p016-s014	narrator	I have many new classmates at school.	1
 1	16	u01-p016-s015	narrator	They are all very nice.	1
 1	16	u01-p016-s016	narrator	I am happy to make friends with them.	1
-1	16	u01-p016-s017	narrator	Do you want to be my friendg	1
+1	16	u01-p016-s017	narrator	Do you want to be my friend?	1
 1	16	u01-p016-s018	narrator	We use a comma (,) to pause or separate things in a sentence.	2
 1	16	u01-p016-s039	narrator	TIP	1
 1	16	u01-p016-s019	narrator	We use a full stop (.)	1
@@ -698,9 +698,9 @@ unit	page	id	speaker	text	rects
 2	18	u02-p018-s004	narrator	Let’s share our favourite hobbies with classmates.	1
 2	19	u02-p019-s016	narrator	Unit 2	1
 2	19	u02-p019-s017	narrator	Welcome to the unit	1
-2	19	u02-p019-s001	narrator	What do you like to dog	1
+2	19	u02-p019-s001	narrator	What do you like to do?	1
 2	19	u02-p019-s003	narrator	Complete their answers with the words in the box.	2
-2	19	u02-p019-s002	narrator	A What do the Class 1, Grade 7 students like to dog	1
+2	19	u02-p019-s002	narrator	A What do the Class 1, Grade 7 students like to do?	1
 2	19	u02-p019-s018	narrator	jogging	1
 2	19	u02-p019-s019	narrator	painting	1
 2	19	u02-p019-s020	narrator	paper-cutting	1
@@ -713,20 +713,20 @@ unit	page	id	speaker	text	rects
 2	19	u02-p019-s004	narrator	B Amy and Millie are talking about their hobbies.	1
 2	19	u02-p019-s006	narrator	Use the conversation below as a model.	1
 2	19	u02-p019-s026	amy	Amy:	1
-2	19	u02-p019-s007	amy	What’s your favourite hobby, Millieg	1
+2	19	u02-p019-s007	amy	What’s your favourite hobby, Millie?	1
 2	19	u02-p019-s027	millie	Millie:	1
 2	19	u02-p019-s008	millie	I love reading.	1
 2	19	u02-p019-s028	amy	Amy:	1
-2	19	u02-p019-s009	amy	What do you like to readg	1
+2	19	u02-p019-s009	amy	What do you like to read?	1
 2	19	u02-p019-s029	millie	Millie:	1
-2	19	u02-p019-s010	millie	I read all kinds of books, and I learn a lot from them. What about youg	2
+2	19	u02-p019-s010	millie	I read all kinds of books, and I learn a lot from them. What about you?	2
 2	19	u02-p019-s030	amy	Amy:	1
 2	19	u02-p019-s011	amy	I like swimming.	1
 2	19	u02-p019-s031	millie	Millie:	1
-2	19	u02-p019-s012	millie	How often do you go swimmingg	1
+2	19	u02-p019-s012	millie	How often do you go swimming?	1
 2	19	u02-p019-s032	amy	Amy:	1
 2	19	u02-p019-s013	amy	I go swimming every week. It helps me keep fit.	1
-2	19	u02-p019-s014	narrator	C What hobbies do your family members or your friends haveg	1
+2	19	u02-p019-s014	narrator	C What hobbies do your family members or your friends have?	1
 2	19	u02-p019-s015	narrator	Give an example.	1
 2	20	u02-p020-s023	narrator	Unit 2	1
 2	20	u02-p020-s024	narrator	Reading	1
@@ -734,9 +734,9 @@ unit	page	id	speaker	text	rects
 2	20	u02-p020-s001	narrator	Mr Wu asked the Class 1, Grade 7 students to write an article about a friend’s hobby.	1
 2	20	u02-p020-s002	narrator	Here is Millie’s article about Daniel.	1
 2	20	u02-p020-s003	narrator	Before reading, think about the questions below.	1
-2	20	u02-p020-s004	narrator	1 Do you like scienceg	1
-2	20	u02-p020-s005	narrator	Why or why notg	1
-2	20	u02-p020-s006	narrator	2 What do you think a fan of science often doesg	1
+2	20	u02-p020-s004	narrator	1 Do you like science?	1
+2	20	u02-p020-s005	narrator	Why or why not?	1
+2	20	u02-p020-s006	narrator	2 What do you think a fan of science often does?	1
 2	20	u02-p020-s026	narrator	Daniel: a fan of science	1
 2	20	u02-p020-s007	narrator	We use an exclamation mark (!)	3
 2	20	u02-p020-s009	narrator	Daniel is one of my new friends.	1
@@ -768,11 +768,11 @@ unit	page	id	speaker	text	rects
 2	21	u02-p021-s024	narrator	Wants to be a	1
 2	21	u02-p021-s015	narrator	His dream	1
 2	21	u02-p021-s002	narrator	B Read the article again and answer the questions below.	1
-2	21	u02-p021-s003	narrator	1 Why does Daniel think science is coolg	1
-2	21	u02-p021-s004	narrator	2 What does Daniel do at science museumsg	1
-2	21	u02-p021-s005	narrator	3 What does Daniel like to do at homeg	1
-2	21	u02-p021-s006	narrator	4 What does Daniel look for on the internetg	1
-2	21	u02-p021-s007	narrator	5 How does the article show Daniel’s love for scienceg	1
+2	21	u02-p021-s003	narrator	1 Why does Daniel think science is cool?	1
+2	21	u02-p021-s004	narrator	2 What does Daniel do at science museums?	1
+2	21	u02-p021-s005	narrator	3 What does Daniel like to do at home?	1
+2	21	u02-p021-s006	narrator	4 What does Daniel look for on the internet?	1
+2	21	u02-p021-s007	narrator	5 How does the article show Daniel’s love for science?	1
 2	22	u02-p022-s016	narrator	Unit 2	1
 2	22	u02-p022-s002	narrator	Complete their conversation with the correct forms of the words and phrases in the box below.	2
 2	22	u02-p022-s001	narrator	C Kitty is asking Millie questions about Daniel.	1
@@ -785,12 +785,12 @@ unit	page	id	speaker	text	rects
 2	22	u02-p022-s041	narrator	scientist	1
 2	22	u02-p022-s042	narrator	take … apart	2
 2	22	u02-p022-s018	kitty	Kitty:	1
-2	22	u02-p022-s004	kitty	Daniel is a big fan of science. He can often answer our questions about science. Why does he like it so muchg	2
+2	22	u02-p022-s004	kitty	Daniel is a big fan of science. He can often answer our questions about science. Why does he like it so much?	2
 2	22	u02-p022-s020	millie	It’s all around us and it … our lives.	2
 2	22	u02-p022-s019	millie	Millie:	1
 2	22	u02-p022-s043	millie	For him, science is cool.	1
 2	22	u02-p022-s021	kitty	Kitty:	1
-2	22	u02-p022-s005	kitty	So, what does he do in his free timeg	1
+2	22	u02-p022-s005	kitty	So, what does he do in his free time?	1
 2	22	u02-p022-s022	narrator	Millie: He often visits science.	1
 2	22	u02-p022-s023	kitty	He also likes to … things.	2
 2	22	u02-p022-s025	narrator	Now he can help … things!	2
@@ -800,20 +800,20 @@ unit	page	id	speaker	text	rects
 2	22	u02-p022-s029	kitty	He often.	1
 2	22	u02-p022-s028	narrator	Millie: He’s also very good with computers.	1
 2	22	u02-p022-s030	kitty	Kitty:	1
-2	22	u02-p022-s008	kitty	What does he use the internet to dog	1
+2	22	u02-p022-s008	kitty	What does he use the internet to do?	1
 2	22	u02-p022-s031	millie	Millie:	1
 2	22	u02-p022-s044	millie	He uses it to find answers to his … questions.	1
 2	22	u02-p022-s032	kitty	Kitty:	1
-2	22	u02-p022-s009	kitty	What does he want to beg	1
+2	22	u02-p022-s009	kitty	What does he want to be?	1
 2	22	u02-p022-s033	millie	Millie:	1
 2	22	u02-p022-s045	millie	He wants to be a …	1
 2	22	u02-p022-s046	kitty	Great! I’m sure his dream can …!	2
 2	22	u02-p022-s034	kitty	Kitty:	1
 2	22	u02-p022-s010	narrator	D Think about the questions below.	1
 2	22	u02-p022-s011	narrator	Share your answers with your classmates.	1
-2	22	u02-p022-s012	narrator	1 How do you find answers to questions about scienceg	1
-2	22	u02-p022-s013	narrator	2 What other ways do you know to learn about scienceg	1
-2	22	u02-p022-s014	narrator	3 Why is it important for us to have hobbiesg	1
+2	22	u02-p022-s012	narrator	1 How do you find answers to questions about science?	1
+2	22	u02-p022-s013	narrator	2 What other ways do you know to learn about science?	1
+2	22	u02-p022-s014	narrator	3 Why is it important for us to have hobbies?	1
 2	23	u02-p023-s016	narrator	Unit 2	1
 2	23	u02-p023-s017	narrator	Grammar	1
 2	23	u02-p023-s018	narrator	Simple present tense (II)	1
@@ -846,7 +846,7 @@ unit	page	id	speaker	text	rects
 2	23	u02-p023-s065	narrator	I/you/we/they	1
 2	23	u02-p023-s060	narrator	I/you/we/they	1
 2	23	u02-p023-s061	narrator	like	1
-2	23	u02-p023-s062	narrator	sportg	1
+2	23	u02-p023-s062	narrator	sport?	1
 2	23	u02-p023-s064	narrator	Yes,	1
 2	23	u02-p023-s067	narrator	does.	1
 2	23	u02-p023-s008	narrator	Does	1
@@ -936,29 +936,29 @@ unit	page	id	speaker	text	rects
 2	24	u02-p024-s018	narrator	Amy	1
 2	24	u02-p024-s050	narrator	Millie	1
 2	24	u02-p024-s020	narrator	Kitty	1
-2	24	u02-p024-s051	narrator	Do Sandy and Kitty enjoy listening to musicg	2
+2	24	u02-p024-s051	narrator	Do Sandy and Kitty enjoy listening to music?	2
 2	24	u02-p024-s006	narrator	Yes, they do.	1
-2	24	u02-p024-s052	narrator	Millie like swimmingg	1
-2	24	u02-p024-s053	narrator	Amy enjoy readingg	1
-2	24	u02-p024-s054	narrator	Kitty like joggingg	1
-2	24	u02-p024-s055	narrator	Simon and Daniel love drawingg	1
+2	24	u02-p024-s052	narrator	Millie like swimming?	1
+2	24	u02-p024-s053	narrator	Amy enjoy reading?	1
+2	24	u02-p024-s054	narrator	Kitty like jogging?	1
+2	24	u02-p024-s055	narrator	Simon and Daniel love drawing?	1
 2	24	u02-p024-s008	narrator	Complete their conversation with the correct forms of the verbs in brackets.	2
 2	24	u02-p024-s007	narrator	C Amy and Sandy are talking about their hobbies.	1
 2	24	u02-p024-s056	amy	Amy:	1
-2	24	u02-p024-s009	amy	Hi, Sandy. What’s your hobbyg	1
+2	24	u02-p024-s009	amy	Hi, Sandy. What’s your hobby?	1
 2	24	u02-p024-s057	sandy	Sandy:	1
 2	24	u02-p024-s076	sandy	I … (like) painting.	1
 2	24	u02-p024-s059	sandy	My aunt … (know) so much about art.	2
 2	24	u02-p024-s058	sandy	I often paint at my aunt’s house.	1
 2	24	u02-p024-s061	sandy	She … (help) me a lot.	2
-2	24	u02-p024-s064	sandy	you (like) artg	1
-2	24	u02-p024-s063	sandy	What about youg	1
+2	24	u02-p024-s064	sandy	you (like) art?	1
+2	24	u02-p024-s063	sandy	What about you?	1
 2	24	u02-p024-s067	amy	I often (go) swimming.	1
 2	24	u02-p024-s065	amy	Amy:	1
 2	24	u02-p024-s066	amy	No, I don’t, but I like sport.	1
 2	24	u02-p024-s068	sandy	Sandy:	1
 2	24	u02-p024-s077	sandy	Great!	1
-2	24	u02-p024-s069	sandy	you (go) with your parentsg	1
+2	24	u02-p024-s069	sandy	you (go) with your parents?	1
 2	24	u02-p024-s072	amy	My dad (love) swimming and he always	1
 2	24	u02-p024-s070	amy	Amy:	1
 2	24	u02-p024-s071	amy	Yes.	1
@@ -1034,10 +1034,10 @@ unit	page	id	speaker	text	rects
 2	25	u02-p025-s008	narrator	C Read the following poem.	1
 2	25	u02-p025-s009	narrator	Pay attention to the sounds of the letters in bold.	1
 2	25	u02-p025-s062	narrator	Do you like cooking a yummy dish,	1
-2	25	u02-p025-s010	narrator	Or going swimming like a fishg	1
+2	25	u02-p025-s010	narrator	Or going swimming like a fish?	1
 2	25	u02-p025-s063	narrator	Maybe you like studying maps,	1
 2	25	u02-p025-s064	narrator	Learning on the apps,	1
-2	25	u02-p025-s011	narrator	Or going for a long rung	1
+2	25	u02-p025-s011	narrator	Or going for a long run?	1
 2	25	u02-p025-s012	narrator	Well, all of these hobbies are so much fun!	1
 2	26	u02-p026-s016	narrator	Unit 2	1
 2	26	u02-p026-s017	narrator	Integration	1
@@ -1060,8 +1060,8 @@ unit	page	id	speaker	text	rects
 2	26	u02-p026-s029	narrator	p.m., Friday	1
 2	26	u02-p026-s030	narrator	Football	1
 2	26	u02-p026-s031	narrator	Swimming	1
-2	26	u02-p026-s004	narrator	1 What sports clubs are there at Sunshine Middle Schoolg	1
-2	26	u02-p026-s005	narrator	2 How many clubs can each student joing	1
+2	26	u02-p026-s004	narrator	1 What sports clubs are there at Sunshine Middle School?	1
+2	26	u02-p026-s005	narrator	2 How many clubs can each student join?	1
 2	26	u02-p026-s007	narrator	Listen to their conversation and help Millie complete her notes.	2
 2	26	u02-p026-s006	narrator	B Millie is asking Mr Wu about after-school clubs.	1
 2	26	u02-p026-s032	narrator	Each club meets once.	1
@@ -1080,16 +1080,16 @@ unit	page	id	speaker	text	rects
 2	27	u02-p027-s001	narrator	C Daniel and Sandy are talking about their hobbies.	1
 2	27	u02-p027-s003	narrator	Use the conversation below as a model.	1
 2	27	u02-p027-s031	daniel	Daniel:	1
-2	27	u02-p027-s004	daniel	Hi, Sandy. What do you like doing after schoolg	1
+2	27	u02-p027-s004	daniel	Hi, Sandy. What do you like doing after school?	1
 2	27	u02-p027-s005	daniel	It is common to use “Sounds nice!”, “Sure.”, etc.	3
 2	27	u02-p027-s032	daniel	TIP	1
 2	27	u02-p027-s033	sandy	Sandy:	1
 2	27	u02-p027-s007	sandy	I like painting. It makes me feel happy.	1
 2	27	u02-p027-s006	sandy	in a conversation to show interest, support or agreement.	3
 2	27	u02-p027-s034	daniel	Daniel:	1
-2	27	u02-p027-s008	daniel	Sounds nice! Do you plan to join the Painting Clubg	1
+2	27	u02-p027-s008	daniel	Sounds nice! Do you plan to join the Painting Club?	1
 2	27	u02-p027-s035	sandy	Sandy:	1
-2	27	u02-p027-s009	sandy	Yes, I do. What about youg	1
+2	27	u02-p027-s009	sandy	Yes, I do. What about you?	1
 2	27	u02-p027-s036	daniel	Daniel:	1
 2	27	u02-p027-s010	daniel	I like science, so I’m interested in the Robot Club. It’s going to be a lot of fun.	3
 2	27	u02-p027-s037	sandy	Sandy:	1
@@ -1100,19 +1100,19 @@ unit	page	id	speaker	text	rects
 2	27	u02-p027-s029	narrator	Questions	1
 2	27	u02-p027-s050	narrator	Sandy	1
 2	27	u02-p027-s051	narrator	Me	1
-2	27	u02-p027-s014	narrator	What is your favourite hobbyg	2
+2	27	u02-p027-s014	narrator	What is your favourite hobby?	2
 2	27	u02-p027-s015	narrator	Painting.	1
-2	27	u02-p027-s016	narrator	How often do you do itg	1
+2	27	u02-p027-s016	narrator	How often do you do it?	1
 2	27	u02-p027-s017	narrator	Every week.	1
-2	27	u02-p027-s018	narrator	When do you do itg	1
+2	27	u02-p027-s018	narrator	When do you do it?	1
 2	27	u02-p027-s019	narrator	After school.	1
-2	27	u02-p027-s020	narrator	Why do you like itg	1
+2	27	u02-p027-s020	narrator	Why do you like it?	1
 2	27	u02-p027-s021	narrator	It makes me feel happy.	1
 2	27	u02-p027-s022	narrator	It is great fun.	1
-2	27	u02-p027-s023	narrator	Who is your role modelg	1
+2	27	u02-p027-s023	narrator	Who is your role model?	1
 2	27	u02-p027-s024	narrator	Xu Beihong.	1
 2	27	u02-p027-s025	narrator	My dream is to design beautiful clothes.	2
-2	27	u02-p027-s027	narrator	How can your hobby help youg	2
+2	27	u02-p027-s027	narrator	How can your hobby help you?	2
 2	27	u02-p027-s026	narrator	My painting skills can help me a lot.	3
 2	28	u02-p028-s028	narrator	Unit 2	1
 2	28	u02-p028-s001	narrator	D2 Here is Sandy’s article about her favourite hobby.	1
@@ -1194,20 +1194,20 @@ unit	page	id	speaker	text	rects
 3	31	u03-p031-s034	millie	It’s good to see you.	1
 3	31	u03-p031-s026	millie	Millie:	1
 3	31	u03-p031-s008	kate	Hi, Millie.	1
-3	31	u03-p031-s036	kate	How’s your new schoolg	1
+3	31	u03-p031-s036	kate	How’s your new school?	1
 3	31	u03-p031-s035	kate	Nice to see you too!	1
 3	31	u03-p031-s027	kate	Kate:	1
 3	31	u03-p031-s009	millie	It’s great.	1
 3	31	u03-p031-s037	millie	The best part is the modern library.	1
 3	31	u03-p031-s028	millie	Millie:	1
-3	31	u03-p031-s038	millie	Does your school have a libraryg	1
+3	31	u03-p031-s038	millie	Does your school have a library?	1
 3	31	u03-p031-s010	kate	Yes, it does.	1
 3	31	u03-p031-s039	kate	We have a nice dining hall as well.	1
 3	31	u03-p031-s029	kate	Kate:	1
 3	31	u03-p031-s011	millie	Cool!	1
 3	31	u03-p031-s040	millie	My school has a big dining hall too.	1
 3	31	u03-p031-s030	millie	Millie:	1
-3	31	u03-p031-s012	kate	How many classrooms does your school haveg	1
+3	31	u03-p031-s012	kate	How many classrooms does your school have?	1
 3	31	u03-p031-s031	kate	Kate:	1
 3	31	u03-p031-s013	millie	It has classrooms.	1
 3	31	u03-p031-s041	millie	They’re all bright and clean.	1
@@ -1216,7 +1216,7 @@ unit	page	id	speaker	text	rects
 3	31	u03-p031-s043	kate	I love it.	1
 3	31	u03-p031-s042	kate	My school only has My school is not big but it’s great.	1
 3	31	u03-p031-s033	kate	Kate:	1
-3	31	u03-p031-s015	narrator	C What other places does a school haveg	1
+3	31	u03-p031-s015	narrator	C What other places does a school have?	1
 3	31	u03-p031-s016	narrator	Talk with your partner.	1
 3	32	u03-p032-s027	narrator	Unit 3	1
 3	32	u03-p032-s028	narrator	Reading	1
@@ -1227,8 +1227,8 @@ unit	page	id	speaker	text	rects
 3	32	u03-p032-s003	narrator	Here is the video script.	1
 3	32	u03-p032-s005	narrator	We often begin a welcome speech with a friendly opener, such as “Hello” or “Welcome...”.	6
 3	32	u03-p032-s029	narrator	TIP	1
-3	32	u03-p032-s006	narrator	1 What places should a school haveg	1
-3	32	u03-p032-s007	narrator	2 Why are green spaces important for a schoolg	1
+3	32	u03-p032-s006	narrator	1 What places should a school have?	1
+3	32	u03-p032-s007	narrator	2 Why are green spaces important for a school?	1
 3	32	u03-p032-s008	narrator	Hello, everyone!	1
 3	32	u03-p032-s009	narrator	I’m Jack Liu from Grade 9.	1
 3	32	u03-p032-s010	narrator	Welcome to our school!	1
@@ -1238,7 +1238,7 @@ unit	page	id	speaker	text	rects
 3	32	u03-p032-s014	narrator	Students enjoy spending time here.	1
 3	32	u03-p032-s015	narrator	Sometimes we chat with teachers about our problems here too.	1
 3	32	u03-p032-s016	narrator	We have a great sports field.	1
-3	32	u03-p032-s017	narrator	Can you see the students running thereg	1
+3	32	u03-p032-s017	narrator	Can you see the students running there?	1
 3	32	u03-p032-s018	narrator	Lots of exciting sports matches take place on it.	1
 3	32	u03-p032-s019	narrator	Look at the school noticeboards near the gate.	1
 3	32	u03-p032-s020	narrator	Here we can read about school news and stories of star students and teachers.	2
@@ -1280,7 +1280,7 @@ unit	page	id	speaker	text	rects
 3	34	u03-p034-s019	narrator	Liu Yi	1
 3	34	u03-p034-s020	narrator	My new school	1
 3	34	u03-p034-s021	narrator	Hello Liu Yi,	1
-3	34	u03-p034-s003	narrator	How are you doingg	1
+3	34	u03-p034-s003	narrator	How are you doing?	1
 3	34	u03-p034-s004	narrator	I want to tell you about my new school.	1
 3	34	u03-p034-s033	narrator	It is a	1
 3	34	u03-p034-s005	narrator	really great place.	1
@@ -1301,16 +1301,16 @@ unit	page	id	speaker	text	rects
 3	34	u03-p034-s010	narrator	can also read about star students and learn a lot from them.	1
 3	34	u03-p034-s045	narrator	They are	1
 3	34	u03-p034-s046	narrator	our.	1
-3	34	u03-p034-s011	narrator	What is your new school likeg	1
+3	34	u03-p034-s011	narrator	What is your new school like?	1
 3	34	u03-p034-s012	narrator	Tell me about it!	1
 3	34	u03-p034-s022	narrator	Talk soon,	1
 3	34	u03-p034-s023	narrator	Wang Xinyue	1
 3	34	u03-p034-s013	narrator	D Think about the questions below.	1
 3	34	u03-p034-s014	narrator	Share your answers with your classmates.	1
-3	34	u03-p034-s015	narrator	1 What do you like about Sunshine Middle Schoolg	1
-3	34	u03-p034-s016	narrator	2 What place at your school do you like bestg	1
-3	34	u03-p034-s017	narrator	Whyg	1
-3	34	u03-p034-s018	narrator	3 How is your new school different from Sunshine Middle Schoolg	1
+3	34	u03-p034-s015	narrator	1 What do you like about Sunshine Middle School?	1
+3	34	u03-p034-s016	narrator	2 What place at your school do you like best?	1
+3	34	u03-p034-s017	narrator	Why?	1
+3	34	u03-p034-s018	narrator	3 How is your new school different from Sunshine Middle School?	1
 3	35	u03-p035-s020	narrator	Unit 3	1
 3	35	u03-p035-s021	narrator	Grammar	1
 3	35	u03-p035-s022	narrator	A Personal pronouns (subject form)	1
@@ -1337,14 +1337,14 @@ unit	page	id	speaker	text	rects
 3	35	u03-p035-s029	simon	is big and clean.	1
 3	35	u03-p035-s030	simon	all have	1
 3	35	u03-p035-s015	simon	lunch there.	1
-3	35	u03-p035-s016	annie	What do you have for lunchg	1
+3	35	u03-p035-s016	annie	What do you have for lunch?	1
 3	35	u03-p035-s031	annie	Annie:	1
 3	35	u03-p035-s046	simon	We have rice, noodles, all kinds of meat and vegetables.	1
 3	35	u03-p035-s032	simon	Simon:	1
 3	35	u03-p035-s033	simon	I’m sure	1
 3	35	u03-p035-s034	simon	will love the food there!	1
 3	35	u03-p035-s017	annie	I think I will!	1
-3	35	u03-p035-s047	annie	How about your sports field, Simong	1
+3	35	u03-p035-s047	annie	How about your sports field, Simon?	1
 3	35	u03-p035-s035	annie	Annie:	1
 3	35	u03-p035-s018	simon	Here’s a picture of it.	1
 3	35	u03-p035-s048	simon	It’s my favourite place!	1
@@ -1352,7 +1352,7 @@ unit	page	id	speaker	text	rects
 3	35	u03-p035-s049	annie	It looks very nice.	1
 3	35	u03-p035-s037	annie	Annie:	1
 3	35	u03-p035-s038	annie	What do	1
-3	35	u03-p035-s039	annie	often play thereg	1
+3	35	u03-p035-s039	annie	often play there?	1
 3	35	u03-p035-s050	simon	often play football with my	1
 3	35	u03-p035-s040	simon	Simon:	1
 3	35	u03-p035-s041	simon	friends in the school football team.	1
@@ -1386,7 +1386,7 @@ unit	page	id	speaker	text	rects
 3	36	u03-p036-s018	narrator	Object form	1
 3	36	u03-p036-s011	narrator	Complete their conversation with the correct personal pronouns.	2
 3	36	u03-p036-s010	narrator	B1 Daniel is talking to his grandfather on the phone.	1
-3	36	u03-p036-s034	daniel	Can you hearg	1
+3	36	u03-p036-s034	daniel	Can you hear?	1
 3	36	u03-p036-s032	daniel	Daniel:	1
 3	36	u03-p036-s033	daniel	Hi, Grandpa!	1
 3	36	u03-p036-s035	grandpa	Grandpa:	1
@@ -1395,8 +1395,8 @@ unit	page	id	speaker	text	rects
 3	36	u03-p036-s036	daniel	Daniel:	1
 3	36	u03-p036-s037	daniel	I’m at a new school now.	1
 3	36	u03-p036-s039	daniel	Mr Wu is our form teacher.	1
-3	36	u03-p036-s013	grandpa	Ohg	1
-3	36	u03-p036-s056	grandpa	What’s he likeg	1
+3	36	u03-p036-s013	grandpa	Oh?	1
+3	36	u03-p036-s056	grandpa	What’s he like?	1
 3	36	u03-p036-s040	grandpa	Grandpa:	1
 3	36	u03-p036-s042	daniel	He’s very kind to all of.	1
 3	36	u03-p036-s041	daniel	Daniel:	1
@@ -1411,7 +1411,7 @@ unit	page	id	speaker	text	rects
 3	36	u03-p036-s050	grandpa	Grandpa:	1
 3	36	u03-p036-s014	grandpa	That’s nice.	1
 3	36	u03-p036-s051	daniel	Daniel:	1
-3	36	u03-p036-s052	daniel	Is Grandma at homeg	1
+3	36	u03-p036-s052	daniel	Is Grandma at home?	1
 3	36	u03-p036-s053	daniel	I want to say hello to	1
 3	36	u03-p036-s015	grandpa	Yes, she is.	1
 3	36	u03-p036-s057	grandpa	Wait a minute.	1
@@ -1492,9 +1492,9 @@ unit	page	id	speaker	text	rects
 3	38	u03-p038-s009	narrator	You can read newspapers and magazines there.	2
 3	38	u03-p038-s010	narrator	You can also use the internet to help you with your studies.	2
 3	38	u03-p038-s011	narrator	The library is the perfect place for you to enjoy a wonderful book and some quiet time!	3
-3	38	u03-p038-s012	narrator	1 What can students at Sunshine Middle School do in the libraryg	1
-3	38	u03-p038-s013	narrator	2 Is there a library or a reading room at your schoolg	1
-3	38	u03-p038-s014	narrator	What do you like about itg	1
+3	38	u03-p038-s012	narrator	1 What can students at Sunshine Middle School do in the library?	1
+3	38	u03-p038-s013	narrator	2 Is there a library or a reading room at your school?	1
+3	38	u03-p038-s014	narrator	What do you like about it?	1
 3	38	u03-p038-s015	narrator	B Millie’s brother, Andy, is introducing some places at Sunshine Middle School to her.	1
 3	38	u03-p038-s016	narrator	Listen with Millie and help her complete the table below.	1
 3	38	u03-p038-s017	narrator	Before listening, use the title or heading to help you predict the content and then focus on keywords or phrases when listening.	14
@@ -1516,15 +1516,15 @@ unit	page	id	speaker	text	rects
 3	39	u03-p039-s001	narrator	C Millie and Daniel are discussing what they like about their new school.	1
 3	39	u03-p039-s003	narrator	Use the conversation below as a model.	1
 3	39	u03-p039-s019	daniel	Daniel:	1
-3	39	u03-p039-s004	daniel	What do you like about our new schoolg	1
+3	39	u03-p039-s004	daniel	What do you like about our new school?	1
 3	39	u03-p039-s005	millie	I love our big library.	1
-3	39	u03-p039-s036	millie	What about youg	1
+3	39	u03-p039-s036	millie	What about you?	1
 3	39	u03-p039-s035	millie	I can borrow different kinds of books there.	1
 3	39	u03-p039-s020	millie	Millie:	1
 3	39	u03-p039-s006	daniel	I like the computer room.	1
 3	39	u03-p039-s037	daniel	It’s new and modern.	1
 3	39	u03-p039-s021	daniel	Daniel:	1
-3	39	u03-p039-s038	daniel	What else do you like about our schoolg	1
+3	39	u03-p039-s038	daniel	What else do you like about our school?	1
 3	39	u03-p039-s007	millie	Our teachers are very kind.	1
 3	39	u03-p039-s039	millie	They really care about us.	1
 3	39	u03-p039-s022	millie	Millie:	1
@@ -1532,8 +1532,8 @@ unit	page	id	speaker	text	rects
 3	39	u03-p039-s008	daniel	Yes, and our classmates are friendly.	1
 3	39	u03-p039-s009	narrator	D Mr Wu asked the Class 1, Grade 7 students to write an email to a friend about their new school.	2
 3	39	u03-p039-s010	narrator	D1 Answer the questions below with the information about your school.	1
-3	39	u03-p039-s011	narrator	1 What is your school likeg	1
-3	39	u03-p039-s012	narrator	2 What does your school haveg	1
+3	39	u03-p039-s011	narrator	1 What is your school like?	1
+3	39	u03-p039-s012	narrator	2 What does your school have?	1
 3	39	u03-p039-s013	narrator	Put a tick (3) in the box.	1
 3	39	u03-p039-s025	narrator	sports field	1
 3	39	u03-p039-s026	narrator	library	1
@@ -1546,10 +1546,10 @@ unit	page	id	speaker	text	rects
 3	39	u03-p039-s032	narrator	computer room	1
 3	39	u03-p039-s033	narrator	lab	1
 3	39	u03-p039-s034	narrator	other(s):	1
-3	39	u03-p039-s014	narrator	3 What is your favourite place at your schoolg	1
-3	39	u03-p039-s015	narrator	4 What do you do in your favourite placeg	1
-3	39	u03-p039-s016	narrator	5 What are your teachers and classmates likeg	1
-3	39	u03-p039-s017	narrator	6 What do you think of your schoolg	1
+3	39	u03-p039-s014	narrator	3 What is your favourite place at your school?	1
+3	39	u03-p039-s015	narrator	4 What do you do in your favourite place?	1
+3	39	u03-p039-s016	narrator	5 What are your teachers and classmates like?	1
+3	39	u03-p039-s017	narrator	6 What do you think of your school?	1
 3	40	u03-p040-s039	narrator	Unit 3	1
 3	40	u03-p040-s001	narrator	D2 Millie sent an email to her online friend Liu Yi and received her reply.	1
 3	40	u03-p040-s002	narrator	Read it with her.	1
@@ -1661,23 +1661,23 @@ unit	page	id	speaker	text	rects
 4	43	u04-p043-s015	narrator	B Millie and Simon are talking about their school days.	1
 4	43	u04-p043-s017	narrator	Use the conversation below as a model.	1
 4	43	u04-p043-s043	millie	Millie:	1
-4	43	u04-p043-s018	millie	What time do you get up in the morning on weekdays, Simong	1
+4	43	u04-p043-s018	millie	What time do you get up in the morning on weekdays, Simon?	1
 4	43	u04-p043-s019	simon	I usually get up at a.m. and then go for a short jog.	1
-4	43	u04-p043-s049	simon	And youg	1
+4	43	u04-p043-s049	simon	And you?	1
 4	43	u04-p043-s044	simon	Simon:	1
 4	43	u04-p043-s020	millie	I get up at 7.	1
 4	43	u04-p043-s053	millie	I always read a little.	1
 4	43	u04-p043-s045	millie	Millie:	1
 4	43	u04-p043-s046	simon	Simon:	1
-4	43	u04-p043-s021	simon	What do you like best about your school daysg	1
+4	43	u04-p043-s021	simon	What do you like best about your school days?	1
 4	43	u04-p043-s050	millie	I go to the Book Club and the Volleyball Club and have lots of fun.	1
 4	43	u04-p043-s022	millie	I like the after-school activities.	1
 4	43	u04-p043-s047	millie	Millie:	1
-4	43	u04-p043-s051	millie	What about youg	1
+4	43	u04-p043-s051	millie	What about you?	1
 4	43	u04-p043-s023	simon	I’m in the Football Club.	1
 4	43	u04-p043-s052	simon	Club activities are a good way for me to enjoy myself and make friends.	1
 4	43	u04-p043-s048	simon	Simon:	1
-4	43	u04-p043-s024	narrator	C What do you like best about your school daysg	1
+4	43	u04-p043-s024	narrator	C What do you like best about your school days?	1
 4	43	u04-p043-s025	narrator	Discuss it with a partner.	1
 4	44	u04-p044-s030	narrator	Unit 4	1
 4	44	u04-p044-s031	narrator	Reading	1
@@ -1685,8 +1685,8 @@ unit	page	id	speaker	text	rects
 4	44	u04-p044-s001	narrator	Millie wrote an email to her online friend Tommy.	1
 4	44	u04-p044-s003	narrator	Before reading, think about the questions below.	2
 4	44	u04-p044-s002	narrator	Here is the email.	1
-4	44	u04-p044-s004	narrator	1 What are some interesting classes at your schoolg	1
-4	44	u04-p044-s005	narrator	2 What activities do you often do after schoolg	1
+4	44	u04-p044-s004	narrator	1 What are some interesting classes at your school?	1
+4	44	u04-p044-s005	narrator	2 What activities do you often do after school?	1
 4	44	u04-p044-s025	narrator	Tommy	1
 4	44	u04-p044-s006	narrator	Usually we fill keywords in the subject line of an email to let others know what we are talking about in the email.	4
 4	44	u04-p044-s032	narrator	TIP	1
@@ -1707,7 +1707,7 @@ unit	page	id	speaker	text	rects
 4	44	u04-p044-s019	narrator	I am in the school volleyball team, and we practise on Friday afternoons.	2
 4	44	u04-p044-s020	narrator	We have a field trip each term.	1
 4	44	u04-p044-s021	narrator	Tomorrow morning we will leave for a farm to pick apples there.	2
-4	44	u04-p044-s022	narrator	What is your school life likeg	2
+4	44	u04-p044-s022	narrator	What is your school life like?	2
 4	44	u04-p044-s023	narrator	Hope to hear from you soon.	2
 4	44	u04-p044-s028	narrator	Best wishes,	1
 4	44	u04-p044-s029	narrator	Wang Xinyue	1
@@ -1760,7 +1760,7 @@ unit	page	id	speaker	text	rects
 4	46	u04-p046-s036	narrator	best.	1
 4	46	u04-p046-s038	narrator	In our Science class, our teacher shows us lots of interesting things from	1
 4	46	u04-p046-s008	narrator	We get to know so much about the world around us.	1
-4	46	u04-p046-s039	narrator	Isn’t itg	1
+4	46	u04-p046-s039	narrator	Isn’t it?	1
 4	46	u04-p046-s040	narrator	I am in the school football.	1
 4	46	u04-p046-s041	narrator	I usually	1
 4	46	u04-p046-s009	narrator	I love sport.	1
@@ -1772,10 +1772,10 @@ unit	page	id	speaker	text	rects
 4	46	u04-p046-s023	narrator	All the best, Tommy	2
 4	46	u04-p046-s013	narrator	D Think about the questions below.	1
 4	46	u04-p046-s014	narrator	Share your answers with your classmates.	1
-4	46	u04-p046-s015	narrator	1 What do you think about Millie’s school lifeg	1
-4	46	u04-p046-s016	narrator	2 What lessons do you like bestg	1
-4	46	u04-p046-s017	narrator	Whyg	1
-4	46	u04-p046-s018	narrator	3 What do you think is special about your school lifeg	1
+4	46	u04-p046-s015	narrator	1 What do you think about Millie’s school life?	1
+4	46	u04-p046-s016	narrator	2 What lessons do you like best?	1
+4	46	u04-p046-s017	narrator	Why?	1
+4	46	u04-p046-s018	narrator	3 What do you think is special about your school life?	1
 4	46	u04-p046-s044	narrator	Share it with your	1
 4	46	u04-p046-s019	narrator	classmates.	1
 4	47	u04-p047-s033	narrator	Unit 4	1
@@ -1849,7 +1849,7 @@ unit	page	id	speaker	text	rects
 4	47	u04-p047-s075	sandy	These lessons begin 8:15.	1
 4	47	u04-p047-s074	sandy	and Chinese lessons.	1
 4	47	u04-p047-s015	grandma	Good.	1
-4	47	u04-p047-s090	grandma	Do you play any sport at schoolg	1
+4	47	u04-p047-s090	grandma	Do you play any sport at school?	1
 4	47	u04-p047-s076	grandma	Grandma:	1
 4	47	u04-p047-s079	sandy	Monday, I go swimming.	1
 4	47	u04-p047-s080	sandy	I also play	1
@@ -1859,13 +1859,13 @@ unit	page	id	speaker	text	rects
 4	47	u04-p047-s082	sandy	Every year, we have a	1
 4	47	u04-p047-s083	sandy	big basketball match November.	1
 4	47	u04-p047-s016	grandma	That’s exciting!	1
-4	47	u04-p047-s091	grandma	When is this year’s matchg	1
+4	47	u04-p047-s091	grandma	When is this year’s match?	1
 4	47	u04-p047-s084	grandma	Grandma:	1
 4	47	u04-p047-s086	sandy	It’s 13 November.	1
 4	47	u04-p047-s087	sandy	It starts 4:30 in	1
 4	47	u04-p047-s085	sandy	Sandy:	1
 4	47	u04-p047-s017	sandy	the afternoon.	1
-4	47	u04-p047-s018	sandy	Would you like to come and watchg	1
+4	47	u04-p047-s018	sandy	Would you like to come and watch?	1
 4	47	u04-p047-s088	grandma	Grandma:	1
 4	47	u04-p047-s019	grandma	Of course!	1
 4	47	u04-p047-s020	narrator	A2 Talk with your partner about your school life, using prepositions of time.	1
@@ -2002,9 +2002,9 @@ unit	page	id	speaker	text	rects
 4	50	u04-p050-s020	narrator	Learn how to plant trees	1
 4	50	u04-p050-s021	narrator	Help plant trees	1
 4	50	u04-p050-s003	narrator	Please find more on the school website.	1
-4	50	u04-p050-s004	narrator	1 What can the Grade 7 students do on the autumn field tripg	1
-4	50	u04-p050-s005	narrator	2 What do you like about your field tripsg	1
-4	50	u04-p050-s006	narrator	Whyg	1
+4	50	u04-p050-s004	narrator	1 What can the Grade 7 students do on the autumn field trip?	1
+4	50	u04-p050-s005	narrator	2 What do you like about your field trips?	1
+4	50	u04-p050-s006	narrator	Why?	1
 4	50	u04-p050-s008	narrator	Listen to Mr Wu and help Sandy complete her notes.	2
 4	50	u04-p050-s007	narrator	B Sandy is listening to Mr Wu talking about one of the field trips.	1
 4	50	u04-p050-s022	narrator	Where: Sunny Apple Farm	1
@@ -2025,12 +2025,12 @@ unit	page	id	speaker	text	rects
 4	51	u04-p051-s001	narrator	C Sandy and her classmates are talking about school field trips.	1
 4	51	u04-p051-s003	narrator	Use the conversation below as a model.	1
 4	51	u04-p051-s018	sandy	Sandy:	1
-4	51	u04-p051-s004	sandy	What do you like about school field trips, Amyg	1
+4	51	u04-p051-s004	sandy	What do you like about school field trips, Amy?	1
 4	51	u04-p051-s005	amy	I love field trips because I like being outside.	1
 4	51	u04-p051-s024	amy	It’s nice to get close to nature, and I can enjoy the peace and quiet there.	1
 4	51	u04-p051-s019	amy	Amy:	1
 4	51	u04-p051-s006	sandy	That’s true.	1
-4	51	u04-p051-s025	sandy	And you, Simong	1
+4	51	u04-p051-s025	sandy	And you, Simon?	1
 4	51	u04-p051-s020	sandy	Sandy:	1
 4	51	u04-p051-s007	simon	I like the teamwork on the trips.	1
 4	51	u04-p051-s026	simon	Everybody tries their best to make things better.	1
@@ -2042,12 +2042,12 @@ unit	page	id	speaker	text	rects
 4	51	u04-p051-s009	narrator	D Sunshine Middle School newsletter is inviting students to send in articles about their hands-on learning at school.	2
 4	51	u04-p051-s010	narrator	D1 Answer the questions below with the information about your school.	1
 4	51	u04-p051-s023	narrator	Learning by doing at my school	1
-4	51	u04-p051-s011	narrator	1 What is itg	1
-4	51	u04-p051-s012	narrator	2 How often does it take placeg	1
-4	51	u04-p051-s013	narrator	3 When does it take placeg	1
-4	51	u04-p051-s014	narrator	4 How many students take part in itg	1
-4	51	u04-p051-s015	narrator	5 What do you usually dog	1
-4	51	u04-p051-s016	narrator	6 What can you learn from itg	1
+4	51	u04-p051-s011	narrator	1 What is it?	1
+4	51	u04-p051-s012	narrator	2 How often does it take place?	1
+4	51	u04-p051-s013	narrator	3 When does it take place?	1
+4	51	u04-p051-s014	narrator	4 How many students take part in it?	1
+4	51	u04-p051-s015	narrator	5 What do you usually do?	1
+4	51	u04-p051-s016	narrator	6 What can you learn from it?	1
 4	52	u04-p052-s023	narrator	Unit 4	1
 4	52	u04-p052-s001	narrator	D2 Read Sandy’s article about her hands-on learning at school.	1
 4	52	u04-p052-s022	narrator	Learning through chores	1
@@ -2113,32 +2113,32 @@ unit	page	id	speaker	text	rects
 9	54	u09-p054-s010	narrator	Questions	1
 9	54	u09-p054-s011	narrator	Answers	1
 9	54	u09-p054-s012	narrator	Your school:	1
-9	54	u09-p054-s013	narrator	What is the name of your schoolg	1
-9	54	u09-p054-s014	narrator	Is your school big or smallg	1
-9	54	u09-p054-s015	narrator	What buildings and places are there at your schoolg	2
+9	54	u09-p054-s013	narrator	What is the name of your school?	1
+9	54	u09-p054-s014	narrator	Is your school big or small?	1
+9	54	u09-p054-s015	narrator	What buildings and places are there at your school?	2
 9	54	u09-p054-s016	narrator	dining hall gym library	1
 9	54	u09-p054-s017	narrator	computer room playground	1
 9	54	u09-p054-s018	narrator	lab school hall sports field	1
 9	54	u09-p054-s019	narrator	other(s):	1
-9	54	u09-p054-s020	narrator	What is your favourite place at your schoolg	2
-9	54	u09-p054-s021	narrator	Whyg	1
+9	54	u09-p054-s020	narrator	What is your favourite place at your school?	2
+9	54	u09-p054-s021	narrator	Why?	1
 9	54	u09-p054-s022	narrator	School life:	1
-9	54	u09-p054-s023	narrator	What subject do you like bestg	1
-9	54	u09-p054-s024	narrator	What do you do after schoolg	1
-9	54	u09-p054-s025	narrator	What club(s) are you ing	1
-9	54	u09-p054-s026	narrator	What club activities are you interested ing	1
-9	54	u09-p054-s027	narrator	What school trip(s) do you have every yearg	1
+9	54	u09-p054-s023	narrator	What subject do you like best?	1
+9	54	u09-p054-s024	narrator	What do you do after school?	1
+9	54	u09-p054-s025	narrator	What club(s) are you in?	1
+9	54	u09-p054-s026	narrator	What club activities are you interested in?	1
+9	54	u09-p054-s027	narrator	What school trip(s) do you have every year?	1
 9	54	u09-p054-s028	narrator	New friends at school:	1
-9	54	u09-p054-s029	narrator	Who are theyg	1
-9	54	u09-p054-s030	narrator	What are they likeg	1
-9	54	u09-p054-s031	narrator	What are their hobbiesg	1
+9	54	u09-p054-s029	narrator	Who are they?	1
+9	54	u09-p054-s030	narrator	What are they like?	1
+9	54	u09-p054-s031	narrator	What are their hobbies?	1
 9	54	u09-p054-s032	narrator	Other:	1
 9	55	u09-p055-s001	narrator	2 Decide the details of filming the video.	1
 9	55	u09-p055-s002	narrator	I need Millie in my video.	2
-9	55	u09-p055-s003	narrator	• When and where will you film the videog	1
+9	55	u09-p055-s003	narrator	• When and where will you film the video?	1
 9	55	u09-p055-s004	narrator	She likes reading.	2
-9	55	u09-p055-s005	narrator	• What will you use to film the videog	1
-9	55	u09-p055-s006	narrator	• Who and what do you need in your videog	1
+9	55	u09-p055-s005	narrator	• What will you use to film the video?	1
+9	55	u09-p055-s006	narrator	• Who and what do you need in your video?	1
 9	55	u09-p055-s007	narrator	B Make	1
 9	55	u09-p055-s008	narrator	Film your video	1
 9	55	u09-p055-s009	narrator	• Check the lighting around you.	1
@@ -2192,7 +2192,7 @@ unit	page	id	speaker	text	rects
 5	57	u05-p057-s003	narrator	B Millie and Daniel are talking about what food they like.	1
 5	57	u05-p057-s005	narrator	Use the conversation below as a model.	1
 5	57	u05-p057-s006	millie	I drink milk every day.	1
-5	57	u05-p057-s038	millie	How about you, Danielg	1
+5	57	u05-p057-s038	millie	How about you, Daniel?	1
 5	57	u05-p057-s031	millie	Millie:	1
 5	57	u05-p057-s007	daniel	Me too.	1
 5	57	u05-p057-s040	daniel	It’s healthy for us to have milk and eggs often.	1
@@ -2209,24 +2209,24 @@ unit	page	id	speaker	text	rects
 5	57	u05-p057-s010	daniel	I like meat.	1
 5	57	u05-p057-s045	daniel	It’s delicious.	1
 5	57	u05-p057-s035	daniel	Daniel:	1
-5	57	u05-p057-s011	millie	What else do you often eatg	1
+5	57	u05-p057-s011	millie	What else do you often eat?	1
 5	57	u05-p057-s036	millie	Millie:	1
 5	57	u05-p057-s012	daniel	Carrots.	1
 5	57	u05-p057-s046	daniel	They’re great for our eyes!	1
 5	57	u05-p057-s037	daniel	Daniel:	1
-5	57	u05-p057-s013	narrator	C What other foods do you knowg	1
+5	57	u05-p057-s013	narrator	C What other foods do you know?	1
 5	57	u05-p057-s014	daniel	Write them down in the table of Part A.	1
 5	58	u05-p058-s031	narrator	Unit 5	1
 5	58	u05-p058-s032	narrator	Reading	1
 5	58	u05-p058-s033	narrator	Lifestyle:	1
-5	58	u05-p058-s001	narrator	healthy or notg	1
+5	58	u05-p058-s001	narrator	healthy or not?	1
 5	58	u05-p058-s002	narrator	Kitty and Daniel each posted an article about their lifestyles on the school website.	1
 5	58	u05-p058-s003	narrator	Read their articles.	2
 5	58	u05-p058-s004	narrator	Before reading, think about the questions below.	1
-5	58	u05-p058-s005	narrator	1 Do you often exerciseg	1
-5	58	u05-p058-s006	narrator	Why or why notg	1
-5	58	u05-p058-s007	narrator	2 Do you think your lifestyle is healthyg	1
-5	58	u05-p058-s008	narrator	Why or why notg	1
+5	58	u05-p058-s005	narrator	1 Do you often exercise?	1
+5	58	u05-p058-s006	narrator	Why or why not?	1
+5	58	u05-p058-s007	narrator	2 Do you think your lifestyle is healthy?	1
+5	58	u05-p058-s008	narrator	Why or why not?	1
 5	58	u05-p058-s009	narrator	I love dancing.	1
 5	58	u05-p058-s010	narrator	I dance for half an hour every day.	2
 5	58	u05-p058-s011	narrator	I get nine hours of sleep every night, so I am always full of energy.	2
@@ -2307,12 +2307,12 @@ unit	page	id	speaker	text	rects
 5	60	u05-p060-s037	narrator	I need to have a good enough sleep every day.	2
 5	60	u05-p060-s009	narrator	D Think about the questions below.	1
 5	60	u05-p060-s010	narrator	Share your answers with your classmates.	1
-5	60	u05-p060-s011	narrator	1 Is your diet healthyg	1
-5	60	u05-p060-s012	narrator	Do you plan to keep or change itg	1
-5	60	u05-p060-s013	narrator	Whyg	1
-5	60	u05-p060-s014	narrator	2 Do you get enough sleep every nightg	1
-5	60	u05-p060-s015	narrator	What should we do to have a good sleepg	1
-5	60	u05-p060-s016	narrator	3 What else do you think is important for a healthy lifestyleg	1
+5	60	u05-p060-s011	narrator	1 Is your diet healthy?	1
+5	60	u05-p060-s012	narrator	Do you plan to keep or change it?	1
+5	60	u05-p060-s013	narrator	Why?	1
+5	60	u05-p060-s014	narrator	2 Do you get enough sleep every night?	1
+5	60	u05-p060-s015	narrator	What should we do to have a good sleep?	1
+5	60	u05-p060-s016	narrator	3 What else do you think is important for a healthy lifestyle?	1
 5	61	u05-p061-s017	narrator	Unit 5	1
 5	61	u05-p061-s018	narrator	Grammar	1
 5	61	u05-p061-s019	narrator	Countable and uncountable nouns A countable noun refers to something we can count.	2
@@ -2406,7 +2406,7 @@ unit	page	id	speaker	text	rects
 5	62	u05-p062-s031	narrator	uncountable) nouns.	1
 5	62	u05-p062-s003	narrator	Complete their conversation with the help of the pictures.	2
 5	62	u05-p062-s002	narrator	A Millie and Simon are talking about food for a class party.	1
-5	62	u05-p062-s004	millie	What food do we need for our class party, Simong	1
+5	62	u05-p062-s004	millie	What food do we need for our class party, Simon?	1
 5	62	u05-p062-s032	millie	Millie:	1
 5	62	u05-p062-s048	simon	Let’s get some	1
 5	62	u05-p062-s033	simon	Simon:	1
@@ -2422,7 +2422,7 @@ unit	page	id	speaker	text	rects
 5	62	u05-p062-s042	simon	And for people with a sweet tooth, we can also get some	1
 5	62	u05-p062-s043	simon	and	1
 5	62	u05-p062-s005	millie	OK.	1
-5	62	u05-p062-s050	millie	Now, what about drinksg	1
+5	62	u05-p062-s050	millie	Now, what about drinks?	1
 5	62	u05-p062-s044	millie	Millie:	1
 5	62	u05-p062-s051	simon	Hmm, we need	1
 5	62	u05-p062-s045	simon	Simon:	1
@@ -2520,36 +2520,36 @@ unit	page	id	speaker	text	rects
 5	64	u05-p064-s036	narrator	My lifestyle	1
 5	64	u05-p064-s003	narrator	Read the questions and tick the correct boxes to show your lifestyle.	2
 5	64	u05-p064-s002	narrator	A The Class 1, Grade 7 students are doing a questionnaire on lifestyle.	1
-5	64	u05-p064-s004	narrator	1 How often do you go to school without breakfastg	1
+5	64	u05-p064-s004	narrator	1 How often do you go to school without breakfast?	1
 5	64	u05-p064-s037	narrator	You Benny	1
 5	64	u05-p064-s005	narrator	a Often.	1
 5	64	u05-p064-s006	narrator	b Seldom.	1
 5	64	u05-p064-s007	narrator	c Never.	1
-5	64	u05-p064-s008	narrator	2 How often do you have foods like eggs, milk and meatg	1
+5	64	u05-p064-s008	narrator	2 How often do you have foods like eggs, milk and meat?	1
 5	64	u05-p064-s009	narrator	a Less than 3 times a week.	1
 5	64	u05-p064-s010	narrator	b 3–4 times a week.	1
 5	64	u05-p064-s011	narrator	c Every day.	1
-5	64	u05-p064-s012	narrator	3 How often do you eat fruit and vegetablesg	1
+5	64	u05-p064-s012	narrator	3 How often do you eat fruit and vegetables?	1
 5	64	u05-p064-s013	narrator	a Seldom.	1
 5	64	u05-p064-s014	narrator	b Sometimes.	1
 5	64	u05-p064-s015	narrator	c Almost every day.	1
-5	64	u05-p064-s016	narrator	4 How much water do you drink every dayg	1
+5	64	u05-p064-s016	narrator	4 How much water do you drink every day?	1
 5	64	u05-p064-s017	narrator	a Less than 3 glasses.	1
 5	64	u05-p064-s018	narrator	b 5–6 glasses.	1
 5	64	u05-p064-s019	narrator	c About 8 glasses.	1
-5	64	u05-p064-s020	narrator	5 How often do you eat unhealthy food like chipsg	1
+5	64	u05-p064-s020	narrator	5 How often do you eat unhealthy food like chips?	1
 5	64	u05-p064-s021	narrator	a Almost every day.	1
 5	64	u05-p064-s022	narrator	b Sometimes.	1
 5	64	u05-p064-s023	narrator	c Seldom.	1
-5	64	u05-p064-s024	narrator	6 How often do you exerciseg	1
+5	64	u05-p064-s024	narrator	6 How often do you exercise?	1
 5	64	u05-p064-s025	narrator	a Less than 3 times a week.	1
 5	64	u05-p064-s026	narrator	b 3–5 times a week.	1
 5	64	u05-p064-s027	narrator	c Almost every day.	1
-5	64	u05-p064-s028	narrator	7 How long do you sleep every nightg	1
+5	64	u05-p064-s028	narrator	7 How long do you sleep every night?	1
 5	64	u05-p064-s029	narrator	a Less than 8 hours.	1
 5	64	u05-p064-s030	narrator	b 8–9 hours.	1
 5	64	u05-p064-s031	narrator	c More than 9 hours.	1
-5	64	u05-p064-s032	narrator	8 How much time do you spend on your computer, smartphone or tablet every dayg	2
+5	64	u05-p064-s032	narrator	8 How much time do you spend on your computer, smartphone or tablet every day?	2
 5	64	u05-p064-s033	narrator	a More than 2 hours.	1
 5	64	u05-p064-s034	narrator	b About 1 hour.	1
 5	64	u05-p064-s035	narrator	c Less than 1 hour.	1
@@ -2574,7 +2574,7 @@ unit	page	id	speaker	text	rects
 5	65	u05-p065-s009	narrator	C Millie and Simon are talking about breakfast.	1
 5	65	u05-p065-s010	narrator	Work in pairs and talk about the topic.	1
 5	65	u05-p065-s011	narrator	Use the conversation below as a model.	1
-5	65	u05-p065-s012	simon	What do you eat for breakfast, Millieg	1
+5	65	u05-p065-s012	simon	What do you eat for breakfast, Millie?	1
 5	65	u05-p065-s032	simon	Simon:	1
 5	65	u05-p065-s013	millie	I usually have some bread, milk and an egg each morning.	1
 5	65	u05-p065-s042	millie	Sometimes I eat an apple or a banana after morning exercises.	1
@@ -2653,7 +2653,7 @@ unit	page	id	speaker	text	rects
 5	67	u05-p067-s025	narrator	Further study	1
 5	67	u05-p067-s009	narrator	China is a big country.	1
 5	67	u05-p067-s026	narrator	Different parts of China have different styles of cooking, for example, Sichuan, Guangdong, Shandong, Jiangsu and Hunan cuisines.	4
-5	67	u05-p067-s029	narrator	Which one is your favouriteg	2
+5	67	u05-p067-s029	narrator	Which one is your favourite?	2
 5	67	u05-p067-s030	narrator	Pick one and try to learn more about its history and famous dishes.	2
 5	67	u05-p067-s013	narrator	Then share with your classmates.	1
 6	68	u06-p068-s008	narrator	Unit	1
@@ -2685,7 +2685,7 @@ unit	page	id	speaker	text	rects
 6	69	u06-p069-s004	narrator	Work in pairs and talk about the topic.	2
 6	69	u06-p069-s003	narrator	B Sandy and Simon are talking about their favourite colours.	1
 6	69	u06-p069-s005	narrator	Use the conversation below as a model.	1
-6	69	u06-p069-s006	sandy	What colours do you like for your clothes, Simong	2
+6	69	u06-p069-s006	sandy	What colours do you like for your clothes, Simon?	2
 6	69	u06-p069-s029	sandy	Sandy:	1
 6	69	u06-p069-s030	sandy	Yellow: sun, light, happy	1
 6	69	u06-p069-s031	sandy	Green: nature, new life	1
@@ -2695,47 +2695,47 @@ unit	page	id	speaker	text	rects
 6	69	u06-p069-s014	simon	Red: energy, love	2
 6	69	u06-p069-s008	sandy	That sounds nice.	1
 6	69	u06-p069-s033	sandy	Sandy:	1
-6	69	u06-p069-s009	simon	What are your favourite colours, Sandyg	1
+6	69	u06-p069-s009	simon	What are your favourite colours, Sandy?	1
 6	69	u06-p069-s034	simon	Simon:	1
 6	69	u06-p069-s010	sandy	I love cool colours like blue.	1
 6	69	u06-p069-s037	sandy	They make me feel calm.	1
 6	69	u06-p069-s035	sandy	Sandy:	1
 6	69	u06-p069-s011	narrator	C There is a fashion show at your school.	1
-6	69	u06-p069-s012	sandy	What do you want to wear for itg	1
+6	69	u06-p069-s012	sandy	What do you want to wear for it?	1
 6	70	u06-p070-s019	narrator	Unit 6	1
 6	70	u06-p070-s020	narrator	Reading	1
 6	70	u06-p070-s021	narrator	Choosing the right colour	1
 6	70	u06-p070-s001	narrator	Sunshine Middle School invited Ms Li, a fashion designer, to advise students on choosing the right colour to wear.	2
 6	70	u06-p070-s003	narrator	Before reading, think about the questions below.	2
 6	70	u06-p070-s002	narrator	Here is the interview script.	1
-6	70	u06-p070-s004	narrator	1 Do you think colour matching is importantg	1
-6	70	u06-p070-s005	narrator	Why or why notg	1
-6	70	u06-p070-s006	narrator	2 What questions about colours do you have for a fashion designerg	1
+6	70	u06-p070-s004	narrator	1 Do you think colour matching is important?	1
+6	70	u06-p070-s005	narrator	Why or why not?	1
+6	70	u06-p070-s006	narrator	2 What questions about colours do you have for a fashion designer?	1
 6	70	u06-p070-s007	kitty	Good morning, Ms Li.	1
-6	70	u06-p070-s034	kitty	May I ask you some questions about colours in fashiong	1
+6	70	u06-p070-s034	kitty	May I ask you some questions about colours in fashion?	1
 6	70	u06-p070-s022	kitty	Kitty:	1
 6	70	u06-p070-s008	kitty	We may better understand a text with the help of words like such as, for example or in fact.	3
 6	70	u06-p070-s023	kitty	TIP	1
 6	70	u06-p070-s009	ms li	Sure.	1
 6	70	u06-p070-s024	ms li	Ms Li:	1
-6	70	u06-p070-s010	kitty	How can we choose the right colours to wearg	1
-6	70	u06-p070-s035	kitty	Could you give us some adviceg	1
+6	70	u06-p070-s010	kitty	How can we choose the right colours to wear?	1
+6	70	u06-p070-s035	kitty	Could you give us some advice?	1
 6	70	u06-p070-s025	kitty	Kitty:	1
 6	70	u06-p070-s011	ms li	Well, it depends on the colour of our skin.	1
 6	70	u06-p070-s036	ms li	Some people look good in warm colours, like yellow, red and orange, but other people look nice in cool colours, such as green, blue and purple.	1
 6	70	u06-p070-s026	ms li	Ms Li:	1
-6	70	u06-p070-s012	kitty	Which colours go well togetherg	1
+6	70	u06-p070-s012	kitty	Which colours go well together?	1
 6	70	u06-p070-s027	kitty	Kitty:	1
 6	70	u06-p070-s013	ms li	Try to pick similar colours.	1
 6	70	u06-p070-s037	ms li	For example, wear dark blue jeans with a light blue blouse or T-shirt.	1
 6	70	u06-p070-s028	ms li	Ms Li:	1
-6	70	u06-p070-s014	kitty	OK, but can we mix warm and cool coloursg	1
+6	70	u06-p070-s014	kitty	OK, but can we mix warm and cool colours?	1
 6	70	u06-p070-s029	kitty	Kitty:	1
 6	70	u06-p070-s015	ms li	Yes.	1
 6	70	u06-p070-s038	ms li	In fact, warm and cool colours make each other stand out, such as yellow and green or orange and blue.	1
 6	70	u06-p070-s030	ms li	Ms Li:	1
 6	70	u06-p070-s039	ms li	But don’t wear more than three colours at one time.	1
-6	70	u06-p070-s016	kitty	What colours match allg	1
+6	70	u06-p070-s016	kitty	What colours match all?	1
 6	70	u06-p070-s031	kitty	Kitty:	1
 6	70	u06-p070-s017	ms li	Black, white and grey go well with any colour.	1
 6	70	u06-p070-s032	ms li	Ms Li:	1
@@ -2800,31 +2800,31 @@ unit	page	id	speaker	text	rects
 6	72	u06-p072-s008	narrator	formal dinner or meeting.	1
 6	72	u06-p072-s009	narrator	D Think about the questions below.	1
 6	72	u06-p072-s010	narrator	Share your answers with your classmates.	1
-6	72	u06-p072-s011	narrator	1 Which piece of advice from Ms Li do you think is the most usefulg	1
+6	72	u06-p072-s011	narrator	1 Which piece of advice from Ms Li do you think is the most useful?	1
 6	72	u06-p072-s042	narrator	Give an	1
 6	72	u06-p072-s012	narrator	example.	1
-6	72	u06-p072-s013	narrator	2 Do you look better in warm colours or cool coloursg	1
-6	72	u06-p072-s014	narrator	Whyg	1
-6	72	u06-p072-s015	narrator	3 What other advice do you have about fashiong	1
+6	72	u06-p072-s013	narrator	2 Do you look better in warm colours or cool colours?	1
+6	72	u06-p072-s014	narrator	Why?	1
+6	72	u06-p072-s015	narrator	3 What other advice do you have about fashion?	1
 6	73	u06-p073-s029	narrator	Unit 6	1
 6	73	u06-p073-s030	narrator	Grammar	1
 6	73	u06-p073-s028	narrator	Asking questions	1
 6	73	u06-p073-s001	narrator	Read the conversations below.	1
 6	73	u06-p073-s002	narrator	Pay attention to the three question types.	1
 6	73	u06-p073-s031	daniel	Daniel:	1
-6	73	u06-p073-s003	daniel	Do you have a talk with Ms Li before the showg	1
+6	73	u06-p073-s003	daniel	Do you have a talk with Ms Li before the show?	1
 6	73	u06-p073-s004	kitty	Yes.	1
 6	73	u06-p073-s064	kitty	It’s about colours in fashion.	1
 6	73	u06-p073-s032	kitty	Kitty:	1
 6	73	u06-p073-s033	daniel	Daniel:	1
-6	73	u06-p073-s005	daniel	Is Ms Li a teacherg	1
+6	73	u06-p073-s005	daniel	Is Ms Li a teacher?	1
 6	73	u06-p073-s006	kitty	No.	1
 6	73	u06-p073-s065	kitty	She’s a fashion designer.	1
 6	73	u06-p073-s034	kitty	Kitty:	1
 6	73	u06-p073-s066	kitty	When we answer a question with yes or no, we call it a yes-no question.	1
 6	73	u06-p073-s036	daniel	Question words:	1
 6	73	u06-p073-s035	daniel	Daniel:	1
-6	73	u06-p073-s007	daniel	When is the fashion show, by the wayg	1
+6	73	u06-p073-s007	daniel	When is the fashion show, by the way?	1
 6	73	u06-p073-s037	daniel	TIP	1
 6	73	u06-p073-s038	daniel	who	1
 6	73	u06-p073-s039	daniel	whose	1
@@ -2834,7 +2834,7 @@ unit	page	id	speaker	text	rects
 6	73	u06-p073-s042	kitty	which	1
 6	73	u06-p073-s044	kitty	when where	1
 6	73	u06-p073-s043	daniel	Daniel:	1
-6	73	u06-p073-s009	daniel	Where does the show take placeg	1
+6	73	u06-p073-s009	daniel	Where does the show take place?	1
 6	73	u06-p073-s045	daniel	why	1
 6	73	u06-p073-s046	daniel	how	1
 6	73	u06-p073-s047	kitty	Kitty:	1
@@ -2842,12 +2842,12 @@ unit	page	id	speaker	text	rects
 6	73	u06-p073-s011	narrator	A wh-question begins with a question word.	1
 6	73	u06-p073-s012	narrator	We need more information to answer a wh-question.	2
 6	73	u06-p073-s048	daniel	Daniel:	1
-6	73	u06-p073-s013	daniel	Is your favourite colour a warm colour or a cool colourg	1
+6	73	u06-p073-s013	daniel	Is your favourite colour a warm colour or a cool colour?	1
 6	73	u06-p073-s014	kitty	My favourite colour is yellow.	1
 6	73	u06-p073-s067	kitty	It’s a warm colour.	1
 6	73	u06-p073-s049	kitty	Kitty:	1
 6	73	u06-p073-s050	daniel	Daniel:	1
-6	73	u06-p073-s015	daniel	Which colours do you like to wear, warm colours or cool onesg	1
+6	73	u06-p073-s015	daniel	Which colours do you like to wear, warm colours or cool ones?	1
 6	73	u06-p073-s051	kitty	Kitty:	1
 6	73	u06-p073-s016	kitty	I look better in warm colours like red, yellow and orange.	1
 6	73	u06-p073-s017	narrator	A question with or gives two or more choices.	1
@@ -2858,17 +2858,17 @@ unit	page	id	speaker	text	rects
 6	73	u06-p073-s020	narrator	Andy is asking her some questions.	2
 6	73	u06-p073-s019	narrator	A Millie is showing Andy some pictures of her Art class.	1
 6	73	u06-p073-s021	narrator	Complete the questions with the correct wh-words.	1
-6	73	u06-p073-s058	narrator	Who is the woman in browng	1
+6	73	u06-p073-s058	narrator	Who is the woman in brown?	1
 6	73	u06-p073-s022	narrator	She’s our Art teacher.	1
-6	73	u06-p073-s059	narrator	Whose painting is on the wallg	1
+6	73	u06-p073-s059	narrator	Whose painting is on the wall?	1
 6	73	u06-p073-s023	narrator	It’s Sandy’s.	1
-6	73	u06-p073-s060	narrator	Where is Sandyg	1
+6	73	u06-p073-s060	narrator	Where is Sandy?	1
 6	73	u06-p073-s024	narrator	She’s at her desk.	1
-6	73	u06-p073-s061	narrator	Which painting do you like bestg	1
+6	73	u06-p073-s061	narrator	Which painting do you like best?	1
 6	73	u06-p073-s025	narrator	I like this one best.	1
-6	73	u06-p073-s062	narrator	Why do you like paintingg	1
+6	73	u06-p073-s062	narrator	Why do you like painting?	1
 6	73	u06-p073-s026	narrator	Because it’s lots of fun.	1
-6	73	u06-p073-s063	narrator	How can we learn more about artg	1
+6	73	u06-p073-s063	narrator	How can we learn more about art?	1
 6	73	u06-p073-s027	narrator	We can look things up on the internet.	1
 6	74	u06-p074-s020	narrator	Unit 6	1
 6	74	u06-p074-s002	narrator	Choose the correct sentences to complete their conversation.	2
@@ -2888,7 +2888,7 @@ unit	page	id	speaker	text	rects
 6	74	u06-p074-s026	andy	Andy:	1
 6	74	u06-p074-s006	millie	Yes, but I like the jeans better.	1
 6	74	u06-p074-s027	millie	Millie:	1
-6	74	u06-p074-s007	andy	Whyg	1
+6	74	u06-p074-s007	andy	Why?	1
 6	74	u06-p074-s028	andy	Andy:	1
 6	74	u06-p074-s029	millie	Millie:	1
 6	74	u06-p074-s008	andy	I like jeans too.	1
@@ -2899,10 +2899,10 @@ unit	page	id	speaker	text	rects
 6	74	u06-p074-s043	andy	He’s my primary school classmate.	1
 6	74	u06-p074-s032	andy	Andy:	1
 6	74	u06-p074-s010	narrator	a Because I think you look smart in the jeans.	1
-6	74	u06-p074-s011	narrator	b Could you give me some adviceg	1
-6	74	u06-p074-s012	narrator	c Do the grey trousers go with itg	1
-6	74	u06-p074-s013	narrator	d Which one do you like better, the red one or the orange oneg	1
-6	74	u06-p074-s014	narrator	e Whose birthday party is it, by the wayg	1
+6	74	u06-p074-s011	narrator	b Could you give me some advice?	1
+6	74	u06-p074-s012	narrator	c Do the grey trousers go with it?	1
+6	74	u06-p074-s013	narrator	d Which one do you like better, the red one or the orange one?	1
+6	74	u06-p074-s014	narrator	e Whose birthday party is it, by the way?	1
 6	74	u06-p074-s016	narrator	Look at the poster below and talk with your partner about the fashion show, using questions.	2
 6	74	u06-p074-s015	narrator	C There are some activities for the Fashion Week at Sunshine Middle School.	1
 6	74	u06-p074-s034	narrator	December	1
@@ -2988,7 +2988,7 @@ unit	page	id	speaker	text	rects
 6	75	u06-p075-s009	narrator	1 Out of sight, out of mind.	1
 6	75	u06-p075-s010	narrator	2 There is no smoke without fire.	1
 6	75	u06-p075-s011	narrator	3 My yellow blouse is very bright.	1
-6	75	u06-p075-s012	narrator	4 Whose brown shirt is on that chairg	1
+6	75	u06-p075-s012	narrator	4 Whose brown shirt is on that chair?	1
 6	75	u06-p075-s013	narrator	5 Take the grey coat when you go out.	1
 6	75	u06-p075-s014	narrator	6 We have a great fashion show around New Year.	1
 6	76	u06-p076-s020	narrator	Unit 6	1
@@ -3006,8 +3006,8 @@ unit	page	id	speaker	text	rects
 6	76	u06-p076-s008	narrator	qipao, hanfu, tangzhuang.	2
 6	76	u06-p076-s010	narrator	They are not just part of fashion.	2
 6	76	u06-p076-s011	narrator	They also show the traditional culture of our country.	1
-6	76	u06-p076-s012	narrator	1 When do some Chinese people choose to wear traditional clothesg	1
-6	76	u06-p076-s013	narrator	2 What other traditional Chinese clothes do you know aboutg	1
+6	76	u06-p076-s012	narrator	1 When do some Chinese people choose to wear traditional clothes?	1
+6	76	u06-p076-s013	narrator	2 What other traditional Chinese clothes do you know about?	1
 6	76	u06-p076-s015	narrator	Listen with her and complete the notes below.	2
 6	76	u06-p076-s014	narrator	B Sandy is listening to a podcast about hanfu and qipao.	1
 6	76	u06-p076-s024	narrator	Traditional Chinese clothes: hanfu and qipao	1
@@ -3026,12 +3026,12 @@ unit	page	id	speaker	text	rects
 6	77	u06-p077-s002	narrator	Work in pairs and talk about the topic.	2
 6	77	u06-p077-s001	narrator	C Sandy and Millie are talking about traditional Chinese clothes.	1
 6	77	u06-p077-s003	narrator	Use the conversation below as a model.	1
-6	77	u06-p077-s004	sandy	What type of traditional Chinese clothes do you like best, Millieg	1
+6	77	u06-p077-s004	sandy	What type of traditional Chinese clothes do you like best, Millie?	1
 6	77	u06-p077-s015	sandy	Sandy:	1
 6	77	u06-p077-s005	millie	I like qipao best.	1
 6	77	u06-p077-s042	millie	My mum likes to wear a qipao on important days.	1
 6	77	u06-p077-s016	millie	Millie:	1
-6	77	u06-p077-s006	sandy	What do you know about qipaog	1
+6	77	u06-p077-s006	sandy	What do you know about qipao?	1
 6	77	u06-p077-s017	sandy	Sandy:	1
 6	77	u06-p077-s007	millie	“Yes, I agree, but...”	2
 6	77	u06-p077-s009	millie	Qipao are usually made of silk, and they feel smooth and soft.	1
@@ -3082,7 +3082,7 @@ unit	page	id	speaker	text	rects
 6	78	u06-p078-s011	narrator	They are grey and made of leather.	2
 6	78	u06-p078-s012	narrator	Sports shoes are light and good for sport, and all the students like them.	2
 6	78	u06-p078-s013	narrator	All of these come in different sizes.	1
-6	78	u06-p078-s014	narrator	Do you like my designg	1
+6	78	u06-p078-s014	narrator	Do you like my design?	1
 6	78	u06-p078-s016	narrator	Make a writing plan like the one in Part D1.	2
 6	78	u06-p078-s015	narrator	D3 Write an article about your fashion design.	1
 6	78	u06-p078-s017	narrator	Use Sandy’s article as a model.	1
@@ -3116,7 +3116,7 @@ unit	page	id	speaker	text	rects
 6	79	u06-p079-s027	narrator	People wear them to show their culture and history.	2
 6	79	u06-p079-s011	narrator	Look at the man in the picture.	1
 6	79	u06-p079-s028	narrator	He is wearing a kilt, a kind of skirt for Scottish men.	2
-6	79	u06-p079-s029	narrator	What type of traditional clothing are you interested ing	2
+6	79	u06-p079-s029	narrator	What type of traditional clothing are you interested in?	2
 6	79	u06-p079-s030	narrator	Use the internet to find out more and share with your classmates.	2
 7	80	u07-p080-s008	narrator	Unit	1
 7	80	u07-p080-s001	narrator	Get your money’s worth.	1
@@ -3149,34 +3149,34 @@ unit	page	id	speaker	text	rects
 7	81	u07-p081-s005	narrator	Work in pairs and talk about popular gifts from different countries.	2
 7	81	u07-p081-s004	narrator	B Simon and Millie are talking about the gifts above.	1
 7	81	u07-p081-s006	narrator	Use the conversation below as a model.	1
-7	81	u07-p081-s007	simon	Which gift do you like, Millieg	1
+7	81	u07-p081-s007	simon	Which gift do you like, Millie?	1
 7	81	u07-p081-s029	simon	Simon:	1
 7	81	u07-p081-s008	millie	I love those Russian dolls.	1
 7	81	u07-p081-s030	millie	Millie:	1
-7	81	u07-p081-s009	simon	What’s special about themg	1
+7	81	u07-p081-s009	simon	What’s special about them?	1
 7	81	u07-p081-s031	simon	Simon:	1
 7	81	u07-p081-s010	millie	They’re a set of dolls in different sizes.	1
 7	81	u07-p081-s034	millie	Usually they come one inside another, from the biggest to the smallest.	1
 7	81	u07-p081-s032	millie	Millie:	1
 7	81	u07-p081-s035	millie	They’re colourful and full of surprises.	1
-7	81	u07-p081-s036	millie	What about you, Simong	1
+7	81	u07-p081-s036	millie	What about you, Simon?	1
 7	81	u07-p081-s011	simon	I love baseball caps.	1
 7	81	u07-p081-s037	simon	Players wear them to protect their eyes from the sun, and they’re also a kind of fashion.	1
 7	81	u07-p081-s033	simon	Simon:	1
-7	81	u07-p081-s012	narrator	C What other countries’ money do you knowg	1
+7	81	u07-p081-s012	narrator	C What other countries’ money do you know?	1
 7	82	u07-p082-s021	narrator	Unit 7	1
 7	82	u07-p082-s022	narrator	Reading	1
 7	82	u07-p082-s020	narrator	Family money management	1
 7	82	u07-p082-s001	narrator	Simon is talking to his mum about how his family manages their money.	1
 7	82	u07-p082-s002	narrator	Read their conversation.	2
 7	82	u07-p082-s003	narrator	Before reading, think about the questions below.	1
-7	82	u07-p082-s004	narrator	1 Does your family make plans for using moneyg	1
-7	82	u07-p082-s005	narrator	2 What do you think your family spends the most money on every yearg	1
+7	82	u07-p082-s004	narrator	1 Does your family make plans for using money?	1
+7	82	u07-p082-s005	narrator	2 What do you think your family spends the most money on every year?	1
 7	82	u07-p082-s006	mum	There’s a new mall across the street.	1
 7	82	u07-p082-s037	mum	Let’s go shopping.	1
 7	82	u07-p082-s023	mum	Mum:	1
 7	82	u07-p082-s007	simon	OK.	1
-7	82	u07-p082-s038	simon	Can I have a new pair of sports shoesg	1
+7	82	u07-p082-s038	simon	Can I have a new pair of sports shoes?	1
 7	82	u07-p082-s024	simon	Simon:	1
 7	82	u07-p082-s008	mum	Of course.	1
 7	82	u07-p082-s039	mum	And we also need a new computer.	1
@@ -3187,22 +3187,22 @@ unit	page	id	speaker	text	rects
 7	82	u07-p082-s041	mum	We make a budget every year.	1
 7	82	u07-p082-s040	mum	Your dad and I manage money well.	1
 7	82	u07-p082-s027	mum	Mum:	1
-7	82	u07-p082-s011	simon	What’s in the budgetg	1
+7	82	u07-p082-s011	simon	What’s in the budget?	1
 7	82	u07-p082-s028	simon	Simon:	1
 7	82	u07-p082-s012	mum	Well we need to cover your education first.	1
 7	82	u07-p082-s042	mum	Then we have to pay for our flat, car, food and other daily needs every month.	1
 7	82	u07-p082-s029	mum	Mum:	1
 7	82	u07-p082-s043	mum	All these cost about per cent of our budget.	1
-7	82	u07-p082-s013	simon	Where does the other half gog	1
+7	82	u07-p082-s013	simon	Where does the other half go?	1
 7	82	u07-p082-s030	simon	Simon:	1
 7	82	u07-p082-s014	mum	We spend about 30 per cent on special things.	1
 7	82	u07-p082-s031	mum	Mum:	1
-7	82	u07-p082-s015	simon	Like whatg	1
+7	82	u07-p082-s015	simon	Like what?	1
 7	82	u07-p082-s032	simon	Simon:	1
 7	82	u07-p082-s016	mum	Like taking holidays.	1
 7	82	u07-p082-s044	mum	Holidays can be expensive.	1
 7	82	u07-p082-s033	mum	Mum:	1
-7	82	u07-p082-s017	simon	Do we save any moneyg	1
+7	82	u07-p082-s017	simon	Do we save any money?	1
 7	82	u07-p082-s034	simon	Simon:	1
 7	82	u07-p082-s018	mum	Of course.	1
 7	82	u07-p082-s046	mum	It’s a good idea to save for a rainy day.	1
@@ -3219,11 +3219,11 @@ unit	page	id	speaker	text	rects
 7	83	u07-p083-s013	narrator	b Special things	1
 7	83	u07-p083-s014	narrator	c Daily needs	1
 7	83	u07-p083-s004	narrator	B Read the conversation again and answer the questions below.	1
-7	83	u07-p083-s005	narrator	1 What does Simon’s mum need to buy in the new mallg	1
-7	83	u07-p083-s006	narrator	2 How does Simon’s family manage their moneyg	1
-7	83	u07-p083-s007	narrator	3 What comes first in Simon’s family budgetg	1
-7	83	u07-p083-s008	narrator	4 What is an example of a special thing in Simon’s familyg	1
-7	83	u07-p083-s009	narrator	5 What does Simon’s mum mean by saying “to save for a rainy day”g	1
+7	83	u07-p083-s005	narrator	1 What does Simon’s mum need to buy in the new mall?	1
+7	83	u07-p083-s006	narrator	2 How does Simon’s family manage their money?	1
+7	83	u07-p083-s007	narrator	3 What comes first in Simon’s family budget?	1
+7	83	u07-p083-s008	narrator	4 What is an example of a special thing in Simon’s family?	1
+7	83	u07-p083-s009	narrator	5 What does Simon’s mum mean by saying “to save for a rainy day”?	1
 7	84	u07-p084-s016	narrator	Unit 7	1
 7	84	u07-p084-s002	narrator	Complete the blog post with the correct forms of the words and phrases in the box below.	2
 7	84	u07-p084-s001	narrator	C Simon is reading his friend John’s blog post about his family budget.	1
@@ -3257,11 +3257,11 @@ unit	page	id	speaker	text	rects
 7	84	u07-p084-s036	narrator	mum to help me put some in the.	1
 7	84	u07-p084-s009	narrator	D Think about the questions below.	1
 7	84	u07-p084-s010	narrator	Share your answers with your classmates.	1
-7	84	u07-p084-s011	narrator	1 What do you think of Simon’s family budgetg	1
+7	84	u07-p084-s011	narrator	1 What do you think of Simon’s family budget?	1
 7	84	u07-p084-s012	narrator	2 Make a budget for your family.	1
-7	84	u07-p084-s013	narrator	What is in your budgetg	1
-7	84	u07-p084-s014	narrator	3 Do you think it is important to make a budgetg	1
-7	84	u07-p084-s015	narrator	Why or why notg	1
+7	84	u07-p084-s013	narrator	What is in your budget?	1
+7	84	u07-p084-s014	narrator	3 Do you think it is important to make a budget?	1
+7	84	u07-p084-s015	narrator	Why or why not?	1
 7	85	u07-p085-s021	narrator	Unit 7	1
 7	85	u07-p085-s022	narrator	Grammar	1
 7	85	u07-p085-s023	narrator	A Using some/any	1
@@ -3273,17 +3273,17 @@ unit	page	id	speaker	text	rects
 7	85	u07-p085-s004	mum	We can use some in questions when we are making offers or requests.	2
 7	85	u07-p085-s005	mum	We use it when we expect the answer to be “yes”.	2
 7	85	u07-p085-s025	mum	TIP	1
-7	85	u07-p085-s006	narrator	Would you like some teag	1
-7	85	u07-p085-s007	simon	Can I have some orangesg	1
+7	85	u07-p085-s006	narrator	Would you like some tea?	1
+7	85	u07-p085-s007	simon	Can I have some oranges?	1
 7	85	u07-p085-s046	simon	Please buy some bananas.	1
 7	85	u07-p085-s008	simon	OK, Mum.	1
 7	85	u07-p085-s026	simon	Simon:	1
 7	85	u07-p085-s047	simon	They’re my favourite.	1
-7	85	u07-p085-s048	mum	Do we need any other thingsg	1
+7	85	u07-p085-s048	mum	Do we need any other things?	1
 7	85	u07-p085-s009	mum	OK.	1
 7	85	u07-p085-s027	mum	Mum:	1
 7	85	u07-p085-s010	simon	We don’t have any drinks.	1
-7	85	u07-p085-s049	simon	Can we buy some, Mumg	1
+7	85	u07-p085-s049	simon	Can we buy some, Mum?	1
 7	85	u07-p085-s028	simon	Simon:	1
 7	85	u07-p085-s029	mum	Mum:	1
 7	85	u07-p085-s011	mum	Sure.	1
@@ -3295,20 +3295,20 @@ unit	page	id	speaker	text	rects
 7	85	u07-p085-s013	narrator	A1 Millie is talking to her mum about money management.	1
 7	85	u07-p085-s050	millie	Mum, I have pocket money and I want to manage it well.	1
 7	85	u07-p085-s033	millie	Millie:	1
-7	85	u07-p085-s020	millie	Can you help meg	1
+7	85	u07-p085-s020	millie	Can you help me?	1
 7	85	u07-p085-s015	mum	Sure.	1
-7	85	u07-p085-s051	mum	What do you want to do with your moneyg	1
+7	85	u07-p085-s051	mum	What do you want to do with your money?	1
 7	85	u07-p085-s034	mum	Mum:	1
 7	85	u07-p085-s052	millie	First, I want to buy new things.	1
 7	85	u07-p085-s035	millie	Millie:	1
 7	85	u07-p085-s016	mum	OK.	1
-7	85	u07-p085-s053	mum	What do you want to buyg	1
+7	85	u07-p085-s053	mum	What do you want to buy?	1
 7	85	u07-p085-s036	mum	Mum:	1
 7	85	u07-p085-s054	millie	I don’t have notebooks.	1
 7	85	u07-p085-s037	millie	Millie:	1
 7	85	u07-p085-s038	millie	I need new ones.	1
 7	85	u07-p085-s039	millie	I also want to buy gifts for my friends.	1
-7	85	u07-p085-s055	mum	Do you have ideas for the rest of your moneyg	1
+7	85	u07-p085-s055	mum	Do you have ideas for the rest of your money?	1
 7	85	u07-p085-s040	mum	Mum:	1
 7	85	u07-p085-s017	millie	Maybe I can save it.	1
 7	85	u07-p085-s041	millie	Millie:	1
@@ -3340,7 +3340,7 @@ unit	page	id	speaker	text	rects
 7	86	u07-p086-s032	narrator	Is there	1
 7	86	u07-p086-s005	narrator	No, there isn’t.	2
 7	86	u07-p086-s040	narrator	any salt	1
-7	86	u07-p086-s006	narrator	on the tableg	1
+7	86	u07-p086-s006	narrator	on the table?	1
 7	86	u07-p086-s007	narrator	Yes, there are.	2
 7	86	u07-p086-s033	narrator	any vegetables	1
 7	86	u07-p086-s034	narrator	Are there	1
@@ -3416,7 +3416,7 @@ unit	page	id	speaker	text	rects
 7	88	u07-p088-s003	narrator	I give you nine shells.	1
 7	88	u07-p088-s004	narrator	You give me two fish.	2
 7	88	u07-p088-s006	narrator	Here's 30 yuan for the book.	2
-7	88	u07-p088-s005	narrator	OKg	1
+7	88	u07-p088-s005	narrator	OK?	1
 7	88	u07-p088-s007	narrator	Thanks.	1
 7	88	u07-p088-s008	narrator	Here you are.	2
 7	88	u07-p088-s009	narrator	OK!	1
@@ -3425,10 +3425,10 @@ unit	page	id	speaker	text	rects
 7	88	u07-p088-s013	narrator	When reading pictures, look closely at the details in the image and read the text in the speech bubbles to better understand the message.	5
 7	88	u07-p088-s025	narrator	TIP	1
 7	88	u07-p088-s012	narrator	That's very easy!	1
-7	88	u07-p088-s014	narrator	How much is this bag of riceg	3
+7	88	u07-p088-s014	narrator	How much is this bag of rice?	3
 7	88	u07-p088-s015	narrator	45 coins.	1
-7	88	u07-p088-s016	narrator	1 How many ways to pay are there in the picturesg	1
-7	88	u07-p088-s017	narrator	2 What other kinds of money do you know aboutg	1
+7	88	u07-p088-s016	narrator	1 How many ways to pay are there in the pictures?	1
+7	88	u07-p088-s017	narrator	2 What other kinds of money do you know about?	1
 7	88	u07-p088-s019	narrator	Listen to their conversation and complete the table below.	2
 7	88	u07-p088-s018	narrator	B Daniel is talking to Millie about a money show at Sunshine Museum.	1
 7	88	u07-p088-s026	narrator	Event	1
@@ -3450,7 +3450,7 @@ unit	page	id	speaker	text	rects
 7	89	u07-p089-s002	narrator	Work in pairs and talk about the topic.	2
 7	89	u07-p089-s001	narrator	C Daniel and Millie are talking about lucky money.	1
 7	89	u07-p089-s003	narrator	Use the conversation below as a model.	1
-7	89	u07-p089-s004	millie	Do you usually get lucky money at the Spring Festivalg	1
+7	89	u07-p089-s004	millie	Do you usually get lucky money at the Spring Festival?	1
 7	89	u07-p089-s027	millie	Millie:	1
 7	89	u07-p089-s005	millie	“Of course” means “yes”.	2
 7	89	u07-p089-s007	daniel	Of course!	1
@@ -3462,7 +3462,7 @@ unit	page	id	speaker	text	rects
 7	89	u07-p089-s040	millie	Some of my other relatives give me lucky money too.	1
 7	89	u07-p089-s030	millie	Millie:	1
 7	89	u07-p089-s041	millie	My uncle lives far away in Shenzhen, so he sometimes sends me online red packets.	1
-7	89	u07-p089-s009	daniel	How do you spend your lucky moneyg	1
+7	89	u07-p089-s009	daniel	How do you spend your lucky money?	1
 7	89	u07-p089-s031	daniel	Daniel:	1
 7	89	u07-p089-s010	millie	I usually save it.	1
 7	89	u07-p089-s042	millie	You never know when you may need it.	1
@@ -3472,8 +3472,8 @@ unit	page	id	speaker	text	rects
 7	89	u07-p089-s012	narrator	D Mr Wu asked the Class 1, Grade 7 students to write an article about what they do with their lucky money.	2
 7	89	u07-p089-s013	narrator	D1 Complete the survey below with your own information.	1
 7	89	u07-p089-s018	narrator	Lucky money survey	1
-7	89	u07-p089-s014	narrator	1 When do you get your lucky moneyg	1
-7	89	u07-p089-s015	narrator	2 What do you spend your lucky money ong	1
+7	89	u07-p089-s014	narrator	1 When do you get your lucky money?	1
+7	89	u07-p089-s015	narrator	2 What do you spend your lucky money on?	1
 7	89	u07-p089-s019	narrator	School things	1
 7	89	u07-p089-s020	narrator	Books	1
 7	89	u07-p089-s021	narrator	Gifts	1
@@ -3481,23 +3481,23 @@ unit	page	id	speaker	text	rects
 7	89	u07-p089-s023	narrator	Food	1
 7	89	u07-p089-s024	narrator	Music	1
 7	89	u07-p089-s034	narrator	Other(s):	1
-7	89	u07-p089-s016	narrator	3 How often do you save some of your lucky moneyg	1
+7	89	u07-p089-s016	narrator	3 How often do you save some of your lucky money?	1
 7	89	u07-p089-s035	narrator	Never	1
 7	89	u07-p089-s036	narrator	Seldom	1
 7	89	u07-p089-s037	narrator	Sometimes	1
 7	89	u07-p089-s038	narrator	Always	1
-7	89	u07-p089-s017	narrator	4 Do you make a budget for your lucky moneyg	1
+7	89	u07-p089-s017	narrator	4 Do you make a budget for your lucky money?	1
 7	89	u07-p089-s025	narrator	Yes No	2
 7	90	u07-p090-s025	narrator	Unit 7	1
 7	90	u07-p090-s001	narrator	D2 Millie is writing about what she does with her lucky money.	1
 7	90	u07-p090-s002	narrator	Read her article below.	1
 7	90	u07-p090-s026	narrator	What I do with my lucky money	1
 7	90	u07-p090-s027	narrator	Every year, I get some lucky money at the Spring	1
-7	90	u07-p090-s003	narrator	When do I get lucky moneyg	2
+7	90	u07-p090-s003	narrator	When do I get lucky money?	2
 7	90	u07-p090-s004	narrator	Festival.	1
 7	90	u07-p090-s028	narrator	I usually spend most of my lucky money on pens, books, food and music.	2
 7	90	u07-p090-s029	narrator	I also use some money to	1
-7	90	u07-p090-s006	narrator	What do I spend money ong	2
+7	90	u07-p090-s006	narrator	What do I spend money on?	2
 7	90	u07-p090-s007	narrator	help children in need every year.	1
 7	90	u07-p090-s030	narrator	I save the rest in	1
 7	90	u07-p090-s008	narrator	my bank account.	1
@@ -3506,7 +3506,7 @@ unit	page	id	speaker	text	rects
 7	90	u07-p090-s010	narrator	I try to manage my money well.	1
 7	90	u07-p090-s032	narrator	At the beginning	1
 7	90	u07-p090-s011	narrator	of each year, I make a budget for my lucky money.	1
-7	90	u07-p090-s012	narrator	Do I make a budgetg	1
+7	90	u07-p090-s012	narrator	Do I make a budget?	1
 7	90	u07-p090-s033	narrator	It helps me plan what to do with it and have good spending habits.	2
 7	90	u07-p090-s014	narrator	D3 Write an article about how you use your lucky money based on the information in Part D1.	2
 7	90	u07-p090-s015	narrator	Use Millie’s article as a model.	1
@@ -3564,37 +3564,37 @@ unit	page	id	speaker	text	rects
 8	93	u08-p093-s004	narrator	B Millie is chatting online with her friend in Scotland, Robin, about their favourite festivals.	2
 8	93	u08-p093-s005	narrator	Work in pairs and talk about the topic.	1
 8	93	u08-p093-s006	narrator	Use the conversation below as a model.	1
-8	93	u08-p093-s007	robin	What’s your favourite festival, Millieg	1
+8	93	u08-p093-s007	robin	What’s your favourite festival, Millie?	1
 8	93	u08-p093-s025	robin	Robin:	1
 8	93	u08-p093-s008	millie	I love the Dragon Boat Festival.	1
 8	93	u08-p093-s032	millie	Many people think it’s a festival to remember the great poet, Qu Yuan.	1
 8	93	u08-p093-s026	millie	Millie:	1
-8	93	u08-p093-s009	robin	What do you do on that dayg	1
+8	93	u08-p093-s009	robin	What do you do on that day?	1
 8	93	u08-p093-s027	robin	Robin:	1
 8	93	u08-p093-s010	millie	We have dragon boat races.	1
 8	93	u08-p093-s034	millie	We also eat delicious rice dumplings.	1
 8	93	u08-p093-s033	millie	They’re exciting.	1
 8	93	u08-p093-s028	millie	Millie:	1
-8	93	u08-p093-s035	millie	What festival do you like, Robing	1
+8	93	u08-p093-s035	millie	What festival do you like, Robin?	1
 8	93	u08-p093-s011	robin	I like Burns Night.	1
 8	93	u08-p093-s036	robin	It’s a Scottish festival to celebrate the life and work of the great poet, Robert Burns.	1
 8	93	u08-p093-s029	robin	Robin:	1
-8	93	u08-p093-s012	millie	What do you do on Burns Nightg	1
+8	93	u08-p093-s012	millie	What do you do on Burns Night?	1
 8	93	u08-p093-s030	millie	Millie:	1
 8	93	u08-p093-s013	robin	We get together with friends and eat haggis, a special dish.	1
 8	93	u08-p093-s037	robin	We also read poems by Robert Burns.	1
 8	93	u08-p093-s031	robin	Robin:	1
 8	93	u08-p093-s038	robin	It’s great fun!	1
 8	93	u08-p093-s015	narrator	Think of a festival and talk about how people celebrate it with your partner.	2
-8	93	u08-p093-s014	narrator	C What other festivals do you knowg	1
+8	93	u08-p093-s014	narrator	C What other festivals do you know?	1
 8	94	u08-p094-s028	narrator	Unit 8	1
 8	94	u08-p094-s029	narrator	Reading	1
 8	94	u08-p094-s027	narrator	Happy New Year	1
 8	94	u08-p094-s001	narrator	Amy is watching a video about New Year celebrations around the world.	1
 8	94	u08-p094-s002	narrator	Here is the video script.	2
 8	94	u08-p094-s003	narrator	Before reading, think about the questions below.	1
-8	94	u08-p094-s004	narrator	1 How do you celebrate New Yearg	1
-8	94	u08-p094-s005	narrator	2 Why do we celebrate New Yearg	1
+8	94	u08-p094-s004	narrator	1 How do you celebrate New Year?	1
+8	94	u08-p094-s005	narrator	2 Why do we celebrate New Year?	1
 8	94	u08-p094-s006	narrator	Good evening, ladies and gentlemen.	1
 8	94	u08-p094-s030	narrator	New Year is	1
 8	94	u08-p094-s007	narrator	“Ladies and gentlemen” is a common way to address a group of people, especially in a formal, public setting.	8
@@ -3607,7 +3607,7 @@ unit	page	id	speaker	text	rects
 8	94	u08-p094-s011	narrator	for good luck and peace.	1
 8	94	u08-p094-s034	narrator	People in Türkiye think salt	1
 8	94	u08-p094-s012	narrator	will keep them from bad things in the coming year.	1
-8	94	u08-p094-s013	narrator	Isn’t that interestingg	1
+8	94	u08-p094-s013	narrator	Isn’t that interesting?	1
 8	94	u08-p094-s035	narrator	Here in Greece, an old woman is hanging onions on her door.	2
 8	94	u08-p094-s036	narrator	It’s a Greek tradition to welcome the new	1
 8	94	u08-p094-s015	narrator	year.	1
@@ -3619,7 +3619,7 @@ unit	page	id	speaker	text	rects
 8	94	u08-p094-s038	narrator	When the clock strikes 12, they	1
 8	94	u08-p094-s039	narrator	jump off their chairs into the new year, in the hope of getting over any problem in the year ahead!	2
 8	94	u08-p094-s040	narrator	In Colombia, some people are carrying suitcases around the block.	2
-8	94	u08-p094-s022	narrator	Are they travellersg	1
+8	94	u08-p094-s022	narrator	Are they travellers?	1
 8	94	u08-p094-s023	narrator	No!	1
 8	94	u08-p094-s041	narrator	They’re	1
 8	94	u08-p094-s024	narrator	hoping for a new year with lots of travel.	1
@@ -3663,29 +3663,29 @@ unit	page	id	speaker	text	rects
 8	96	u08-p096-s021	narrator	midnight	1
 8	96	u08-p096-s022	narrator	tradition	1
 8	96	u08-p096-s023	narrator	spread	1
-8	96	u08-p096-s004	shirley	What are you watching, Amyg	1
+8	96	u08-p096-s004	shirley	What are you watching, Amy?	1
 8	96	u08-p096-s024	shirley	Shirley:	1
 8	96	u08-p096-s026	amy	I’m watching a video about how people all over the world celebrate New Year.	2
 8	96	u08-p096-s025	amy	Amy:	1
 8	96	u08-p096-s055	shirley	Let me have a look.	1
 8	96	u08-p096-s027	shirley	Shirley:	1
-8	96	u08-p096-s028	shirley	Why are these people spreading salt on the doorstepg	2
+8	96	u08-p096-s028	shirley	Why are these people spreading salt on the doorstep?	2
 8	96	u08-p096-s031	amy	People in Türkiye like to welcome the new year this way.	1
 8	96	u08-p096-s032	amy	They think salt will keep them from bad things in the coming year.	2
 8	96	u08-p096-s030	amy	Amy:	1
 8	96	u08-p096-s005	shirley	That’s interesting!	1
-8	96	u08-p096-s056	shirley	And what’s this woman doingg	1
+8	96	u08-p096-s056	shirley	And what’s this woman doing?	1
 8	96	u08-p096-s034	shirley	Shirley:	1
 8	96	u08-p096-s036	amy	She’s hanging onions on her door to wish for good luck and health.	2
 8	96	u08-p096-s035	amy	Amy:	1
 8	96	u08-p096-s038	amy	It’s a New Year in Greece.	1
 8	96	u08-p096-s039	narrator	It’s near midnight.	1
-8	96	u08-p096-s040	narrator	Why are these people all standing on the chairsg	1
+8	96	u08-p096-s040	narrator	Why are these people all standing on the chairs?	1
 8	96	u08-p096-s042	amy	It’s a tradition in Denmark.	1
 8	96	u08-p096-s043	amy	People are ready to jump into the new year when the clock strikes 12.	2
 8	96	u08-p096-s041	amy	Amy:	1
-8	96	u08-p096-s006	shirley	Where are these peopleg	1
-8	96	u08-p096-s057	shirley	What are they doingg	1
+8	96	u08-p096-s006	shirley	Where are these people?	1
+8	96	u08-p096-s057	shirley	What are they doing?	1
 8	96	u08-p096-s045	shirley	Shirley:	1
 8	96	u08-p096-s047	amy	These people are in Colombia.	1
 8	96	u08-p096-s048	amy	They’re walking around the block with suitcases.	2
@@ -3695,11 +3695,11 @@ unit	page	id	speaker	text	rects
 8	96	u08-p096-s052	shirley	Shirley:	1
 8	96	u08-p096-s008	narrator	D Think about the questions below.	1
 8	96	u08-p096-s009	shirley	Share your answers with your classmates.	1
-8	96	u08-p096-s010	narrator	1 Which of the celebrations in the four countries interests you mostg	1
-8	96	u08-p096-s011	narrator	Whyg	1
+8	96	u08-p096-s010	narrator	1 Which of the celebrations in the four countries interests you most?	1
+8	96	u08-p096-s011	narrator	Why?	1
 8	96	u08-p096-s053	narrator	People often use the phrase “out with the old, in with the new” when they celebrate New Year.	2
-8	96	u08-p096-s013	narrator	What does it mean in Chineseg	1
-8	96	u08-p096-s014	narrator	3 Do you know any other interesting ways to celebrate New Yearg	1
+8	96	u08-p096-s013	narrator	What does it mean in Chinese?	1
+8	96	u08-p096-s014	narrator	3 Do you know any other interesting ways to celebrate New Year?	1
 8	96	u08-p096-s054	narrator	Share one with your classmates.	2
 8	97	u08-p097-s027	narrator	Unit 8	1
 8	97	u08-p097-s028	narrator	Grammar	1
@@ -3733,7 +3733,7 @@ unit	page	id	speaker	text	rects
 8	97	u08-p097-s024	narrator	Am I	2
 8	97	u08-p097-s014	narrator	I am.	2
 8	97	u08-p097-s042	narrator	Are	1
-8	97	u08-p097-s015	narrator	playingg	1
+8	97	u08-p097-s015	narrator	playing?	1
 8	97	u08-p097-s025	narrator	Yes,	1
 8	97	u08-p097-s016	narrator	you/we/they are.	2
 8	97	u08-p097-s043	narrator	you/we/they Is	2
@@ -3776,12 +3776,12 @@ unit	page	id	speaker	text	rects
 8	98	u08-p098-s008	narrator	B Amy and Sandy are talking on the phone.	1
 8	98	u08-p098-s009	narrator	Complete their conversation.	1
 8	98	u08-p098-s011	amy	Hi, Sandy.	1
-8	98	u08-p098-s064	amy	What are you doing right nowg	1
+8	98	u08-p098-s064	amy	What are you doing right now?	1
 8	98	u08-p098-s038	amy	Amy:	1
 8	98	u08-p098-s065	sandy	I (watch) the Vienna New Year’s Concert on TV.	1
 8	98	u08-p098-s039	sandy	Sandy:	1
-8	98	u08-p098-s042	amy	What they (play)g	1
-8	98	u08-p098-s041	amy	Oh, reallyg	1
+8	98	u08-p098-s042	amy	What they (play)?	1
+8	98	u08-p098-s041	amy	Oh, really?	1
 8	98	u08-p098-s040	amy	Amy:	1
 8	98	u08-p098-s066	sandy	They’re playing a famous piece from the Strauss family.	1
 8	98	u08-p098-s043	sandy	Sandy:	1
@@ -3791,7 +3791,7 @@ unit	page	id	speaker	text	rects
 8	98	u08-p098-s061	amy	(watch)	1
 8	98	u08-p098-s047	amy	That sounds like fun!	1
 8	98	u08-p098-s046	amy	Amy:	1
-8	98	u08-p098-s049	amy	with you toog	1
+8	98	u08-p098-s049	amy	with you too?	1
 8	98	u08-p098-s067	sandy	No, they aren’t.	1
 8	98	u08-p098-s050	sandy	Sandy:	1
 8	98	u08-p098-s051	sandy	My dad	1
@@ -3803,7 +3803,7 @@ unit	page	id	speaker	text	rects
 8	98	u08-p098-s055	amy	My family are busy too.	1
 8	98	u08-p098-s054	amy	Amy:	1
 8	98	u08-p098-s057	amy	dinner tonight.	1
-8	98	u08-p098-s012	sandy	Are you having a good timeg	1
+8	98	u08-p098-s012	sandy	Are you having a good time?	1
 8	98	u08-p098-s058	sandy	Sandy:	1
 8	98	u08-p098-s013	amy	Yes.	1
 8	98	u08-p098-s068	amy	I love celebrating New Year.	1
@@ -3833,8 +3833,8 @@ unit	page	id	speaker	text	rects
 8	99	u08-p099-s044	narrator	view	1
 8	99	u08-p099-s004	narrator	Read Millie’s messages to Wendy and try to pronounce the /w/ and /v/ sounds correctly.	2
 8	99	u08-p099-s003	narrator	A Millie is waiting for Wendy at Sunshine Park.	1
-8	99	u08-p099-s005	narrator	Wendy, when will you get hereg	1
-8	99	u08-p099-s006	narrator	Can you find the wayg	1
+8	99	u08-p099-s005	narrator	Wendy, when will you get here?	1
+8	99	u08-p099-s006	narrator	Can you find the way?	1
 8	99	u08-p099-s007	narrator	Don’t worry.	1
 8	99	u08-p099-s008	narrator	You can get help from this website.	1
 8	99	u08-p099-s009	narrator	A lot of people are watching a show in the park.	1
@@ -3852,7 +3852,7 @@ unit	page	id	speaker	text	rects
 8	99	u08-p099-s021	narrator	Then practise saying the sentences.	2
 8	99	u08-p099-s019	narrator	C Simon is asking Annie about her favourite festival.	1
 8	99	u08-p099-s020	narrator	Listen to what they say.	1
-8	99	u08-p099-s022	narrator	Which festival is your favouriteg	2
+8	99	u08-p099-s022	narrator	Which festival is your favourite?	2
 8	99	u08-p099-s023	narrator	I like the Lantern Festival best.	2
 8	99	u08-p099-s024	narrator	I like to visit the park very much.	2
 8	99	u08-p099-s025	narrator	I can enjoy the colourful lantern show!	2
@@ -3874,9 +3874,9 @@ unit	page	id	speaker	text	rects
 8	100	u08-p100-s007	narrator	Chinese.	1
 8	100	u08-p100-s027	narrator	On this day, we	1
 8	100	u08-p100-s028	narrator	wish our elders a long and happy life.	2
-8	100	u08-p100-s009	narrator	1 What do people do on the Double Ninth Festivalg	1
-8	100	u08-p100-s010	narrator	2 Does your family have any special traditions on the Double Ninth Festivalg	1
-8	100	u08-p100-s011	narrator	What are theyg	1
+8	100	u08-p100-s009	narrator	1 What do people do on the Double Ninth Festival?	1
+8	100	u08-p100-s010	narrator	2 Does your family have any special traditions on the Double Ninth Festival?	1
+8	100	u08-p100-s011	narrator	What are they?	1
 8	100	u08-p100-s013	narrator	Listen to their conversation and complete the notes below.	2
 8	100	u08-p100-s012	narrator	B Simon is talking to his sister Annie about Mother’s Day and Father’s Day.	1
 8	100	u08-p100-s029	narrator	Mother’s Day	1
@@ -3903,7 +3903,7 @@ unit	page	id	speaker	text	rects
 8	101	u08-p101-s001	narrator	C Simon is talking to Will about important festivals.	1
 8	101	u08-p101-s003	narrator	Use the conversation below as a model.	1
 8	101	u08-p101-s004	simon	Hey, Will.	1
-8	101	u08-p101-s040	simon	What do you usually do for Christmas in the UKg	1
+8	101	u08-p101-s040	simon	What do you usually do for Christmas in the UK?	1
 8	101	u08-p101-s020	simon	Simon:	1
 8	101	u08-p101-s005	will	We usually get together with family and friends for a big dinner.	1
 8	101	u08-p101-s041	will	We give each other presents and sing Christmas songs.	1
@@ -3921,8 +3921,8 @@ unit	page	id	speaker	text	rects
 8	101	u08-p101-s011	narrator	D1 Here is Simon’s writing plan.	1
 8	101	u08-p101-s012	narrator	Read it below.	1
 8	101	u08-p101-s015	narrator	The Spring Festival	1
-8	101	u08-p101-s013	narrator	How do people celebrate the Spring Festivalg	3
-8	101	u08-p101-s014	narrator	What is the Spring Festivalg	2
+8	101	u08-p101-s013	narrator	How do people celebrate the Spring Festival?	3
+8	101	u08-p101-s014	narrator	What is the Spring Festival?	2
 8	101	u08-p101-s016	narrator	clean their homes	1
 8	101	u08-p101-s025	narrator	an important	1
 8	101	u08-p101-s026	narrator	holiday in China	1
@@ -4001,7 +4001,7 @@ unit	page	id	speaker	text	rects
 8	103	u08-p103-s028	narrator	Watch the programme and learn more about different ways of	1
 8	103	u08-p103-s011	narrator	celebrating the festival around China.	1
 8	103	u08-p103-s029	narrator	Are there any special Chinese New Year	1
-8	103	u08-p103-s012	narrator	traditions in your hometowng	1
+8	103	u08-p103-s012	narrator	traditions in your hometown?	1
 8	103	u08-p103-s013	narrator	Share them with your classmates.	1
 10	104	u10-p104-s001	narrator	Project 2	1
 10	104	u10-p104-s002	narrator	A party plan to celebrate New Year	1
@@ -4014,13 +4014,13 @@ unit	page	id	speaker	text	rects
 10	104	u10-p104-s009	narrator	Use the questions below to help you and make notes of your answers.	2
 10	104	u10-p104-s010	narrator	Questions	1
 10	104	u10-p104-s011	narrator	Answers	1
-10	104	u10-p104-s012	narrator	• When and where will the party take placeg	1
-10	104	u10-p104-s013	narrator	• What is the budget for the partyg	1
-10	104	u10-p104-s014	narrator	• What food and drinks will you buy for the partyg	1
-10	104	u10-p104-s015	narrator	• How will you decorate the place for the partyg	1
-10	104	u10-p104-s016	narrator	• Is there a dress codeg	1
-10	104	u10-p104-s017	narrator	• Will there be any music or dancingg	1
-10	104	u10-p104-s018	narrator	• What other activities will there beg	1
+10	104	u10-p104-s012	narrator	• When and where will the party take place?	1
+10	104	u10-p104-s013	narrator	• What is the budget for the party?	1
+10	104	u10-p104-s014	narrator	• What food and drinks will you buy for the party?	1
+10	104	u10-p104-s015	narrator	• How will you decorate the place for the party?	1
+10	104	u10-p104-s016	narrator	• Is there a dress code?	1
+10	104	u10-p104-s017	narrator	• Will there be any music or dancing?	1
+10	104	u10-p104-s018	narrator	• What other activities will there be?	1
 10	104	u10-p104-s019	narrator	We can have a fashion show.	1
 10	104	u10-p104-s020	narrator	Students can wear their favourite clothes or design their own.	2
 10	104	u10-p104-s021	narrator	We can get a large piece of paper and ask our classmates to write down their goals for the coming year.	2
@@ -4072,7 +4072,7 @@ unit	page	id	speaker	text	rects
 11	106	u11-p106-s030	narrator	DIY sounds f!	1
 11	106	u11-p106-s013	narrator	Complete their conversations with the correct forms of the verb be.	2
 11	106	u11-p106-s012	narrator	A2 Simon and Sandy are introducing their deskmates to their parents.	1
-11	106	u11-p106-s032	mum	you happy at school, my dearg	1
+11	106	u11-p106-s032	mum	you happy at school, my dear?	1
 11	106	u11-p106-s031	mum	Mum:	1
 11	106	u11-p106-s058	simon	Sure!	1
 11	106	u11-p106-s033	simon	Simon:	1
@@ -4082,14 +4082,14 @@ unit	page	id	speaker	text	rects
 11	106	u11-p106-s037	mum	Mum:	1
 11	106	u11-p106-s059	simon	Yes, he	1
 11	106	u11-p106-s039	simon	Simon:	1
-11	106	u11-p106-s041	mum	he good at basketballg	1
+11	106	u11-p106-s041	mum	he good at basketball?	1
 11	106	u11-p106-s040	mum	Mum:	1
 11	106	u11-p106-s060	simon	Yes!	1
 11	106	u11-p106-s042	simon	Simon:	1
 11	106	u11-p106-s043	simon	David and I	1
 11	106	u11-p106-s057	simon	both good	1
 11	106	u11-p106-s044	simon	basketball players.	1
-11	106	u11-p106-s046	dad	this girl your classmateg	1
+11	106	u11-p106-s046	dad	this girl your classmate?	1
 11	106	u11-p106-s014	dad	What a nice photo, Sandy!	1
 11	106	u11-p106-s045	dad	Dad:	1
 11	106	u11-p106-s061	sandy	Yes.	1
@@ -4098,7 +4098,7 @@ unit	page	id	speaker	text	rects
 11	106	u11-p106-s048	sandy	Her name is Nora.	1
 11	106	u11-p106-s051	dad	Nora interested in music,	1
 11	106	u11-p106-s050	dad	Dad:	1
-11	106	u11-p106-s052	dad	like youg	1
+11	106	u11-p106-s052	dad	like you?	1
 11	106	u11-p106-s062	sandy	No, she	1
 11	106	u11-p106-s053	sandy	Sandy:	1
 11	106	u11-p106-s054	sandy	She likes DIY.	1
@@ -4147,10 +4147,10 @@ unit	page	id	speaker	text	rects
 11	108	u11-p108-s016	narrator	George is very smart and helpful.	1
 11	108	u11-p108-s018	narrator	I learn a lot about the sport from him.	2
 11	108	u11-p108-s017	narrator	He helps me play basketball well.	1
-11	108	u11-p108-s019	narrator	1 Who can run fastg	1
-11	108	u11-p108-s020	narrator	2 Who always puts the team firstg	1
-11	108	u11-p108-s021	narrator	3 What sport is Kevin good atg	1
-11	108	u11-p108-s022	narrator	4 What does Alex look likeg	1
+11	108	u11-p108-s019	narrator	1 Who can run fast?	1
+11	108	u11-p108-s020	narrator	2 Who always puts the team first?	1
+11	108	u11-p108-s021	narrator	3 What sport is Kevin good at?	1
+11	108	u11-p108-s022	narrator	4 What does Alex look like?	1
 11	108	u11-p108-s024	narrator	Use the information below to help you.	2
 11	108	u11-p108-s023	narrator	C2 Write an introduction to Tom, one of David’s basketball teammates.	1
 11	108	u11-p108-s027	narrator	Name: Tom	1
@@ -4185,17 +4185,17 @@ unit	page	id	speaker	text	rects
 12	109	u12-p109-s006	narrator	Grandpa is an artist.	1
 12	109	u12-p109-s009	narrator	Complete their conversation with the correct forms of the verbs in brackets.	2
 12	109	u12-p109-s008	narrator	A2 David is talking to Nora about his family members’ hobbies.	1
-12	109	u12-p109-s010	nora	What do your family members like doing, Davidg	1
+12	109	u12-p109-s010	nora	What do your family members like doing, David?	1
 12	109	u12-p109-s031	nora	Nora:	1
 12	109	u12-p109-s056	david	My dad (like) playing Chinese chess.	1
 12	109	u12-p109-s032	david	David:	1
-12	109	u12-p109-s011	nora	Do you play with himg	1
+12	109	u12-p109-s011	nora	Do you play with him?	1
 12	109	u12-p109-s033	nora	Nora:	1
 12	109	u12-p109-s057	david	Yes, I (do).	1
 12	109	u12-p109-s034	david	David:	1
 12	109	u12-p109-s035	david	I enjoy it!	1
-12	109	u12-p109-s038	nora	Does she (enjoy) Chinese chess toog	1
-12	109	u12-p109-s037	nora	And your mumg	1
+12	109	u12-p109-s038	nora	Does she (enjoy) Chinese chess too?	1
+12	109	u12-p109-s037	nora	And your mum?	1
 12	109	u12-p109-s036	nora	Nora:	1
 12	109	u12-p109-s058	david	No, she (do).	1
 12	109	u12-p109-s039	david	David:	1
@@ -4203,12 +4203,12 @@ unit	page	id	speaker	text	rects
 12	109	u12-p109-s041	david	Reading is her favourite	1
 12	109	u12-p109-s042	david	hobby.	1
 12	109	u12-p109-s044	nora	I (love) reading too.	1
-12	109	u12-p109-s045	nora	What about youg	1
+12	109	u12-p109-s045	nora	What about you?	1
 12	109	u12-p109-s043	nora	Nora:	1
 12	109	u12-p109-s012	david	I like basketball best.	1
 12	109	u12-p109-s059	david	My brother enjoys it too.	1
 12	109	u12-p109-s046	david	David:	1
-12	109	u12-p109-s048	nora	Do you often (play) basketball togetherg	1
+12	109	u12-p109-s048	nora	Do you often (play) basketball together?	1
 12	109	u12-p109-s047	nora	Nora:	1
 12	109	u12-p109-s060	david	Yes.	1
 12	109	u12-p109-s049	david	David:	1
@@ -4242,27 +4242,27 @@ unit	page	id	speaker	text	rects
 12	111	u12-p111-s003	narrator	The Music Club is looking for new members.	1
 12	111	u12-p111-s005	narrator	The Music Club meets in the music room every Wednesday.	1
 12	111	u12-p111-s006	narrator	We always have lots of fun!	2
-12	111	u12-p111-s007	narrator	Do you need to know about musicg	1
+12	111	u12-p111-s007	narrator	Do you need to know about music?	1
 12	111	u12-p111-s008	narrator	Not at all!	1
 12	111	u12-p111-s009	narrator	The club is open to all.	1
-12	111	u12-p111-s010	narrator	Ready to joing	1
+12	111	u12-p111-s010	narrator	Ready to join?	1
 12	111	u12-p111-s011	narrator	Email Wendy Huang at wendy@sunshine.com.	1
-12	111	u12-p111-s012	narrator	Football Club Do you like footballg	2
-12	111	u12-p111-s014	narrator	Do you want to make new friendsg	2
-12	111	u12-p111-s013	narrator	Do you want to be strong and fitg	1
+12	111	u12-p111-s012	narrator	Football Club Do you like football?	2
+12	111	u12-p111-s014	narrator	Do you want to make new friends?	2
+12	111	u12-p111-s013	narrator	Do you want to be strong and fit?	1
 12	111	u12-p111-s015	narrator	Join the Football Club!	1
 12	111	u12-p111-s016	narrator	The Football Club meets on the football field every Friday.	1
 12	111	u12-p111-s017	narrator	Members need sports shoes for this club.	2
 12	111	u12-p111-s018	narrator	For more information, please call Peter Yuan on 12345678.	1
-12	111	u12-p111-s019	narrator	1 How often do club members meetg	1
+12	111	u12-p111-s019	narrator	1 How often do club members meet?	1
 12	111	u12-p111-s020	narrator	a Once a week.	1
 12	111	u12-p111-s021	narrator	b Twice a week.	1
 12	111	u12-p111-s022	narrator	c Every day.	1
-12	111	u12-p111-s023	narrator	2 What do members of the Football Club need to bringg	1
+12	111	u12-p111-s023	narrator	2 What do members of the Football Club need to bring?	1
 12	111	u12-p111-s024	narrator	a A football.	1
 12	111	u12-p111-s025	narrator	b Sports shoes.	1
 12	111	u12-p111-s026	narrator	c A football T-shirt.	1
-12	111	u12-p111-s027	narrator	3 Who should you look for if you are interested in singingg	1
+12	111	u12-p111-s027	narrator	3 Who should you look for if you are interested in singing?	1
 12	111	u12-p111-s028	narrator	a Peter Yuan.	1
 12	111	u12-p111-s029	narrator	b Wendy Huang.	1
 12	111	u12-p111-s030	narrator	c Mr Wu.	1
@@ -4342,8 +4342,8 @@ unit	page	id	speaker	text	rects
 13	113	u13-p113-s006	narrator	4 p.m.	1
 13	113	u13-p113-s026	narrator	music room	1
 13	113	u13-p113-s009	narrator	Work in pairs and talk about your school open day.	2
-13	113	u13-p113-s007	narrator	B2 When is your school open dayg	1
-13	113	u13-p113-s008	narrator	What activities are thereg	1
+13	113	u13-p113-s007	narrator	B2 When is your school open day?	1
+13	113	u13-p113-s008	narrator	What activities are there?	1
 13	113	u13-p113-s010	narrator	Use the table below to help you.	1
 13	113	u13-p113-s027	narrator	Time	1
 13	113	u13-p113-s028	narrator	Activity	1
@@ -4380,11 +4380,11 @@ unit	page	id	speaker	text	rects
 13	114	u13-p114-s012	narrator	But my favourite part of my dream school is the dining hall.	1
 13	114	u13-p114-s013	narrator	It has all kinds of healthy food and snacks.	2
 13	114	u13-p114-s014	narrator	My dream school is the best place to learn and have a good time!	1
-13	114	u13-p114-s015	narrator	1 What is special about the art centreg	1
-13	114	u13-p114-s016	narrator	2 Where can students play in this schoolg	1
-13	114	u13-p114-s017	narrator	3 What does the dream dining hall haveg	1
+13	114	u13-p114-s015	narrator	1 What is special about the art centre?	1
+13	114	u13-p114-s016	narrator	2 Where can students play in this school?	1
+13	114	u13-p114-s017	narrator	3 What does the dream dining hall have?	1
 13	114	u13-p114-s020	narrator	You can write about different things, like school buildings, teachers and school activities.	2
-13	114	u13-p114-s018	narrator	C2 What is your dream school likeg	1
+13	114	u13-p114-s018	narrator	C2 What is your dream school like?	1
 13	114	u13-p114-s019	narrator	Write an article about it.	1
 13	114	u13-p114-s024	narrator	My dream school is	1
 14	115	u14-p115-s008	narrator	Unit 4	1
@@ -4450,15 +4450,15 @@ unit	page	id	speaker	text	rects
 14	116	u14-p116-s006	narrator	d The trip is in April.	2
 14	116	u14-p116-s007	narrator	e The trip lasts the whole day.	2
 14	116	u14-p116-s008	narrator	f The trip is a half-day event.	2
-14	116	u14-p116-s009	narrator	B2 Do you go on school tripsg	1
-14	116	u14-p116-s010	narrator	When and where do you gog	1
-14	116	u14-p116-s011	narrator	What activities are thereg	1
+14	116	u14-p116-s009	narrator	B2 Do you go on school trips?	1
+14	116	u14-p116-s010	narrator	When and where do you go?	1
+14	116	u14-p116-s011	narrator	What activities are there?	1
 14	116	u14-p116-s012	narrator	Work in pairs and talk about a school trip.	1
 14	116	u14-p116-s013	narrator	Use the example below to help you.	1
 14	116	u14-p116-s014	narrator	I’m excited about our school trip this term!	1
 14	116	u14-p116-s019	narrator	A:	1
 14	116	u14-p116-s036	narrator	Oh, yes!	1
-14	116	u14-p116-s021	narrator	Where will we gog	1
+14	116	u14-p116-s021	narrator	Where will we go?	1
 14	116	u14-p116-s020	b	B:	1
 14	116	u14-p116-s037	narrator	To the zoo!	1
 14	116	u14-p116-s022	a	A:	1
@@ -4472,7 +4472,7 @@ unit	page	id	speaker	text	rects
 14	116	u14-p116-s028	narrator	They look so cool.	1
 14	116	u14-p116-s026	a	A:	1
 14	116	u14-p116-s040	narrator	Me too.	1
-14	116	u14-p116-s031	narrator	When’s the tripg	1
+14	116	u14-p116-s031	narrator	When’s the trip?	1
 14	116	u14-p116-s030	b	B:	1
 14	116	u14-p116-s041	narrator	It’s on 13 October.	1
 14	116	u14-p116-s033	narrator	We leave early in the morning and get back late in the afternoon.	1
@@ -4512,10 +4512,10 @@ unit	page	id	speaker	text	rects
 14	117	u14-p117-s022	narrator	4 Students have Maths class on the farm.	1
 14	117	u14-p117-s023	narrator	5 Students write about the farm in English class.	1
 14	117	u14-p117-s024	narrator	6 You can see pictures of the class farm on the school website.	1
-14	117	u14-p117-s028	narrator	What do you often do thereg	2
-14	117	u14-p117-s025	narrator	C2 Is there an interesting place at your schoolg	1
-14	117	u14-p117-s026	narrator	What is itg	1
-14	117	u14-p117-s027	narrator	Why is it interestingg	1
+14	117	u14-p117-s028	narrator	What do you often do there?	2
+14	117	u14-p117-s025	narrator	C2 Is there an interesting place at your school?	1
+14	117	u14-p117-s026	narrator	What is it?	1
+14	117	u14-p117-s027	narrator	Why is it interesting?	1
 14	117	u14-p117-s029	narrator	Write an article about an interesting place at your school.	1
 15	118	u15-p118-s014	narrator	Unit 5	1
 15	118	u15-p118-s015	narrator	A Get Fit Club	1
@@ -4528,7 +4528,7 @@ unit	page	id	speaker	text	rects
 15	118	u15-p118-s020	narrator	diet	1
 15	118	u15-p118-s021	narrator	salt	1
 15	118	u15-p118-s022	narrator	Don’t too late!	1
-15	118	u15-p118-s003	narrator	Do you want to be healthyg	1
+15	118	u15-p118-s003	narrator	Do you want to be healthy?	1
 15	118	u15-p118-s023	narrator	It is	1
 15	118	u15-p118-s024	narrator	to get enough sleep.	1
 15	118	u15-p118-s025	narrator	Vegetables, such as and peppers, are good for us.	1
@@ -4580,27 +4580,27 @@ unit	page	id	speaker	text	rects
 15	119	u15-p119-s019	narrator	He has meat or for lunch.	1
 15	119	u15-p119-s020	narrator	He	1
 15	119	u15-p119-s021	narrator	sometimes eats meat.	1
-15	119	u15-p119-s005	narrator	B2 Do you like sweet foodsg	1
-15	119	u15-p119-s006	narrator	Why or why notg	1
+15	119	u15-p119-s005	narrator	B2 Do you like sweet foods?	1
+15	119	u15-p119-s006	narrator	Why or why not?	1
 15	119	u15-p119-s007	narrator	Work in pairs and talk about sweet foods.	1
 15	119	u15-p119-s008	narrator	Use the example below to help you.	1
-15	119	u15-p119-s009	narrator	Do you like sweet foodsg	1
+15	119	u15-p119-s009	narrator	Do you like sweet foods?	1
 15	119	u15-p119-s022	narrator	A:	1
 15	119	u15-p119-s038	narrator	Of course!	1
 15	119	u15-p119-s026	narrator	I love sweet foods!	1
 15	119	u15-p119-s025	b	B:	1
-15	119	u15-p119-s039	narrator	Why do you like themg	1
+15	119	u15-p119-s039	narrator	Why do you like them?	1
 15	119	u15-p119-s027	a	A:	1
 15	119	u15-p119-s040	narrator	They’re delicious and can make me happy.	1
 15	119	u15-p119-s028	b	B:	1
 15	119	u15-p119-s029	narrator	I can never say no to them.	1
-15	119	u15-p119-s030	narrator	What about youg	1
-15	119	u15-p119-s031	narrator	Do you have a sweet toothg	1
+15	119	u15-p119-s030	narrator	What about you?	1
+15	119	u15-p119-s031	narrator	Do you have a sweet tooth?	1
 15	119	u15-p119-s041	narrator	No, I don’t.	1
 15	119	u15-p119-s033	narrator	I’m not a big fan of sweet foods.	1
 15	119	u15-p119-s032	a	A:	1
-15	119	u15-p119-s042	narrator	Reallyg	1
-15	119	u15-p119-s035	narrator	Why notg	1
+15	119	u15-p119-s042	narrator	Really?	1
+15	119	u15-p119-s035	narrator	Why not?	1
 15	119	u15-p119-s034	b	B:	1
 15	119	u15-p119-s043	narrator	Well, too many sweets are bad for my teeth and my health.	1
 15	119	u15-p119-s037	narrator	I don’t like to eat these foods too often.	1
@@ -4609,8 +4609,8 @@ unit	page	id	speaker	text	rects
 15	120	u15-p120-s022	narrator	C A better lifestyle	1
 15	120	u15-p120-s002	narrator	Read the article with him and complete the chart below.	2
 15	120	u15-p120-s001	narrator	C1 David found an article on the Get Fit Club website.	1
-15	120	u15-p120-s003	narrator	How to live to 100g	1
-15	120	u15-p120-s004	narrator	Do you want to live to 100g	1
+15	120	u15-p120-s003	narrator	How to live to 100?	1
+15	120	u15-p120-s004	narrator	Do you want to live to 100?	1
 15	120	u15-p120-s005	narrator	Here are some helpful tips.	1
 15	120	u15-p120-s006	narrator	Start your day with a healthy breakfast.	1
 15	120	u15-p120-s007	narrator	An egg, milk and bread are great for breakfast.	2
@@ -4629,12 +4629,12 @@ unit	page	id	speaker	text	rects
 15	120	u15-p120-s026	narrator	meat	1
 15	120	u15-p120-s027	narrator	Have a healthy diet	1
 15	120	u15-p120-s028	narrator	like an apple	1
-15	120	u15-p120-s017	narrator	How to live to 100g	2
+15	120	u15-p120-s017	narrator	How to live to 100?	2
 15	120	u15-p120-s029	narrator	or orange	1
 15	120	u15-p120-s030	narrator	swim, run, play football or walk	1
 15	120	u15-p120-s031	narrator	every day	1
-15	120	u15-p120-s019	narrator	What do you plan to do after reading the article aboveg	2
-15	120	u15-p120-s018	narrator	C2 Do you want to live to 100 years oldg	1
+15	120	u15-p120-s019	narrator	What do you plan to do after reading the article above?	2
+15	120	u15-p120-s018	narrator	C2 Do you want to live to 100 years old?	1
 15	120	u15-p120-s020	narrator	Write a diary entry about your plans to have a better lifestyle.	1
 16	121	u16-p121-s014	narrator	Unit 6	1
 16	121	u16-p121-s001	narrator	A The school fashion show is coming!	1
@@ -4658,32 +4658,32 @@ unit	page	id	speaker	text	rects
 16	121	u16-p121-s026	narrator	with his grey t.	1
 16	121	u16-p121-s009	narrator	Complete their conversation below with the correct question words.	2
 16	121	u16-p121-s008	narrator	A2 David and Nora are talking about the fashion show at school.	1
-16	121	u16-p121-s010	nora	Are you excited about the fashion show, Davidg	1
+16	121	u16-p121-s010	nora	Are you excited about the fashion show, David?	1
 16	121	u16-p121-s027	nora	Nora:	1
 16	121	u16-p121-s045	david	Oh yes.	1
 16	121	u16-p121-s028	david	David:	1
 16	121	u16-p121-s029	david	I can’t wait.	1
-16	121	u16-p121-s030	david	is itg	1
+16	121	u16-p121-s030	david	is it?	1
 16	121	u16-p121-s011	nora	This Saturday.	1
 16	121	u16-p121-s046	nora	I want to get there early and find a good place to sit.	1
 16	121	u16-p121-s031	nora	Nora:	1
 16	121	u16-p121-s047	david	That’s a good idea.	1
 16	121	u16-p121-s032	david	David:	1
-16	121	u16-p121-s033	david	time does it startg	1
+16	121	u16-p121-s033	david	time does it start?	1
 16	121	u16-p121-s012	nora	The show starts at 4 p.m.	1
 16	121	u16-p121-s050	nora	So I plan to be there at 3:30.	1
 16	121	u16-p121-s034	nora	Nora:	1
-16	121	u16-p121-s048	david	will you go withg	1
+16	121	u16-p121-s048	david	will you go with?	1
 16	121	u16-p121-s035	david	David:	1
-16	121	u16-p121-s036	david	May I join youg	1
+16	121	u16-p121-s036	david	May I join you?	1
 16	121	u16-p121-s038	nora	Sure.	1
-16	121	u16-p121-s039	nora	do you want to get there, by bike or by busg	1
+16	121	u16-p121-s039	nora	do you want to get there, by bike or by bus?	1
 16	121	u16-p121-s037	nora	Nora:	1
 16	121	u16-p121-s049	david	By bus.	1
 16	121	u16-p121-s040	david	David:	1
-16	121	u16-p121-s041	david	shall we meetg	1
+16	121	u16-p121-s041	david	shall we meet?	1
 16	121	u16-p121-s042	david	How about the bus stop near	1
-16	121	u16-p121-s043	david	your homeg	1
+16	121	u16-p121-s043	david	your home?	1
 16	121	u16-p121-s013	nora	Sounds great!	1
 16	121	u16-p121-s044	nora	Nora:	1
 16	122	u16-p122-s013	narrator	Unit 6	1
@@ -4722,9 +4722,9 @@ unit	page	id	speaker	text	rects
 16	123	u16-p123-s025	narrator	C DIY fashion	1
 16	123	u16-p123-s002	narrator	Read the ad with her and answer the questions below.	2
 16	123	u16-p123-s001	narrator	C1 Sandy found an ad for a design workshop.	1
-16	123	u16-p123-s003	narrator	Do you like fashiong	1
-16	123	u16-p123-s004	narrator	Do you want to make a T-shirt with your own designg	2
-16	123	u16-p123-s005	narrator	Why not come to our T-shirt design workshopg	1
+16	123	u16-p123-s003	narrator	Do you like fashion?	1
+16	123	u16-p123-s004	narrator	Do you want to make a T-shirt with your own design?	2
+16	123	u16-p123-s005	narrator	Why not come to our T-shirt design workshop?	1
 16	123	u16-p123-s006	narrator	Here, we make beautiful and exciting T-shirts.	2
 16	123	u16-p123-s007	narrator	It is a nice way to make your clothes suit your own special style.	2
 16	123	u16-p123-s008	narrator	It is very easy to do.	1
@@ -4736,12 +4736,12 @@ unit	page	id	speaker	text	rects
 16	123	u16-p123-s015	narrator	So, join us at 1:30 p.m.	2
 16	123	u16-p123-s014	narrator	It is a fun DIY activity.	1
 16	123	u16-p123-s016	narrator	on Saturday, at Sunshine Mall.	1
-16	123	u16-p123-s017	narrator	1 What can you make at the workshopg	1
-16	123	u16-p123-s018	narrator	2 What can you draw on your T-shirtg	1
-16	123	u16-p123-s019	narrator	3 What can you use to make the design colourfulg	1
-16	123	u16-p123-s020	narrator	4 When can people join the workshopg	1
-16	123	u16-p123-s021	narrator	5 Where is the workshopg	1
-16	123	u16-p123-s022	narrator	C2 What is your T-shirt designg	1
+16	123	u16-p123-s017	narrator	1 What can you make at the workshop?	1
+16	123	u16-p123-s018	narrator	2 What can you draw on your T-shirt?	1
+16	123	u16-p123-s019	narrator	3 What can you use to make the design colourful?	1
+16	123	u16-p123-s020	narrator	4 When can people join the workshop?	1
+16	123	u16-p123-s021	narrator	5 Where is the workshop?	1
+16	123	u16-p123-s022	narrator	C2 What is your T-shirt design?	1
 16	123	u16-p123-s023	narrator	Think about your design and write a passage about it.	1
 17	124	u17-p124-s015	narrator	Unit 7	1
 17	124	u17-p124-s016	narrator	A A shopping list	1
@@ -4751,14 +4751,14 @@ unit	page	id	speaker	text	rects
 17	124	u17-p124-s017	narrator	How to make a shopping list	1
 17	124	u17-p124-s018	narrator	It’s a great h.	1
 17	124	u17-p124-s004	narrator	I love making shopping lists.	1
-17	124	u17-p124-s005	narrator	Whyg	1
+17	124	u17-p124-s005	narrator	Why?	1
 17	124	u17-p124-s019	narrator	A	1
 17	124	u17-p124-s020	narrator	shopping list can help you s time in shops.	1
 17	124	u17-p124-s021	narrator	It can also help	1
 17	124	u17-p124-s022	narrator	you m your money well.	1
-17	124	u17-p124-s007	narrator	how can you make a good shopping listg	2
+17	124	u17-p124-s007	narrator	how can you make a good shopping list?	2
 17	124	u17-p124-s006	narrator	So …	1
-17	124	u17-p124-s008	narrator	First, ask yourself: What do I want to buyg	1
+17	124	u17-p124-s008	narrator	First, ask yourself: What do I want to buy?	1
 17	124	u17-p124-s009	narrator	Write the things down.	1
 17	124	u17-p124-s023	narrator	Try not	1
 17	124	u17-p124-s024	narrator	to put too many e things on your list.	1
@@ -4767,22 +4767,22 @@ unit	page	id	speaker	text	rects
 17	124	u17-p124-s027	narrator	To do this, think about how	1
 17	124	u17-p124-s028	narrator	much everything on your list c.	1
 17	124	u17-p124-s029	narrator	Can you c	1
-17	124	u17-p124-s030	narrator	all of themg	1
+17	124	u17-p124-s030	narrator	all of them?	1
 17	124	u17-p124-s031	narrator	Now, go to the shopping m.	1
 17	124	u17-p124-s010	narrator	Just don’t leave home without your shopping list!	2
 17	124	u17-p124-s012	narrator	They are talking about what to buy.	2
 17	124	u17-p124-s011	narrator	A2 Nora and her cousin Sarah are planning to go shopping.	1
 17	124	u17-p124-s013	narrator	Read their conversation below and complete the sentences with some, any and the correct forms of there be.	2
-17	124	u17-p124-s014	sarah	Nora, what do you want to buy in the mall todayg	1
+17	124	u17-p124-s014	sarah	Nora, what do you want to buy in the mall today?	1
 17	124	u17-p124-s032	sarah	Sarah:	1
 17	124	u17-p124-s053	nora	I need new pencils and a new ruler for school.	1
 17	124	u17-p124-s033	nora	Nora:	1
 17	124	u17-p124-s034	nora	What	1
-17	124	u17-p124-s035	nora	about youg	1
+17	124	u17-p124-s035	nora	about you?	1
 17	124	u17-p124-s036	sarah	Sarah:	1
 17	124	u17-p124-s059	sarah	pencils or rulers, but I want to buy some	1
 17	124	u17-p124-s056	sarah	I don’t need	1
-17	124	u17-p124-s038	sarah	a bookshop in the mallg	1
+17	124	u17-p124-s038	sarah	a bookshop in the mall?	1
 17	124	u17-p124-s037	sarah	books.	1
 17	124	u17-p124-s054	nora	No,	1
 17	124	u17-p124-s039	nora	Nora:	1
@@ -4794,7 +4794,7 @@ unit	page	id	speaker	text	rects
 17	124	u17-p124-s052	sarah	nice	1
 17	124	u17-p124-s045	sarah	Are there	1
 17	124	u17-p124-s044	sarah	I’m a little hungry now.	1
-17	124	u17-p124-s046	sarah	restaurants in the mallg	1
+17	124	u17-p124-s046	sarah	restaurants in the mall?	1
 17	124	u17-p124-s055	nora	Of course.	1
 17	124	u17-p124-s047	nora	Nora:	1
 17	124	u17-p124-s048	nora	some great places to eat in the mall.	1
@@ -4818,17 +4818,17 @@ unit	page	id	speaker	text	rects
 17	125	u17-p125-s011	narrator	B2 David wants to buy his mum a cup for her birthday.	1
 17	125	u17-p125-s013	narrator	Use the example below to help you.	2
 17	125	u17-p125-s014	salesperson	Hello.	1
-17	125	u17-p125-s034	salesperson	How can I help youg	1
+17	125	u17-p125-s034	salesperson	How can I help you?	1
 17	125	u17-p125-s025	salesperson	Salesperson:	1
 17	125	u17-p125-s015	david	I’m looking for a birthday gift for my mum.	1
 17	125	u17-p125-s026	david	David:	1
 17	125	u17-p125-s035	david	These cups are beautiful.	1
 17	125	u17-p125-s016	salesperson	Yes.	1
-17	125	u17-p125-s036	salesperson	Which ones do you likeg	1
+17	125	u17-p125-s036	salesperson	Which ones do you like?	1
 17	125	u17-p125-s027	salesperson	Salesperson:	1
 17	125	u17-p125-s017	david	I like the blue one and the white one.	1
 17	125	u17-p125-s028	david	David:	1
-17	125	u17-p125-s037	david	How much are theyg	1
+17	125	u17-p125-s037	david	How much are they?	1
 17	125	u17-p125-s018	salesperson	The blue cup is yuan.	1
 17	125	u17-p125-s038	salesperson	The white one is yuan.	1
 17	125	u17-p125-s029	salesperson	Salesperson:	1
@@ -4870,11 +4870,11 @@ unit	page	id	speaker	text	rects
 17	126	u17-p126-s033	narrator	Savings	1
 17	126	u17-p126-s036	narrator	Other	1
 17	126	u17-p126-s035	narrator	Other	1
-17	126	u17-p126-s005	narrator	1 What do both families spend the most money ong	1
-17	126	u17-p126-s006	narrator	2 How much of Li Hua’s family budget is for foodg	1
-17	126	u17-p126-s007	narrator	3 How much of Tom’s family budget is for savingsg	1
-17	126	u17-p126-s008	narrator	4 How much of Tom’s family budget is for holidaysg	1
-17	126	u17-p126-s009	narrator	5 Which family spends more of its budget on sportg	1
+17	126	u17-p126-s005	narrator	1 What do both families spend the most money on?	1
+17	126	u17-p126-s006	narrator	2 How much of Li Hua’s family budget is for food?	1
+17	126	u17-p126-s007	narrator	3 How much of Tom’s family budget is for savings?	1
+17	126	u17-p126-s008	narrator	4 How much of Tom’s family budget is for holidays?	1
+17	126	u17-p126-s009	narrator	5 Which family spends more of its budget on sport?	1
 17	126	u17-p126-s011	narrator	Use the expressions below to help you.	2
 17	126	u17-p126-s010	narrator	C2 Write a short passage to compare the two charts above.	1
 17	126	u17-p126-s012	narrator	The two families are similar in …	1
@@ -4916,7 +4916,7 @@ unit	page	id	speaker	text	rects
 18	127	u18-p127-s011	narrator	Complete their conversation with the correct forms of the verbs in brackets.	2
 18	127	u18-p127-s010	narrator	A2 David is having a video call with his British friend, Emily, on New Year’s Eve.	1
 18	127	u18-p127-s012	emily	Hi David.	1
-18	127	u18-p127-s066	emily	Are you getting ready for New Year’s Eve celebrationsg	1
+18	127	u18-p127-s066	emily	Are you getting ready for New Year’s Eve celebrations?	1
 18	127	u18-p127-s038	emily	Emily:	1
 18	127	u18-p127-s067	david	Yes!	1
 18	127	u18-p127-s039	david	David:	1
@@ -4926,13 +4926,13 @@ unit	page	id	speaker	text	rects
 18	127	u18-p127-s041	david	here.	1
 18	127	u18-p127-s043	david	family.	1
 18	127	u18-p127-s044	david	We’re all at home together.	1
-18	127	u18-p127-s013	emily	What are your family doingg	1
+18	127	u18-p127-s013	emily	What are your family doing?	1
 18	127	u18-p127-s045	emily	Emily:	1
 18	127	u18-p127-s068	david	My grandparents (watch) fireworks celebrations on TV.	1
 18	127	u18-p127-s046	david	David:	1
 18	127	u18-p127-s047	david	My parents (make) dinner.	1
 18	127	u18-p127-s048	david	What are you doing in the	1
-18	127	u18-p127-s049	david	UKg	1
+18	127	u18-p127-s049	david	UK?	1
 18	127	u18-p127-s069	emily	It’s only a.m.	1
 18	127	u18-p127-s050	emily	Emily:	1
 18	127	u18-p127-s064	emily	(clean) the house for	1
@@ -4940,7 +4940,7 @@ unit	page	id	speaker	text	rects
 18	127	u18-p127-s051	emily	here.	1
 18	127	u18-p127-s054	emily	I (help) her.	1
 18	127	u18-p127-s053	emily	our party tonight.	1
-18	127	u18-p127-s014	david	Where is your dadg	1
+18	127	u18-p127-s014	david	Where is your dad?	1
 18	127	u18-p127-s055	david	David:	1
 18	127	u18-p127-s070	emily	My dad is at the supermarket now.	1
 18	127	u18-p127-s056	emily	Emily:	1
@@ -5200,7 +5200,7 @@ unit	page	id	speaker	text	rects
 21	132	u21-p132-s031	narrator	line 17)	1
 21	132	u21-p132-s032	narrator	be ready to do sth	1
 21	132	u21-p132-s033	narrator	Lei Feng was always ready to help others.	1
-21	132	u21-p132-s034	narrator	Are you ready to have lunch with meg	1
+21	132	u21-p132-s034	narrator	Are you ready to have lunch with me?	1
 21	132	u21-p132-s009	narrator	5 He is interested in science.	2
 21	132	u21-p132-s035	narrator	page 8	1
 21	132	u21-p132-s036	narrator	line 18)	1
@@ -5248,7 +5248,7 @@ unit	page	id	speaker	text	rects
 21	133	u21-p133-s037	narrator	lines 11–12)	1
 21	133	u21-p133-s038	narrator	answers to	1
 21	133	u21-p133-s039	narrator	Your answer to this question is not right.	1
-21	133	u21-p133-s008	narrator	4 Do you plan to join the Painting Clubg	2
+21	133	u21-p133-s008	narrator	4 Do you plan to join the Painting Club?	2
 21	133	u21-p133-s040	narrator	page 27	1
 21	133	u21-p133-s041	narrator	Part C)	1
 21	133	u21-p133-s056	narrator	sth。plan	1
@@ -5278,14 +5278,14 @@ unit	page	id	speaker	text	rects
 21	133	u21-p133-s024	narrator	(page 32, lines 2–3)	1
 21	134	u21-p134-s024	narrator	place for sb to do sth	1
 21	134	u21-p134-s025	narrator	The reading room is a great place for us to read.	1
-21	134	u21-p134-s002	narrator	2 Can you see the students running thereg	2
+21	134	u21-p134-s002	narrator	2 Can you see the students running there?	2
 21	134	u21-p134-s026	narrator	page 32	1
 21	134	u21-p134-s027	narrator	line 6)	1
 21	134	u21-p134-s028	narrator	see sb doing sth	1
 21	134	u21-p134-s029	narrator	hear	1
 21	134	u21-p134-s031	narrator	watch	1
 21	134	u21-p134-s016	narrator	Notes	1
-21	134	u21-p134-s032	narrator	Can you hear the students singing next doorg	1
+21	134	u21-p134-s032	narrator	Can you hear the students singing next door?	1
 21	134	u21-p134-s030	narrator	hear	1
 21	134	u21-p134-s004	narrator	3 Lots of exciting sports matches take place on it.	2
 21	134	u21-p134-s033	narrator	page 32	1
@@ -5329,10 +5329,10 @@ unit	page	id	speaker	text	rects
 21	134	u21-p134-s073	narrator	the	1
 21	134	u21-p134-s069	narrator	first floor	1
 21	134	u21-p134-s070	narrator	the second floor	1
-21	134	u21-p134-s015	narrator	8 What else do you like about our schoolg	2
+21	134	u21-p134-s015	narrator	8 What else do you like about our school?	2
 21	134	u21-p134-s023	narrator	(page 39, Part C)	1
 21	135	u21-p135-s018	narrator	else	1
-21	135	u21-p135-s020	narrator	Where else do you want to gog	1
+21	135	u21-p135-s020	narrator	Where else do you want to go?	1
 21	135	u21-p135-s019	narrator	else	1
 21	135	u21-p135-s002	narrator	9 Thanks for your email.	2
 21	135	u21-p135-s021	narrator	page 40	1
@@ -5418,10 +5418,10 @@ unit	page	id	speaker	text	rects
 21	136	u21-p136-s048	narrator	page 58	1
 21	136	u21-p136-s049	narrator	lines 14–15)	1
 21	136	u21-p136-s050	narrator	enough	1
-21	136	u21-p136-s052	narrator	Do you have enough time to exerciseg	1
+21	136	u21-p136-s052	narrator	Do you have enough time to exercise?	1
 21	136	u21-p136-s051	narrator	enough	1
 21	136	u21-p136-s053	narrator	enough	1
-21	136	u21-p136-s055	narrator	Is the water hot enoughg	1
+21	136	u21-p136-s055	narrator	Is the water hot enough?	1
 21	136	u21-p136-s054	narrator	enough	1
 21	136	u21-p136-s021	narrator	Unit 6	1
 21	136	u21-p136-s015	narrator	1 Dressing is a way of life.	2
@@ -5429,13 +5429,13 @@ unit	page	id	speaker	text	rects
 21	136	u21-p136-s063	narrator	a	1
 21	136	u21-p136-s056	narrator	way of	1
 21	136	u21-p136-s057	narrator	doing) sth	1
-21	137	u21-p137-s001	narrator	Which of the following is a way of helping each otherg	1
+21	137	u21-p137-s001	narrator	Which of the following is a way of helping each other?	1
 21	137	u21-p137-s002	narrator	2 Well, it depends on the colour of our skin.	2
 21	137	u21-p137-s021	narrator	page 70	1
 21	137	u21-p137-s022	narrator	line 6)	1
 21	137	u21-p137-s023	narrator	depend on	1
 21	137	u21-p137-s024	narrator	The price of the fruit depends on its size.	1
-21	137	u21-p137-s004	narrator	3 Which colours go well togetherg	2
+21	137	u21-p137-s004	narrator	3 Which colours go well together?	2
 21	137	u21-p137-s025	narrator	page 70	1
 21	137	u21-p137-s026	narrator	line 9)	1
 21	137	u21-p137-s019	narrator	Notes	1
@@ -5467,7 +5467,7 @@ unit	page	id	speaker	text	rects
 21	137	u21-p137-s046	narrator	page 78	1
 21	137	u21-p137-s047	narrator	Part D2)	1
 21	137	u21-p137-s048	narrator	any other	1
-21	137	u21-p137-s050	narrator	Do you have any other questionsg	1
+21	137	u21-p137-s050	narrator	Do you have any other questions?	1
 21	137	u21-p137-s049	narrator	any other	1
 21	137	u21-p137-s015	narrator	8 The jacket is not too long or too large, and it is dark blue.	2
 21	137	u21-p137-s051	narrator	page 78	1
@@ -5518,7 +5518,7 @@ unit	page	id	speaker	text	rects
 21	138	u21-p138-s059	narrator	be raining cats and dogs	1
 21	138	u21-p138-s060	narrator	the calm before the storm	1
 21	138	u21-p138-s061	narrator	come) rain or shine	1
-21	138	u21-p138-s013	narrator	6 Do you usually get lucky money at the Spring Festivalg	2
+21	138	u21-p138-s013	narrator	6 Do you usually get lucky money at the Spring Festival?	2
 21	138	u21-p138-s025	narrator	(page 89, Part C)	1
 21	138	u21-p138-s070	narrator	lucky	1
 21	138	u21-p138-s062	narrator	money	1
@@ -5606,11 +5606,11 @@ unit	page	id	speaker	text	rects
 22	140	u22-p140-s067	narrator	not	1
 22	140	u22-p140-s068	narrator	be	1
 22	140	u22-p140-s069	narrator	be	1
-22	140	u22-p140-s072	narrator	Are you good at Mathsg	1
+22	140	u22-p140-s072	narrator	Are you good at Maths?	1
 22	140	u22-p140-s073	narrator	Yes	1
 22	140	u22-p140-s074	narrator	I am.	1
 22	140	u22-p140-s092	narrator	—Is	1
-22	140	u22-p140-s075	narrator	Is that girl your classmateg	1
+22	140	u22-p140-s075	narrator	Is that girl your classmate?	1
 22	140	u22-p140-s076	narrator	No	1
 22	140	u22-p140-s077	narrator	she isn’t.	1
 22	140	u22-p140-s078	narrator	she isn’t.	1
@@ -5694,11 +5694,11 @@ unit	page	id	speaker	text	rects
 22	141	u22-p141-s076	narrator	do	1
 22	141	u22-p141-s077	narrator	does	1
 22	141	u22-p141-s078	narrator	does	1
-22	142	u22-p142-s001	narrator	—Do you like traditional Chinese paintingg	1
+22	142	u22-p142-s001	narrator	—Do you like traditional Chinese painting?	1
 22	142	u22-p142-s036	narrator	Yes	1
 22	142	u22-p142-s037	narrator	I do.	1
 22	142	u22-p142-s003	narrator	I like landscape painting best.	1
-22	142	u22-p142-s038	narrator	Does John often play basketball after schoolg	1
+22	142	u22-p142-s038	narrator	Does John often play basketball after school?	1
 22	142	u22-p142-s039	narrator	No	1
 22	142	u22-p142-s040	narrator	he doesn’t.	1
 22	142	u22-p142-s041	narrator	he doesn’t.	1
@@ -5708,7 +5708,7 @@ unit	page	id	speaker	text	rects
 22	142	u22-p142-s045	narrator	do	1
 22	142	u22-p142-s046	narrator	do	1
 22	142	u22-p142-s051	narrator	I do not do housework on Saturday.	1
-22	142	u22-p142-s052	narrator	Do you do housework on Saturdayg	1
+22	142	u22-p142-s052	narrator	Do you do housework on Saturday?	1
 22	142	u22-p142-s057	narrator	do	1
 22	142	u22-p142-s058	narrator	do	1
 22	142	u22-p142-s016	narrator	Unit 3	1
@@ -5870,7 +5870,7 @@ unit	page	id	speaker	text	rects
 22	144	u22-p144-s052	narrator	men doctors	1
 22	144	u22-p144-s033	narrator	fish—fish	1
 22	144	u22-p144-s053	narrator	The soup smells great.	1
-22	144	u22-p144-s054	narrator	Do you have saltg	1
+22	144	u22-p144-s054	narrator	Do you have salt?	1
 22	144	u22-p144-s114	narrator	a	1
 22	144	u22-p144-s115	narrator	a	1
 22	144	u22-p144-s116	narrator	an	1
@@ -5911,13 +5911,13 @@ unit	page	id	speaker	text	rects
 22	145	u22-p145-s027	narrator	no	1
 22	145	u22-p145-s028	narrator	be	1
 22	145	u22-p145-s087	narrator	—Is	1
-22	145	u22-p145-s029	narrator	Is the shirt made of cottong	1
+22	145	u22-p145-s029	narrator	Is the shirt made of cotton?	1
 22	145	u22-p145-s030	narrator	No.	1
 22	145	u22-p145-s003	narrator	It’s made of wool.	1
-22	145	u22-p145-s031	narrator	Can I try them ong	1
+22	145	u22-p145-s031	narrator	Can I try them on?	1
 22	145	u22-p145-s032	narrator	Yes	1
 22	145	u22-p145-s033	narrator	of course.	1
-22	145	u22-p145-s034	narrator	Do you like this blue T-shirtg	1
+22	145	u22-p145-s034	narrator	Do you like this blue T-shirt?	1
 22	145	u22-p145-s035	narrator	T	1
 22	145	u22-p145-s036	narrator	Yes	1
 22	145	u22-p145-s037	narrator	I do.	1
@@ -5937,9 +5937,9 @@ unit	page	id	speaker	text	rects
 22	145	u22-p145-s041	narrator	these/those	1
 22	145	u22-p145-s042	narrator	they	1
 22	145	u22-p145-s043	narrator	be	1
-22	145	u22-p145-s044	narrator	What is your favourite colourg	1
+22	145	u22-p145-s044	narrator	What is your favourite colour?	1
 22	145	u22-p145-s040	narrator	it	1
-22	145	u22-p145-s045	narrator	Whose shoes are theseg	1
+22	145	u22-p145-s045	narrator	Whose shoes are these?	1
 22	145	u22-p145-s098	narrator	what	1
 22	145	u22-p145-s099	narrator	who	1
 22	145	u22-p145-s100	narrator	who	1
@@ -5954,89 +5954,89 @@ unit	page	id	speaker	text	rects
 22	145	u22-p145-s050	narrator	wh	1
 22	145	u22-p145-s054	narrator	what	1
 22	145	u22-p145-s055	narrator	what	1
-22	145	u22-p145-s056	narrator	What is your name/jobg	1
+22	145	u22-p145-s056	narrator	What is your name/job?	1
 22	145	u22-p145-s057	narrator	class/ grade	1
-22	145	u22-p145-s059	narrator	What class/grade are you ing	1
+22	145	u22-p145-s059	narrator	What class/grade are you in?	1
 22	145	u22-p145-s058	narrator	class/ grade	1
 22	145	u22-p145-s025	narrator	what	1
 22	145	u22-p145-s060	narrator	colour	1
-22	145	u22-p145-s062	narrator	What colour is your new jacketg	1
+22	145	u22-p145-s062	narrator	What colour is your new jacket?	1
 22	145	u22-p145-s061	narrator	colour	1
 22	145	u22-p145-s063	narrator	time	1
-22	145	u22-p145-s065	narrator	What time does the show startg	1
+22	145	u22-p145-s065	narrator	What time does the show start?	1
 22	145	u22-p145-s064	narrator	time	1
 22	145	u22-p145-s066	narrator	when	1
 22	145	u22-p145-s067	narrator	when	1
-22	145	u22-p145-s068	narrator	When is your birthday partyg	1
+22	145	u22-p145-s068	narrator	When is your birthday party?	1
 22	145	u22-p145-s069	narrator	where	1
 22	145	u22-p145-s070	narrator	where	1
-22	145	u22-p145-s071	narrator	Where do they liveg	1
+22	145	u22-p145-s071	narrator	Where do they live?	1
 22	145	u22-p145-s072	narrator	who	1
 22	145	u22-p145-s073	narrator	who	1
-22	145	u22-p145-s074	narrator	Who is the man in a blue sweaterg	1
+22	145	u22-p145-s074	narrator	Who is the man in a blue sweater?	1
 22	145	u22-p145-s075	narrator	why	1
 22	145	u22-p145-s076	narrator	why	1
-22	145	u22-p145-s077	narrator	Why do many people like hanfug	1
+22	145	u22-p145-s077	narrator	Why do many people like hanfu?	1
 22	145	u22-p145-s078	narrator	whose	1
 22	145	u22-p145-s079	narrator	whose	1
-22	145	u22-p145-s080	narrator	Whose design is your favouriteg	1
+22	145	u22-p145-s080	narrator	Whose design is your favourite?	1
 22	145	u22-p145-s081	narrator	which	1
 22	145	u22-p145-s082	narrator	which	1
-22	145	u22-p145-s083	narrator	Which T-shirt matches this skirtg	1
+22	145	u22-p145-s083	narrator	Which T-shirt matches this skirt?	1
 22	145	u22-p145-s084	narrator	how	1
 22	145	u22-p145-s085	narrator	how	1
-22	145	u22-p145-s086	narrator	How do we go to the museumg	1
+22	145	u22-p145-s086	narrator	How do we go to the museum?	1
 22	146	u22-p146-s025	narrator	many	1
-22	146	u22-p146-s001	narrator	How many students are there in your classg	1
+22	146	u22-p146-s001	narrator	How many students are there in your class?	1
 22	146	u22-p146-s026	narrator	much	1
-22	146	u22-p146-s002	narrator	How much milk do you drink every dayg	1
+22	146	u22-p146-s002	narrator	How much milk do you drink every day?	1
 22	146	u22-p146-s031	narrator	old	1
-22	146	u22-p146-s033	narrator	How old is your Art teacherg	1
+22	146	u22-p146-s033	narrator	How old is your Art teacher?	1
 22	146	u22-p146-s032	narrator	old	1
 22	146	u22-p146-s034	narrator	often	1
-22	146	u22-p146-s036	narrator	How often do you go to the libraryg	1
+22	146	u22-p146-s036	narrator	How often do you go to the library?	1
 22	146	u22-p146-s035	narrator	often	1
 22	146	u22-p146-s027	narrator	how	1
-22	146	u22-p146-s005	narrator	How long is the Yangtze Riverg	1
+22	146	u22-p146-s005	narrator	How long is the Yangtze River?	1
 22	146	u22-p146-s028	narrator	long	1
-22	146	u22-p146-s006	narrator	How long do you watch TV every dayg	1
+22	146	u22-p146-s006	narrator	How long do you watch TV every day?	1
 22	146	u22-p146-s037	narrator	far	1
-22	146	u22-p146-s039	narrator	How far is your home from schoolg	1
+22	146	u22-p146-s039	narrator	How far is your home from school?	1
 22	146	u22-p146-s038	narrator	far	1
 22	146	u22-p146-s040	narrator	tall	1
-22	146	u22-p146-s042	narrator	How tall is the girl over thereg	1
+22	146	u22-p146-s042	narrator	How tall is the girl over there?	1
 22	146	u22-p146-s041	narrator	tall	1
 22	146	u22-p146-s043	narrator	yes	1
 22	146	u22-p146-s044	narrator	no	1
-22	146	u22-p146-s045	narrator	How is the girl these daysg	1
+22	146	u22-p146-s045	narrator	How is the girl these days?	1
 22	146	u22-p146-s029	narrator	check Grammar	1
 22	146	u22-p146-s046	narrator	She is fine.	1
 22	146	u22-p146-s047	narrator	Yes.	1
 22	146	u22-p146-s048	narrator	what time	1
 22	146	u22-p146-s050	narrator	when	1
 22	146	u22-p146-s049	narrator	what time	1
-22	146	u22-p146-s051	narrator	What time does the fashion show startg	1
+22	146	u22-p146-s051	narrator	What time does the fashion show start?	1
 22	146	u22-p146-s052	narrator	At seven o’clock.	1
 22	146	u22-p146-s053	narrator	At seven o’clock.	1
 22	146	u22-p146-s054	narrator	At seven o’clock.	1
-22	146	u22-p146-s055	narrator	When do you watch the fashion showg	1
+22	146	u22-p146-s055	narrator	When do you watch the fashion show?	1
 22	146	u22-p146-s056	narrator	On Wednesday afternoon.	1
 22	146	u22-p146-s057	narrator	whose	1
 22	146	u22-p146-s059	narrator	which	1
 22	146	u22-p146-s058	narrator	whose	1
-22	146	u22-p146-s060	narrator	Whose shirt is thisg	1
-22	146	u22-p146-s061	narrator	Which scarf do you likeg	1
+22	146	u22-p146-s060	narrator	Whose shirt is this?	1
+22	146	u22-p146-s061	narrator	Which scarf do you like?	1
 22	146	u22-p146-s062	narrator	how much	1
 22	146	u22-p146-s063	narrator	how much	1
-22	146	u22-p146-s064	narrator	How much is your T-shirtg	1
+22	146	u22-p146-s064	narrator	How much is your T-shirt?	1
 22	146	u22-p146-s065	narrator	T	1
 22	146	u22-p146-s067	narrator	yes	1
 22	146	u22-p146-s068	narrator	no	1
-22	146	u22-p146-s069	narrator	Do you like silk scarves or cotton scarvesg	1
+22	146	u22-p146-s069	narrator	Do you like silk scarves or cotton scarves?	1
 22	146	u22-p146-s066	narrator	T	1
 22	146	u22-p146-s070	narrator	Silk.	1
 22	146	u22-p146-s071	narrator	Which dress do you like	1
-22	146	u22-p146-s072	narrator	this one or that oneg	1
+22	146	u22-p146-s072	narrator	this one or that one?	1
 22	146	u22-p146-s097	narrator	—I	1
 22	146	u22-p146-s073	narrator	I like this one.	1
 22	146	u22-p146-s030	narrator	Unit 7	1
@@ -6050,19 +6050,19 @@ unit	page	id	speaker	text	rects
 22	146	u22-p146-s095	narrator	There are some gifts on the desk.	1
 22	146	u22-p146-s096	narrator	I want to buy some food.	1
 22	147	u22-p147-s001	narrator	There are not any oranges in the shop.	1
-22	147	u22-p147-s026	narrator	Do you have any free timeg	1
+22	147	u22-p147-s026	narrator	Do you have any free time?	1
 22	147	u22-p147-s027	narrator	some	1
 22	147	u22-p147-s029	narrator	any	1
 22	147	u22-p147-s028	narrator	some	1
 22	147	u22-p147-s030	narrator	He has some new notebooks.	1
 22	147	u22-p147-s031	narrator	He does not have any new notebooks.	1
-22	147	u22-p147-s032	narrator	Does he have any new notebooksg	1
+22	147	u22-p147-s032	narrator	Does he have any new notebooks?	1
 22	147	u22-p147-s033	narrator	some	1
 22	147	u22-p147-s034	narrator	some	1
-22	147	u22-p147-s035	narrator	Would you like some drinkg	1
-22	147	u22-p147-s036	narrator	Can you tell me some Chinese idiom storiesg	1
+22	147	u22-p147-s035	narrator	Would you like some drink?	1
+22	147	u22-p147-s036	narrator	Can you tell me some Chinese idiom stories?	1
 22	147	u22-p147-s037	narrator	Sure.	1
-22	147	u22-p147-s009	narrator	How about the story of Guan Zhong and Bao Shuyag	1
+22	147	u22-p147-s009	narrator	How about the story of Guan Zhong and Bao Shuya?	1
 22	147	u22-p147-s038	narrator	there be	1
 22	147	u22-p147-s021	narrator	Grammar check	1
 22	147	u22-p147-s039	narrator	there be	1
@@ -6070,7 +6070,7 @@ unit	page	id	speaker	text	rects
 22	147	u22-p147-s043	narrator	There are a lot of friends at my birthday party.	1
 22	147	u22-p147-s044	narrator	There is not any water in her glass.	1
 22	147	u22-p147-s081	narrator	Are	1
-22	147	u22-p147-s045	narrator	Are there any girl students in the teamg	1
+22	147	u22-p147-s045	narrator	Are there any girl students in the team?	1
 22	147	u22-p147-s046	narrator	there be	1
 22	147	u22-p147-s047	narrator	be	1
 22	147	u22-p147-s048	narrator	be	1
@@ -6109,7 +6109,7 @@ unit	page	id	speaker	text	rects
 22	148	u22-p148-s022	narrator	My mum is cooking dinner now.	1
 22	148	u22-p148-s005	narrator	Our teacher is singing a song.	1
 22	148	u22-p148-s023	narrator	Listen!	1
-22	148	u22-p148-s024	narrator	Where is your fatherg	1
+22	148	u22-p148-s024	narrator	Where is your father?	1
 22	148	u22-p148-s025	narrator	Oh	1
 22	148	u22-p148-s026	narrator	he is cleaning his car.	1
 22	148	u22-p148-s046	narrator	know	1
@@ -6141,11 +6141,11 @@ unit	page	id	speaker	text	rects
 22	148	u22-p148-s033	narrator	The students are not having lunch.	1
 22	148	u22-p148-s034	narrator	be	1
 22	148	u22-p148-s060	narrator	—Is	1
-22	148	u22-p148-s035	narrator	Is that girl listening to music nowg	1
+22	148	u22-p148-s035	narrator	Is that girl listening to music now?	1
 22	148	u22-p148-s036	narrator	Yes	1
 22	148	u22-p148-s037	narrator	she is.	1
 22	148	u22-p148-s038	narrator	be	1
-22	148	u22-p148-s039	narrator	What are you readingg	1
+22	148	u22-p148-s039	narrator	What are you reading?	1
 22	148	u22-p148-s040	narrator	I’m reading a book about Chinese tea culture.	1
 22	148	u22-p148-s041	narrator	I’m reading a book about Chinese tea culture.	1
 22	148	u22-p148-s042	narrator	I’m reading a book about Chinese tea culture.	1
@@ -6312,7 +6312,7 @@ unit	page	id	speaker	text	rects
 23	151	u23-p151-s091	narrator	self	1
 23	151	u23-p151-s089	narrator	myself	1
 23	151	u23-p151-s093	narrator	take turns	1
-23	151	u23-p151-s095	narrator	empti	1
+23	151	u23-p151-s095	narrator	empty	1
 23	151	u23-p151-s097	narrator	enjoy oneself	1
 23	151	u23-p151-s094	narrator	empty	1
 23	151	u23-p151-s098	narrator	first	1

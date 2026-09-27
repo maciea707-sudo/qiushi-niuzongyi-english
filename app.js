@@ -45,6 +45,9 @@ let activeButtons = [];
 let activeAnchor = null;
 let previewButtons = [];
 let previewTimer = null;
+let navigationToken = 0;
+const catalog = document.getElementById("catalog");
+const catalogToggle = document.getElementById("catalogToggle");
 const audioPlayer = new Audio();
 audioPlayer.preload = "auto";
 
@@ -59,12 +62,27 @@ function unitForPage(pageValue) {
 }
 
 async function boot() {
-  manifest = await fetch("data/manifest.json").then(response => response.json());
+  manifest = await fetchJson("data/manifest.json");
   pageNumber.max = String(Math.max(...manifest.units.map(unit => unit.end)));
+  setCatalogClosed(window.matchMedia("(max-width: 900px)").matches);
   const initial = params();
   renderUnitNav();
   const initialUnit = unitForPage(initial.page) || manifest.units[0];
   await openUnit(initialUnit.id, unitForPage(initial.page) ? initial.page : initialUnit.start, false);
+}
+
+async function fetchJson(path) {
+  const response = await fetch(path);
+  if (!response.ok) throw new Error(`无法加载 ${path} (${response.status})`);
+  return response.json();
+}
+
+function setCatalogClosed(closed) {
+  catalog.classList.toggle("closed", closed);
+  catalog.inert = closed;
+  document.body.classList.toggle("catalog-closed", closed);
+  catalogToggle.setAttribute("aria-expanded", String(!closed));
+  catalogToggle.setAttribute("aria-label", closed ? "打开单元目录" : "关闭单元目录");
 }
 
 function renderUnitNav() {
@@ -74,7 +92,7 @@ function renderUnitNav() {
     button.className = `unit-link${unit.frontMatter ? " front-matter" : ""}`;
     button.dataset.unit = String(unit.id);
     button.innerHTML = unit.frontMatter
-      ? `<span>1—5 页</span>封面与目录`
+      ? `<span>0—5 页</span>封面与目录`
       : unit.kind === "project"
         ? `<span>PROJECT ${unit.id === 9 ? 1 : 2} · ${unit.start}—${unit.end} 页</span>${unit.title}`
         : unit.kind === "workbook"
@@ -82,16 +100,28 @@ function renderUnitNav() {
           : unit.kind === "appendix"
             ? `<span>附录 · ${unit.start}—${unit.end} 页</span>${unit.title}`
         : `<span>UNIT ${unit.id} · ${unit.start}—${unit.end} 页</span>${unit.title}`;
-    button.addEventListener("click", () => openUnit(unit.id, unit.start));
+    button.addEventListener("click", () => {
+      if (window.matchMedia("(max-width: 900px)").matches) setCatalogClosed(true);
+      void openUnit(unit.id, unit.start);
+    });
     return button;
   }));
 }
 
 async function openUnit(unitId, requestedPage, push = true) {
+  const token = ++navigationToken;
   hideSentence();
   const target = manifest.units.find(unit => unit.id === Number(unitId)) || manifest.units[0];
+  let loaded;
+  try { loaded = await fetchJson(`data/unit-${target.id}.json`); }
+  catch (error) {
+    if (token === navigationToken) showToast("单元数据加载失败，请刷新后重试。");
+    console.error(error);
+    return;
+  }
+  if (token !== navigationToken) return;
   currentUnit = target.id;
-  unitData = await fetch(`data/unit-${currentUnit}.json`).then(response => response.json());
+  unitData = loaded;
   currentPage = Math.min(unitData.pages.at(-1).page, Math.max(unitData.pages[0].page, requestedPage));
   unitNav.querySelectorAll(".unit-link").forEach(button => button.classList.toggle("active", Number(button.dataset.unit) === currentUnit));
   unitTitle.textContent = unitData.frontMatter
@@ -106,11 +136,11 @@ async function openUnit(unitId, requestedPage, push = true) {
     return option;
   }));
   pageSelect.value = String(currentPage);
-  await renderPage();
-  if (push) history.pushState({}, "", `?page=${currentPage}`);
+  await renderPage(push, token);
 }
 
-async function renderPage(push = false) {
+async function renderPage(push = false, token = ++navigationToken) {
+  if (token !== navigationToken) return;
   hideSentence();
   const pageData = unitData.pages.find(item => item.page === currentPage);
   const pageLabel = pageData.label || `教材第 ${currentPage} 页`;
@@ -123,14 +153,21 @@ async function renderPage(push = false) {
   const globalIndex = availablePages.indexOf(currentPage);
   prevPage.disabled = globalIndex <= 0;
   nextPage.disabled = globalIndex < 0 || globalIndex >= availablePages.length - 1;
-  page.innerHTML = `<div class="page-loading">正在打开${pageLabel}…</div>`;
+  const loading = document.createElement("div");
+  loading.className = "page-loading";
+  loading.textContent = `正在打开${pageLabel}…`;
+  page.replaceChildren(loading);
   const image = new Image();
   image.className = "page-image";
-  image.alt = unitData.frontMatter
-    ? `译林英语七年级上册${pageLabel}`
-    : `译林英语七年级上册 Unit ${currentUnit} 第 ${currentPage} 页`;
+  image.alt = `译林英语七年级上册${pageLabel}`;
   image.src = pageData.image;
-  await image.decode();
+  try { await image.decode(); }
+  catch (error) {
+    if (token === navigationToken) loading.textContent = "教材图片加载失败，请刷新后重试。";
+    console.error(error);
+    return;
+  }
+  if (token !== navigationToken) return;
   page.replaceChildren(image);
   page.style.setProperty("--page-image", `url("${pageData.image}")`);
   pageData.sentences.forEach((sentence, index) => createHotspots(sentence, index));
@@ -233,6 +270,13 @@ function showSentence(index, anchor) {
 
 function positionPopover(anchor) {
   if (!anchor || popover.classList.contains("hidden")) return;
+  if (window.innerWidth <= 900) {
+    popover.style.left = "12px";
+    popover.style.top = "auto";
+    popover.style.bottom = "12px";
+    return;
+  }
+  popover.style.bottom = "auto";
   const rect = anchor.getBoundingClientRect();
   const gap = 14;
   const cardWidth = popover.offsetWidth;
@@ -276,7 +320,7 @@ function showToast(message) {
 }
 
 async function jumpToPage() {
-  const requested = Number(pageNumber.value);
+  const requested = pageNumber.value.trim() === "" ? NaN : Number(pageNumber.value);
   const targetUnit = Number.isInteger(requested) ? unitForPage(requested) : null;
   if (!targetUnit) {
     pageNumber.value = String(currentPage);
@@ -312,7 +356,7 @@ prevPage.addEventListener("click", async () => { if (!prevPage.disabled) await g
 nextPage.addEventListener("click", async () => { if (!nextPage.disabled) await goRelativePage(1); });
 goToPage.addEventListener("click", jumpToPage);
 pageNumber.addEventListener("keydown", event => { if (event.key === "Enter") { event.preventDefault(); void jumpToPage(); } });
-document.getElementById("catalogToggle").addEventListener("click", () => document.getElementById("catalog").classList.toggle("closed"));
+catalogToggle.addEventListener("click", () => setCatalogClosed(!catalog.classList.contains("closed")));
 popover.addEventListener("click", event => event.stopPropagation());
 document.addEventListener("click", hideSentence);
 document.addEventListener("keydown", event => { if (event.key === "Escape") hideSentence(); });

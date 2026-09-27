@@ -24,6 +24,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
+      - name: Validate textbook data and assets
+        run: python scripts/validate_site.py
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
