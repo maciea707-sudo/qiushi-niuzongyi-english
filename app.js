@@ -16,7 +16,7 @@ const replayAudio = document.getElementById("replayAudio");
 const unitTitle = document.getElementById("unitTitle");
 const pageTitle = document.getElementById("pageTitle");
 const toast = document.getElementById("toast");
-const contentRevision = "20260927-complete-lines-v3";
+const contentRevision = "20260927-cloze-lines-v4";
 
 const speakerPalette = [
   ["#75419a", "#f5eef9"], ["#d56843", "#fdf0eb"], ["#2878b5", "#eaf4fb"],
@@ -236,9 +236,11 @@ function joinSentenceLineRects(sentence, index) {
       const sharedHeight = Math.min(last.y + last.h, next.y + next.h) - Math.max(last.y, next.y);
       const otherTextBetween = all.some((other, otherIndex) => otherIndex !== index &&
         other.rects.some(box => box.x < next.x && box.x + box.w > end &&
-          box.y < Math.min(last.y + last.h, next.y + next.h) &&
-          box.y + box.h > Math.max(last.y, next.y)));
-      if (gap <= 35 && sharedHeight > Math.min(last.h, next.h) * 0.65 && !otherTextBetween) {
+          Math.min(box.y + box.h, last.y + last.h, next.y + next.h) -
+            Math.max(box.y, last.y, next.y) > Math.min(box.h, last.h, next.h) * 0.5));
+      // Some workbook answer lines span most of the row (e.g. page 129).
+      const maxGap = sentence.text.includes("…") ? 75 : 35;
+      if (gap <= maxGap && sharedHeight > Math.min(last.h, next.h) * 0.65 && !otherTextBetween) {
         const bottom = Math.max(last.y + last.h, next.y + next.h);
         last.w = Math.max(end, next.x + next.w) - last.x;
         last.y = Math.min(last.y, next.y);

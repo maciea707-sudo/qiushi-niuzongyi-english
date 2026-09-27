@@ -130,6 +130,29 @@ for page, suffix, expected, minimum_regions in [
           and len(matching[0]["rects"]) >= minimum_regions,
           f"Page {page}: incomplete wrapped sentence {suffix}")
 
+# Workbook underlines can be invisible to text extraction. These coordinates
+# are measured on the printed page and must belong to the correct card.
+for page, suffix, text, x, y in [
+    (48, "s029", "He … plays football on the sports field.", 57.4, 61.0),
+    (59, "s020", "… eats cakes or sweets", 28.0, 51.2),
+    (73, "s058", "…", 24.0, 81.0),
+    (85, "s031", "We often use … (some, any) in negative sentences and questions.", 45.0, 49.7),
+    (106, "s032", "… you happy at school, my dear?", 40.0, 58.2),
+    (106, "s051", "… Nora interested in music, like you?", 40.0, 83.5),
+    (106, "s062", "No, she … .", 48.0, 87.8),
+    (113, "s021", "Watch students play different sports on the …", 45.0, 33.4),
+    (113, "s022", "… See students’ pictures in the art room", 26.0, 36.0),
+    (113, "s024", "Look at students’ work in the … lab", 74.0, 41.5),
+    (120, "s024", "lunch and dinner: rice, … and some meat", 72.0, 54.7),
+    (120, "s028", "… like an apple or orange", 69.0, 61.7),
+]:
+    matching = [item for item in page_items[page] if item["id"].endswith(suffix)]
+    check(len(matching) == 1 and text in matching[0]["text"]
+          and any(box["x"] <= x <= box["x"] + box["w"]
+                  and box["y"] <= y <= box["y"] + box["h"]
+                  for box in matching[0]["rects"]),
+          f"Page {page}: printed underline at ({x}, {y}) outside {suffix}")
+
 # Long sentences cannot be fully read in a fraction of a second. This catches
 # the class of truncated recordings which previously passed the existence test.
 for number, items in page_items.items():
