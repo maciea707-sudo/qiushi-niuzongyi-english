@@ -125,8 +125,10 @@ body.catalog-closed .workspace { left: 0; }
 .ipa-text { color: #9b4c27; border-color: #efcdb7; border-left-color: var(--orange); background: #fff2e8; font-family: "Segoe UI", "Arial Unicode MS", sans-serif; font-size: 16px; line-height: 1.55; overflow-wrap: anywhere; }
 .meaning-text { color: #342f38; border-color: #d8cce4; border-left-color: var(--purple); background: #f4eff8; font-size: 15px; line-height: 1.62; }
 .voice-status { margin: 10px 2px 0; color: #7a7280; font-size: 11px; line-height: 1.5; }
-.replay-audio { margin-top: 10px; padding: 8px 13px; border: 1px solid var(--orange); border-radius: 8px; background: #fff8f2; color: #974919; font-weight: 700; cursor: pointer; }
-.replay-audio:hover, .replay-audio:focus-visible { background: #ffeadc; }
+.audio-controls { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 6px; margin-top: 10px; }
+.audio-controls button { min-width: 0; min-height: 38px; padding: 6px 2px; border: 1px solid var(--orange); border-radius: 8px; background: #fff8f2; color: #974919; font-size: 13px; font-weight: 700; white-space: nowrap; cursor: pointer; }
+.audio-controls button:hover, .audio-controls button:focus-visible { background: #ffeadc; }
+.audio-controls .speed-button[aria-pressed="true"] { color: #fff; background: var(--orange); }
 .voice-meter { display: inline-flex; align-items: flex-end; gap: 2px; height: 12px; margin-right: 7px; vertical-align: -1px; }
 .voice-meter i { width: 3px; height: 5px; border-radius: 3px; background: var(--purple); }
 .voice-meter i:nth-child(2) { height: 9px; }
@@ -155,6 +157,8 @@ body.catalog-closed .workspace { left: 0; }
   .page-loading { min-height: 300px; }
   .study-popover { width: calc(100vw - 24px); max-height: min(55vh, 430px); padding: 14px; }
   .sentence-text { font-size: 17px; }
+  .audio-controls { gap: 4px; }
+  .audio-controls button { font-size: 12px; }
   .toast { right: 12px; bottom: 12px; left: 12px; max-width: none; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }

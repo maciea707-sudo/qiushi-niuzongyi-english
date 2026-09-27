@@ -6,7 +6,7 @@
   <title>秋实中学牛琮一初中一年级英语发音教材</title>
   <meta name="description" content="秋实中学牛琮一初中一年级英语发音教材：悬浮聚焦句子，点击查看英式音标、汉语意思并听 AI 发音。">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%2375419a'/><text x='32' y='43' text-anchor='middle' font-size='36' fill='white'>英</text></svg>">
-  <link rel="stylesheet" href="styles.css?v=20260927-focus-v3">
+  <link rel="stylesheet" href="styles.css?v=20260928-playback-speed-v1">
 </head>
 <body>
   <header class="topbar">
@@ -52,10 +52,16 @@
     <p class="field-label">汉语意思</p>
     <p class="meaning-text" id="meaningText"></p>
     <p class="voice-status"><span class="voice-meter" aria-hidden="true"><i></i><i></i><i></i></span><span id="voiceStatusText"></span></p>
-    <button class="replay-audio" id="replayAudio" type="button" aria-label="重新播放当前英语录音">▶ 重新播放</button>
+    <div class="audio-controls" role="group" aria-label="录音播放与语速">
+      <button class="replay-audio" id="replayAudio" type="button" aria-label="按当前语速重新播放英语录音">▶ 重播</button>
+      <button class="speed-button" type="button" data-rate="1" aria-label="语速 100%" aria-pressed="true">100%</button>
+      <button class="speed-button" type="button" data-rate="0.75" aria-label="语速 75%" aria-pressed="false">75%</button>
+      <button class="speed-button" type="button" data-rate="0.5" aria-label="语速 50%" aria-pressed="false">50%</button>
+      <button class="speed-button" type="button" data-rate="0.25" aria-label="语速 25%" aria-pressed="false">25%</button>
+    </div>
   </aside>
 
   <div class="toast" id="toast" role="status"></div>
-  <script src="app.js?v=20260927-cloze-lines-v4"></script>
+  <script src="app.js?v=20260928-playback-speed-v1"></script>
 </body>
 </html>

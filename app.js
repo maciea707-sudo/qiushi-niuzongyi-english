@@ -13,6 +13,7 @@ const roleAvatar = document.getElementById("roleAvatar");
 const roleName = document.getElementById("roleName");
 const voiceStatusText = document.getElementById("voiceStatusText");
 const replayAudio = document.getElementById("replayAudio");
+const speedButtons = [...document.querySelectorAll(".speed-button")];
 const unitTitle = document.getElementById("unitTitle");
 const pageTitle = document.getElementById("pageTitle");
 const toast = document.getElementById("toast");
@@ -51,6 +52,7 @@ let activeAnchor = null;
 let previewButtons = [];
 let previewTimer = null;
 let navigationToken = 0;
+let playbackRate = 1;
 const catalog = document.getElementById("catalog");
 const catalogToggle = document.getElementById("catalogToggle");
 const audioPlayer = new Audio();
@@ -407,6 +409,8 @@ async function playCurrentAudio() {
   url.searchParams.set("v", contentRevision);
   audioPlayer.src = url.href;
   audioPlayer.currentTime = 0;
+  audioPlayer.playbackRate = playbackRate;
+  audioPlayer.preservesPitch = true;
   try { await audioPlayer.play(); }
   catch (error) {
     if (error.name === "AbortError") return; // another word was selected meanwhile
@@ -462,6 +466,12 @@ pageNumber.addEventListener("keydown", event => { if (event.key === "Enter") { e
 catalogToggle.addEventListener("click", () => setCatalogClosed(!catalog.classList.contains("closed")));
 popover.addEventListener("click", event => event.stopPropagation());
 replayAudio.addEventListener("click", () => { void playCurrentAudio(); });
+speedButtons.forEach(button => button.addEventListener("click", () => {
+  playbackRate = Number(button.dataset.rate);
+  speedButtons.forEach(option => option.setAttribute("aria-pressed", String(option === button)));
+  audioPlayer.playbackRate = playbackRate;
+  void playCurrentAudio();
+}));
 document.addEventListener("click", hideSentence);
 document.addEventListener("keydown", event => { if (event.key === "Escape") hideSentence(); });
 audioPlayer.addEventListener("play", () => popover.classList.add("speaking"));
