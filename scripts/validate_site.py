@@ -48,6 +48,12 @@ for unit in manifest["units"]:
                       and x + width <= 100.1 and y + height <= 100.1, f"{sid}: invalid hotspot")
             if sentence.get("audio"):
                 audio_paths.add(sentence["audio"])
+            if unit["id"] == 23 and number in range(149, 162):
+                # Dictionary variants should be clean headwords, while the two
+                # Wordlist headings legitimately contain a parenthesized label.
+                check(not (sentence["text"].rstrip().endswith(")")
+                           and not sentence["text"].startswith("Wordlist (")),
+                      f"{sid}: wordlist variant still contains OCR annotation")
             # The question mark in the source PDF was often extracted as 'g'.
             if sentence["meaning"].rstrip("。").endswith("？"):
                 check(not sentence["ipa"].endswith("g/"), f"{sid}: question mark OCR error")

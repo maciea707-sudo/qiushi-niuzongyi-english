@@ -25,7 +25,7 @@
               "h": 2.8647
             }
           ],
-          "ipa": "/(baɪ ˈjuːnɪt)/",
+          "ipa": "/ˈwɜːdlɪst baɪ ˈjuːnɪt/",
           "meaning": "单词表(单位)",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p149-s067.wav"
@@ -1791,23 +1791,6 @@
           "audio": "assets/audio/u04/u04-p046-s032.wav"
         },
         {
-          "id": "u23-p150-s076",
-          "speaker": "narrator",
-          "text": "(short form ’d)",
-          "rects": [
-            {
-              "x": 27.8793,
-              "y": 39.2351,
-              "w": 11.6193,
-              "h": 2.1485
-            }
-          ],
-          "ipa": "/(ˈʃɔːt ˈfɔːm ”ˈdiː)/",
-          "meaning": "(简表d)",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p150-s076.wav"
-        },
-        {
           "id": "u23-p150-s039",
           "speaker": "narrator",
           "text": "form teacher",
@@ -1895,7 +1878,7 @@
         {
           "id": "u23-p150-s100",
           "speaker": "narrator",
-          "text": "AmE gray)",
+          "text": "gray",
           "rects": [
             {
               "x": 65.1333,
@@ -1904,9 +1887,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˌeɪˈeˌmiː ˈgreɪ)/",
-          "meaning": "AmE灰色）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ɡreɪ/",
+          "meaning": "灰色的（美式拼写）",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p150-s100.wav"
         },
         {
@@ -2507,7 +2490,7 @@
         {
           "id": "u23-p150-s088",
           "speaker": "narrator",
-          "text": "everybody)",
+          "text": "everybody",
           "rects": [
             {
               "x": 33.5202,
@@ -2516,9 +2499,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈevrɪbɒdiː)/",
-          "meaning": "所有人）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ˈevribɒdi/",
+          "meaning": "每个人",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p150-s088.wav"
         },
         {
@@ -3264,7 +3247,7 @@
         {
           "id": "u23-p151-s084",
           "speaker": "narrator",
-          "text": "(AmE practice)",
+          "text": "practice",
           "rects": [
             {
               "x": 29.5657,
@@ -3273,9 +3256,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/(ˌeɪˈeˌmiː ˈpræktɪs)/",
-          "meaning": "(AmE练习)",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ˈpræktɪs/",
+          "meaning": "练习（美式拼写）",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p151-s084.wav"
         },
         {
@@ -3791,7 +3774,7 @@
         {
           "id": "u23-p151-s124",
           "speaker": "narrator",
-          "text": "teeth)",
+          "text": "teeth",
           "rects": [
             {
               "x": 65.7871,
@@ -3800,10 +3783,10 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈtiːθ)/",
-          "meaning": "牙齿）",
+          "ipa": "/tiːθ/",
+          "meaning": "tooth 的复数：牙齿",
           "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p151-s124.wav"
+          "audio": "assets/audio/u05/u05-p061-s063.wav"
         },
         {
           "id": "u23-p151-s067",
@@ -5007,7 +4990,7 @@
         {
           "id": "u23-p152-s102",
           "speaker": "narrator",
-          "text": "yoghurt)",
+          "text": "yoghurt",
           "rects": [
             {
               "x": 26.3652,
@@ -5016,9 +4999,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈjɒgət)/",
-          "meaning": "酸奶)",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ˈjɒɡət/",
+          "meaning": "酸奶（另一种拼写）",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p152-s102.wav"
         },
         {
@@ -5330,7 +5313,7 @@
         {
           "id": "u23-p152-s104",
           "speaker": "narrator",
-          "text": "scarfs)",
+          "text": "scarfs",
           "rects": [
             {
               "x": 32.1016,
@@ -5339,9 +5322,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈskɑːfs)/",
-          "meaning": "围巾)",
-          "voice": "英式女声 · Emma",
+          "ipa": "/skɑːfs/",
+          "meaning": "scarf 的复数：围巾",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p152-s104.wav"
         }
       ]
@@ -5747,7 +5730,7 @@
         {
           "id": "u23-p153-s083",
           "speaker": "narrator",
-          "text": "per cent)",
+          "text": "per cent",
           "rects": [
             {
               "x": 71.1748,
@@ -5756,10 +5739,10 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/pɜː ˈsent)/",
-          "meaning": "%)",
+          "ipa": "/pə ˈsent/",
+          "meaning": "百分比",
           "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p153-s083.wav"
+          "audio": "assets/audio/u07/u07-p084-s018.wav"
         },
         {
           "id": "u23-p153-s027",
@@ -5781,7 +5764,7 @@
         {
           "id": "u23-p153-s090",
           "speaker": "narrator",
-          "text": "AmE percent)",
+          "text": "percent",
           "rects": [
             {
               "x": 54.3165,
@@ -5790,9 +5773,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˌeɪˈeˌmiː pəˈsent)/",
-          "meaning": "AmE百分比）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/pəˈsent/",
+          "meaning": "百分比（美式拼写）",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p153-s090.wav"
         },
         {
@@ -6495,7 +6478,7 @@
         {
           "id": "u23-p153-s099",
           "speaker": "narrator",
-          "text": "AmE colorful)",
+          "text": "colorful",
           "rects": [
             {
               "x": 26.6703,
@@ -6504,9 +6487,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˌeɪˈeˌmiː ˈkʌləfʊl)/",
-          "meaning": "AmE七彩）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ˈkʌləfəl/",
+          "meaning": "五彩缤纷的（美式拼写）",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p153-s099.wav"
         },
         {
@@ -6929,7 +6912,7 @@
         {
           "id": "u23-p154-s073",
           "speaker": "narrator",
-          "text": "(AmE traveler)",
+          "text": "traveler",
           "rects": [
             {
               "x": 72.0481,
@@ -6938,9 +6921,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/(ˌeɪˈeˌmiː ˈtrævələ)/",
-          "meaning": "（AmE旅行者）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ˈtrævələ/",
+          "meaning": "旅行者（美式拼写）",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p154-s073.wav"
         },
         {
@@ -7507,7 +7490,7 @@
         {
           "id": "u23-p154-s077",
           "speaker": "narrator",
-          "text": "gentlemen)",
+          "text": "gentlemen",
           "rects": [
             {
               "x": 34.6086,
@@ -7516,9 +7499,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈdʒentəlmen)/",
-          "meaning": "先生们）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ˈdʒentəlmen/",
+          "meaning": "先生们",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p154-s077.wav"
         },
         {
@@ -7899,7 +7882,7 @@
               "h": 3.1299
             }
           ],
-          "ipa": "/(ɪn ˌælfəˈbetɪkəl ˈɔːdə)/",
+          "ipa": "/ˈwɜːdlɪst ɪn ˌælfəˈbetɪkəl ˈɔːdə/",
           "meaning": "单词列表（按字母顺序排列）",
           "voice": "英式女声 · Emma",
           "audio": "assets/audio/u23/u23-p155-s064.wav"
@@ -9259,7 +9242,7 @@
         {
           "id": "u23-p156-s080",
           "speaker": "narrator",
-          "text": "AmE colorful)",
+          "text": "colorful",
           "rects": [
             {
               "x": 28.2605,
@@ -9268,9 +9251,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˌeɪˈeˌmiː ˈkʌləfʊl)/",
-          "meaning": "AmE七彩）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ˈkʌləfəl/",
+          "meaning": "五彩缤纷的（美式拼写）",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p156-s080.wav"
         },
         {
@@ -9718,7 +9701,7 @@
         {
           "id": "u23-p156-s076",
           "speaker": "narrator",
-          "text": "everybody)",
+          "text": "everybody",
           "rects": [
             {
               "x": 76.3432,
@@ -9727,9 +9710,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈevrɪbɒdiː)/",
-          "meaning": "所有人）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ˈevribɒdi/",
+          "meaning": "每个人",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p156-s076.wav"
         },
         {
@@ -10747,7 +10730,7 @@
         {
           "id": "u23-p157-s068",
           "speaker": "narrator",
-          "text": "gentlemen)",
+          "text": "gentlemen",
           "rects": [
             {
               "x": 33.0072,
@@ -10756,9 +10739,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈdʒentəlmen)/",
-          "meaning": "先生们）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ˈdʒentəlmen/",
+          "meaning": "先生们",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p157-s068.wav"
         },
         {
@@ -11053,7 +11036,7 @@
         {
           "id": "u23-p157-s110",
           "speaker": "narrator",
-          "text": "AmE gray)",
+          "text": "gray",
           "rects": [
             {
               "x": 20.705,
@@ -11062,9 +11045,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˌeɪˈeˌmiː ˈgreɪ)/",
-          "meaning": "AmE灰色）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ɡreɪ/",
+          "meaning": "灰色的（美式拼写）",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p157-s110.wav"
         },
         {
@@ -12720,7 +12703,7 @@
         {
           "id": "u23-p159-s083",
           "speaker": "narrator",
-          "text": "per cent)",
+          "text": "per cent",
           "rects": [
             {
               "x": 28.346,
@@ -12729,10 +12712,10 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/pɜː ˈsent)/",
-          "meaning": "%)",
+          "ipa": "/pə ˈsent/",
+          "meaning": "百分比",
           "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p159-s083.wav"
+          "audio": "assets/audio/u07/u07-p084-s018.wav"
         },
         {
           "id": "u23-p159-s026",
@@ -12754,7 +12737,7 @@
         {
           "id": "u23-p159-s094",
           "speaker": "narrator",
-          "text": "AmE percent)",
+          "text": "percent",
           "rects": [
             {
               "x": 11.4877,
@@ -12763,9 +12746,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˌeɪˈeˌmiː pəˈsent)/",
-          "meaning": "AmE百分比）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/pəˈsent/",
+          "meaning": "百分比（美式拼写）",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p159-s094.wav"
         },
         {
@@ -13315,7 +13298,7 @@
         {
           "id": "u23-p159-s087",
           "speaker": "narrator",
-          "text": "(AmE practice)",
+          "text": "practice",
           "rects": [
             {
               "x": 29.5789,
@@ -13324,9 +13307,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/(ˌeɪˈeˌmiː ˈpræktɪs)/",
-          "meaning": "(AmE练习)",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ˈpræktɪs/",
+          "meaning": "练习（美式拼写）",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p159-s087.wav"
         },
         {
@@ -13400,7 +13383,7 @@
         {
           "id": "u23-p159-s108",
           "speaker": "narrator",
-          "text": "scarfs)",
+          "text": "scarfs",
           "rects": [
             {
               "x": 73.3232,
@@ -13409,9 +13392,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈskɑːfs)/",
-          "meaning": "围巾)",
-          "voice": "英式女声 · Emma",
+          "ipa": "/skɑːfs/",
+          "meaning": "scarf 的复数：围巾",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p159-s108.wav"
         },
         {
@@ -14446,7 +14429,7 @@
         {
           "id": "u23-p160-s117",
           "speaker": "narrator",
-          "text": "teeth)",
+          "text": "teeth",
           "rects": [
             {
               "x": 67.3886,
@@ -14455,10 +14438,10 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈtiːθ)/",
-          "meaning": "牙齿）",
+          "ipa": "/tiːθ/",
+          "meaning": "tooth 的复数：牙齿",
           "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p160-s117.wav"
+          "audio": "assets/audio/u05/u05-p061-s063.wav"
         },
         {
           "id": "u23-p160-s054",
@@ -14565,7 +14548,7 @@
         {
           "id": "u23-p160-s088",
           "speaker": "narrator",
-          "text": "(AmE traveler)",
+          "text": "traveler",
           "rects": [
             {
               "x": 72.0404,
@@ -14574,9 +14557,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/(ˌeɪˈeˌmiː ˈtrævələ)/",
-          "meaning": "（AmE旅行者）",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ˈtrævələ/",
+          "meaning": "旅行者（美式拼写）",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p160-s088.wav"
         },
         {
@@ -15082,23 +15065,6 @@
           "audio": "assets/audio/u08/u08-p099-s041.wav"
         },
         {
-          "id": "u23-p161-s026",
-          "speaker": "narrator",
-          "text": "(short form ’d)",
-          "rects": [
-            {
-              "x": 69.1049,
-              "y": 20.7345,
-              "w": 11.6193,
-              "h": 2.1485
-            }
-          ],
-          "ipa": "/(ˈʃɔːt ˈfɔːm ”ˈdiː)/",
-          "meaning": "(简表d)",
-          "voice": "英式女声 · Emma",
-          "audio": "assets/audio/u23/u23-p161-s026.wav"
-        },
-        {
           "id": "u23-p161-s011",
           "speaker": "narrator",
           "text": "violin",
@@ -15271,7 +15237,7 @@
         {
           "id": "u23-p161-s044",
           "speaker": "narrator",
-          "text": "yoghurt)",
+          "text": "yoghurt",
           "rects": [
             {
               "x": 67.5755,
@@ -15280,9 +15246,9 @@
               "h": 2.1485
             }
           ],
-          "ipa": "/ˈjɒgət)/",
-          "meaning": "酸奶)",
-          "voice": "英式女声 · Emma",
+          "ipa": "/ˈjɒɡət/",
+          "meaning": "酸奶（另一种拼写）",
+          "voice": "本地合成 · 英语女声 SLT（美式）",
           "audio": "assets/audio/u23/u23-p161-s044.wav"
         },
         {

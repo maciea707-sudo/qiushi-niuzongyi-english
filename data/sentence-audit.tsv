@@ -6276,13 +6276,12 @@ unit	page	id	speaker	text	rects
 23	150	u23-p150-s035	narrator	teach	1
 23	150	u23-p150-s037	narrator	would	1
 23	150	u23-p150-s038	narrator	team	1
-23	150	u23-p150-s076	narrator	(short form ’d)	1
 23	150	u23-p150-s039	narrator	form teacher	1
 23	150	u23-p150-s040	narrator	show	1
 23	150	u23-p150-s090	narrator	would like	1
 23	150	u23-p150-s042	narrator	grey	1
 23	150	u23-p150-s091	narrator	future	1
-23	150	u23-p150-s100	narrator	AmE gray)	1
+23	150	u23-p150-s100	narrator	gray	1
 23	150	u23-p150-s080	narrator	Wordlist	1
 23	150	u23-p150-s101	narrator	in the future	1
 23	150	u23-p150-s044	narrator	hope	1
@@ -6318,7 +6317,7 @@ unit	page	id	speaker	text	rects
 23	150	u23-p150-s127	narrator	bright	1
 23	150	u23-p150-s087	narrator	Unit 4	1
 23	150	u23-p150-s070	narrator	everyone	1
-23	150	u23-p150-s088	narrator	everybody)	1
+23	150	u23-p150-s088	narrator	everybody	1
 23	150	u23-p150-s071	narrator	a.m.	1
 23	150	u23-p150-s073	narrator	perfect	1
 23	150	u23-p150-s131	narrator	get up	1
@@ -6362,7 +6361,7 @@ unit	page	id	speaker	text	rects
 23	151	u23-p151-s032	narrator	lemon	1
 23	151	u23-p151-s033	narrator	practise	1
 23	151	u23-p151-s035	narrator	watermelon	1
-23	151	u23-p151-s084	narrator	(AmE practice)	1
+23	151	u23-p151-s084	narrator	practice	1
 23	151	u23-p151-s036	narrator	pepper	1
 23	151	u23-p151-s085	narrator	Wordlist	1
 23	151	u23-p151-s037	narrator	field	1
@@ -6393,7 +6392,7 @@ unit	page	id	speaker	text	rects
 23	151	u23-p151-s063	narrator	sugar	1
 23	151	u23-p151-s064	narrator	website	1
 23	151	u23-p151-s065	narrator	tooth	1
-23	151	u23-p151-s124	narrator	teeth)	1
+23	151	u23-p151-s124	narrator	teeth	1
 23	151	u23-p151-s067	narrator	video	1
 23	151	u23-p151-s068	narrator	homebody	1
 23	151	u23-p151-s069	narrator	outside	1
@@ -6464,7 +6463,7 @@ unit	page	id	speaker	text	rects
 23	152	u23-p152-s105	narrator	pie	1
 23	152	u23-p152-s060	narrator	yogurt	1
 23	152	u23-p152-s061	narrator	traditional	1
-23	152	u23-p152-s102	narrator	yoghurt)	1
+23	152	u23-p152-s102	narrator	yoghurt	1
 23	152	u23-p152-s063	narrator	most	1
 23	152	u23-p152-s062	narrator	popular	1
 23	152	u23-p152-s065	narrator	type	1
@@ -6483,7 +6482,7 @@ unit	page	id	speaker	text	rects
 23	152	u23-p152-s078	narrator	loose	1
 23	152	u23-p152-s079	narrator	scarf	1
 23	152	u23-p152-s103	narrator	scarves	1
-23	152	u23-p152-s104	narrator	scarfs)	1
+23	152	u23-p152-s104	narrator	scarfs	1
 23	153	u23-p153-s001	narrator	belt	1
 23	153	u23-p153-s002	narrator	cost	1
 23	153	u23-p153-s003	narrator	close-fitting	1
@@ -6507,9 +6506,9 @@ unit	page	id	speaker	text	rects
 23	153	u23-p153-s023	narrator	need	1
 23	153	u23-p153-s024	narrator	leather	1
 23	153	u23-p153-s025	narrator	per cent	1
-23	153	u23-p153-s083	narrator	per cent)	1
+23	153	u23-p153-s083	narrator	per cent	1
 23	153	u23-p153-s027	narrator	size	1
-23	153	u23-p153-s090	narrator	AmE percent)	1
+23	153	u23-p153-s090	narrator	percent	1
 23	153	u23-p153-s093	narrator	spens	1
 23	153	u23-p153-s091	narrator	expensive	1
 23	153	u23-p153-s030	narrator	save	1
@@ -6551,7 +6550,7 @@ unit	page	id	speaker	text	rects
 23	153	u23-p153-s064	narrator	another	1
 23	153	u23-p153-s066	narrator	online	1
 23	153	u23-p153-s067	narrator	colourful	1
-23	153	u23-p153-s099	narrator	AmE colorful)	1
+23	153	u23-p153-s099	narrator	colorful	1
 23	153	u23-p153-s068	narrator	lucky	1
 23	153	u23-p153-s069	narrator	surprise	1
 23	153	u23-p153-s070	narrator	lucky money	1
@@ -6576,7 +6575,7 @@ unit	page	id	speaker	text	rects
 23	154	u23-p154-s008	narrator	suitcase	1
 23	154	u23-p154-s009	narrator	block	1
 23	154	u23-p154-s010	narrator	traveller	1
-23	154	u23-p154-s073	narrator	(AmE traveler)	1
+23	154	u23-p154-s073	narrator	traveler	1
 23	154	u23-p154-s074	narrator	Unit 8	1
 23	154	u23-p154-s011	narrator	wherever	1
 23	154	u23-p154-s012	narrator	celebrate	1
@@ -6610,7 +6609,7 @@ unit	page	id	speaker	text	rects
 23	154	u23-p154-s041	narrator	lady	1
 23	154	u23-p154-s042	narrator	forever	1
 23	154	u23-p154-s043	narrator	gentleman	1
-23	154	u23-p154-s077	narrator	gentlemen)	1
+23	154	u23-p154-s077	narrator	gentlemen	1
 23	154	u23-p154-s045	narrator	decorate	1
 23	154	u23-p154-s046	narrator	spread	1
 23	154	u23-p154-s097	narrator	put up	1
@@ -6712,7 +6711,7 @@ unit	page	id	speaker	text	rects
 23	156	u23-p156-s017	narrator	club	1
 23	156	u23-p156-s018	narrator	coin	1
 23	156	u23-p156-s019	narrator	colourful	1
-23	156	u23-p156-s080	narrator	AmE colorful)	1
+23	156	u23-p156-s080	narrator	colorful	1
 23	156	u23-p156-s020	narrator	each	1
 23	156	u23-p156-s022	narrator	comfortable	1
 23	156	u23-p156-s023	narrator	each other	1
@@ -6739,7 +6738,7 @@ unit	page	id	speaker	text	rects
 23	156	u23-p156-s045	narrator	event	1
 23	156	u23-p156-s046	narrator	date	1
 23	156	u23-p156-s047	narrator	everyone	1
-23	156	u23-p156-s076	narrator	everybody)	1
+23	156	u23-p156-s076	narrator	everybody	1
 23	156	u23-p156-s048	narrator	deal	1
 23	156	u23-p156-s049	narrator	decorate	1
 23	156	u23-p156-s050	narrator	example	1
@@ -6799,7 +6798,7 @@ unit	page	id	speaker	text	rects
 23	157	u23-p157-s033	narrator	interested	1
 23	157	u23-p157-s034	narrator	gentleman	1
 23	157	u23-p157-s070	narrator	Wordlist	1
-23	157	u23-p157-s068	narrator	gentlemen)	1
+23	157	u23-p157-s068	narrator	gentlemen	1
 23	157	u23-p157-s094	narrator	be interested in	1
 23	157	u23-p157-s095	narrator	into	1
 23	157	u23-p157-s038	narrator	geography	1
@@ -6817,7 +6816,7 @@ unit	page	id	speaker	text	rects
 23	157	u23-p157-s047	narrator	greet	1
 23	157	u23-p157-s048	narrator	join	1
 23	157	u23-p157-s050	narrator	grey	1
-23	157	u23-p157-s110	narrator	AmE gray)	1
+23	157	u23-p157-s110	narrator	gray	1
 23	157	u23-p157-s052	narrator	just	1
 23	157	u23-p157-s054	narrator	group	1
 23	157	u23-p157-s055	narrator	grow	1
@@ -6914,9 +6913,9 @@ unit	page	id	speaker	text	rects
 23	159	u23-p159-s022	narrator	race	1
 23	159	u23-p159-s023	narrator	per cent	1
 23	159	u23-p159-s025	narrator	rainy	1
-23	159	u23-p159-s083	narrator	per cent)	1
+23	159	u23-p159-s083	narrator	per cent	1
 23	159	u23-p159-s026	narrator	ready	1
-23	159	u23-p159-s094	narrator	AmE percent)	1
+23	159	u23-p159-s094	narrator	percent	1
 23	159	u23-p159-s095	narrator	perfect	1
 23	159	u23-p159-s106	narrator	be ready to do sth	1
 23	159	u23-p159-s029	narrator	pick	1
@@ -6949,12 +6948,12 @@ unit	page	id	speaker	text	rects
 23	159	u23-p159-s057	narrator	salt	1
 23	159	u23-p159-s058	narrator	practise	1
 23	159	u23-p159-s060	narrator	same	1
-23	159	u23-p159-s087	narrator	(AmE practice)	1
+23	159	u23-p159-s087	narrator	practice	1
 23	159	u23-p159-s061	narrator	save	1
 23	159	u23-p159-s063	narrator	prepare	1
 23	159	u23-p159-s064	narrator	scarf	1
 23	159	u23-p159-s107	narrator	scarves	1
-23	159	u23-p159-s108	narrator	scarfs)	1
+23	159	u23-p159-s108	narrator	scarfs	1
 23	159	u23-p159-s066	narrator	scientist	1
 23	159	u23-p159-s069	narrator	present	1
 23	159	u23-p159-s070	narrator	score	1
@@ -7015,14 +7014,14 @@ unit	page	id	speaker	text	rects
 23	160	u23-p160-s104	narrator	stand out	1
 23	160	u23-p160-s052	narrator	tooth	1
 23	160	u23-p160-s105	narrator	start	1
-23	160	u23-p160-s117	narrator	teeth)	1
+23	160	u23-p160-s117	narrator	teeth	1
 23	160	u23-p160-s054	narrator	tour	1
 23	160	u23-p160-s057	narrator	stay	1
 23	160	u23-p160-s058	narrator	tradition	1
 23	160	u23-p160-s059	narrator	traditional	1
 23	160	u23-p160-s061	narrator	traveller	1
 23	160	u23-p160-s118	narrator	stay up	1
-23	160	u23-p160-s088	narrator	(AmE traveler)	1
+23	160	u23-p160-s088	narrator	traveler	1
 23	160	u23-p160-s062	narrator	strawberry	1
 23	160	u23-p160-s063	narrator	strike	1
 23	160	u23-p160-s065	narrator	trip	1
@@ -7052,7 +7051,6 @@ unit	page	id	speaker	text	rects
 23	161	u23-p161-s008	narrator	work	1
 23	161	u23-p161-s009	narrator	would	1
 23	161	u23-p161-s010	narrator	video	1
-23	161	u23-p161-s026	narrator	(short form ’d)	1
 23	161	u23-p161-s011	narrator	violin	1
 23	161	u23-p161-s012	narrator	volleyball	1
 23	161	u23-p161-s036	narrator	would like	1
@@ -7063,7 +7061,7 @@ unit	page	id	speaker	text	rects
 23	161	u23-p161-s047	narrator	yen	1
 23	161	u23-p161-s018	narrator	yogurt	1
 23	161	u23-p161-s019	narrator	wedding	1
-23	161	u23-p161-s044	narrator	yoghurt)	1
+23	161	u23-p161-s044	narrator	yoghurt	1
 23	161	u23-p161-s020	narrator	yuan	1
 23	161	u23-p161-s022	narrator	weekday	1
 23	161	u23-p161-s046	narrator	on weekdays	1
