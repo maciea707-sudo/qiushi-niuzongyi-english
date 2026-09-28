@@ -1,5 +1,6 @@
 """Check the textbook index and every referenced static asset."""
 
+import array
 import csv
 import hashlib
 import json
@@ -188,6 +189,16 @@ for number, entries in positions.items():
                   for item in page_items[number]),
               f"Page {number}: missing /{symbol}/ at printed position ({x}, {y})")
 
+# In the crowded ten-column vowel chart on page 130, the last two symbols
+# must be covered at their actual printed positions, not only at the older
+# shifted-left estimate.
+for symbol, y in (("uː", 310), ("ʊə", 375)):
+    check(any(item["text"] == f"/{symbol}/" and any(
+        box["x"] * 1481 / 100 <= 1320 <= (box["x"] + box["w"]) * 1481 / 100
+        and box["y"] * 2096 / 100 <= y <= (box["y"] + box["h"]) * 2096 / 100
+        for box in item["rects"]) for item in page_items[130]),
+        f"Page 130: rightmost /{symbol}/ lies outside its point-reading region")
+
 # The printed heading is a single selectable phrase. Verify its full highlight
 # and that both sounds are present in the recording, including the quiet /v/.
 heading = [item for item in page_items[99] if item["id"] == "u08-p099-s028"]
@@ -210,7 +221,6 @@ if title_audio.is_file():
               f"Page 99: title recording does not contain audible /{symbol}/")
 with wave.open(str(ROOT / symbol_path("v"))) as sound:
     samples = sound.readframes(sound.getnframes())
-    import array
     pcm = array.array("h", samples)
     check(sum(value * value for value in pcm) / len(pcm) > 1500 ** 2,
           "Page 99: /v/ sound is too quiet to hear")
@@ -225,6 +235,10 @@ for symbol in PHONES:
         with wave.open(str(path)) as sound:
             check(sound.getnframes() / sound.getframerate() >= .35,
                   f"Phonetic sound /{symbol}/ too short to hear")
+            if symbol in {"d", "f", "s", "v", "θ"}:
+                pcm = array.array("h", sound.readframes(sound.getnframes()))
+                check(sum(value * value for value in pcm) / len(pcm) > 1400 ** 2,
+                      f"Phonetic sound /{symbol}/ too quiet for appendix point-reading")
 source_hashes = json.loads((ROOT / "data/phoneme-sources.json").read_text())["audioSha256"]
 check(set(source_hashes) == PHONES, "Imported phonetic recording inventory differs")
 for symbol, expected in source_hashes.items():

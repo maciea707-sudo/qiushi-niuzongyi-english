@@ -11,8 +11,10 @@ import collections
 import csv
 import ctypes
 import base64
+import array
 import hashlib
 import json
+import math
 from pathlib import Path
 import re
 import shutil
@@ -100,7 +102,9 @@ def printed_positions():
 
     for row, group in enumerate((VOWELS[:10], VOWELS[10:])):
         for col, symbol in enumerate(group):
-            add(130, symbol, 394 + 94 * col, 285 + 65 * row, 72, 52)
+            # Ten equally spaced symbols span the table's full width. The
+            # earlier 94 px step drifted left and missed the final columns.
+            add(130, symbol, 394 + 100 * col, 285 + 65 * row, 70, 52)
     for row in range(4):
         for col, symbol in enumerate(CONSONANTS[row * 7:(row + 1) * 7]):
             add(130, symbol, 390 + 149 * col, 415 + 66 * row, 76, 52)
@@ -165,18 +169,31 @@ def import_owner_sound_library(source_html):
         assert header in ("data:audio/wav;base64", "data:audio/mpeg;base64")
         target = ROOT / symbol_path(symbol)
         target.parent.mkdir(parents=True, exist_ok=True)
-        # The owner's /v/ recording is very quiet (around -35 dB RMS). Raise
-        # its level for both standalone sounds and sentences that contain it.
-        gain = ["-af", "volume=3.5"] if symbol == "v" else []
         result = subprocess.run(
             ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
              "-f", "wav" if "audio/wav" in header else "mp3", "-i", "pipe:0",
-             *gain, "-ar", "24000", "-ac", "1", "-c:a", "pcm_s16le", str(target)],
+             "-ar", "24000", "-ac", "1", "-c:a", "pcm_s16le", str(target)],
             input=base64.b64decode(data, validate=True), capture_output=True)
         if result.returncode:
             raise RuntimeError(f"Could not decode /{symbol}/: {result.stderr.decode(errors='replace')}")
         with wave.open(str(target)) as sound:
             assert sound.getnframes() / sound.getframerate() > .35, symbol
+            samples = array.array("h", sound.readframes(sound.getnframes()))
+        rms = math.sqrt(sum(sample * sample for sample in samples) / len(samples))
+        peak = max(map(abs, samples))
+        # Fricatives and short consonants on the source site are much quieter
+        # than the vowels. Increase level without changing pitch or timing;
+        # cap the gain to leave headroom and avoid amplifying noise excessively.
+        gain = min(5.5, 1800 / rms, 22000 / peak)
+        if gain > 1.03:
+            raised = target.with_suffix(".raised.wav")
+            result = subprocess.run(
+                ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
+                 "-i", str(target), "-af", f"volume={gain:.6f}",
+                 "-c:a", "pcm_s16le", str(raised)], capture_output=True)
+            if result.returncode:
+                raise RuntimeError(f"Could not adjust /{symbol}/: {result.stderr.decode(errors='replace')}")
+            raised.replace(target)
         output_hashes[symbol] = hashlib.sha256(target.read_bytes()).hexdigest()
     # The textbook's /juː/ is the British pronunciation of the word 'you'.
     # That combination is outside the owner's 48-symbol chart.
@@ -185,7 +202,7 @@ def import_owner_sound_library(source_html):
     output_hashes["juː"] = hashlib.sha256(extra.read_bytes()).hexdigest()
     (ROOT / "data/phoneme-sources.json").write_text(json.dumps({
         "source": SOURCE_URL,
-        "note": "48 source sounds; the quiet /v/ is amplified; /juː/ is the textbook's recorded word you.",
+        "note": "48 source sounds; quieter phonemes have normalized volume; /juː/ is the textbook's recorded word you.",
         "audioSha256": output_hashes,
     }, ensure_ascii=False, indent=2) + "\n")
     return len(mapped)
