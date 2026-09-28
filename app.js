@@ -17,7 +17,7 @@ const speedButtons = [...document.querySelectorAll(".speed-button")];
 const unitTitle = document.getElementById("unitTitle");
 const pageTitle = document.getElementById("pageTitle");
 const toast = document.getElementById("toast");
-const contentRevision = "20260928-phonetics-owner-audio-v2";
+const contentRevision = "20260928-phonetics-title-audio-v3";
 
 const speakerPalette = [
   ["#75419a", "#f5eef9"], ["#d56843", "#fdf0eb"], ["#2878b5", "#eaf4fb"],

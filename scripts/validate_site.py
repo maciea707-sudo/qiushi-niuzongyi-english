@@ -176,7 +176,7 @@ for number, items in page_items.items():
 # Each printed pronunciation symbol must be clickable in its actual location,
 # speak the matching sound, and highlight only that one printed position.
 positions = printed_positions()
-check(sum(len(entries) for entries in positions.values()) == 221, "Phonetic spot count changed")
+check(sum(len(entries) for entries in positions.values()) == 219, "Phonetic spot count changed")
 for number, entries in positions.items():
     for symbol, x, y, w, h in entries:
         cx, cy = (x + w / 2) / 1481 * 100, (y + h / 2) / 2096 * 100
@@ -187,6 +187,33 @@ for number, entries in positions.items():
                       for box in item["rects"])
                   for item in page_items[number]),
               f"Page {number}: missing /{symbol}/ at printed position ({x}, {y})")
+
+# The printed heading is a single selectable phrase. Verify its full highlight
+# and that both sounds are present in the recording, including the quiet /v/.
+heading = [item for item in page_items[99] if item["id"] == "u08-p099-s028"]
+check(len(heading) == 1 and heading[0]["text"] == "/w/ and /v/" and
+      len(heading[0]["rects"]) == 1 and
+      heading[0]["rects"][0]["x"] < 12.1 and
+      heading[0]["rects"][0]["x"] + heading[0]["rects"][0]["w"] > 28.5,
+      "Page 99: title /w/ and /v/ must be one full-width card")
+check(not any(item["text"] in ("/w/", "/v/") and
+              item["rects"][0]["y"] < 16 for item in page_items[99]),
+      "Page 99: title sound split into overlapping cards")
+title_audio = ROOT / "assets/audio/u08/u08-p099-s028.wav"
+if title_audio.is_file():
+    with wave.open(str(title_audio)) as sound:
+        title_samples = sound.readframes(sound.getnframes())
+    for symbol in ("w", "v"):
+        with wave.open(str(ROOT / symbol_path(symbol))) as sound:
+            phoneme_samples = sound.readframes(sound.getnframes())
+        check(phoneme_samples in title_samples,
+              f"Page 99: title recording does not contain audible /{symbol}/")
+with wave.open(str(ROOT / symbol_path("v"))) as sound:
+    samples = sound.readframes(sound.getnframes())
+    import array
+    pcm = array.array("h", samples)
+    check(sum(value * value for value in pcm) / len(pcm) > 1500 ** 2,
+          "Page 99: /v/ sound is too quiet to hear")
 for number in range(149, 164):
     check(not any(item["id"].endswith(tuple(f"s{i:03}" for i in range(200, 300)))
                   and item["voice"].endswith("单独音标") for item in page_items[number]),

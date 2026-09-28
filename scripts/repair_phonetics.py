@@ -92,8 +92,9 @@ def printed_positions():
         for symbol, x in cells:
             add(87, symbol, x, y, 45 if len(symbol) == 1 else 50, 41)
     # On this page the sound symbols are also embedded in two explanatory sentences.
-    for symbol, x, y, width in [("w", 177, 275, 69), ("v", 355, 275, 69),
-                                ("w", 482, 358, 44), ("v", 482, 560, 44),
+    # The heading "/w/ and /v/" is one title, so its two sounds belong to
+    # the title card instead of becoming separate, overlapping hotspots.
+    for symbol, x, y, width in [("w", 482, 358, 44), ("v", 482, 560, 44),
                                 ("w", 449, 829, 49), ("v", 559, 829, 49)]:
         add(99, symbol, x, y, width, 48)
 
@@ -109,7 +110,7 @@ def printed_positions():
         add(130, symbol, 139, 783 + 55.4 * (row + (row >= 8)), 75, 44)
     for row, symbol in enumerate(CONSONANTS):
         add(131, symbol, 116, 230 + 55.4 * row, 84, 43)
-    assert sum(len(rows) for rows in spots.values()) == 221
+    assert sum(len(rows) for rows in spots.values()) == 219
     return spots
 
 
@@ -164,10 +165,13 @@ def import_owner_sound_library(source_html):
         assert header in ("data:audio/wav;base64", "data:audio/mpeg;base64")
         target = ROOT / symbol_path(symbol)
         target.parent.mkdir(parents=True, exist_ok=True)
+        # The owner's /v/ recording is very quiet (around -35 dB RMS). Raise
+        # its level for both standalone sounds and sentences that contain it.
+        gain = ["-af", "volume=3.5"] if symbol == "v" else []
         result = subprocess.run(
             ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
              "-f", "wav" if "audio/wav" in header else "mp3", "-i", "pipe:0",
-             "-ar", "24000", "-ac", "1", "-c:a", "pcm_s16le", str(target)],
+             *gain, "-ar", "24000", "-ac", "1", "-c:a", "pcm_s16le", str(target)],
             input=base64.b64decode(data, validate=True), capture_output=True)
         if result.returncode:
             raise RuntimeError(f"Could not decode /{symbol}/: {result.stderr.decode(errors='replace')}")
@@ -181,7 +185,7 @@ def import_owner_sound_library(source_html):
     output_hashes["juː"] = hashlib.sha256(extra.read_bytes()).hexdigest()
     (ROOT / "data/phoneme-sources.json").write_text(json.dumps({
         "source": SOURCE_URL,
-        "note": "48 source sounds; /juː/ is the textbook's recorded word you.",
+        "note": "48 source sounds; the quiet /v/ is amplified; /juː/ is the textbook's recorded word you.",
         "audioSha256": output_hashes,
     }, ensure_ascii=False, indent=2) + "\n")
     return len(mapped)
@@ -212,6 +216,14 @@ def main(source_path=None):
     units = {unit["id"]: json.loads((ROOT / f"data/unit-{unit['id']}.json").read_text())
              for unit in manifest["units"]}
     pages = {page["page"]: (unit, page) for unit in units.values() for page in unit["pages"]}
+    heading = next(card for card in pages[99][1]["sentences"]
+                   if card["id"] == "u08-p099-s028")
+    heading.update({
+        "text": "/w/ and /v/",
+        "rects": [{"x": 11.9514, "y": 12.6224, "w": 16.678, "h": 2.7879}],
+        "ipa": "/w/ ænd /v/",
+        "meaning": "音标 /w/ 和 /v/",
+    })
     # Idempotent: replace only the cards created by this script.
     for unit in units.values():
         for page in unit["pages"]:

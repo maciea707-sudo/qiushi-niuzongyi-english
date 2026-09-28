@@ -1,6 +1,6 @@
 {
   "source": "https://maciea707-sudo.github.io/english-phonetics-for-kids/",
-  "note": "48 source sounds; /juː/ is the textbook's recorded word you.",
+  "note": "48 source sounds; the quiet /v/ is amplified; /juː/ is the textbook's recorded word you.",
   "audioSha256": {
     "ɑː": "0cda6484fe657787fabb36e8c421939c5b9f9d23a862edde9412c6d567af9c23",
     "ɔː": "068dcd61a71a4d417daf352ae6eeb01f2df4d25c28396bda06a7d6108fd594ca",
@@ -32,7 +32,7 @@
     "b": "eba3ea2e76982edbc25bea622a71a73bfcfcd250a4194c4e284d4a44bb07722c",
     "d": "e94b47c6abd82b0e2ac4ab3069c99084903993d2571574f5f4ead7138ea6a106",
     "g": "cd170be031be6fb0130f9f134ef59f50ebb19895edae5b4b7592ffe4cd2e2338",
-    "v": "4e6ccba0183dd457524f59880d4f6a445b0b7c0cad6ec078aa3742f0affb5195",
+    "v": "32db0fbc79d4af53d2214b7394b1e85f377c10ea9416544ebae72d04a4060258",
     "ð": "c648f9ef35ff452e5c7fe34b3f478dba668b66c6d9898154264fbbdc978875ee",
     "z": "a036ff3acec1b524c0bfcbf269d8e6ad6cd4b5332000da2a4d037d1ff22580aa",
     "ʒ": "6fbd620938b61f524ae204c2f347682b65b7bf3d0c2168b6520c2164be76273a",
